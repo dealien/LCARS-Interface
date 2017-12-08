@@ -1,0 +1,10 @@
+SHIPS: Hunter, U.S.S.
+CLASS: Nova
+Registry: NCC-79105
+
+“…To strive, to seek, to find, and not to yield,” Alfred Tennyson
+
+A Starfleet starship assigned to scientific exploration. Commissioned on stardate 50512.5 from the San Francisco Fleet Yards, Skywalker Division.
+
+Reference:	
+Information provided by:

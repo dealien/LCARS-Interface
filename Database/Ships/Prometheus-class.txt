@@ -1,0 +1,16 @@
+CLASS: Prometheus
+TYPE: Heavy cruiser
+
+Experimental vessel featuring four warp nacelles and three separate hull sections. Each section is equipped with weapons and drive systems making each effective warships if necessary by quickly outnumbering an opposing target. Primary battle systems include regenerative shielding, ablative hull armor, and multi-vector assault mode. While the ablative armor exists on the prototype, it is costly and hard to mass produce and may either limit the number of units of this class produced, or may not be featured on all versions. It also featured a new long-term medical hologram program and was equipped with holographic projectors on numerous sections of the starship, including the bridge, allowing the program to be used outside of sickbay.
+The prototype vessel was taken over by Romulan spies in an effort to learn its secrets. The ship's Long Term Medical Hologram, assisted by the Emergency Medical Hologram from the U.S.S. Voyager and his mobile emitter, retook control of the ship from the Romulans and returned it to Federation custody.
+
+SHIPS OF THIS LINE:
+U.S.S. Prometheus, NX-59650
+
+Reference:
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Star Trek in Sound and Vision, www.stinsv.com, @2002 Dave & Richard
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+
+

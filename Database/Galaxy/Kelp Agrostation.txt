@@ -1,0 +1,14 @@
+STATION: Kelp Agrostation
+STATE: Pacific Ocean
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Agricultural Station for the production of industrial grade kelp which was reprocessed into food.  Kelp was a major food source on Earth in the mid to late 21st century. The agrostation that Yoshi Nakamura and Tatya Bilash worked on was located in Earth’s Pacific Ocean, North by Northwest of Easter Island. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

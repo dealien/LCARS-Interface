@@ -1,0 +1,12 @@
+SHIPS: Wellington, U.S.S.
+CLASS: Niagara
+REGISTRY: NCC-28473
+
+Starship whose computers were upgraded by Bynar pair One Zero and Zero One just before Enterprise arrived at Starbase 74, it was also the ship Ensign Ro Laren was aboard during the incident at Garon II that got her court-martialed. This starship was also requested to provide sensor data, of which it detected nothing unusual, after a failed warp field bubble experiment performed by Acting Ensign Wesley Crusher.
+In an alternate reality experienced by Dr. Beverly Crusher, as a result of her son's warp field bubble experiment, it was the only Starfleet ship within the same sector as the U.S.S. Enterprise-D while returning to Starbase 133 from its course to Durenia IV. 
+
+Reference: 11001001, Remember Me, Ensign Ro
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

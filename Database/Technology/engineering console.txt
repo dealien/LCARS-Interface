@@ -1,0 +1,8 @@
+TECHNOLOGY: engineering console
+
+The bridge computer station of Constitution-class starships responsible for the monitoring and adjustment of engineering facilities throughout the starship. This console could remote control most of the ship's functions, or could send messages to the departments where crew worked to carry out the orders given to them by the starship commander via the bridge officer. Chief Engineer Montgomery Scott sat at this station when he served on the bridge, but usually dedicated the position to a crew member so that he could work in the engineering room. Similar consoles are available on nearly every starship.
+
+Reference: The Cage, et al original episodes
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph
+

@@ -1,0 +1,11 @@
+TECHNOLOGY: positronics
+
+A type of computer process more advanced than duotronics and multitronics. It was first postulated by Isaac Asimov in the twentieth century and would use positron decay as the basis of an advanced computer neural system. Thought to be impossible to construct, the twenty-fourth century scientist Dr. Noonien Soong proved the devices could be practical by using them in his androids Lore, Data, and B4. In 2366, Lieutenant Commander Data used new submicron matrix transfer techniques to create a new positronic brain that he used to construct his android daughter Lal, but the new design eventually malfunctioned and failed. 
+
+Reference: Datalore, The Offspring, Nemesis
+Although positronic computing remains purely hypothetical, positrons do exist. They are suatomic particles virtually identical to normal electrons, but with opposite electromagnetic properties. An electron ahs a negative charge, and a positron has a positive charge. Positrons were first known particles of actual antimatter to be observed in the laboratory.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclpedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

@@ -1,0 +1,7 @@
+WEAPONS: Imod
+
+A heavy duty weapon used by tactical forces.
+
+Reference: Elite Forces
+Information provided by:
+Elite Forces, www.activision.com, @2002 Activision

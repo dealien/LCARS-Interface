@@ -1,0 +1,55 @@
+CLASS: Stellarford
+TYPE: transport, luxury liner
+
+The most luxurious star-liner ever conceived, the U.N.S.S. King Charles set a standard of opulence and comfort still unsurpassed. It had double the passenger capacity of previous declaration-class space-liners, and its much greater range opened up the galaxy to all peoples. Catering especially to the burgeoning tourist industry, these Stellarford series ships made excursions to such galactic wonders as the Jewel Stars.
+
+Notable ships of this line:
+U.N.S.S. Stellerford
+U.N.S.S. King Charles
+
+Commissioned: 2144	Decommissioned: 2192
+
+DIMENSIONS:
+Length:	264 meters
+Beam:		105.6 meters
+Draught:	96.8 meters
+Weight:	34 million kilograms
+Living Dirigible
+Length:	220 meters
+Beam:		65.1 meters
+Draught:	105.6 meters
+Engine Section
+Length:	60 meters
+Beam:		28.2 meters
+Draught:	52.8 meters
+Forward Antenna
+Length:	56.3 meters
+
+ACCOMODATIONS:
+Officers:		8 (captain, lieutenant, science, engineer, navigator, communicator, recreation officer, cruise director
+Medical Staff:	4
+Deck Supervisors:	12
+Crewmen:		176
+Passengers:		1800
+First, second, and excursion class staterooms
+2 gymnasiums (one 0G)
+10 dining rooms
+5 theaters
+2 auditoriums
+12 nightclubs
+4 stellar observatories
+
+PROPULSION:
+Advanced second generation warp drive
+Range:	1,500 light years
+Velocity:	Warp 3.5 (42.9c)
+Flank stabilizers
+
+COMPUTER SYSTEMS:
+Starbase-triangulated warp celestial guidance
+subspace radio communications
+
+Reference: Spaceflight Chronology
+Some references were changed to indicate that these ships were part of the U.E.S.P.A. and not the UFP since canon sources indicate that the Federation was founded after the invention of these ships.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

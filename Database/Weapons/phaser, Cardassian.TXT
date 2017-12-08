@@ -1,0 +1,17 @@
+WEAPONS: Phaser- Cardassian
+
+Phased directed energy weapons in use by the Cardassian military and Bajoran soldiers. Many of the units acquired by Bajorans were accidentally left or in non-functioning order after te withdrawl from the occupation of Bajor in 2369.
+The pistol and rifle units issued to soldiers of the Cardassian Union operate much as Bajoran phaser do, relying on a set of tightened focusing beams to carry the total weapon discharge. The emitter srystal is reinforced in a rodinium collar and is held by a split waveguide which performs the beam width and intensity adjustments commanded through the weapon controls. Aft of the emitter are the accelerator, beam generator, and power cell. The energy contained in the isotolinium ampule is rated at 3.2 x 10^7 megajoules in the pistol and 9.8 x 10^7 megajoules with added cells in the rifle. The only danger inherent in isotolinium for weapons use is that the charged liquid, if released in a single burst, can vaporize an unshielded mass equivalent to four cubic meters of tritanium. No recorded accidental detonations of a Cardassian weapon are present in any Starfleet database. Starfleet analysts continue to test captured specimen and research the reason why no isotolinium-based explosives have ever been introduced into the Bajor theater.
+
+Information provided by:
+Deep Space 9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books
+
+
+
+
+
+
+
+
+
+

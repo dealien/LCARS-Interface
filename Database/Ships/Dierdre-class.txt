@@ -1,0 +1,9 @@
+STATIONS: Diedre-class
+TYPE: drydock
+
+An orbital shipyard capable of major and minor starship mechanical services. These facilities are usually only found in orbit of Homeworld of Federation members and in accompaniment of a full service space station.
+
+Reference:
+Information provided by:
+
+

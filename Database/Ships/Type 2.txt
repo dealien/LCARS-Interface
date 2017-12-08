@@ -1,0 +1,35 @@
+SHUTTLECRAFT: Galileo-class
+TYPE: 2
+MODEL: MK-I
+MISSION: Standard Medium-Range Warp Shuttle
+
+DISPLACEMENT
+Light: 2.71 MT
+Standard: 2.84 MT
+Full: 2.97 MT
+
+DIMENSIONS
+Length: 3.6 m
+Beam: 2.4 m
+Draught: 1.6 m
+
+POWER PLANT
+Engines: 2 PL-7 Mod 1 Dilithium-Energized Antimatter Circumferential Warp Drive Micro-Nacelles
+Reaction Control System: 4 SHC12D Chemical Combustion RCS Thrusters
+
+PERFORMANCE
+Warp 1 for 96 hours; Warp 1.25 for 48 hours; Warp 1.35 for 36 hours*
+* Following old Warp standards.
+
+COMPLEMENT
+Crew: 2 (Pilot and Navigator)
+Passengers: 5 (Standard); 1 (Diplomatic); 8 (Emergency)
+
+ARMAMENT
+None
+
+Reference:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

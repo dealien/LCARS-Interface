@@ -1,0 +1,11 @@
+SHIPS: Carolina, U.S.S.
+CLASS: Daedalus
+REGISTRY: NCC-235
+
+This Federation starship supposedly sent a distress call to the Enterprise in 2267. It was actually a hoax transmission from the Klingons, who faked the distress call in order to keep the Enterprise from the planet Capella IV. 
+
+Reference: Friday's Child 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

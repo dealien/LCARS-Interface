@@ -1,0 +1,61 @@
+CLASS: Verne
+TYPE: cruiser
+
+A dramatic upgrading of warp drive design, the Verne-class vessels were the most popular of the early warp spaceships. Used for both interplanetary and interstellar missions, the Amity not only made First Contact with Vulcan, but was also the ship that carried the stranded Vulcan survivors back to their home world. 
+This ship was named after the novelist Jules Verne that wrote popular books about exploration including "20,000 Leagues Under the Sea."
+
+SHIPS OF THE LINE:
+U.N.S.S. Verne
+U.N.S.S. Amity
+U.N.S.S. Scythe
+
+Commissioned: 2064 	Decommissioned: 2095
+
+DIMENSIONS:
+Length:	236 meters
+Beam:		80.4 meters
+Draught:	50 meters
+Weight:	25 million kilograms
+
+ACCOMODATIONS:
+Officers:	6 (captain, lieutenant, science, engineer, navigator, medical)
+Ensigns:	3
+Crewmen:	103
+
+PROPULSION:
+Engines:	Advanced first generation warp drive
+RANGE:
+Standard:	35 light years
+Maximum:	50 light years
+VELOCITY:
+Cruising:	Warp 2.5 (15.6c)
+Maximum:	Warp 2.7 (19.7c)
+Separated dual-drive warp engines
+Exhaust heat radiator fins
+
+COMPUTER SYSTEMS:
+Independent thought memory scan
+Warp Celestial Guidance navigation
+particle subcarrier radiotelemetry communications
+
+ARMAMENT:
+8 forward lasers
+50 fusion torpedoes
+
+SUPPORT SYSTEMS:
+Life Support:
+Gravity:	.5g ~ 1g
+Atmosphere:	24% O2
+		11% humidity
+Shuttle Craft:
+Length:	22 meters
+Weight:	27.5 tons
+Crewmen:	6
+Performance:	advanced fusion
+
+Reference: Spaceflight Chronology
+The Amity starship was labeled as the vessel that made First Contact with Vulcans, by rescuing a damaged Vulcan ship in space and ferrying the passengers back to their world. The significance of the event and its retelling has been diminished to coincide with canon events established in “First Contact.” Now, it is the first Terran vessel to travel to that planet, not the first to meet the race.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

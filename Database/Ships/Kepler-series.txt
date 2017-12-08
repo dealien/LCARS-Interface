@@ -1,0 +1,19 @@
+PROBE: Kepler-series
+
+With the tragic loss of the U.N.S.S. Kepler in the supernova explosion of Phi Puma, the use of extremely sophisticated unmanned science probes was given a higher priority. In the case of black holes, those voids in space caused by the collapse of giant stars, these automated probes proved expedient, since any object committed to the star-swallowing gravitational field would be inexorably sucked into the hole and likewise “disappear” from our universe. The U.N.S.S. Orpheus was just such a probe, and its readout is the last received before it vanished in the black hole.
+
+Commissioned: 2151
+
+DIMENSIONS:
+Length:	15 meters
+Weight:	180,900 kilograms
+
+PROPULSION:
+Warp-fusion engines
+
+Reference: Spaceflight Chronology
+References to the UFP were changed to those for the U.E.S.P.A. since canon sources have indicated that the Federation was founded after this series went into service.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

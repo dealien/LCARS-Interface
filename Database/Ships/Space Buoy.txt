@@ -1,0 +1,16 @@
+STATIONS: Space Buoy-series
+TYPE: relay station
+
+Commissioned: 2089
+Decommissioned: 2131
+
+DIMENSIONS:
+Length:	28 meters
+Weight:	19 tons
+
+PROPULSION:
+Ion maneuvering thrusters
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

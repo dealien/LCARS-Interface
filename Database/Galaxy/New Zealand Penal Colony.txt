@@ -1,0 +1,15 @@
+STATION: New Zealand Penal Colony
+CITY: Auckland
+STATE: New Zealand
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Federation penal facility on Earth.  Lieutenant Hans Werber was sentenced to serve a short time there instead of a longer time on a high-security asteroid because of Jean-Luc Picard’s intervention with the judge advocate general.    
+
+Reference: Caretaker, Gauntlet
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

@@ -1,0 +1,9 @@
+CHEMISTRY: warp particle
+ 
+"Any of several" particles emitted by an active warp drive. Warp particles can leave a detectable signature behind, even enabling specific vessels to be identified. 
+
+Information provided by: 
+The Continuum, www.startrek.com, @1996 Paramount Pictures
+Daystrom Institute Technical Library, www.ditl.org, @1998 Graham Kennedy 
+
+

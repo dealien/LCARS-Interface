@@ -1,0 +1,101 @@
+CLASS: Constellation
+TYPE: medium cruiser
+
+Type of Federation spacecraft to which Picard's former command, the Stargazer, belonged. Similar in overall size to the Constitution-class ship, the Constellation-class ships were equipped with four warp nacelles and were thus suited for deep-space exploration and defensive patrol duties.
+The prototype was the second starship to bear the name. In 2371 it was sent to bring back the Jem'Hadar teen from Deep Space Nine to Starbase 201. It returned empty handed, as Commander Sisko let the boy escape back home under Odo's care.
+
+SHIPS OF THE LINE: 
+U.S.S. Constellation, NX-1974
+U.S.S. Hathaway, NCC-
+U.S.S. Stargazer, NCC-
+U.S.S. Victory,
+
+DISPLACEMENT
+Light: 208,000 MT
+Standard: 211,500 MT
+Full: 217,000 MT
+Cargo Capacity: 36,500 MT
+
+DIMENSIONS
+Length: 231.81 m
+Beam: 141.73 m
+Draught: 97.72 m
+Number of Decks: 24
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 4 LN-87B Mod 1 Dilithium-Energized Antimatter Linear Warp Drive Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 4 RST Subatomic Unified Energy Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: QASR Particle Beam Maneuvering Thrusters
+Reaction Control System: "Trentis II" Pulsed Laser Reaction Control System
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 8
+
+ACCELERATION
+Rest-Onset Critical Momentum: 6.39 sec
+Onset Critical Momentum-Warp Engage: .57 sec
+Warp 1-Warp 3: .36 sec
+Warp 3-Warp 6: .19 sec
+Warp 6-Warp 8: .24 sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 150
+Time Between Resupply: 5 Years
+Time Between Refit: 25 Years
+
+COMPLEMENT
+Officer Crew: 89
+Enlisted Crew: 241
+Civilian/Families: 0
+Evacuation Capacity: 500
+
+EMBARKED CRAFT
+Total: 2+
+
+NAVIGATION
+System: RAV/ISHAK Warp Celestial Guidance
+
+COMPUTERS
+Type: "Daystrom" Duotronic IV with Multitronic M-9 Supplement
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 1.3 ly
+Medium to Low Resolution Range: 2.35 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 225 km
+Ship to Ground Range: 27,000 - 38,000 km
+Communications Speed: 17.5 Kiloquads/Second
+Subspace Speed: 9.975 Warp
+
+PHASERS
+Ship: 6 banks of 2 each - RIM-15A Independent Twin Mount; 6 banks - RSM-20B Single Mount
+
+PHOTON TORPEDOES
+Tubes: 2 Mk 70 Mod 2 Direct
+Max Torpedo Simultaneous Spread: 2
+
+DEFENSE
+Shields: "Merlin" Primary Force Field and Deflector Control System
+Fire Control: D/SS Defense and Scanning Systems; FSTR/TAC Fleet Strategic/Tactical Data Systems
+
+TRANSPORTERS
+Personnel Transporters: 4
+Emergency Transporters: 2
+Cargo Transporters: 2
+
+Reference: The Battle, The Abandoned 
+Named after the Constitution-class vessel commanded by Commodore Matt Decker that sacrificed itself to destroy the planet killer weapon.
+The first Constellation-class ship seen, Stargazer, was originally planned to be a Constitution-class ship, allowing the visual effects staff to make use of the existing movie Enterprise model. The producers did not make the decision to build a new model for the Stargazer until after the episode was filmed with LeVar Burton calling it a Constitution-class ship. The choice of the name Constellation was based largely on the fact that it could be dubbed over Geordi's line since the two words are so similar.
+Information provided by:
+The Continuum, www.startre.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Next Generation Companion, www.simonsays.com/st, @1995 Pocket Books, Larry Nemecek
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+

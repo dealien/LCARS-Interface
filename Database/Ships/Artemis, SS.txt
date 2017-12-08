@@ -1,0 +1,10 @@
+SHIPS: Artemis, S.S.
+TYPE: Transport
+
+A Federation colony ship launched to Septimus Minor in 2274. The ship sustained guidance system failure, forcing its settlers instead to tame the hostile environment on Tau Cygna V. Federation searches never turned up the survivors until the Sheliak demanded the planet be evacuated per its treaty with the UFP in 2366. 
+
+Reference: The Ensigns of Command 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

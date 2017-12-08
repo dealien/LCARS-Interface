@@ -1,0 +1,34 @@
+SHUTTLECRAFT: Glenn-class
+TYPE: 15 shuttlecraft
+MODEL: MKY-XV
+MISSION: Light Short-Range Sublight Shuttle
+
+DISPLACEMENT
+Light: 0.81 MT
+Standard: 0.86 MT
+Full: 0.92 MT
+
+DIMENSIONS
+Length: 3.6 m
+Beam: 2.4 m
+Draught: 1.6 m
+
+POWER PLANT
+Engines: 2 500 Millicochrane Impulse Drivers
+Reaction Control System: 8 DeFL 657 Hot Gas RCS Thrusters
+Power Supply: 3 Sarium Krellide Storage Cells
+
+PERFORMANCE
+Maximum Delta-v 12,800 m/sec
+
+COMPLEMENT
+Crew: 2 (Pilot and Systems Manager)
+Passengers: None (Standard); 2 (Emergency)
+
+ARMAMENT
+2 Type IV Phaser Emitters
+
+Reference:
+Information provided by:
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

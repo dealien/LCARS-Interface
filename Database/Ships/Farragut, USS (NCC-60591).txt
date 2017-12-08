@@ -1,0 +1,16 @@
+SHIPS: Farragut, U.S.S.
+CLASS: Nebula
+REGISTRY: NCC-60591
+
+The second ship to bear the name.
+
+Timeline:
+2371: It was one of three starships used to transport the crew of the U.S.S. Enterprise-D from Veridian III, after that ship's saucer crash landed there.
+2373: It was destroyed by Klingon forces near the Lembatta cluster after attempting to evacuate colonists on Ajilon Prime.
+
+Reference: Generations, Nor the Battle to the Strong
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

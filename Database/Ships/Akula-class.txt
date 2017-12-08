@@ -1,0 +1,41 @@
+CLASS: Akula
+TYPE: frigate
+
+Life Support:
+Terran Rockwell (Spacecraft Division), Pedersen Spaceport, Earth.
+30 May 2286,  Launched  24 Aug 2287,  Commissioned 3 Mar 2288. 
+75 (7 Officers, 68 Crew)
+Length       Width        Height.
+ 215.5m       108.0m        68.7m
+   78.9m       107.6m        18.4m
+ 119.1m        14.7 m        13.8m
+ 74,500 metric tons standard. (72,500 mt light / 75,750 mt full load)
+Two "Kratos" LN-91 Mod 1 dilithium energized antimatter liner warp drive units.
+1 "Delum" CME-A subatomic unified energy impulse unit.
+2 ASL-5A emergency impulse thrust units.
+QASR Enhanced particle beam maneuvering thrusters.
+"Shilka" Pulsed laser reaction control system.
+Warp 8 standard,  Warp 12 max,  Warp 18.5 battle max.
+Rest-Onset Critical Momentum: 2.27 sec.
+Onset Critical Momentum Warp Engage: 0.93 sec.
+Warp 1 - Warp 4    0.28 sec / Warp 4 - Warp 8  0.19 sec 
+Warp 8 - Warp 12  1.05 sec / Warp 12 - Warp 18.5  2.36 sec 
+2 Earth years standard , 3 years max.
+"Owl Eye" Warp Celestial Guidance.
+"Perim" Duotronic IV; "Okios" Subsystem.
+6 banks of  2 each - JAKA (2) independent twin mount.
+1 bank - JAKA (5) single mount.
+2 banks -Tuch ISC compact single mount.
+2 tubes - Mk 5 "Komati" independent.
+1 tube - Mk 9 "Boris" independent.
+"Merlin II" primary force field and deflector control system. 
+"Zelus" cloaking generation and stasis countermeasure system.
+"Nike" weapon system (enhanced). TAVITAC tactical subsystem.
+"Podi Aschura" deflector spires. "Bia" MDS deflector pod. 
+MCH 1 Modular Gravity & Atmosphere Maintenance Unit.
+ARUSI radiation protection system. "Lenix-B" waste regeneration system.
+
+Information provided by:
+Gilso Star Trek Schematics, Gerard.g@ntlworld.com, @2004
+Gerard Gillian, 
+

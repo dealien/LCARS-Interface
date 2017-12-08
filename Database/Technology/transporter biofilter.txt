@@ -1,0 +1,9 @@
+TECHNOLOGY: transporter biofilter
+
+Component of a transporter that scans and removes disease and virus organisms from incoming individuals. The biofilter is only effective against known organisms that it is programmed to recognize. 
+
+Reference: Unnatural Selection 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

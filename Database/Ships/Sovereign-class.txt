@@ -1,0 +1,133 @@
+CLASS: Sovereign
+TYPE: Heavy cruiser
+
+This class of Federation craft was the most advanced type of starship in 2373. The ships boasted 24 decks and space-time friendly nacelles. One such vessel was the U.S.S. Enterprise-E, commanded by Captain Picard. 
+
+SHIPS OF THIS LINE:
+U.S.S. Sovereign, NX-
+U.S.S. Alexandra, NCC-
+U.S.S. Archangel, NCC-
+U.S.S. Aries, NCC-
+U.S.S. Atlas, NCC-
+U.S.S. Avalon, NCC-
+U.S.S. Avatar, NCC-
+U.S.S. Challenger, NCC-
+U.S.S. Coburn, NCC-
+U.S.S. Destiny, NCC-
+U.S.S. Endurance, NCC-
+U.S.S. Enterprise, NCC-1701-E
+U.S.S. Faithful, NCC-
+U.S.S. Formidable, NCC-
+U.S.S. Hickey, NCC-
+U.S.S. Hope, NCC-
+U.S.S. Horizon, NCC-
+U.S.S. Hyperion, NCC-
+U.S.S. Integrity, NCC-
+U.S.S. Justice, NCC-
+U.S.S. Legacy, NCC-
+U.S.S. Leviathan, NCC-
+U.S.S. Majestic, NCC-
+U.S.S. Midway, NCC-
+U.S.S. Nimitz, NCC-
+U.S.S. Odin, NCC-
+U.S.S. Providence, NCC-
+U.S.S. Rand, NCC-
+U.S.S. Saratoga, NCC-
+U.S.S. Sentinel, NCC-
+U.S.S. Tempest, NCC-
+U.S.S. Tiberius, NCC-
+U.S.S. Yamato, NCC-
+
+DISPLACEMENT
+Light: 994,000 MT
+Standard: 1,205,000 MT
+Full: 1,415,000 MT
+Cargo Capacity: 175,000 MT
+
+DIMENSIONS
+Length: 685.13 m
+Beam: 177.23 m
+Draught: 88.72 m
+Number of Decks: 24
+
+PROPULSION
+Warp Drive: M/ARA Mark II feeding 2 SN-1 Mod 1 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 24 QLII Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.7
+
+ACCELERATION
+Rest-Onset Critical Momentum: 3.17 sec
+Onset Critical Momentum-Warp Engage: .092 sec
+Warp 1-Warp 3: .083 sec
+Warp 3-Warp 6: .071 sec
+Warp 6-Warp 9: .12 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 215
+Enlisted Crew: 625
+Civilians/Families: 0
+Evacuation Capacity: 12,800
+
+EMBARKED CRAFT
+Total: 35
+
+NAVIGATION
+System: "Prediculan" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk III with Bio-Neural Gell Packs
+Crew Interface Software: LCARS 2.5
+Data Transfer Rate: 6,200 Kiloquads/sec.
+Number of Dedicated Modules: 1800
+Storage Capacity/Module: 725,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 7 ly
+Medium to Low Resolution Effective Range: 25 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 800 km
+Ship to Ground Range: 42,000 - 100,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 12 Type XII Phasers: 7.2 MW
+Personal: Type I, II & III Phasers: 0.01MW
+
+PHOTON TORPEDOES
+Tubes: 3 Mk 12 Mod 2 Direct
+Max Torpedo Simultaneous Spread: 12
+
+DEFENSE
+Shields: "Hercules IV" Primary Force Field and Deflector Control System
+Fire Control: "Tyrannis" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 6
+Emergency Transporters: 6
+Cargo Transporters: 8
+
+Reference: Star Trek: First Contact, Insurrection, Battlewagons, Front Lines, Fall Semester, The Breen Berets
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communciation Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson 
+
+
+

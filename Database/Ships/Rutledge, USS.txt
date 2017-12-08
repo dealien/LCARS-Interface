@@ -1,0 +1,10 @@
+SHIPS: Rutledge, U.S.S.
+CLASS: New Orleans
+REGISTRY: NCC-57295
+
+The starship where O'Brien served under Captain Benjamin Maxwell during the Cardassian War. He became the ship's tactical officer after saving 13 men from capture by Cardassians on Setlik III by suddenly figuring out how to work a field transporter. Years later, it was sent with the U.S.S. Tecumseh to evacuate Ajilon Prime against the Klingons during the Arcanis sector crisis, after the U.S.S. Farragut was destroyed. 
+
+Reference: The Wounded, Nor the Battle to the Strong
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

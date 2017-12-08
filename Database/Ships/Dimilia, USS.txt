@@ -1,0 +1,7 @@
+SHIPS: Dimilia, U.S.S.
+CLASS: Intrepid(variant)
+REGISTRY: NCC-87901
+
+Reference: 
+Information provided by:
+

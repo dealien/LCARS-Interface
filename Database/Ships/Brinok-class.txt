@@ -1,0 +1,9 @@
+CLASS: Brinok
+TYPE: 
+
+A Cardassian military vessel used in fleet engagements. These ships are often used to patrol the area around military establishments.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

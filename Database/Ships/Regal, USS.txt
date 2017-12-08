@@ -1,0 +1,10 @@
+SHIPS: U.S.S. Regal
+CLASS: 
+TYPE:
+REGISTRY:
+
+Federation cruiser sent to Deep Space Nine in 2370 to escort the Federation tanker Phoenix, which was carrying Antimatter, to Bajor.  Upon arrival, the ship was attacked by two Klingon birds-of-prey. 
+
+Reference:	Antimatter
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

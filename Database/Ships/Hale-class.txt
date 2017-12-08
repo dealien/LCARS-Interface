@@ -1,0 +1,20 @@
+CLASS: Hale
+TYPE: scout
+
+Commissioned: 2177
+Decommissioned: 2198
+
+DIMENSIONS:
+Length:	120 meters
+Weight:	9,000 tons
+
+ACCOMODATIONS:
+Crewmen:	65
+
+PROPULSION:
+Advanced third generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

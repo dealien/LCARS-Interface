@@ -1,0 +1,8 @@
+STATIONS: McKinley
+TYPE: drydock
+
+A prep and repair station designed to assist starships in Earth orbit. Before being dispatched on its maiden voyage, the U.S.S. Enterprise-D was docked here while it awaited the transfer of its commanding officer, Captain Jean-Luc Picard. On Stardate 44012.3, the Enterprise-D docked here again to undergo a major overhaul and refit following the previous year's incident with the Borg. 
+
+Reference: Family, All Good Things...
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

@@ -1,0 +1,10 @@
+CLASS: Carrier
+TYPE: carrier
+
+This vessel was designed with the same spaceframe as the Galaxy-class with an extended saucer to make the ship considerably longer, and an added module on the front which contains a deflector dish similar to the Defiant-class that can protect the far reaching end of the saucer which was too far from the traditional deflector array of the secondary hull.
+The extra space allows these vessels to carry wings of shuttles, fighters, runabouts, or other craft; considerably more than the traditional heavy cruiser.
+
+Reference: 
+The facts of this ship are conjectural.
+Information provided by:
+

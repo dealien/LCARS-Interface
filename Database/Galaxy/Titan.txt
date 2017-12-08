@@ -1,0 +1,13 @@
+MOON: Titan
+PLANET: Saturn
+SYSTEM: Sol
+SECTOR: Sol 001
+QUADRANT: Alpha
+
+Location of the Synthetic Revolt. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+
+

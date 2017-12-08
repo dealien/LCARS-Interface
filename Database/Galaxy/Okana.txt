@@ -1,0 +1,13 @@
+CITY: Okana
+PLANET: Bajor
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+Location of starship yards on Bajor. Only three hours by shuttle from Deep Space Nine. 
+
+Reference: Time’s Enemy
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

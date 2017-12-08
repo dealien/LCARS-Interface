@@ -1,0 +1,9 @@
+TECHNOLOGY: Parasitic echo relay
+
+A device placed parallel with input circuits for a chain of high explosives that require a fuse code to be triggered. With the relay, the explosives can be detonated without the code since they pick it up from the circuit they've been placed on and then after a variable amount of time passes the code along to the other circuits. As a result, instead of the explosives going off simultaneously, they would go off one at a time. 
+
+Reference: Bloodletter
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

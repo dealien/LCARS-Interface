@@ -1,0 +1,13 @@
+SHUTTLECRAFT:
+TYPE: 1
+MODEL: Shuttlepod
+MISSION: Multi-purpose short range, atmospheric craft
+
+The Enterprise NX-01 featured two shuttlepods, each on capable of landing on a variety of planet surfaces for ship-to-shore missions. 
+The shuttlepod was Captain Archer and crew's primary means of transporting landing parties. The pods could also dock with various starships, should the need arise. While not capable of warp speed, the pods were armed with phase cannons.
+Ensign Mayweather was a novice pilot of the shuttlepod, and Archer employed his services on several missions.
+
+Reference: Broken Bow, Shuttlepod One
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+

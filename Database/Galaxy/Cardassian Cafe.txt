@@ -1,0 +1,11 @@
+LOCATION: Cardassian Cafe
+STATION: Terok Nor (Deep Space Nine)
+SYSTEM: B'hava'el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+Eatery on Terok Nor.  The freezers were taken offline on the Day of Withdrawal, ruining the food. 
+
+Reference: Fall of Terok Nor  
+Information provided by:
+Star Trek Encyclopedia Group, www.stneg.org, @2006 Deb J S

@@ -1,0 +1,9 @@
+SHIPS: naval craft
+
+A type of ship used to traverse large bodies of water on a planet’s surface. These are more common in pre-warp civilizations. Many starships in the United Federation of Planets have been named in honor of famous naval vessels used throughout Earth’s history; including the U.S.S. Enterprise.
+Many different kinds of naval vessels usually exist including those that use wind sails, internal combustion engines, and nuclear power. Some have been made from wood and some from metal.
+
+Reference: all episodes of Star Trek
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

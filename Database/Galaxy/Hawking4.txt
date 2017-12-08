@@ -1,0 +1,11 @@
+PLANET: Hawking IV
+SYSTEM:
+SECTOR:
+QUADRANT:
+
+Planet whose atmospheric data from 2254 to 2269 was analyzed by Pathfinder Seven, who then projected the planet's weather patterns up to 2369. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

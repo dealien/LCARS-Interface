@@ -1,0 +1,9 @@
+TECHNOLOGY: dilithium crystal articulation frame
+
+Component of the warp drive system of a starship that holds the dilithium crystals suspended in the drive's matter/antimatter stream, where the crystals can regulate the matter/antimatter reaction. 
+
+Reference: The Drumhead 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

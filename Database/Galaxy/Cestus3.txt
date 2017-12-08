@@ -1,0 +1,12 @@
+PLANET: Cestus III
+SYSTEM: Cestus
+SECTOR:
+QUADRANT: Beta
+
+Federation colony that was attacked by a Gorn starship in 2267. After intervention by the Metron Consortium a border was negotiated and a treaty was signed. In 2271, the colony was resettled by both humans and Gorn and admitted to the United Federation of Planets.
+
+Reference: Arena, Requiem, Star Charts
+Requiem established that the colony was ceded to the Gorn Hegemony, but several episodes of DS9 contradicted that.
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

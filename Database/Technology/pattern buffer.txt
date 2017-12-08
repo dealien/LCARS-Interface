@@ -1,0 +1,11 @@
+TECHNOLOGY: pattern buffer
+
+Storage area within a transporter where a person's image is held until the transporter's transmission frequency is adjusted to any relative motion between the transporter and the target and the Doppler effect caused by such motion. A critical part of the transporter system, two buffers are in operation simultaneously so that in the event one unit fails, the images of the transport subjects can be moved to the backup buffer. Pattern buffer were multiplexed beginning in 2319 to avoid causing transporter psychosis in transport subjects. 
+In 2369, a quasi-energy microbial life form was discovered in the Igo sector that could live in the matter stream within a pattern buffer. 
+When the U.S.S. Jenolen was in distress in 2295, Captain Montgomery Scott modified a pattern buffer to hold him and crewman Matt Franklin alive in suspension until rescue arrived. When the U.S.S. Enterprise NCC-1701-D found the Jenolen in 2369, Captain Scott was restored alive but Franklin was killed by pattern degradation. 
+
+Reference: Realm of Fear 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

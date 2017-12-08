@@ -1,0 +1,12 @@
+REGION: Darkshade
+SECTOR: 221G
+QUADRANT: Alpha
+
+The most mysterious section of Thallonian space. No ship that has ventured into the area has ever returned. The more scientifically minded believe that it is some sort of gateway- possibly to another time, possibly to another dimension. It is believed by some of the more fanciful that it is the source of all evil.
+
+Reference:
+The books referred to it as a sector of space; but it was contained within an official sector so the word was replaced with section.
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+
+

@@ -1,0 +1,7 @@
+SHIPS: ordmirit
+
+A mining ship discovered by the U.S.S. Voyager operating in the Delta Quadrant.
+
+Reference:
+Information provided by:
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan

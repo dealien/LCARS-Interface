@@ -1,0 +1,15 @@
+SHIPS: Yeager, U.S.S.
+CLASS: Saber
+TYPE: light cruiser
+REGISTERY: NCC-61947
+
+This Federation starship fought the Borg in 2373. It did not survive the Borg cube’s assault.
+ 
+Reference: First Contact 
+Named for test pilot Chuck Yeager, the first human to fly faster than the speed of sound. The mention that the ship was destroyed allows for the fact that the Yeager-class will be seen in war episodes of Deep Space Nine, orbiting the station.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

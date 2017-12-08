@@ -1,0 +1,52 @@
+CLASS: Belknap
+TYPE:
+
+These ships are equipped with Close-In Deflector Shield System, which acts as a backup during encouters with large vessels and provides added protection against attacks from very small craft, which have demonstrated an improved ability to penetrate extended screen defensive systems. The Belknap-class is fitted with the "Hawkeye" Navigational Guidance System, and CS 2518 and 2538-44 are equipped with an enhanced version of this system, supplemented by the NAVTAC guidance suite.
+Belknap-class strike cruisers assigned to TacFleet are equipped with the CGCP/SCDC "B" stasis countermeasure and cloaking system; all other ships are fitted with the less sophisticated "A" variant of this system. CD 2512 is scheduled to be backfitted soon with both CIDSS and the Dataram computer support system to make her more compatible with other Belknap-class ships currently serving TacFleet.
+The entire Belknap-class was contracted with only two shipyards to facilitate design and mass production. A contract for the development and production of 12 ships (including the already built Decatur) was awarded on 17 February 2271 to the Boston Shipyards division of the Cosmadyne Corporation on Earth. A similar contract for 8 ships was awarded on 22 August 2271 to Star Fleet Division’s Cameron Facility on Deneb V. Eight additional strike cruisers were authorized in January 2280. Cosmadyne was awarded a contract on 11 March of that year to produce two of these ships; Starfleet Division was contracted to build the other six on 4 April 2280. Work on the Belknap-class finally ended in July 2284 with each yard having produced 14 vessels.
+Most of these ships are fitted with the UN-64 series warp engines; however, the Raan (CS2519) and Sur Cha (CS2541) were equipped with the "Ikeda" LN-68 series warp units when they were assigned to TacFleet. These engines are specifically designed to provide a faster velocity (approximately warp factor 12.8 for limited durations) while sacrificing the decreased rate of dilithium decay of the LN-64 models. There are presently no plans to retrofit the Matsure (CS2512) with the LN-68 units although she is currently in TacFleet service. Also, it is unlikely that the Esrocin will be upgraded either.
+
+(1) Trentels reaction control system
+(2) RIM-12C phaser banks
+(3) RSL impulse engines
+(4) RSM-14B phaser banks
+(5) QASR maneuvering thrusters
+(6) IN-64 Mod 3 warp drive units (nacelles)
+(7) Mk 7 Mod 1 torpedo tubes
+(8) QIK-28 sensors
+
+Ships of this line:
+U.S.S. Decatur, NCC-2500
+U.S.S. Belknap, NX-2501
+U.S.S. Bradley, NCC-2502
+U.S.S. Khiritas, NCC-2503
+U.S.S. Havesham, NCC-2504
+U.S.S. Sovereign, NCC-2505
+U.S.S. Concord, NCC-2506
+U.S.S. Richard, NCC-2507
+U.S.S. Escahir, NCC-2508
+U.S.S. Jarrett, NCC-2509
+U.S.S. Fahrion, NCC-2510
+U.S.S. Esrocin, NCC-2511
+U.S.S. Matsura, NCC-2512
+U.S.S. Baikaf, NCC-2513
+U.S.S. Haven, NCC-2514
+U.S.S. Biza, NCC-2515
+U.S.S. Mikuma, NCC-2516
+U.S.S. Shangri-La, NCC-2517
+U.S.S. Hai Din, NCC-2518
+U.S.S. Raan, NCC-2519
+U.S.S. Delphin, NCC-2537
+U.S.S. Seneca, NCC-2538
+U.S.S. Ki Rin, NCC-2539
+U.S.S. Cicata, NCC-2540
+U.S.S. Sue Char, NCC-2541
+U.S.S. Mica, NCC-2542
+U.S.S. Aveley, NCC-2543
+U.S.S. Ator, NCC-2544
+
+Reference: 
+Information provided by:
+
+
+

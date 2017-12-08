@@ -1,0 +1,7 @@
+SHIPS: Cardassian battleship
+
+A heavily armed Cardassian military vessel.
+
+Reference: 
+Information provided by:
+

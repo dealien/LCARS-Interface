@@ -1,0 +1,10 @@
+SHIPS: Nautilus, U.S.S.
+CLASS: Miranda
+TYPE: medium cruiser
+TYPE: NCC-31910
+
+This starship was part of 2374's invasion of Cardassian space at the Chin'toka System. 
+ 
+Reference: Tears of the Prophets 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

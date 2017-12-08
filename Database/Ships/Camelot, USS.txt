@@ -1,0 +1,7 @@
+SHIPS: Camelot, U.S.S.
+CLASS: Dreadnought
+
+NCC-1760
+
+Reference: 
+Information provided by:

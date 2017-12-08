@@ -1,0 +1,13 @@
+CLASS: Meteor
+TYPE:
+
+U.S.S. Meteor, NX-
+
+DIMENSIONS:
+LENGTH: 248 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

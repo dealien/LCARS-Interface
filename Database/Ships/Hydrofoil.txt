@@ -1,0 +1,9 @@
+VEHICLE: Hydrofoil
+
+Small water craft powered by an engine powerful enough to cause the craft to move across the top of the water. These vessels had very bad turning radius’ once their speed was engaged.
+Tatya Bilash and Yoshi Nakamura used a hydrofoil in their work on a kelp agrostation. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

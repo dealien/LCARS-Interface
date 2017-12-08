@@ -1,0 +1,15 @@
+SHIPS: Grissom, U.S.S.
+CLASS: Excelsior
+REGISTRY: NCC-59314
+
+The second ship to bear the name, and assigned to the Sigma Erandi system.
+
+Timeline:
+2366: Circa stardate 43872 the ship was ordered to stand by to bring more hytritium from that system to neutralize Beta Agni II's tainted water after half the intended load shuttled aboard the Enterprise was lost. 
+
+Reference: The Most Toys
+While I would often prefer to agree with entires from the encyclopedia instead of the website, since I personally have found the book to be accurate much more often, I chose to use the registry number as designated by Paramount's official source. Since the number was not seen nor mentioned in the show I feel that the website identifies Paramount's choice in the matter. I accept that it is still probably a mistake on behalf of the webmasters and may be changed in a revision of website data.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

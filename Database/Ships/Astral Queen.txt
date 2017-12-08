@@ -1,0 +1,9 @@
+SHIPS: Astral Queen
+TYPE: Transport
+
+Captain Jon Daily commanded this Federation passenger craft in 2266. When the ship didn't make a scheduled stop at Planet Q, the Karidian Company of Players was forced to seek passage on the Enterprise. 
+
+Reference: The Conscience of the King 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

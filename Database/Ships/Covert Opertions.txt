@@ -1,0 +1,8 @@
+STATIONS: Covert operations center
+
+A Romulan research facility developing weaponry for use by their fleet. Noted advancements include tachyon detection, shield piercing transporters, myotronic inhibitor, sensor jammers, and shield inversion beams.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, 2002 Activision
+

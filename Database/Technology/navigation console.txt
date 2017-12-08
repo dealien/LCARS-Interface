@@ -1,0 +1,8 @@
+TECHNOLOGY: navigation console
+
+A bridge station where the navigator plots the course and programs in the direction that the starship is to follow. The navigator maintains access to the library computer to reference star charts, plot for spacial anomalies, and to make course corrections from gravitational forces. This station was later merged into the Conn, or flight controller position on newer starships and the duties were merged with those of the former helm position.
+
+Reference:
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph
+

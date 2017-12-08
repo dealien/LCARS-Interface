@@ -1,0 +1,10 @@
+SHIPS: Princeton, U.S.S.
+CLASS: Niagara
+REGISTRY: NCC-58904
+
+This starship was one of the 39 vessels lost to the Borg at Wolf 359. 
+
+Reference: The Best of Both Worlds
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

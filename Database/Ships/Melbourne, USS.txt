@@ -1,0 +1,13 @@
+SHIPS: Melbourne, U.S.S.
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NCC-62043
+
+A starship among the first of the four in the U.S.S. Saratoga's group at the Battle of Wolf 359 to be locked on by the Borg and put out of commission: the enemy's cutting beam destroyed the port side of its primary hull and was one of 39 vessel casualties there in 2367. It was stationed in 2364 at Starbase 74 and was in range when the Bynars hijacked the Galaxy-class Enterprise, but could not respond due to maintenance adjustments in progress. In late 2366, Commander William Riker was offered its command but declined in favor of remaining as first officer on board the Galaxy-class U.S.S. Enterprise. 
+
+Reference: 11001001, The Best of Both Worlds, Emissary
+The Melbourne was named for the Australian city on Earth. This ship was actually a Nebula-class vessel in the graveyard scene of Wolf 359, and barely glimpsed by the Enterprise-D. When the scene was re-done three years later for "Emissary." A decision was made to instead use the more detailed U.S.S. Excelsior model originally built for The Search for Spock. Both models were given the same Starfleet registry number, but since the Excelsior version was seen fairly clearly on screen, and the Nebula version was not seen well, we now assume that the Melbourne "really" was an Excelsior-class ship.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

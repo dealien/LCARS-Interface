@@ -1,0 +1,7 @@
+CLASS: Merlin
+TYPE: destroyer
+
+A variant of the Oberth-class starship with a stronger deflector shield system.
+
+Reference: 
+Information provided by:

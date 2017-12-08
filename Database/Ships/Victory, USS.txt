@@ -1,0 +1,14 @@
+SHIPS: Victory, U.S.S.
+CLASS: Constellation
+REGISTRY: NCC-9754
+
+2362: This starship was sent to Tarchannen III to investigate the disappearance of 49 Federation personnel. Ensign Geordi La Forge and four others were sent on an away mission to the planet surface. It was later discovered that the away team was subjected to an alien DNA strand that would compel them to return to Tarchannen III five years later and would cause them to morph into one of the planet's unique animals. 
+2365: This ship was to rendezvous with the U.S.S. Enterprise-D at a given coordinate in interstellar space. 
+
+CREW MANIFEST:
+Captain: Zimbata
+
+Reference: Elementary, Dear Data; Identity Crisis
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,13 @@
+CLASS: Andor
+TYPE:
+
+U.S.S. Andor, NX-
+
+DIMENSIONS:
+LENGTH: 135 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

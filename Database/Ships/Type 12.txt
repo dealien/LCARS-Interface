@@ -1,0 +1,38 @@
+SHUTTLECRAFT: Cochrane-class
+TYPE: 12
+MODEL: MKX-IX
+MISSION: Medium/ Long-Range Warp Shuttle
+
+The design style of the sleek-look shuttles also carried about Voyager, for one. Its hull, but not nacelles, according to standard Starfleet practice, is made of a tritanium alloy. Its sensor log memory can hold at least 5 billion gigaquads.
+
+DISPLACEMENT
+Light: 2.84 MT
+Standard: 3.07 MT
+Full: 3.28 MT
+
+DIMENSIONS
+Length: 6.1 m
+Beam: 3.9 m
+Draught: 2.2 m
+
+POWER PLANT
+Engines: 2 2,750 Millicochrane Warp Nacelles
+Reaction Control System: 12 DeFL 3537 Microfusion RCS Thrusters
+
+PERFORMANCE
+Warp 2 for 120 hours; Warp 2.5 for 96 hours
+
+COMPLEMENT
+Crew: 2 (Pilot and Systems Manager)
+Passengers: 4 (Standard); 2 (Diplomatic); 10 (Emergency)
+
+ARMAMENT
+2 Type VI Phaser Emitters
+
+Reference: Threshold
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+

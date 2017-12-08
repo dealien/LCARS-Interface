@@ -1,0 +1,30 @@
+TECHNOLOGY: Picard Maneuver
+
+A tactic devised by Captain Jean-Luc Picard aboard the U.S.S. Stargazer during the Battle of Maxia in 2355. The Stargazer accelerated to warp speed and for an instant appeared to be in two places at once to a distant observer, the opponent vessel. This maneuver, taking advantage of the fact that the opponent vessel was using only light-speed sensors, allowed the Federation starship to fire and damage their enemy. The Picard Maneuver is required study at Starfleet Academy.
+
+Stage 1: Time: 0:00. The Stargazer is approximately 9 million kilometers from the Ferengi ship. At this distance it takes light from the Stargazer about 30 seconds to reach the Marauder. Both ships have little motion with respect to each other.
+
+Stage 2: Time: 0:01 The Stargazer accelerates into warp drive, moving closer to the Ferengi ship.
+
+Stage 3: Time: 0:15 The Stargazer has assumed a new position, closer to the Ferengi ship, in preparation for attack.
+
+Stage 4: Time: 0:20 The Stargazer fires weapons.
+
+Stage 5: Time: 0:31 The battle is over; the Stargazer has destroyed the Ferengi ship.
+
+Alternate view
+Stage 1: Time: 0:00 From the viewpoint of the Ferengi ship the Stargazer is not moving. However, because the Stargazer is some 30 light-seconds away, what the Ferengi sees is actually the image of the Stargazer 30 seconds ago.
+
+Stage 2: Time: 0:01 Because of the 30-second lag, the Ferengi cannot know yet that the Stargazer has moved until those 30 seconds have passed.
+
+Stage 3: Time: 0:15 Again, the Ferengi still has no way of knowing that the Stargazer has moved, because light from the Stargazer's new position has not yet reached the Ferengi ship.
+
+Stage 4: Time: 0:20 Because the new position of the Stargazer is closer than the old position, light from the new Stargazer position reaches the Ferengi ship while life from the old position is still en route. In other words, the Stargazer appears to be in two places at once, thise confusing the Ferengi ship.
+
+Stage 5: Time: 0:31 The light from the Stargazer that left when the ship shifted position finally reached the Ferengi ship. It is now possible for the Ferengi to know what the Stargazer is doing, although it is too late to do anything about it.
+
+Reference: The Battle
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

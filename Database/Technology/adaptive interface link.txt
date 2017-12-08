@@ -1,0 +1,8 @@
+TECHNOLOGY: adaptive interface link
+
+A connection between computer systems of different origins. An adaptive link is necessary when attempting to transfer data or functionality between to disparate types of equipment. In 2369, such a link was used to download data from an alien space probe nicknamed PUP to the computers on station Deep Space Nine. 
+
+Reference: The Forsaken
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

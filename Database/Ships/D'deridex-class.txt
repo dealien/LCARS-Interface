@@ -1,0 +1,57 @@
+CLASS: D'deridex "Warbird"
+TYPE: Heavy Cruiser
+
+Designation for a massive Romulan spacecraft. Considered to be the flagship of the Empirical fleet. These ships, significantly larger than a Galaxy-class starship, are belived to have greater firewpoer, but a slightly lower sustainable warp speed. Starfleet at one time designated these ships as B-Type Warbirds.
+These ships are also equipped with cloaking devices that make them very hard to detect until battle, but the ship must decloak to fire any weapons.
+In 2374 the Romulans began to employ an experimental technology to these ships, a shield inversion beam. This beam drains an enemy's shields directly from the ship and transfers them to te warbird's defense.
+
+SHIPS OF THE LINE:
+R.S.E. Decius
+R.S.E. Devoras
+R.S.E. Haakona
+R.S.E. Khazara
+R.S.E. Makar
+R.S.E. T.Met
+R.S.E. Terix
+
+DISPLACEMENT
+Light: 3,970,000 MT
+Standard: 4,320,000 MT
+Full: 4,740,000 MT
+Cargo Capacity: 675,000 MT
+
+DIMENSIONS
+Length: 1,041.65 m
+Beam: 772.43 m
+Draught: 285.47 m
+Number of Decks: 70
+
+PROPULSION
+Warp Engine Fuel: Artificial Singularity feeding 2 Warp Drive Nacelles
+Impulse Drive: 2
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.6
+
+COMPLEMENT
+Officer Crew: 200
+Enlisted Crew: 700
+PASSENGERS: 1,500
+
+ARMAMENT
+6 disruptors
+2 torpedo launchers capable of plasma and photon weapons
+
+Reference: The Neutral Zone, Tin Man, The Defector, The Die Is Cast, Improbable Cause, Fall Semester (Starfleet Academy et. al)
+The D'deridex-class warbird was designed by Andrew Probert and first seen in "The Neutral Zone."
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2000, 2002 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+
+

@@ -1,0 +1,14 @@
+SHIPS: Reliant, U.S.S.
+CLASS: Miranda
+REGISTRY: NCC-1864
+
+Commanded by Captain Clark Terrell; first officer, Commander Pavel Chekov. Its final mission occurred in 2285, when the Reliant was assigned to the Mutara Sector to find a lifeless planet to serve as a test site for Project Genesis. While surveying planet Ceti Alpha V (mistakenly thought to be Ceti Alpha VI), the ship was commandeered by 20th-Century tyrant Khan Noonien Singh (who was exiled on that planet by the U.S.S. Enterprise 18 years earlier after he was recovered from his ancient sleeper ship). Khan marooned the Reliant crew on the desert planet, except for Terrell and Chekov, whose minds he controlled with the Ceti Eel as he used them in his plot to exact vengeance against Admiral James T. Kirk. Installing his own followers as the ship's crew, Khan took the Reliant to the nearby Regula I Space Laboratory in an attempt to steal the experimental Genesis Device, which led to the summoning of Kirk and the Enterprise to the area. Khan later did acquire the dangerous device. The ensuing battle between Kirk and Khan pitted the Enterprise against the Reliant in the sensor-blinding Mutara Nebula. Once the Enterprise got the upper hand, Khan - in a final, suicidal stand - activated the Genesis Device he had onboard, which annihilated the Reliant but barely missed destroying the Enterprise. 
+During the incident, Captain Terrell died from a self-inflicted phaser shot, but Commander Chekov survived and resumed service on the Enterprise. The former Reliant crew was rescued from Ceti Alpha V by the Enterprise. 
+
+Reference: The Wrath of Khan 
+The Reliant was designed by Mike Minor and Joe Jennings. The model was built at Industrial Light & Magic under the supervision of Jeff Mann.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

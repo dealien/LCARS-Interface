@@ -1,0 +1,10 @@
+SHIPS: S.S. Rosenberg
+CLASS: Seidmann
+TYPE: Transport
+REGISTRY:
+
+Colonizer ship, also called a long-distance mover.  Caught in Ion storm while transporting 51 people (including 27 under the age of 15) to a destination to be colonized.  Captained by Anita Zagaroli.
+
+Reference:    Final Frontier
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

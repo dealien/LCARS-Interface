@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Copernicus
+CLASS: Oberth
+TYPE: Frigate
+REGISTRY: NCC-623
+
+Federation Starship. Dikembe Ulelo served on the ship under the command of Captain Lovejoy before being assigned to the U.S.S. Stargazer. It also served as an Starfleet Academy training ship. An engineer from the Copernicus had told Ensign Andreas Nikolas that replicators were not all alike, and the worst of them were those of Constellation-class deep explorers like the Stargazer.  The Copernicus had twelve power junctions on each deck.
+
+Reference: The Undiscovered Country, Progenitor, Gauntlet
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

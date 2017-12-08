@@ -1,0 +1,8 @@
+TECHNOLOGY: emulator module
+
+Part of the computer systems on Deep Space Nine. The modules allow the computers to access alien computer networks. 
+
+Reference: The Forsaken 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

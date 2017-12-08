@@ -1,0 +1,13 @@
+CLASS: Caesar
+TYPE:
+
+U.S.S. Caesar, NX-
+
+DIMENSIONS:
+LENGTH: 212 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

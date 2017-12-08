@@ -1,0 +1,9 @@
+VEHICLE: Snowmobile
+
+Small gas powered vehicle with runners used for transportation over snow and ice. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+
+

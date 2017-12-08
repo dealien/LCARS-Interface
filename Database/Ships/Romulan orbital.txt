@@ -1,0 +1,9 @@
+STATIONS: Satus-class
+TYPE: Romulan orbital processing facility
+
+An orbital facility using tractor and energy beams to extract precious metals and ores from the planet, then processing the materials for use by the Star Empire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

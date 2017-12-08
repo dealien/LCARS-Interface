@@ -1,0 +1,13 @@
+SHIPS: Fearless, U.S.S.
+CLASS: Excelsior
+REGISTRY: NCC-4598
+
+Starship that was one of the experimental units used by Mr. Kosinski and The Travelor to do warp software upgrades in an effort to improve performance.
+ 
+Timeline:
+2364: Warp software was upgraded.
+
+Reference: Where No One Has Gone Before 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

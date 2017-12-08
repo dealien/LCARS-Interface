@@ -1,0 +1,14 @@
+STATION: Deb'Qua-class
+TYPE: Klingon trading post
+
+A military outpost used for commerce with local traders to acquire needed resources in between normal shipments from Qo'noS. These stations are unarmed and often built within range of a military compound.
+
+STATIONS OF THE LINE:
+Deb'Qua Boq
+Deb'Qua N'Guth
+Deb'Qua Nuq
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

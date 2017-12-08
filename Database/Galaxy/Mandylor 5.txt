@@ -1,0 +1,10 @@
+PLANET: Mandylor V
+SYSTEM: Mandylor
+SECTOR: 221G
+QUADRANT: Alpha
+
+A planet of the Thallonian Empire on which a rebellion against the ruling class was suppressed.
+
+Reference:
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack

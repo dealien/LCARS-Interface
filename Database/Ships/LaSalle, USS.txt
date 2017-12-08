@@ -1,0 +1,10 @@
+SHIPS: LaSalle, U.S.S.
+CLASS: Deneva
+REGISTRY: NCC-6203
+
+Starship whose early report of radiation anomalies in the Gamma Arigulon system in 2368 was later investigated by the Enterprise. 
+
+Reference: Reunion 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

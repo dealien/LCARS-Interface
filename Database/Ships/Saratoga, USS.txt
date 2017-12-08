@@ -1,0 +1,12 @@
+SHIPS: Saratoga, U.S.S.
+CLASS: Miranda
+REGISTRY: NCC-1937
+
+This starship was patrolling the Neutral Zone when it was disabled by the Cetacean probe. 
+
+Reference: The Voyage Home 
+The Saratoga was a re-use of the Reliant model originally built for "The Wrath of Khan." The captain of the Saratoga was played by Madge Sinclair, who was the first woman on Star Trek to portray a starship commander. The Saratoga's science officer was played by Mike Brislane, and the helm officer was played by Nick Ramus.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

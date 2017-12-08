@@ -1,0 +1,13 @@
+STATE: Egypt
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Country located on the African continent of Earth. When the landing party disappeared from M-155 they found themselves in Egypt in the early 21st century. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

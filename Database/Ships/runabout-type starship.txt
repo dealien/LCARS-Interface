@@ -1,0 +1,22 @@
+TYPE: runabout
+
+A generic terminology for the small, warp-capable Federation starships used for short-range missions - actually of the Danube class, first put into service in 2367. With seating for four people, aft-section living accommodations including bunks and food replicators, and a two-person transporter, the runabout was capable of more protracted missions than a standard Federation shuttlecraft or shuttlepod. The mid-section of the runabout was a detachable module, capable of being replaced for different types of missions. An unidentified ship of this class ferried Captain Picard, Lieutenant Commander Data, Geordi and Counselor Troi back to the Starship Enterprise to find it temporally frozen alongside a Romulan warbird on stardate 46682.4. 
+
+SHIPS OF THIS TYPE:
+Danube-class
+Raven-class
+Surak-class
+Sydney-class 
+Yellowstone-class
+
+Reference: Emissary, et al Deep Space 9, Relics, Rascals, Timescape
+Danube-class runabouts were first seen in Emissary, although the U.S.S. Jenolen, a Sydney-class transport seen in "Relics" is now considered to be a runabout as well.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Star Trek Australia, www.startrekaustralia.com, @2002 Anthony Hodges
+Ex Astris Scientia, www.ex-astris-scientia.org, @2002 Bernd Schneider
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

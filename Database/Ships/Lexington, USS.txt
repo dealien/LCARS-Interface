@@ -1,0 +1,13 @@
+SHIPS: Lexington, U.S.S. 
+CLASS: Constitution
+REGISTRY: NCC-1709
+
+Constitution-class Federation starship, registry no. NCC-1709, commanded by Commodore Robert Wesley. 
+Lt. Whatley transferred from the Lexington to the U.S.S. Enterprise a week before the tribble incident at K-7. A few months later it served as the flagship of four vessels involved in the disastrous M-5 wargames, during which 53 crew members were killed.
+
+Reference: The Ultimate Computer, Trials and Tribble-ations
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.startrek.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

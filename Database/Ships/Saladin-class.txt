@@ -1,0 +1,13 @@
+CLASS: Saladin
+TYPE: Scout
+
+These early Starfleet vessels explored Federation space during the early 2200s, and were replaced with an uprated version that used generation-A style warp nacelles.
+
+SHIPS OF THE LINE:
+U.S.S. Saladin, NCC-500
+U.S.S. Xerxes, NCC-
+
+Reference: Starfleet Technical Manual
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph
+

@@ -1,0 +1,9 @@
+PERSONNEL: Piet van Stralen
+Fleet Admiral, software engineer, Starfleet Intelligence
+
+This senior software developer works in the Okuda Labs working on the Library Computer Access & Retrieval System (LCARS). Building on the work started by his predecessor, Michael Okuda, Piet is responsible for making changes to the software to keep it up to date and in tune with various network terminals and their unique configurations.
+
+Reference: LCARS Terminal Forum
+Information provided by:
+LCARS Terminal Forum, www.lcars-terminal.net/forum, @2002 2006 Piet van Stralen
+Memory Alpha, www.geocities.com/memory_alpha_2373, @2000 Kenn Ferguson

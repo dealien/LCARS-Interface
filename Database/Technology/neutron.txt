@@ -1,0 +1,10 @@
+CHEMISTRY: neutron
+ 
+Neutrons are one of the particles which make up atomic nuclei. They have a mass of approximately 1 u, and zero charge. Neutrons not contained within a nucleus are unstable, decaying with a half life of approximately 17 minutes. Isotopes differ from the standard form of an element by having more or less neutrons in their nucleus, altering the mass of the atom but leaving its chemical properties unchanged. In the late 2200's the Klingons produced a prototype Bird of Prey which could fire whilst cloaked; the vessel produced large amounts of neutron radiation, but this was insufficient to render the vessel detectable at anything other than extreme close range.
+Antineutrons have the same mass, spin, and rate of decay as the normal particle. They are sometimes produced in the collisions of antiprotons with protons, and they possess a magnetic moment equal and opposite to that of the neutron. Certain configurations of gravity fields allow antineutrons to pass through whilst stopping antigravitons. 
+
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+
+

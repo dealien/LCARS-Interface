@@ -1,0 +1,10 @@
+CLASS: Wallaby
+TYPE: transport
+
+A pleasurable personnel transport in use by the Antedeans for carrying colonists, military personnel, and other large numbers of citizens. The vessel lacks any science facilities aside from standard sensors and computer recognition programs of standard anomalies and recording. It also lacks any amount of real cargo storage, only able to transport basic luggage. Because of this colonial convoys usually feature Rassel and Wallaby transports in pairs. Overall this ship is the second largest vessel in the native fleet, far surpassing its workhorse traveling partner, the Rassel.
+This ship is typical in its Antedean design except that where the Sharkelon has a science module, the Wallaby sports its engineering section. This continues the make the interior sections of the ship that much more available for passengers.
+
+Reference: Genesis Nebula
+This ship was inspired by the Minbari Flyer of Babylon 5.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

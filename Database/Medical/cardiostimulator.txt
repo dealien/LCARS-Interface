@@ -1,0 +1,8 @@
+MEDICAL: cardiostimulator
+
+Medical instrument which revives victims in cardiac arrest, available both as a hand-held unit and built into the cryo-surgivcal support frame. In 2267, McCoy used it on Ambassador Sarek aboard the U.S.S. Enterprise NCC-1701, allowing him to continue heart surgery on the ambassador. 
+
+Reference: Journey to Babel 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+

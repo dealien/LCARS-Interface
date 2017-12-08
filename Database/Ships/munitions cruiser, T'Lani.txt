@@ -1,0 +1,9 @@
+SHIPS: T`Lani munitions cruiser
+TYPE: medium cruiser
+
+General name for a T'Lani ship at T'Lani III which hosted the team working to destroy the Harvester genetic weapons, captained at the time by a T'Lani named Jakin. It was equipped with transporters, internal security sensors, regular sensors and subspace radio, and the ability to project a broad-band inversion field. The cruiser is capable of more speed and armament than a Runabout; its shields are only slightly damaged by a Runabout's phaser barrage. 
+
+Reference: Armageddon Game 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+

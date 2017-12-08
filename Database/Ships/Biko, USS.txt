@@ -1,0 +1,13 @@
+SHIPS: Biko, U.S.S.
+CLASS: Olympic
+REGISTRY: NCC-50331
+
+Federation supply vessel was set to meet up with the U.S.S. Enterprise-D at the planet Deinonychus VII. 
+
+Reference: A Fistful of Datas 
+Named for Steven Biko, South African civil rights activist, martyred in 1977. The image on the Continuum website pictured an Obert-class ship incorrectly.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

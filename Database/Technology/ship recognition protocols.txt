@@ -1,0 +1,11 @@
+TECHNOLOGY: ship recognition protocols
+
+A protocol set up by the Federation so that starships can easily identify each other. As an organizational tool personnel are trained to follow certain steps to ascertain friend or foe status before entering weapons range. As an equipment tool the protocols are a series of scans and comparisons to create an identity for the new contact. Acquiring the name and the status of the vessel are both important- since Starfleet regulations require fellow starships to acknowledge each other when in range even when technical IDs have been made- to properly understand the intent of the other vessel to prevent mistakes and trickery.
+Protocols include: messages on a hailing frequency, military frequency, commercial frequency, civilian frequency, or unused radio band, the use of transponder codes, light patterns, hull labeling, and other presentations; the comparison between ship image silhouettes based on database records, or of similarities of major hull components; comparison of scan records and database facts of metallurgical analysis, energy emission patterns, life form identification, and other similar factors.
+In most cases space-going vessels publicly broadcast multiple forms of ID in an effort to appear friendly and to avoid tactical situations. In cases on subterfuge the public forms may be deactivated or even forged requiring the confirmation of the additional levels of recognition. Maquis raiders routinely masked their vessels to confuse Cardassian defenses.
+Admiral James T Kirk was caught off guard when he did not follow through with the personnel aspects of the protocols. His crew aboard the U.S.S. Enterprise did not get a return message from the U.S.S. Reliant upon an encounter. Renegade Khan Noonien Singh took advantage of the lowered shields to open fire on the Enterprise- crippling it.
+
+Reference: The Wrath of Khan, Descent, Defiant
+Information provided by;
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

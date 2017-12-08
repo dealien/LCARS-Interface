@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Breedlove
+CLASS: Galaxy
+TYPE: heavy cruiser
+REGISTRY:
+
+Federation starship. In 2371, the Breedlove was directed to Starbase 1 after another U.S.S. Defiant was found frozen in an asteroid. 
+
+Reference: Time’s Enemy  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S 
+

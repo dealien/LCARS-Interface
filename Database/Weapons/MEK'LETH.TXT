@@ -1,0 +1,8 @@
+WEAPONS: Mek'leth
+
+A Klingon sword approximately half as long as the bat'leth. It is equipped with one long and one short blade, and a single grip. Mek'leth fabrication is from baakonite, like the bat'leth, though some units have been successfully made from dikeiferate, which has a density 1.18 times that of baakonite. As in most weapons designed for rapid, highly controlled maneuvers, a critical balance must be maintained between the overall mass required for striking inertia and the ability to move that mass by the person wielding it.
+
+Reference: First Contact
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mire
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

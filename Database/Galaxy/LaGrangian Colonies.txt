@@ -1,0 +1,13 @@
+CITY: LaGrangian Colonies
+PLANET: Pluto
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+A mining expedition from these colonies found the Defiant from the future drifting in Earth's Oort cloud in 2371. 
+
+Reference: Time’s Enemy
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

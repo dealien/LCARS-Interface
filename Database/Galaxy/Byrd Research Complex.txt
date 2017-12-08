@@ -1,0 +1,11 @@
+LOCATION: Byrd Research Complex
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: Sol 001
+QUADRANT: Alpha
+Polar research center located on the inland edge of the Ross Ice Shelf on the Earth Southern continent of Antarctica.  The Complex had been abandoned in the 1990s. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

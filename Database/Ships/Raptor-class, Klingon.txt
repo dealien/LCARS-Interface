@@ -1,0 +1,11 @@
+CLASS: Raptor
+TYPE: scout
+
+Type of Klingon scout ship in use during the 2100s. A Raptor is equipped to carry a crew of a dozen officers and men, and it also features a galley. The hull of a Raptor-class scout ship is comprised of a coherent, molecular alloy, that is reinforced and twice as thick as that of the Enterprise NX-01. 
+In 2151, the Enterprise crew discovered the derelict Raptor, the Somraw. 
+
+Reference: Sleeping Dogs
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

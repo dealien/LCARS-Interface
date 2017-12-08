@@ -1,0 +1,10 @@
+SHIPS: I.K.C. Tr'loth
+CLASS: D7
+TYPE: heavy cruiser
+
+Klingon Starship. Commanded by Dorak. Battled the U.S.S. Enterprise near the Badlands in 2268 while attempting to recapture Commander Teral and data on the Romulan plasma torpedo. 
+
+Reference: Badlands
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+

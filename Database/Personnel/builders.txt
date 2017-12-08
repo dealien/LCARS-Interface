@@ -1,0 +1,7 @@
+PERSONNEL: builders
+
+Name used by the Cravic and Pralor Automated Personnel Units to refer to their creators.
+
+Reference: Prototype
+Information provided by:
+Star Trek Encyclopedia, www.simonsay.com/st, @1997 Pocket Books

@@ -1,0 +1,7 @@
+CLASS: Voodieh
+TYPE: heavy cruiser
+
+A variant of the Negh-'Var-class of starship in use by the Klingon Empire.
+
+Reference: 
+Information provided by:

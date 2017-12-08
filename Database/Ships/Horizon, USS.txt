@@ -1,0 +1,12 @@
+SHIPS: Horizon, U.S.S.
+CLASS: Daedalus
+REGISTRY: NCC-176
+
+One of the first deep-space explorer craft launched by the United Federation of Planets. This ship is noted for its fateful stop on the planet Sigma Iotia III in 2168. The crew accidentally left behind a book entitled Chicago Mobs of the Twenties, which the highly impressionably Iotians used to initiate a new, violent society. 
+The starship was destroyed shortly after its visit to Sigma Iotia III, although no explanation as to the cause has been revealed. Rescue efforts were late to arrive since the distress call sent by the ship used conventional FM radio and did not reach the Federation offices until 2268, one hundred years later.
+
+Reference: A Piece of the Action
+The class and registry designations are conjectural, but a desktop model bearing that name and number has been seen as set decoration in Sisko's office on Deep Space 9.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

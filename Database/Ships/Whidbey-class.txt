@@ -1,0 +1,9 @@
+CLASS: Whidbey
+TYPE: light cruiser
+
+With current conditions, Starfleet’s exploration ships need to be stronger, tougher, and faster. Galaxy, Nebula, and New Orleans classes are very capable of this role, but are expensive to build and maintain. The Whidbey-class starship would produce a relatively strong and able exploration vessel at a low cost. These ships, if approved, would be used to supplement pre-existing heavy exploration vessels.
+The project head for this design was Admiral Thomas Gill, and made the proposal on stardate 52178.9. The vessel measured 75m in height, 300m in length, and 100m in width. The starship would accommodate 550 crewpersons.
+
+Reference: 
+Information provided by:
+

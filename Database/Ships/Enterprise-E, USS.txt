@@ -1,0 +1,16 @@
+SHIPS: Enterprise-E, U.S.S.
+CLASS: Sovereign
+TYPE: heavy cruiser
+REGISTRY: NCC-1701-E
+
+"...TO BOLDLY GO WHERE NO ONE HAS GONE BEFORE"
+Commanded by Jean-Luc Picard since its launch on stardate 49827.5 from the San Francisco Yards over Earth. With 24 decks, it was equipped with the latest in equipment and defenses, including quantum torpedoes. It did not go into full service immediately, even for shakedowns; by stardate 50893.5 the ship had only been in space and fully crewed for nearly a year. Having plunged into a temporal wake near Earth created by invading Borg, it visited the time of Cochrane's pioneering warp drive test and first contact with Vulcans in 2063 to repel the Borg's would-be sabotage. 
+The Enterprise was used more extensively for diplomatic functions during the Dominion War when other resources were tied up. During that time the crew welcomed into the United Federation of Planets new members.
+The Enterprise was taken to the "Briar Patch" in an attempt to safely collect Lieutenant commander Data after he suffered a malfunction. It turned out he had been attacked by Son'a officers while assisting Starfleet in a "duck-blind" project on the Ba'ku planet. While Captain Picard was on the planet assisting the residents against a plot to remove them from their homes, Commander William Riker attempted to contact the Federation Council and Starfleet command when he was attacked by Son'a warships. He used the Enterprise's warp core to seal a subspace tear, and the Bussard collectors to propel large amounts of explosive gas toward the pursuing enemy.
+
+Reference: First Contact, Insurrection
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

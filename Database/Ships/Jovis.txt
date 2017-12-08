@@ -1,0 +1,9 @@
+SHIPS: Jovis
+TYPE: transport
+
+A ship of Zibalian design and privately owned by the unscrupulous trader and collector Kivas Fajo. It is capable of Warp 3 and equipped with at least two cargo bays-at least one of them with force fields and escape pods.
+ 
+Reference: The Most Toys 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Mediterranean
+CLASS: Mediterranean
+TYPE:
+REGISTRY: NX-
+
+Federation Starship. Ensign Joe Caber served on the ship before being assigned to the U.S.S. Stargazer.
+
+Reference: Gauntlet
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

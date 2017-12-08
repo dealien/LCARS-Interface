@@ -1,0 +1,12 @@
+CLASS: Resolute
+TYPE:
+
+U.S.S. Resolute, NX-
+
+DIMENSIONS:
+LENGTH: 363 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

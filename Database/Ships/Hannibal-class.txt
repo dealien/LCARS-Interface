@@ -1,0 +1,13 @@
+CLASS: Hannibal
+TYPE:
+
+U.S.S. Hannibal, NX-
+
+DIMENSIONS:
+LENGTH: 189 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

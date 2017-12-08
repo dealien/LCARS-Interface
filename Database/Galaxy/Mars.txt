@@ -1,0 +1,12 @@
+PLANET: Mars
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Third planet in Earth's solar system.  The only life on Mars is a human colony. 
+
+Reference: By the Book
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

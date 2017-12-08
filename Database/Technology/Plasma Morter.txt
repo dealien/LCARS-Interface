@@ -1,0 +1,9 @@
+WEAPON: Plasma Morter
+
+Close-range weapon that hits shields then releases a huge amount of energy, usually destroying the targeted ship.
+
+Reference: Final Frontier
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

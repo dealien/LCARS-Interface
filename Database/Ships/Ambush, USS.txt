@@ -1,0 +1,9 @@
+SHIPS: U.S.S. Ambush
+CLASS:
+TYPE: destroyer
+REGISTRY:
+
+Reference: Final Frontier
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

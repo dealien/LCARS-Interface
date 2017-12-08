@@ -1,0 +1,18 @@
+SHIPS: U.S.S. Phoenix
+CLASS: Nebula
+TYPE: medium cruiser
+REGISTRY: NCC-65420
+
+"THERE WILL BE AN ANSWER, LET IT BE"
+Federation Starship. Mollie Katz had been assigned to the Phoenix some time before 2333.	
+The starship went on a rampage against Cardassians near Sector 21503 in 2367. Captain Benjamin Maxwell suspected Cardassians of rearming despite a recent peace treaty - until he stood down under pressure for the Enterprise-D and turned the command over to his first officer while returning to Starbase 211 under arrest.
+ 
+Reference: The Wounded, Gauntlet
+The Pheonix was the first appearance of a Nebula-class starship. The starship was presumably named after Zefram Cochrane's historic warp ship that first broke the light-speed barrier in 2063.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

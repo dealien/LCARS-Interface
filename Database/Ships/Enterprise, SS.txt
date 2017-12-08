@@ -1,0 +1,13 @@
+SHIPS: Enterprise, S.S.
+CLASS: Declaration
+TYPE: transport
+
+Early Terran spacecraft. A picture of this vessel could be seen on the refitted Enterprise being paid in honor to many different ships named Enterprise that came before that particular starship.
+The vessel was an Earth/Vulcan design, featuring a main hull similar to that of the Valiant-class ships and featured two radial warp nacelles supported to the ship by a single pylon on the dorsal side of the craft.
+
+Reference: The Motion Picture 
+This ship was pictured on the recreation deck of the refit Enterprise as a vessel previously named Enterprise.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

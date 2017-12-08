@@ -1,0 +1,8 @@
+STATIONS: Transwarp gate
+
+A travel portal constructed at Borg installations to allow ships without their own set of transwarp coils to enter transwarp space. These stations do not have weapons and minimal shielding thus are susceptible to enemy attack. They are rarely found without extensive weapons platforms in nearby proximity.
+The second kind of gate has only been seen once, and was designed to be larger so it could accommodate larger Borg vessels, including fusion Cubes, while the original could not. This new type of station used a different version of transwarp and was able to send ships even faster and farther than the traditional gate and was needed by all ships, including those equipped with transwarp coils.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

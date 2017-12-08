@@ -1,0 +1,12 @@
+CITY: Thal
+PLANET: Thallon
+SYSTEM:
+SECTOR: 221G
+QUADRANT: Alpha
+
+The capital city of the destroyed planet Thallon. The Royal Palace was centered here and served as the government seat for the entire Thallonian Empire.
+
+Reference: The House of Cards
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+

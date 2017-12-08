@@ -1,0 +1,16 @@
+SHIPS: Bozeman, U.S.S.
+CLASS: Soyuz
+TYPE: destroyer
+REGISTRY: NCC-1941
+
+A patrol cutter commanded by Captain Morgan Bateson (a contemporary of Admiral James T. Kirk and Captain Spock). In 2278, three weeks after leaving its home starbase, the Bozeman disappeared near the Typhon Expanse. It re-emerged 90 years later in a near-collision with the U.S.S. Enterprise-D. The Bozeman had been unknowingly stuck in a temporal causality loop similar to the one the Enterprise-D experienced for 17.4 days. In alternate realities, the two ships had actually collided and destroyed each other, an occurrence which repeated again and again in this causality loop, until the Enterprise crew became aware of the anomaly and found a way to avert the disaster and break the loop. 
+After the near-collision, Bateson - unfamiliar with the design of the other ship - hailed the Enterprise to offer assistance. He then beamed aboard to learn from Captain Picard that he and his crew were now in the year 2368. 
+The Bozeman was subsequently recertified for Starfleet service. In 2371, the Bozeman was forced to make a course correction due to gravitational changes caused by the destruction of the Amargosa star. This minor fact helped Picard realize that Dr. Soren's reason for destroying that star was to alter the trajectory of the nexus energy ribbon. 
+In 2373, the Bozeman returned to the Typhon sector to join the Starfleet armada mobilizing against the invading Borg cube heading toward Earth. At one point, the Bozeman and the U.S.S. Defiant were ordered to fall back to "mobile position one." 
+In the anti-time scenario created by the Q Continuum for Picard, the Bozeman was deployed along with 15 other starships to the Neutral Zone to investigate a Romulan military buildup. 
+
+References: Cause and Effect, All Good Things..., Star Trek Generations, Star Trek: First Contact 
+Named for the city of Bozeman, Montana, hometown of "Cause and Effect" writer Brannon Braga, who also co-wrote "All Good Thing...", "Generations," and "First Contact." The registry number was an homage to Steven Spielberg's movie 1941, for which Star Trek modelmaker Greg Jein provided miniatures.
+Information provided by:
+Star Trek Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Star Trek Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

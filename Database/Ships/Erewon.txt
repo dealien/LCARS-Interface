@@ -1,0 +1,9 @@
+CLASS: Erewon
+TYPE: Transport
+ 
+Design style of a personnel transport, often used by private groups for colony settlement. The S.S. Santa Maria, lost in 2360, was of this class. They were about four times bigger than a Runabout. 
+
+Reference: Paradise 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+

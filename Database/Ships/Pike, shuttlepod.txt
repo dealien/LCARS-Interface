@@ -1,0 +1,11 @@
+SHUTTLECRAFT: Pike
+TYPE: 15
+REGISTRY: NCC-1701-D-12
+
+2366: Destroyed when Kivas Fajo detonated it when empty to cover up pilot Data's kidnapping. It was initially believed to have been caused by pilot error, but was later found to be an elaborate plot by Fajo to cover-up the abduction of Data.
+
+Reference: The Most Toys
+Named for retired fleet Captain Christopher Pike, second captain of the original Constitution-class Enterprise.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

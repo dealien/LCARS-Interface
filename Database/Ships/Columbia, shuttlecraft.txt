@@ -1,0 +1,10 @@
+SHUTTLECRAFT: Columbia
+CLASS: Type 2
+REGISTRY: NCC-1701-3
+
+Enterprise shuttlecraft that picked up Klingon survivors after the fight between the Furies and the combined forces of Klingon Border Patrol and the Enterprise NCC-1701. 
+
+Reference: First Strike  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

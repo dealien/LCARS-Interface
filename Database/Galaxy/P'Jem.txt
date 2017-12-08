@@ -1,0 +1,11 @@
+PLANET: P'Jem
+SYSTEM:
+SECTOR:
+QUADRANT: Beta
+
+Location of a Vulcan spy base which was disguised as a monastery.
+
+Reference: The Andorian Incident, Shadows of P’Jem
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

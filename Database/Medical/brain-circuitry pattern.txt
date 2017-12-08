@@ -1,0 +1,8 @@
+MEDICAL: brain-circuitry pattern
+
+Medical diagnostic tool which creates an image capable of mapping the neural activity in the humanoid brain. A BCP can be used as a means of identification as each individual image is unique to that individual. In 2269, Lieutenant Mira Romaine was given such a diagnostic exam during her unwilling interaction with the Zetarians in which it was revealed that her brain wave patterns were changing to match the Zetarian's brain waves. 
+
+Reference: The Lights of Zetar 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+

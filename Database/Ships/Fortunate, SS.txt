@@ -1,0 +1,12 @@
+SHIPS: Fortunate, SS
+CLASS: Y
+TYPE: freighter
+
+This Earth cargo freighter was subject to an attack by Nausicaan pirates, who have been harassing freighters in the Fortunate's sector for years. 
+The Fortunate's captain was injured in the attack, and first officer Matthew Ryan assumed command. 
+The NX-01 Enterprise was sent by Admiral Forrest to respond to an automated distress call, presumably sent from Fortunate. Enterprise intercepted Fortunate and found it badly damaged and not responding to hails. Phlox came aboard to treat the ship's captain, while repair crews upgraded the cargo ship's weapons for future incursions.
+Ryan held captive a Nausicaan and feared Archer would discover his prisoner, and thus uninstall the new weapons. So Ryan fired upon the NX-01 and set course to seek revenge on those that attacked them.
+The Fortunate was later found by Enterprise, just in time to prevent a war between them and the Nausicaans. Archer negotiated a trade - the Fortunate for the captive Nausicaan - to avoid further hostilities.
+Reference: Fortunate Son
+The Continuum, www.startrek.com, @2006 CBS Studios
+

@@ -1,0 +1,12 @@
+PLANET: Eris Alpha III
+SYSTEM: Eris Alpha
+SECTOR:
+QUADRANT:
+
+Planet orbiting Eris Alpha Prime.  Discovered when the Enterprise NX01 monitored a distress call from the planet's moon on January 13, 2152.  Has no atmosphere. 
+
+Reference: What Price Honor?
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

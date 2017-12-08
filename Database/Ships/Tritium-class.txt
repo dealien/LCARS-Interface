@@ -1,0 +1,59 @@
+CLASS: Tritium 
+TYPE: cruiser
+
+The U.N.S.S. Tritium has the dubious distinction of being the worst major ship ever built by the U.E.S.P.A. Insurmountable design flaws surfaced during its validation phase, and though six other Tritium-class ships were constructed in a vain attempt to overcome glaring shortcomings, the Agency finally cut its losses and canceled the series. As a costly reminder to future generations, the Tritium may also be viewed at the Smithsonian Space Museum orbiting Luna.
+This starship did feature many significant design specifications that were featured in newer model craft. This was the first starship to feature the use of integrated tricorders for the staff. The third nacelle design actually proved to be disruptive of the warp fields typically produced by U.E.S.P.A. craft and engineers were unable to account for the disturbing effects. This caused the ship to loose any advantages that the third nacelle was supposed to contribute. Thus, the starship never reached the warp 4 and warp 4.75 thresholds that it was designed to achieve. It topped out at warp 3 instead. Another design blunder that proved to be a learning piece, the flanged radiator nozzles on the aft of each nacelle. Designed to increase heat transfer and dissipation, they also negated their own benefit by adding weight and volume to the craft. Future U.E.S.P.A. and Federation designs did not include such features.
+
+Commissioned: 2148
+Decommissioned: 2155
+
+DIMENSIONS:
+Length:	202 meters
+Beam:		161 meters
+Draught:	118.6 meters
+Weight:	47.6 million kilograms
+Nacelles
+Length:	100 meters
+Diameter:	26 meters
+Pylon:	50 meters
+Exhaust Nozzle
+Diameter:	42.4 meters
+Main Living & Command Area
+Length:	77.7 meters
+Beam:		190.7 meters
+Draught:	70.6 meters
+Shuttle
+Length:	9.25 meters
+Weight:	22,790 kilograms
+
+ACCOMODATIONS:
+Officers:	6 (captain, lieutenant, science, engineer, navigator, communicator)
+Ensigns:	6
+Medical:	3
+Crewmen:	235
+Shuttlecraft
+
+PROPULSION:
+Third generation warp drive
+3 warp nacelles
+Range:	30 light years (predicted 800ly)
+Velocity
+Cruising:	Warp 4 (designed)
+		Warp 3 (actual)
+Maximum:	Warp 4.75 (designed)
+		Warp 3 (actual)
+
+COMPUTER SYSTEMS:
+Starbase-synchronized warp celestial guidance navigation
+subspace radio communication
+
+ARMAMENT:
+6 laser banks
+8 particle beam cannons
+250 fusion torpedoes
+
+Reference: Spaceflight Chronology
+Some references have been changed to indicate that this ship served the U.E.S.P.A. instead of the Federation since canon sources indicate that the UFP was founded after the invention of these starships. These ships have been featured on the cover art of some of the older TOS books.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

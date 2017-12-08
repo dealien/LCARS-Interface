@@ -1,0 +1,13 @@
+STATIONS: Deep Space Station K-7
+CLASS: ARK
+TYPE: colonial
+
+A 22nd-century, civilian Federation outpost, K-7 was located near Sherman's Planet, and also located only one parsec from a nearby Klingon outpost. 
+In 2267, a Federation development project for Sherman's Planet was in jeopardy when approximately 1,771,561 tribbles infested the storage bins of quadrotriticale intended for the project, later found poisoned by Klingon agents.
+
+Reference: The Trouble With Tribbles, More Troubles,, More Tribbles, Trials and Tribble-ations
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

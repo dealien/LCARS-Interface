@@ -1,0 +1,11 @@
+PLANET: Dokaal
+SYSTEM:
+SECTOR:
+QUADRANT:
+
+Planet that was destroyed by seismic activity.
+
+Reference: A Time to Sow
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2007 Deb J S
+

@@ -1,0 +1,8 @@
+TECHNOLOGY: helm console
+
+The bridge station responsible for the drive functions of the starship. The helmsman engaged engines and programmed the speed that the starship would operate. This console was eventually merged into the Conn, or flight controller console when navigation duties were mixed into this position.
+
+Reference:
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph
+

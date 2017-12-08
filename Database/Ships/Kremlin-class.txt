@@ -1,0 +1,13 @@
+CLASS: Kremlin
+TYPE:
+
+SHIPS OF THE LINE:
+U.S.S. Kremlin, NX-
+
+DIMENSIONS:
+LENGTH: 162 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+

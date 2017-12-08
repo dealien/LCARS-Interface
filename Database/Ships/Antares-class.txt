@@ -1,0 +1,17 @@
+CLASS: Antares
+TYPE: transport
+
+A Klingon transport ship that was sold to many other races and trade groups in an effort to add revenue to the Klingon economy. Since the ships were being sold they were not equipped with weapons or extensive defenses so it is up to the individual owners to add these systems if necessary. It has been used by the Corvallan, Talarians, and many others and travel throughout the Alpha and Beta Quadrants.
+It is a small design with a spherical core and surface-launch capabiity. Some under Bajoran registry were destroyed by the Cardassians, thinking they were full of Orta's Bajoran terrorists en route to resettlement on Valo III. These have a maximum speed of half-impulse. 
+
+SHIPS OF THIS LINE:
+S.S. Batris,
+S.S. Xhosa,
+
+Reference: Ensign Ro, Face of the Enemy, Heart of Glory, For the Cause 
+The declaration that this ship is a Klingon design is conjectural but done for the convenience of designating it to someone. Klingons have been seen using these vessels, as well as other races so the same comparison can be made as with the Toron-class; and the explanation is very plausible.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997, Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

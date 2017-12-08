@@ -1,0 +1,7 @@
+STATIONS: Klingon research station
+
+A military installation developing new weapons for use within the fleet. Notable developements include the Ion Cannon, tachyon detection sensor enhancements, anti-gravity mines, and others.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision

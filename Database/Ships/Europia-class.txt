@@ -1,0 +1,8 @@
+CLASS: Europia
+TYPE: heavy cruiser
+
+A variation of the Galaxy-class starship, this features a four nacelle design; placing one above the engineering section and high enough to be placed higher than the saucer, and a nacelle below the engineering decks- these are in additional to the traditional two attached to the side and angled up.
+
+Reference: 
+Information provided by:
+

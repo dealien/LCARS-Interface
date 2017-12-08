@@ -1,0 +1,15 @@
+PLANET: M-155
+SYSTEM: Kapeshet
+SECTOR:
+QUADRANT:
+
+Planetoid designation per standard Murasaki Index annotation. M-155 was dubbed by Gary Mitchell as the disappearing planet because it would appear, then disappear from the Enterprise NCC-1701 sensors.  The planetoid was investigated by a landing party consisting of Kirk, Spock, Gary Mitchell, Lee Kelso and Dr. Elizabeth Dehner.  The landing party disappeared from the planet and found themselves on Earth in the year 2045.  They were accidentally transported there by Parneb.
+Circumference:  16,538 miles.  
+Mass:  4 x 10 to the 21st power metric tons.  
+Mean density:  3702.  Quantitatively 2/3's the size of Earth.  
+It had previously no known orbital bodies.  A Drab greenish-gray world with a tenuous atmosphere, little water, scant vegetation and no evidence of animal life.  
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

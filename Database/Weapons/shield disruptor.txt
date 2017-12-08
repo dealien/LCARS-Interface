@@ -1,0 +1,7 @@
+WEAPONS: shield disruptor
+
+This weapon can be attached to Nebula-class cruisers for use in heavy battle situations and was adapted from the Breen shield dampening system used during the Dominion War. When used it disables the shields of a close group of enemy targets allowing other weapons fire to impact without interference.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2000 Activision

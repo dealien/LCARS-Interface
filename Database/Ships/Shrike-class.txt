@@ -1,0 +1,9 @@
+CLASS: Shrike
+TYPE: scout
+
+This extra long range scout is used by the Tal Shiar for their covert missions. The transporter systems on these ships have been modified to work while a target's shields are raised, allowing them to secretly board alien stations and vessels.
+One such vessel transported the Romulan spy onto a Klingon prison to retrieve the scientist, Dr. Oldan, so that he could resume work on secret Romulan weaponry.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision

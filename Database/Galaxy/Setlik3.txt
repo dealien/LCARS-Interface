@@ -1,0 +1,12 @@
+PLANET: Setlik III
+SYSTEM: Setlik
+SECTOR: 
+QUADRANT: Beta
+
+A Federation colony. In 2333, its administrator was called Haywood.  The head engineer, Moraal Chiidasi, contacted Lieutenant Phigus Simenon when the colony's main power source ceased working reliably.
+
+Reference: Three
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+
+

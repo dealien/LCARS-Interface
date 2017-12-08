@@ -1,0 +1,36 @@
+CLASS: Sydney
+TYPE: runabout
+
+The Sydney-class vessel Jenolen vanished in 2294 carrying Montgomery Scott and was later found by the Enterprise-D on the Dyson Sphere. 
+
+SHIPS OF THE LINE: 
+U.S.S. Sydney, NX-
+U.S.S. Aberdeen, NCC-
+U.S.S. Algiers, NCC-
+U.S.S. Ankara, NCC-
+U.S.S. Barcelona, NCC-
+U.S.S. Beijing, NCC-
+U.S.S. Bonn, NCC-
+U.S.S. Brisbane, NCC-
+U.S.S. Brussels, NCC-
+U.S.S. Coventry, NCC-
+U.S.S. Deneb, NCC-
+U.S.S. Jenolen, NCC-
+U.S.S. Lagos, NCC-
+U.S.S. Los Angeles, NCC-
+U.S.S. Madrid, NCC-
+U.S.S. Nassau, NCC-
+U.S.S. Riyadh, NCC-
+U.S.S. Sofia, NCC-
+U.S.S. Syracuse, NCC-
+U.S.S. Yuma, NCC-
+
+Reference: Relics, Armada
+The Sydney-class model was a modification of a large shuttlecraft originally built for The Undiscovered Country.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise, Okuda, Debbie Mirek
+Armada, www.activision.com, @2000 2002 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+

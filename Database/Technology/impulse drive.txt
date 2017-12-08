@@ -1,0 +1,9 @@
+TECHNOLOGY: impulse drive
+
+Propulsion system used aboard spacecraft for travel at subwarp speeds, employing traditional Newtonian action-reaction thrust physics. Full impulse speed is about one-quarter light speed, sufficient for interplanetary travel. Aboard Federation starships, fusion reactors power the engines using deuterium fuel to create helium plasma. Overload of an impulse engine on the damaged U.S.S Constellation, a Constitution-class starship, was once rated at 97.835 megatons. 
+
+Reference: The Doomsday Machine 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1003 Pocket Books, Michael Okuda, Rick Sternbach

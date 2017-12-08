@@ -1,0 +1,8 @@
+PERSONNEL: LCARS Communications Network
+
+A website displaying a large variety of Star Trek imagery, animations, sound files, and data.
+
+Reference: LCARS Com Net
+Information provided by:
+LCARS Communications Network, www.lcarscom.net, @2002 Sean L. Stevenson
+

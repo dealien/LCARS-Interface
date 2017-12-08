@@ -1,0 +1,15 @@
+STATIONS: 
+TYPE: shipyard
+
+One of several Klingon designs for shipyards capable of building all sizes of ships including heavy cruisers and dreadnoughts.
+TYPE 1:
+TYPE 2:
+TYPE 3: Shipyard- Duj'a'Qach-class
+TYPE 4: Imperial Shipyard- Duj Qach-class
+
+Reference: Star Trek Australia, Armada
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+Armada, www.activision.com, @2000 2002 Activision
+
+

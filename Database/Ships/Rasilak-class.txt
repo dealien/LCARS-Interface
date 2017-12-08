@@ -1,0 +1,8 @@
+CLASS: Rasilak
+TYPE:
+
+A vessel in serive of the Cardassian Union military.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

@@ -1,0 +1,12 @@
+SHIPS: Enterprise
+CLASS: Enterprise
+TYPE: heavy cruiser
+REGISTRY: NX01
+
+The first Earth vessel to be equipped with the warp five engine. Assembled at the Starfleet Space dock.  Commanded by Captain Jonathan Archer on a mission of exploration that began in April 2151.  The ship launched three weeks ahead of schedule so that it could return the stranded Klingon Klaang to Qo’noS.    Enterprise had a number of historic achievements to its name, among them conducting the planet Fazi's first contact with an alien race in June 2151.    Enterprise had three different offensive weapon systems: spatial torpedoes, phase cannons, and plasma charges.  The Enterprise's brig was undergoing reconfiguration in January 2152 as Lieutenant Reed attempted to integrate forcefield technology into its design, necessitating the use of temporary holding facilities for prisoners such as Kostal Goridian. In March 2152, Enterprise's mission was cancelled when one of its shuttlepod appeared to ignite the tetrazine gas within the atmosphere of the Paraagan II, killing 3600 innocent colonists.  It was this, plus Enterprise's actions at other planets including P'Jem and Tandar Prime, that caused the Starfleet Command Council to recall Enterprise to Earth.  Ambassador Soval recommended that Earth wait another ten to twenty years before trying another deep space exploration mission.  Archer was able to convince the Starfleet Command Council and the Vulcan High Command to allow Enterprise to continue with a stirring speech about gazellesThe ship's outer hull is lined with duranium.  After the Xindi attack on Earth in 2153, Enterprise was recalled home.  It arrived on April 24th.  After a refit and upgrade (which included the installation of the new photonic torpedoes,  a Universal Translator update, and a new command center), it was launched on a mission to the Delphic Expanse to attempt to find the Xindi.
+
+Reference: Broken Bow, By the Book, What Price Honor?, Shockwave, The Expanse
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

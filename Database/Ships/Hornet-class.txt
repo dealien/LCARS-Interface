@@ -1,0 +1,13 @@
+CLASS: Hornet
+TYPE: destroyer
+
+A variant of the Defiant-class destroyer developed in preparation for Borg incursions.
+
+SHIPS OF THE LINE:
+U.S.S. Hornet, NX-
+
+Reference: Star Trek Australia
+This starship was created and designed by Cyrille "Tachy" Lefevre.
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+

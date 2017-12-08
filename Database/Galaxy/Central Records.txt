@@ -1,0 +1,13 @@
+STATION: Central Records
+PLANET: Cardassia Prime
+SYSTEM:
+SECTOR:
+QUADRANT: Alpha
+
+This office complex contained the DNA profile of every Cardassian citizen.  During the Dominion War, the governments of the United Federation of Planets and the Cardassian Union established unofficial lines of communications in and out of this facility for the purpose of identifying war dead. 
+
+Reference: Fall of Terok Nor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

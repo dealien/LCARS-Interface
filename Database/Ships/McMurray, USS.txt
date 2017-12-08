@@ -1,0 +1,12 @@
+SHIPS: U.S.S. McMurray
+CLASS: Oberth
+TYPE:
+REGISTRY:
+
+Starfleet Starship that took Kathryn Janeway and other cadets she studied with to Diehr IV. 
+
+Reference: The Chance Factor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

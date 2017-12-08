@@ -1,0 +1,8 @@
+CLASS: Mercury II
+TYPE: light cruiser
+
+A small variant of the Constitution-class starship.
+
+Reference: 
+Information provided by:
+Ex Astris Scientia, www.exastrisscientia.org, Bernd Schneider

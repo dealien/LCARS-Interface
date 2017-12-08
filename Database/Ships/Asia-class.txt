@@ -1,0 +1,13 @@
+CLASS: Asia
+TYPE:
+
+U.S.S. Asia, NX-
+
+DIMENSIONS:
+LENGTH: 225 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

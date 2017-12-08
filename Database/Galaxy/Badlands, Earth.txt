@@ -1,0 +1,12 @@
+REGION: Badlands
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: Sol 001
+QUADRANT: Alpha
+
+Region on Earth in South Dakota known for its distinctive erosional formations. 
+
+Reference: Badlands
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

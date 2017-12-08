@@ -1,0 +1,12 @@
+LOCATION: Ir'Abehr Shield
+PLANET: Bajor
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+Location of the lost city of B’hala. 
+
+Reference: Fall of Terok Nor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

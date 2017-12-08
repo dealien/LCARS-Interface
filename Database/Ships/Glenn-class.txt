@@ -1,0 +1,22 @@
+CLASS: Glenn
+TYPE: transport
+
+Also known as the "Space Bus."
+
+Commissioned: 2052 	Decommissioned: 2073	Expected life:
+
+DIMENSIONS:
+Length: 140 meters
+Weight: 10 million kilograms
+
+ACCOMODATIONS:
+Crewmen: 28
+Passengers: 450
+
+PROPULSION:
+Advanced fusion engines
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

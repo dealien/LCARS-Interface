@@ -1,0 +1,10 @@
+CLASS: Kirov
+TYPE: dreadnought
+
+A variant of the uprated Excelsior-class, this heavy dreadnought was created for those engagements with hostile forces.
+
+SHIPS OF THE LINE:
+U.S.S. Kirov, NX-
+
+Reference: 
+Information provided by:

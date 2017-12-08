@@ -1,0 +1,12 @@
+PLANET: Beta Aurigae VII
+SYSTEM: Beta Aurigae
+SECTOR:
+QUADRANT: 
+CLASS: M
+
+First charted by the Enterprise NX 01 in June 2151, it was likely the homeworld of the Zalkat Union.  Enterprise found several items containing markings consistent with other Zalkatian artifacts, as well as humanoid bone fossils consistent with those at other Zalkatian sites.  One of the artifacts was an intact Malkus Chronicle. 
+
+Reference: Brave and the Bold
+Beta Aurigae is a real star 88 light-years from Earth of spectral type A2V; it is also known as Menkalinan.
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S 

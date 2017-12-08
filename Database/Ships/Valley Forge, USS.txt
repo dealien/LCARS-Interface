@@ -1,0 +1,10 @@
+SHIPS: Valley Forge, U.S.S.
+CLASS: Excelsior
+REGISTRY: NCC-43305
+
+In 2374, the Valley Forge was part of a fleet of ships that invaded the Cardassian-held Chin'toka System. 
+
+Reference: Tears of the Prophets 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+

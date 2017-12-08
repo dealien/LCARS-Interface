@@ -1,0 +1,13 @@
+STATION: Goddard Moon Base
+MOON: Luna
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRNT: Alpha
+
+Location of Tennis finals in 2028.  Melody Sawyer was second seed in the semi-finals.     
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

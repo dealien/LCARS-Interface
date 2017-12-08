@@ -1,0 +1,14 @@
+PROBE: Milky Way-series
+
+An agreement with the local governments allowed the United Nations of Earth to launch members of this series of probe from the planets of Vulcan and Alpha Centauri. Along with those launched from Earth and other locations in the Sol System astronomers and scientists were able to learn about objects from multiple vantage points.
+
+DIMENSIONS:
+Length:	100 meters
+Weight:	8,000 tons
+
+PROPULSION:
+warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

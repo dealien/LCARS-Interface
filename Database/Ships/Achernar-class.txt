@@ -1,0 +1,176 @@
+CLASS: Achernar
+TYPE: Heavy cruiser
+MODEL: MK IX B
+
+A Starfleet vessel in use during the 2200s.
+
+U.S.S. Achernar, NX-1732
+U.S.S. Ahzdar, NCC-1790
+U.S.S. Alam'ak, NCC-1796
+U.S.S. Alferaz, NCC-1781
+U.S.S. Alfr, NCC-1741
+U.S.S. Androcus, NCC-1738
+U.S.S. Annobon, NCC-1752
+U.S.S. Astrad, NCC-1739
+U.S.S. Behr'ak, NCC-1797
+U.S.S. Caspan, NCC-1753
+U.S.S. Czar'ak, NCC-1798
+U.S.S. Elohim, NCC-1792
+U.S.S. Ekinus, NCC-1771
+U.S.S. Esabl, NCC-1779
+U.S.S. Eskiis, NCC-1789
+U.S.S. Galina, NCC-1764
+U.S.S. Ghar, NCC-1786
+U.S.S. Ghondr, NCC-1749
+U.S.S. Hajj, NCC-1782
+U.S.S. Hiemdal, NCC-1793
+U.S.S. Horok, NCC-1748
+U.S.S. Jassan, NCC-1754
+U.S.S. Jenshahn, NCC-1791
+U.S.S. Jupiter, NCC-1734
+U.S.S. Kars, NCC-1769
+U.S.S. Kasimar, NCC-1784
+U.S.S. Kep Salu, NCC-1767
+U.S.S. Kestral, NCC-1766
+U.S.S. Ketoi, NCC-1768
+U.S.S. Maat, NCC-1794
+U.S.S. Mazda, NCC-1778
+U.S.S. Mengen, NCC-1773
+U.S.S. Mirazh, NCC-1788
+U.S.S. Mondoloy, NCC-1740
+U.S.S. Mongo, NCC-1785
+U.S.S. Ndele, NCC-1758
+U.S.S. Oomaru, NCC-1761
+U.S.S. Oblik, NCC-1772
+U.S.S. Pari, NCC-1787
+U.S.S. Paegan, NCC-1755
+U.S.S. Pelione, NCC-1750
+U.S.S. Phardos, NCC-1757
+U.S.S. Pilar, NCC-1746
+U.S.S. Procyon, NCC-1756
+U.S.S. Proxima, NCC-1737
+U.S.S. Qual'at, NCC-1776
+U.S.S. Qizan, NCC-1775
+U.S.S. Quindar, NCC-1736
+U.S.S. Rigil Kentarus, NCC-1735
+U.S.S. Salayna, NCC-1774
+U.S.S. Samaara, NCC-1765
+U.S.S. Shahr, NCC-1745
+U.S.S. Shaandra, NCC-1795
+U.S.S. Sinuji, NCC-1770
+U.S.S. Sirius, NCC-1744
+U.S.S. Sol, NCC-1733
+U.S.S. Tali, NCC-1751
+U.S.S. Tajarhi, NCC-1783
+U.S.S. Temir, NCC-1763
+U.S.S. Thelonii, NCC-1742
+U.S.S. Tholus, NCC-1747
+U.S.S. Tulan, NCC-1777
+U.S.S. Tutakai, NCC-1799
+U.S.S. Xanthii, NCC-1743
+U.S.S. Yaan, NCC-1762
+U.S.S. Zaahm, NCC-1780
+U.S.S. Zindar, NCC-1759
+
+Production Base: San Francisco Orbital Ship Yards
+DISPLACEMENT
+Light:
+Standard: 190,000 MT
+Heavy:
+Cargo Capacity: 
+
+DIMENSIONS
+OVERALL
+Length: 288.6 m
+Beam: 127.1 m
+Draught: 72.6 m
+Number of Decks: 19
+PRIMARY HULL
+Length: 127.1 m
+Beam: 127.1 m
+Draught: 
+SECONDARY HULL
+Length: 103.6 m
+Beam: 34.1 m
+Draught: 34.1 m
+NACELLE
+Length: 153.6 m
+Beam: 17.3 m
+Draught: 17.3 m
+
+PROPULSION
+Warp Drive: M/ARA  Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: 
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: warp 5
+Max Cruising Speed: warp 6
+Max Emergency speed: warp 8
+
+ACCELERATION
+Rest-Onset Critical Momentum: CLASSIFIED
+Onset Critical Momentum-Warp Engage: CLASSIFIED 
+Warp 1-Warp 3: CLASSIFIED
+Warp 3-Warp 6: CLASSIFIED
+Warp 6-Warp 9: CLASSIFIED
+
+DURATION
+Expected Lifetime: 18 years
+Number of Maintaince/Upgrade Layovers: CLASSIFIED
+Time Between Resupply: CLASSIFIED
+Time Between Refit: CLASSIFIED
+
+COMPLEMENT
+Officer Crew: 43
+Enlisted Crew: 387
+Civilians/Families: 0
+Evacuation Capacity: CLASSIFIED
+
+EMBARKED CRAFT
+Total: 2
+
+NAVIGATION
+
+
+COMPUTERS
+Type: 
+Crew Interface Software: 
+Data Transfer Rate: 
+Number of Dedicated Modules: 
+Storage Capacity/Module: 
+
+SENSORS
+High Resolution Long Range Max Effective Range: 
+Medium to Low Resolution Effective Range: 
+
+COMMUNICATIONS
+Intraship Transmissions: 
+Personnel Communicator Range: 
+Ship to Ground Range: 
+Communications Speed: 
+Subspace Speed: 9.9997 Warp
+
+ARMAMENT
+6 Type IV 
+4 Mk 11 Mod 4 Direct photon torpedo tubes
+Max Torpedo Simultaneous Spread: 12
+Typical torpedo storage: CLASSIFIED
+
+DEFENSE
+Shields: 
+Fire Control: 
+
+TRANSPORTERS
+Personnel Transporters: 
+Emergency Transporters: 
+Cargo Transporters: 
+
+The Achernar-class starship is a concept vehicle by Franz Joseph.
+Information provided by:
+Starfleet Technical Manual, @1975 Franz Joseph Designs, Del Rey Books
+
+

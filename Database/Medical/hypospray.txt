@@ -1,0 +1,9 @@
+MEDICAL: hypospray
+
+A medicinal tool for injecting a patient with medicine, sedatives, or other compounds. They use a high powered spray to transfer the compound into the blood stream without the use of a needle, and a far painless than needle based "shots." The compound to be injected is stored in a vial that attaches to the bottom of the tool, and can be switched for different medicine. The back of the tool includes a dosage adjustment.
+These units are standard equipment for all field medical kits and medical centers, and are a required tool for basic first aid training.
+
+Reference: 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

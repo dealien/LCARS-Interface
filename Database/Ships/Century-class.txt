@@ -1,0 +1,20 @@
+CLASS: Century
+TYPE: long range scout
+
+A Starfleet vessel with a small engineering section attached at the rear of the main saucer and equipped with two nacelles; each longer than the entire ship. This vessel design was also unique because it housed dorsal entry “ceiling door” shuttle bay, where ships descended into the bay to land.
+
+Ships of the line:
+U.S.S. Century
+U.S.S. Christopher
+U.S.S. Elizabeth
+U.S.S. Chin-Ha
+U.S.S. Oriskany
+U.S.S. Jacob
+U.S.S. Thomas
+U.S.S. Halsey
+U.S.S. Cherokee
+U.S.S. Templ
+
+Reference: 
+Information provided by:
+

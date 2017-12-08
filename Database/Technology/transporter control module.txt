@@ -1,0 +1,9 @@
+TECHNOLOGY: Transporter control module
+
+A Federation engineering device that is at the heart of the transporter. When Kazon-Nistrim, under the direction of Seska, stole one of these modules, the two were able to adapt transporter technology to a Kazon vessel. The module includes a quantum resonance oscillator. 
+
+Reference: Maneuvers 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

@@ -1,0 +1,9 @@
+SHIPS: Centaur, U.S.S.
+CLASS: Centaur
+
+Captain Charles Reynolds commanded this starship in 2374. The Centaur engaged a Jem'Hadar attack ship, not realizing that the vessel was undertaking a covert mission in Cardassian space. The Jem'Hadar attack ship was actually commanded by Captain Sisko. 
+
+Reference: A Time to Stand 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+

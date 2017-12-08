@@ -1,0 +1,9 @@
+CHEMISTRY: lepton
+
+A class of particles that do not interact by the strong nuclear force. They are electrically neutral or have unit charge, and are fermions. Leptons appear not to have any internal structure. The electron, the muon, the tau, and the three kinds of neutrino are all Leptons. Although all leptons are relatively light, they are not alike. The electron, for example, carries a negative charge, and is stable, meaning it does not decay into other elementary particles; the muon also has a negative charge, but has a mass about 200 times greater than that of an electron and decays into smaller particles. Leptons interact with other particles through the weak force (the force that governs radioactive decay), the electromagnetic force, and the gravitational force. Wormholes can emit Leptons prior to opening or changing position. 
+
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+
+

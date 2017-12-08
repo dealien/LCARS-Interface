@@ -1,0 +1,12 @@
+CLASS: Splendor
+TYPE:
+
+U.S.S. Splendor, NX-
+
+DIMENSIONS:
+LENGTH: 340 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

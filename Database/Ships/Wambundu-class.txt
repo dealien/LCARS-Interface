@@ -1,0 +1,14 @@
+CLASS: Wambundu
+TYPE: light cruiser
+
+A type of Federation starship in use by the Starfleet in the 2300s.
+
+SHIPS OF THE LINE:
+U.S.S. Wambundu, NX-
+U.S.S. Drake, NCC-20381
+U.S.S. Fleming, NCC-
+
+Reference: The Arsenal of Freedom
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

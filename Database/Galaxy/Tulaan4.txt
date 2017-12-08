@@ -1,0 +1,11 @@
+PLANET: Tulaan IV
+SYSTEM: Tulaan
+SECTOR: 221G
+QUADRANT: Alpha
+
+Home to an aggressive religious sect known as the Redeemers, who are missionaries intent on spreading the word of the return of their primary deity, Xant.
+
+Reference:
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+

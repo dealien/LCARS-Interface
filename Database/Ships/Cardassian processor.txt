@@ -1,0 +1,8 @@
+STATIONS: Cardassian processor
+
+An ore processing station for refining dilithium ore extracted from various moons and other sources.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

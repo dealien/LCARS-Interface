@@ -1,0 +1,10 @@
+TYPE: aircraft
+
+A type of atmospheric craft with internal combustion engines used in pre-warp civilizations. The U.S.S. Enterprise encountered one of these when it traveled back in time to Earth. A F-104 fighter jet was launched from one the planet’s governing states to investigate an unknown intruder in its air space. This vessel was too fragile to be held by the ship’s tractor beam.
+Amemlia Earhart and her copilot also piloted a propeller version, even more primitive than the other before she was captured by the Briori.
+The Satarran people used jet propelled and rocket propelled aircraft on their early versions of spacecraft. Even after they devised warp technology they maintained their aircraft-reminiscent designs into their newer vessels.
+
+Reference: Tomorrow Is Yesterday, The 37s, Q Neighbor
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

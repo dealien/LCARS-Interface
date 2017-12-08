@@ -1,0 +1,9 @@
+SHIPS: Yamaguchi, U.S.S.
+CLASS: Ambassador
+REGISTRY: NCC-
+
+A Federation starship that was among the destroyed ships in the Battle of Wolf 359 with the Borg. 
+
+Reference: Emissary
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios, Paramount Pictures

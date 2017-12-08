@@ -1,0 +1,13 @@
+CLASS: Challenger
+TYPE: destroyer
+
+A heavy destroyer in use by Starfleet.
+
+SHIPS OF THE LINE:
+U.S.S. Challenger, NX-
+U.S.S. Kearsarge, NCC-57566
+
+Reference: Firstborn
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

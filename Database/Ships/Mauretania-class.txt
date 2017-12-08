@@ -1,0 +1,13 @@
+CLASS: Mauretania
+TYPE:
+
+U.S.S. Mauretania, NX-
+
+DIMENSIONS:
+LENGTH: 78 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

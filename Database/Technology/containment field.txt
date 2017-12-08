@@ -1,0 +1,9 @@
+TECHNOLOGY: containment field
+
+Forcefield used to isolate hazardous materials, measured by levels of power cohesiveness. Containment fields are routinely used to hold antimatter fuel within its storage pods. The containment fields used in Constitution-class warp drives needed to be phase-locked within three percent in order to avoid instability, but by the time of the Galaxy-class, multiphase containment fields were able to operate considerably above that value.
+Also used in quarantine situations and to isolate dangerous biological materials. Containment fields have also been incorporated into security and safety routines for holding prisoners and in fire suppression systems.
+
+Reference: Relics 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

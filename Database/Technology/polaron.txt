@@ -1,0 +1,9 @@
+CHEMISTRY: polaron
+ 
+Polarons are a particle associated with some forms of scanning and communications systems. They can be used to detect camouflaged vessels, or to scan time streams. The Dominion uses phased polaron weapons, as these are very effective at penetrating shield systems. Modern Federation and allied shield systems have been altered so as to resist phased polaron weapons much more effectively. 
+ 
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+
+

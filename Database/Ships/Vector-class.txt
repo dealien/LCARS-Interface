@@ -1,0 +1,7 @@
+CLASS: Vector
+TYPE: destroyer
+
+The last in a series of variants of the Miranda-class. 
+
+Reference:
+Information provided by:

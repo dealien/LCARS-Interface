@@ -1,0 +1,14 @@
+REGION: Mahaska County
+STATE: Iowa
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Stomping ground of adolescent Kirk.
+
+Reference: Best Destiny
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

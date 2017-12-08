@@ -1,0 +1,9 @@
+CLASS: Wheel
+TYPE: interceptor
+
+One of the many ships used by the Borg Collective.
+
+Reference: Star Trek Australia, Armada
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+Armada, www.activision.com, @2000 2002 Activision

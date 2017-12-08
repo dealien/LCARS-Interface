@@ -1,0 +1,12 @@
+WEAPONS: quantum torpedoes
+
+Dimensions: 1.38 x 0.76 x 0.45 Metres
+Mass: Unknown
+Effective Range: 3.5 million KM
+
+When it was realised the Borg would be heading for the Alpha Quadrant, Starfleet realised it would need to upgrade it's current weapons systems in order to effectively counter the Borg. The Quantum Torpedo was the first of the next generation of shipboard weapons. Using a space time membrane as it's source, when the mebrane is suitably twisted, it creates a new particle, while at the same time releasing massive amounts of energy. The process is similiar to that thought to have caused the "Big-Bang". On this scale, the energy output has a thoretical output of 52 isotons - twice that of a Photon Torpedo. In the recent attempted Borg incursion, the torpedo excelled by helping to destroy the Borg cube and followed up by destroying the Borg escape sphere. The Quantum Torpedos are rapidly being deployed on virtually all starfleet vessels and are playing a prominant role in helping to defeat the Dominion.
+
+Reference:
+Information provided by:
+Deep Space 9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

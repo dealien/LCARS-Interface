@@ -1,0 +1,22 @@
+CLASS: Surak
+TYPE: runabout
+
+Also known as a warp shuttle, it was one of the first ships to be considered a runabout. Built by the Vulcan's before the Starfleet-Vulcan hybrid ships were designed in an attempt to transport Vulcan citizens to long range Federation vessels. These craft were designed to attach to starships and transfer personnel; not to land in a hangar, or to make extensive use of transporters. This also made them very useful for transporting items that could not be "beamed" like hazardous materials and medicines.
+The ship is made in two sections, the passenger section and the detachable drive section. The drive section consists of two warp nacelles and the ship's engineering center. Within it is the matter/anti-matter reaction chamber, the impulse drive and its fusion reactors, and the deuterium fuel tanks and anti-matter storage pods.
+The passenger section is usually arranged with rows of seats for transporting numerous passengers and a cargo hold for holding luggage size containers at the aft. A walkway from the docking port intersects the two cargo holds. Within the pathway is an emergency transporter capable of moving 10 people at a time. The bridge consists of a pilot and co-pilot seated in a small room in front along with necessary facilities like a head, galley center (kitchen only), and flight attendant station.
+Commander Spock used one of these craft to rendezvous with the U.S.S. Enterprise when it was on its way to intercept the V'Ger entity.
+
+Length:     13.8m
+Width:      7.8m
+Height:     3.5m
+Mass:       5.2 Metric Tonnes
+Speed:      Impulse Only
+Crew:       2 Flight crew, up to 6 passengers
+Armament:   3 Phaser turrents
+
+Reference: The Motion Picture
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michal & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

@@ -1,0 +1,18 @@
+SHIPS: Enterprise-A, U.S.S.
+CLASS: Constitution II
+TYPE: heavy cruiser
+REGSITRY: NCC-1701-A
+
+"...TO BOLDLY GO WHERE NO MAN HAS GONE BEFORE"
+The second Federation starship to bear the name U.S.S. Enterprise. 
+Under the command of recently-demoted Captain James Kirk, the ship was launched in 2286 after Kirk and crew saved Earth from an alien probe. 
+The ship was soon called into service to address a hostage incident on Nimbus III in 2287. Later, under some resistance from Kirk but at the urging of Spock, the ship was sent to escort Klingon chancellor Gorkon to a peace conference on Earth. During the mission, Gorkon was assassinated, and the peace talks were called off. Later, the Enterprise crew proved essential to the success of the rescheduled summit at Khitomer. The ship was set for decommissioning following the talks. 
+
+Reference: The Voyage Home, The Final Frontier, The Undiscovered Country
+The Enterpirse-A's exterior was virutally identical to the upgraded original Enterprise first seen in The Motion Picture, although many of the interiors were redesigned for The Final Frontier and Undiscovered Country. It is unconfirmed but rumored that this starship was originally built as the new U.S.S. Yorktown and renamed when assigned to Kirk. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

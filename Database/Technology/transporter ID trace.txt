@@ -1,0 +1,9 @@
+TECHNOLOGY: transporter ID trace
+
+Data maintained by computers in a Federation transporter system that tracks the identity of any subject beamed through the transporter. The trace provides a mechanism to verify whether or not an individual has actually been beamed through a particular transporter. 
+
+Reference: Unnatural Selection 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

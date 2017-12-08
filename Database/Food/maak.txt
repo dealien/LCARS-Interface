@@ -1,0 +1,7 @@
+FOOD: maak
+
+A fruit grown in the warmer regions of Andor. It is recognized by its fleshy, reddish-infra-red skin.
+
+Reference: Andorian Dictionary
+Information provided by:
+Andorian Dictionary, http://randyb.byu.edu/alioth/sketch.html, @1990 1996, Spence Hill

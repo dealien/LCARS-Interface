@@ -1,0 +1,8 @@
+TECHNOLOGY: autosequencers
+
+Part of the transporter system which regulates the actual transporter process. When Ambassador T'Pel was apparently killed in a transporter accident in 2367, one suspected cause of the mishap was an autosequence malfunction. 
+
+Reference: Data's Day 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

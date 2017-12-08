@@ -1,0 +1,7 @@
+TECHNOLOGY: science console
+
+A bridge station on Federation starships responsible for accessing the ship's library computer and external sensor arrays and reporting that information to the vessel commander. Larger vessels, like Galaxy-class, are equipped with two science stations on the brige.
+
+Reference:
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph

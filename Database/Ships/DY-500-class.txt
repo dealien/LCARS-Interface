@@ -1,0 +1,47 @@
+CLASS: DY-500
+TYPE: cruiser
+
+An early sub-light exploration craft in use by the United Nations of Earth space fleet. While the Aventeur-class was fulfilling its commissioned lifespan, the early DY-100 series underwent extensive design and performance upgrading to become the DY-500 series. It’s almost pure fission engine plant produced a clean gas exhaust, which in turn powered an advanced Magentohydrodynamic (MHD) generator for on-board electricity. This class was particularly popular for travel to and within the Asteroid Belt. The loss of a DY-500, the U.N.S.S. Courageous, was also the worst space tragedy in the first 65 years of spaceflight. Standard range for this craft was rated for 600 million kilometers, and a maximum of 1.15 billion kilometers.
+
+SHIPS OF THE LINE:
+U.N.S.S. Courageous
+U.N.S.S. Wheeler
+
+Production base: Earth
+Commissioned: 2019	Decommissioned: 2055	Expected life:
+
+DIMENSIONS: LxWxHxM
+145m, 33m, 47m, 4.17M kg
+Cargo modules: 19.8m x 10.7m; 2,900m cubic- each
+Engine section: 8.2m diameter, 24.7m length
+Fuel tanks: 33m, 8.5m, 4.2m each; 6 total
+Command console: 12.35m, 16.5m, 5m
+Living unit: 36.25m, 20.6m, 17m, 2 decks
+Sensor nosecone: 20.6m maximum diameter, 24.7m
+
+ACCOMODATIONS:
+Officers: 3 (captain, lieutenant, engineer)
+Crew and passengers: 33
+
+PROPULSION:
+Velocity: 135,000 km/hr
+Thrust: 33,000kg per fission engine
+Onboard power: Magentohydrodynamic (MHD) electric generator
+5 Amjet Fission Thrusters in Quincaux configuration
+2 Amjet Fission Thrusters in detachable nosecone w/ Emergency Life Support
+Fuel: Liquid Hydrogen
+3 sets of heat radiators for greater engine efficiency
+
+COMPUTER SYSTEMS:
+Processors: Elementary Independent Thought Processing
+Navigation: Interplanetary Triangulation Guidance (3 body)
+Communication: Laser radiotelemetry
+
+ARMAMENT:
+Forward MHD-powered sweeps for clearing debris (asteroid belt)
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

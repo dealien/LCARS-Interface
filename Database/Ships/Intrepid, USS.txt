@@ -1,0 +1,17 @@
+SHIPS: U.S.S. Intrepid 
+CLASS: Constitution
+TYPE: Heavy cruiser
+REGISTRY: NCC-1631
+
+This Federation starship was built over Vulcan and had an all-Vulcan crew. It served as a science vessel.
+
+Timeline:
+2267: the Intrepid had been given second priority after the U.S.S. Enterprise when both ships were docked in maintenance section 18 at Starbase 11. 
+2268: The starship was destroyed by a gigantic spaceborne amoeba creature near the Gamma 7A System.
+
+Reference: The Immunity Syndrome, Court Martial, Strangers from the Sky
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

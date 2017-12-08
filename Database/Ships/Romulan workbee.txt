@@ -1,0 +1,8 @@
+SHIPS: Romulan
+TYPE: workbee
+
+One of several designs in use for utility craft assigned to starbases and space stations within the Romulan Star Empire.
+
+Reference: Star Trek Australia
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges

@@ -1,0 +1,11 @@
+SHIPS: U.S.S. New Orleans
+CLASS:
+TYPE:
+REGISTRY:
+
+Federation starship. It had once been a state-of-the-art prototype, but by 2333 it was far from that. It was commanded by Captain DeMontreville. Errigo Shalay was the ship's first officer.       
+
+Reference: Progenitor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

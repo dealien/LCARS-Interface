@@ -1,0 +1,8 @@
+CLASS: Fargo
+TYPE: 
+
+An early Starfleet vessel.
+
+Reference: 
+Information provided by:
+

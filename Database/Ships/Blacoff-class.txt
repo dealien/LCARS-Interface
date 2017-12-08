@@ -1,0 +1,13 @@
+CLASS: Blacoff
+TYPE: scout
+
+A small aircraft designed for extended flight in space. A three person cabin with room to allow for crew rotations as necessary. A second station for emergency operation of main functions when necessary, and a third station which was large enough to make into a bed.
+The main fuselage contained the cabin with the three stations and all command controls, life support etc. In the section between the second and third station was a docking port in the ceiling of the craft for in space crew transfers. Behind the crew area was a large cargo section that could transport, launch, repair, and recover satellites if the mission deemed it necessary. At the rear of the main fuselage was the one Ion radiant thruster. 
+Two triangle shaped wings began to attach themselves to the main fuselage behind the crew section. Within the middle of the wing structure were two more fuselages that each contained one warp nacelle. On top of each warp drive was a rudder wing that extended 90? up.
+The wings between the middle and each of the side fuselages was thicker than the wing sections past the engines. In that thicker section were the fuel tanks and the retractable landing gear. A third landing wheel was located under the crew section. The thinner sections of wing were covered in sensor arrays for scanning purposes.
+As the Rebellion grew strength, this was one of the first vessels to be upgraded to the Warp 2 capable engines that were kept secret from the Lysians for many years.
+
+Reference: Q Neighbor
+This ship was modeled after the Black Bird military jet used by the U.S. Air Force.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

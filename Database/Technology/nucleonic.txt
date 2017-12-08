@@ -1,0 +1,8 @@
+CHEMISTRY: nucleonic
+ 
+Nucleonic particles are associated with certain forms of communications technology. In 2368 a Kataran probe used a nucleonic beam to penetrate the shields of the Enterprise-D, implanting artificial memories within Captain Picard. In 2371 Voyager detected damage to a Kazon vessel due to nucleonic particle fluctuations. The vessel was eventually discovered to have been catastrophically damaged when a makeshift copy of one of Voyagers food replicators exploded. 
+ 
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+

@@ -1,0 +1,20 @@
+CLASS: Steamrunner
+TYPE: medium cruiser
+
+This class of late 24th century Federation starship blends the warp nacelles into the saucer section. Construction began in 2371 after Starfleet realized it needed to develop a new way to defend against the larger, disposable Jem'Hadar fleets. As a result, the Steamrunner is armed with long range tri-cobalt torpedoes. These torpedoes can be fired from long range and cause massive explosions that damage everything within the shockwave. As a consequence for the tremendous energy it takes to fire its weapons, the Steamrunner tends to be slower and have less shielding than its fleet counterparts, making it an easy target if engaged at close range.
+The U.S.S. Steamrunner has also been a testbed for the Engine Overload disruptor. This blast disables the engines of multiple enemy ships, allowing Steamrunners to use their long range torpedoes to immobilize targets or to escape from an incoming attack.
+
+SHIPS OF THE LINE:
+U.S.S. Steamrunner, NX-
+U.S.S. Appalachia, NCC-52136 
+
+Reference: Star Trek: First Contact, Armada
+The Steamrunner-class starship was designed by Alex Jaeger at ILM. It was rendered as a computer-generated visual effect
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997, Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Armada, www.activision.com, @2000 2002, Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+

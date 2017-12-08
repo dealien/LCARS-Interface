@@ -1,0 +1,11 @@
+SHIPS: Gandhi, U.S.S.
+CLASS: Ambassador
+REGISTRY: NCC-26632
+
+Captain Picard helped Lieutenant Thomas Riker get assigned to this ship after Riker was rescued from Nervala IV in 2369. Riker eventually left the ship to join the Maquis. 
+
+Reference: Second Chances, Defiant
+Named for Mohandas Karamchand Gandhi (1869 - 1948), leader of the Indian nationalist movement, an influential philosopher who advocated nonviolent confrontation and civil disobedience as a means of fostering political change on Earth. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

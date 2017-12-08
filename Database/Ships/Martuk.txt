@@ -1,0 +1,9 @@
+SHIPS: Martuk
+TYPE: transport
+
+Liseppian transport that Major Kira and O'Brien's Rio Grande posed as when hailed outside visual range by Post 24 near Cardassia IV, thanks to the Runabout's disguised power signature. 
+
+Reference: The Homecoming 
+Information provided by:
+The Continuum, www.startrek.com, @2000 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

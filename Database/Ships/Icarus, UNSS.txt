@@ -1,0 +1,22 @@
+SHIPS: U.N.S.S. Icarus
+CLASS: Columbus
+TYPE:
+REGISTRY:
+
+This starship was the first to make contact with the inhabitants of Alpha Centuari in 2048, a few years after First Contact with the Vulcans on a mission launched before the Vulcan encounter. Captain Roger Tauber recorded the following log:
+With great pride I am entering into the Log an Official Date of Notification. After traveling for five years, ten months, and two days, the Icarus has just made the first contact with extraterrestrial, intelligent life: the Alpha Centaurians.
+We has not expected any sort of evolved life here, since the trinary Centauri Star System produces strong, fluctuating radiation and complicated gravitational fields that can be fatal to biological development. So it was to our great surprise that once we were within 7 A.U. of Alpha Centauri, life is indeed what we found.
+Inside that critical radius, we began to be bombarded by a vast array of signals emanating from a planet, signals whose complexity pointed unmistakably to an advanced civilization. I ordered a general alert, with battlestations ready, and we cautiously approached the planet at flank speed.
+At 1.5 A.U. from the planet, scanners picked up four alien vessels rapidly converging on the Icarus. I decided against evasive or defensive action and ordered the fusion engines to dead stop, hoping to demonstrate our lack of hostile intentions.
+The gambit paid off. After surrounding our ship, the alien vessels hailed us on all standard frequencies in an unknown language, then one dispatched a small craft which traveled half the distance to our ship. Understanding the gesture, I boarded our shuttlecraft and went to meet, well, I had no idea who or what I was to meet.
+Who I met when I boarded their shuttlecraft was the Admiral (or their equivalent) of the interplanetary Alpha Centauri fleet. And he looked a great deal like my Uncle Alex. The Alpha Centaurians resemble homo sapiens to such a degree that it's hard not to conjecture about some common ancestry for the two races. The only physiological differences I can observe are a slightly higher forehead and their pinkies appear to function as a second opposable thumb.
+Through signs and star charts, I got the Admiral to understand our origin and peaceful intentions. The Admiral has been open and friendly, allowing me and my officers free reign of his flagship. My science officer in particular has taken advantage of this openness to have extened mathematical conversations with an Alpha Centaurian scientist.
+I fully recommend the commencement of diplomatic relations with these, our closest neighbors. They appear friendly, most cooperative, and an exchange of ideas and cultures may have consequences we can't even guess.
+
+Reference: Spaceflight Chronology, Strangers from the Sky
+The book does go on extensively recreating a log entry from the science officer, Frank Jocasta, about a dialog he had with the Alpha Centaurian scientist, Zefram Cochrane. At the time this book was written Cochrane was considered to be "from" Alpha Centauri. The TNG movie First Contact modified the history to make him from Earth and so it has been interpreted that the TOS comments translate into Cochrane having moved to Alpha Centuari years later.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

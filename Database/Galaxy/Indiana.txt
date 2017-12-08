@@ -1,0 +1,12 @@
+STATE: Indiana
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+The place where Kathryn Janeway lived as a young girl.
+
+Reference: The Chance Factor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

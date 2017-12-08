@@ -1,0 +1,8 @@
+SHIP: Klingon warship
+TYPE: medium cruiser
+
+A military vessel in use by the Klingon Defense Force in the 2200s.
+
+Reference: 
+Information provided by:
+

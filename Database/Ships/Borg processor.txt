@@ -1,0 +1,7 @@
+STATIONS: Borg processor
+
+An ore processing facility built by the Borg to create useable materials from dilithium and metal sources.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

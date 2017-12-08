@@ -1,0 +1,41 @@
+CLASS: Baton Rouge
+TYPE: cruiser
+
+The U.S.S. Moscow was the first ship equipped with transporter technology for widespread use, and the last starship without dilithium. The immediate predecessor to the Constitution-class, the Baton Rouge-class exhibited the distinct separated living disc and engine modules so familiar now. These ships were uprated in 2190 to extend their useful service time.
+
+Commissioned: 2170
+Decommissioned: 2210
+
+DIMENSIONS:
+Length:	245 meters
+Beam:		153 meters
+Draught:	64.6 meters
+Weight:	92.5 million kilograms
+
+ACCOMODATIONS:
+Officers:	7 (captain, lieutenant, science, engineer, navigator, communicator, security)
+Ensigns:	9
+Medical:	3
+Crewmen:	325
+
+PROPULSION:
+Advanced third generation warp drive
+Range:	5,000 light years
+Velocity
+Cruising:	Warp 4.5
+Maximum:	Warp 4.8
+
+COMPUTER SYSTEMS:
+Warp celestial guidance navigation
+Subspace radio communications
+Duotronic processors (after 2171)
+
+ARMAMENT:
+4 laser banks
+2 particle beam cannons
+250 photon torpedoes
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

@@ -1,0 +1,10 @@
+SHIPS: Klothos, I.K.S.
+CLASS: D-7
+TYPE: heavy cruiser
+
+Klingon cruiser. Kor commanded this ship during the Klingon victory over the Federation at Caleb IV. 
+
+Reference: Once More Unto the Breach 
+The assumption of a D-7 class is based on the fact that it was the same kind of cruiser used by Kang and Koloth during their years of power. It is, however, conjectural.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

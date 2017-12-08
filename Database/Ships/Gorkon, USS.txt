@@ -1,0 +1,11 @@
+SHIPS: Gorkon, U.S.S.
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NCC-40512
+
+Ship which was Admiral Nechayev's flagship among the 15 total to respond to the renegade Borg attacks of 2369. The name honors the assassinated chancellor of the Klingon Empire who first tried for detente among his people and the United Federation of Planets. 
+
+Reference: Descent
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

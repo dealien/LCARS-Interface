@@ -1,0 +1,8 @@
+SHIPS: Angosian
+TYPE: transport
+
+Small, sublight craft used to travel within the Angosian system. Roga Damar hijacked one of these ships while escaping from the Angosian penal moon Lunar V. He used this craft to elude the U.S.S. Enterprise-D as well when he navigated around an asteroid and ejected in a lifepod.
+
+Reference: The Hunted
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

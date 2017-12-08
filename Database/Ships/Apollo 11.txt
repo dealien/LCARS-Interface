@@ -1,0 +1,12 @@
+SHIPS: Apollo 11
+CLASS: Saturn V
+
+Early space exploration expedition launched from Earth by the NASA space agency in July 1969, the first mission to send humans to Earth's moon. The spacecraft was launched by a huge chemically-fueled rocket vehicle known as a Saturn V. Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world, describing the achievement as "one small step for [a] man, one giant leap for mankind."
+
+Reference: Tomorrow Is Yesterday
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+National Aeronautics & Space Administration, www.nasa.gov, @2002 NASA
+
+

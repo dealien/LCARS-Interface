@@ -1,0 +1,11 @@
+CLASS: Yelo
+TYPE: freighter
+
+A ship designed to accept ore containers and transport them via warp to ore processing stations across Lysian space. The two man craft has a Y-shaped cockpit in the front of the craft that contained all command controls, life support, sensors, and such things.
+In the fuselage behind the cockpit were the fusion reactors, batteries, and fuel tanks for the craft. Extending off to the sides of the craft were the two warp nacelles that extended far beyond the rear of the craft. This would cause a warp field that could exist behind the craft as well as in front of it. 
+Within the space behind the ship was a docking collar that included winches, grappling hooks, and launchers for attaching ore containers, or even an ore extractor and transporting the units to desired locations. 
+
+Reference: Q Neighbor
+These craft were designed after the Y-Wing starfighter seen in Star Wars.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

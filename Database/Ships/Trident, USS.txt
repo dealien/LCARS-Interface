@@ -1,0 +1,13 @@
+SHIPS: U.S.S. Trident
+CLASS: Galaxy
+TYPE: heavy cruiser
+REGISTRY:
+
+Federation Starship assigned to explore Sector 221-G and provide humanitarian aide and ambassadorial functions on behalf of the United Federation of Planets. The starship was assigned there after the destruction of the U.S.S. Excalibur, which was replaced and also assigned to the same region along with the Trident.
+Commanded by Captain Elizabeth Shelby.
+
+Reference: Resurrection
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+
+

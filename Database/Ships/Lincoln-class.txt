@@ -1,0 +1,12 @@
+CLASS: Lincoln
+TYPE:
+
+U.S.S. Lincoln, NX-
+
+DIMENSIONS:
+LENGTH: 170 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+

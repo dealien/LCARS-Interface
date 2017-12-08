@@ -1,0 +1,44 @@
+CLASS: University
+TYPE: transport
+
+The U.N.S.S. Dewey and its sister ships were spacefaring schools, transporting students on a wide range of educational excursions, the best known being the still-popular “Worlds in Evolution” course that visited planets representing different stages of life-form development. A derivation of the Marshall-class using second generation warp propulsion, the Dewey and its fellow school-ships opened up a galaxy of educational opportunities.
+
+Notable ships of this line:
+U.N.S.S. University
+U.N.S.S. Dewey
+
+Commissioned: 2132
+Decommissioned: 2185
+
+DIMENSIONS:
+Length:	238 meters
+Beam:		196 meters
+Draught:	66.7 meters
+Weight:	58 million kilograms
+Side auditorium Pods
+Length:	38 meters
+Diameter:	15 meters
+Forward Classroom
+Length:	76.2 meters
+Beam:		57 meters
+Draught:	50 meters
+
+ACCOMODATIONS:
+Crewmen:	47
+Faculty:	33
+Students:	220
+2 side lecture ampitheaters
+35 classrooms
+5 laboratories
+extensive computer library
+4 shuttlecraft
+
+PROPULSION:
+Advanced second generation warp drive
+Range:	1,000 light years
+Velocity:	Warp 3
+
+Reference: Spaceflight Chronology
+Some references were changed to indicate that this ship was part of the U.E.S.P.A instead of the UFP since canon sources indicate that the Federation had not been founded by the time this starship was designed. 
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

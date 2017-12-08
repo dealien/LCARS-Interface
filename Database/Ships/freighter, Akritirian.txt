@@ -1,0 +1,10 @@
+SHIPS: Akritirian freighter
+
+A vessel used by citizens in the Delta-Quadrant to transport small goods. The ship has an ion-based propulsion system that uses paralithium as fuel. They are small enough to fit inside a standard shuttlebay.
+The U.S.S. Voyager encountered one of these ships in 2373 owned by Vel and Piri when a terrorist group, the Open Sky, created a bomb on board their ship and used it to destroy the Laktivia Recreational Facility on their world. 
+
+Reference: The Chute 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan

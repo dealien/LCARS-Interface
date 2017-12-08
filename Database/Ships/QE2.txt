@@ -1,0 +1,9 @@
+SHIPS: Queen Elizabeth II
+TYPE: Transport
+
+Luxury seafaring passenger ship that sailed Earth's Atlantic Ocean during the late 20th and early 21st centuries.
+Ralph Offenhouse, dissatisfied with services aboard the U.S.S. Enterprise-D, suggested that Captain Picard could use a few lessons from the QE-2.
+
+Reference: The Neutral Zone
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

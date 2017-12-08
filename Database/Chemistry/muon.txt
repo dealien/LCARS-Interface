@@ -1,0 +1,8 @@
+CHEMISTRY: muon
+ 
+An unstable particle similar to an electron, but with a much greater mass. Muons are part of the Lepton family. A build up of Muons in a Federation warp core can result in a massive explosion if the ship enters warp. This is especially dangerous as the build up is very difficult to detect. 
+ 
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+

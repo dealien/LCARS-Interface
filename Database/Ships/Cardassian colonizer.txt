@@ -1,0 +1,7 @@
+SHIPS: Cardassian colonizer
+
+A large transport ferrying colonists and supplies designed to begin settlement on a planet. The craft drops canisters to various locations on the target planet then sets down on the planet where the craft is disassembled to be used for its materials.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

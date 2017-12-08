@@ -1,0 +1,12 @@
+CLASS: Venus
+TYPE:
+
+U.S.S. Venus, NX-
+
+DIMENSIONS:
+LENGTH: 420 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

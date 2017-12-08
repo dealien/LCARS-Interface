@@ -1,0 +1,7 @@
+CLASS: Assembler
+
+A Borg heavy duty assembly craft used to construct space stations in deep space. These ships build starbases, shipyards, research labs, sensor arrays, transwarp gates, and weapons turrets. They are not equipped with armaments but are heavily fortified to withstand some weapons fire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000, 2002 Activision

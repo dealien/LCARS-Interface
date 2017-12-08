@@ -1,0 +1,9 @@
+CLASS: Aegian
+TYPE: frigate
+
+This fleet support vessel was recently added to combat functions to protect large convoys and armadas in battle. On their own they do not posses strong weaponry but are well suited for numerous types of support functions. They were given a new priority during the Armada offensives against the Borg in the late 2370s. Once research on the shield enhancement device was completed, these ships serves as the perfect vessel with which to mount this type of support tool.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

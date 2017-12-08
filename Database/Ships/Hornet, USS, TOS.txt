@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Hornet
+CLASS: Constitution
+TYPE: Heavy cruiser
+REGISTRY:
+
+Federation Starship, under the command of Captain Leedson.  
+
+Reference: Dreadnought!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

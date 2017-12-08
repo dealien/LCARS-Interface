@@ -1,0 +1,13 @@
+TECHNOLOGY: communicator
+
+A portable transceiver device in use by Starfleet crews since at least the 2240s. The standard range of the latest design of communicator is merely a few hundred KM, but with the presence of a starship acting as a signal booster and relay device, the range can be increased to up to 40,000 KM. It works by utilising a Subspace Transceiver Assembly (STA), and incorporates an analogue-to-digital voice converter and a low power subspace field emitter. The devices are constructed of a crystalline composition of silicon, beryllium, carbon-70, and gold.
+Starfleet communicators have taken many shapes over the past 100 years, and the latest communicator design takes the form of an insignia badge worn on the upper left breast. Originally, communicators took the form a of a flip lid device and had a standard range of about 20,000 KM. The design was modified at one point to fit around the wrist. This represented the most radical change in communicator design for Centuries, but repeated failures of the communicator after relatively minor impacts caused them to be changed back to the more favourable flip lid device.
+By the 2340s the communicator functions had been built into the metallic uniform insignia "combadge" worn on the left breast, activated by touch or voice. Among many uses, communicators serve as locator IDs for gaining a transporter lock on personnel. Recent models also include dermal sensors so that only the registered user may operate the device.
+
+Reference: The Cage, et al episodes of Star Trek 
+The use of communications devices like these are credited as the inspiration for the very popular "flip phone" design of cellular and other personal wireless phones.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

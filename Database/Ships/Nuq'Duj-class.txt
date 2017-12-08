@@ -1,0 +1,24 @@
+CLASS: Nuq'Duj
+TYPE: fighter
+
+These are fast and mobile fighters used primarily for couting and patrolling the Neutral Zone. It is both a blessing and a curse for a Klingon officer to command. These scouts are only equipped with one forward firing disruptor canon, preventing its captain from gaining much honor in battle, however, most of these scout ships are destroyed in combat, and dying in battle is a great honor for a Klingon. These ships can be enhanced with tachyon detection arrays for locating cloaked vessels.
+
+SHIPS OF THE LINE:
+I.K.S. Nuq'Duj
+I.K.S. JoS'ghom
+I.K.S. Lij'Quch
+I.K.S. Majbe'Hom
+I.K.S. Meb'avwl'
+I.K.S. NobHIvje
+I.K.S. Qib'veQ
+I.K.S. QIbHeS
+I.K.S. Sip'a'jor
+I.K.S. SuD'mol
+I.K.S. TaDmoH
+TlhaQQuch
+VaunI'pl
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision
+
+

@@ -1,0 +1,12 @@
+REGION: Antarctica
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: Sol 001
+QUADRANT: Alpha
+
+Continent on Earth’s south pole.  Captain Nyere was ordered to transport the Vulcans to the Byrd Research Complex for security reasons. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

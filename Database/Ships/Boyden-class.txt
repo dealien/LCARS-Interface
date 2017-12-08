@@ -1,0 +1,16 @@
+PROBE: Boyden-class
+
+Commissioned: 2132 	
+Decommissioned: 2168
+
+DIMENSIONS:
+Length:	255 meters
+Weight:	40,358 tons
+
+PROPULSION:
+Advanced second generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

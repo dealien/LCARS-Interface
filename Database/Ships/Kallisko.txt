@@ -1,0 +1,11 @@
+SHIPS: Kallisko
+TYPE: transport
+
+A warp-capable transport ship that is consumed by the Crystalline Entity near the Brechtian Cluster in 2368. It is of unknown registry, although its home port or owners apparently are from Boreal III. 
+
+Reference: Silicon Avatar 
+The ship appears to be a re-use of the Jovis model, which may have also been used for the Kaelon warships and many others.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, !997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

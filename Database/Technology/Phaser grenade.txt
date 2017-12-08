@@ -1,0 +1,11 @@
+WEAPON: Phaser grenade
+
+Weapon created by overloading a phaser. 
+
+In an alternate timeline in 2370, Miles O’Brien make phaser grenades to stop the invading Bekkir force in 2370.  The grenades only stunned the Bekkir.
+
+Reference: Fallen Heroes
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

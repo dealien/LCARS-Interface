@@ -1,0 +1,11 @@
+CLASS: Jacq'Eng
+TYPE: dreadnought
+
+The Jacq'Eng, built out of the Shockwave facility, is crewed with the bravest and most loyal warriors in the fleet. Officers assigned duty on a Jacq'Eng are listed as killed in action, as the vessel departs from the shipyard. They do not intend to come back. Captaining a Jacq'Eng-class vessel is considered one of the highest honors a Klingon warrior can achieve.
+These ships have a special weapon, when the Jacq'Eng detonates its only weapon, the Shockwave, i creates an expanding wave of destruction that moves out in a forward direction, damaging everything in its path. The resulting explosion also tears apart the hull of the fragile ship from the inside, killing the entire crew in the process. This is the most powerful weapon of the Klingon fleet, and one of the most destructive forces in the known galaxy.
+
+Crew: 50 warriors
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000, 2002 Activision

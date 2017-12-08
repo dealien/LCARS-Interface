@@ -1,0 +1,9 @@
+SHIPS: Norkova
+TYPE: freighter
+
+A warp-capable freighter with a 15-member crew which carried the first load of deuridium back from the Gamma Quadrant to Deep Space Nine. As the target of mercenaries hired and led by the Kobliad criminal Rao Vantika, its captain and the two-member bridge crew were killed in the takeover, as was the mercenary Durg when Vantika's plans went awry. 
+
+Reference: The Passenger 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

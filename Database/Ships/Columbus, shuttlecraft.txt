@@ -1,0 +1,12 @@
+SHUTTLECRAFT: Columbus
+TYPE: 2
+REGISTRY: NCC-1701-2
+
+A shuttlecraft on board the U.S.S. Enterprise NCC-1701.  In 2267, this craft took part in a visual search for the crashed Galileo on the surface of Taurus II. 
+
+Reference: The Galileo Seven
+Named after the explorer, Christopher Columbus (1451-1506).
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

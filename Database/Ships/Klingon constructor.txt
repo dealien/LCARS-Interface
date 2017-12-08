@@ -1,0 +1,17 @@
+SHIPS: Klingon construction rig
+
+A warp capable frigate containing teams of workbees and construction teams and supplies used for building stations in remote areas of the Empire. These ships have thick hulls which help protect them from small weapons fire and hazardous nebulas, and they are equipped with disruptors that can be used when the vessel is closed up and all construction teams are housed and integrity fields are restored to normal operation allowing for the energy to be channeled to the weapon systems.
+
+SHIPS OF THE LINE:
+I.K.S. DeghwI'
+I.K.S. Maj'targh
+I.K.S. MinQOM
+I.K.S. MoDtlq
+I.K.S. Nuj'glich
+I.K.S. TlhIb"
+I.K.S. TujyopwaH
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision
+

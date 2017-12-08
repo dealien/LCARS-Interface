@@ -1,0 +1,18 @@
+CLASS: New Orleans
+TYPE: frigate
+
+Distinctive Starfleet ship class that has many similarities to the Galaxy-class starship.
+
+SHIPS OF THE LINE:
+U.S.S. New Orleans, NX-
+U.S.S. Kyushu, NCC-
+U.S.S. Renegade, NCC-
+U.S.S. Thomas Paine, NCC-
+
+Reference: Conspiracy, The Best of Both Worlds
+A study model was made of this class of ship and was seen very briefly as the Kyushu in the graveyard of Wolf 359. Named for the city of New Orleans, Louisiana, Earth.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & 
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

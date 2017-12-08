@@ -1,0 +1,11 @@
+SHIPS: Lalo, U.S.S.
+CLASS: Mediterranean
+TYPE: freighter
+REGISTRY: NCC-43837
+
+A Starfleet freighter that, while in the Pegos Minor area in 2364, reported a time-loop distortion as an echo of Paul Manheim's experiments on Vandor IX. Two years later it was the first starship to be destroyed by the Borg, some 3 hours, 12 minutes after leaving Zeta Alpha II en route to Sentinel Minor IV. 
+
+Reference: The Best of Both Worlds 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,10 @@
+STATIONS: Argus Array
+
+A large, Federation subspace radio telescope, the array is unmanned, and located on the edge of Federation space along the Cardassian border. 
+In 2367, the U.S.S. Enterprise-D was sent to the Argus Array to investigate why it had stopped transmitting data. An investigation found that the array's fusion reactors overloaded due to an alien probe. 
+The probe was later discovered to be Cytherian in origin and benign.
+
+Reference: The Nth Degree, Parallels
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+

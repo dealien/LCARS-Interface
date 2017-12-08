@@ -1,0 +1,17 @@
+SHUTTLECRAFT: El-Baz
+TYPE: 15
+REGISTRY: NCC-1701-D-05
+
+A shuttlepod carried aboard the U.S.S. Enterprise. 
+In 2365, a duplicate was found drifting near the Endicor system with a Captain Picard from several hours into the future. 
+It was also used by renegade Borg to abduct Data in late 2369. 
+
+Reference: Time Squared, Transfigurations, Descent
+Its name honored geoscientist Farouk El-Baz, a NASA planetary scientist and Brown University faculty member in the late 20th century. This craft was deisggned by Rick Sternbach and Richard McKenzie under the direction of production designer Richard James, miliature built by Tony Meininger. The El-Baz was the first shuttle of this type seen; subsequent shuttlepods were re-dresses of the El-Baz. The shuttlepod was smaller than the shuttlecraft, and was used because it was impractical at the time to build a full exterior of the larger shuttlecraft. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+
+
+

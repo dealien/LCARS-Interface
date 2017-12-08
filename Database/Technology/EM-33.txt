@@ -1,0 +1,11 @@
+WEAPON: EM-33 pistol
+
+Particle weapon that fires a pulse of plasma high of electromagnetic energy. It was phased out by Starfleet in favor of the more advanced phase pistol in 2151.   
+
+Reference: Broken Bow, Fight or Flight, What Price Honor?
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+
+

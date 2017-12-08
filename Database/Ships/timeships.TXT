@@ -1,0 +1,11 @@
+SHIPS: timeships
+
+Designation for ships whose sole purpose is to move through time. Several Federation and Klingon ships have been known to move through time as well, but this was not their main purpose.
+A 26th century craft was encountered by the U.S.S. Enterprise-D when a criminal from the 22nd century stole it from its proper captain. The criminal, Professor Berlinghoff Rasmussen hoped to travel to his future and back with advanced technology which he could take credit for.
+A 29th century Federation craft uses artificially-generated temporal rifts to journey through time. Captain Braxton's U.T.S. Aeon was a timeship. So was his next ship, the U.T.S. Relativity, even though that craft was significantly larger.
+
+Reference: A Matter of Time, Future's End, Relativity
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

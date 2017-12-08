@@ -1,0 +1,12 @@
+SHIPS: M'Char, I.K.S.
+CLASS: K'Vort
+TYPE: light cruiser
+
+Klingon bird-of-prey ("EMM-charr") assigned to patrol the Cardassian-Federation border. Commanded by Commander Kaybok until he was executed in 2372 after refusing to fire on the U.S.S. Defiant when it challenged him for tractoring the freighter Xhosa for a search. 
+
+Reference: The Way of the Warrior
+Information provided by: 
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

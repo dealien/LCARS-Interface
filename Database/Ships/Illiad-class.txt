@@ -1,0 +1,7 @@
+CLASS: Illiad
+TYPE: scout
+
+A small early Starfleet starship.
+
+Reference:
+Information provided by:

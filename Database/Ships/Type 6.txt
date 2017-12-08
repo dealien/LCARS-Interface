@@ -1,0 +1,37 @@
+SHUTTLECRAFT: 
+TYPE: 6
+MODEL:
+MISSION: Light Short-Range Warp Shuttle 
+
+First seen around SD 45047, midway in size between a shuttlepod and a larger shuttlecraft. Mainly a two-person craft, its cockpit can be outfitted with a rear bench and wall for a third passenger. 
+
+DISPLACEMENT:
+Light: 3.19 MT
+Standard: 3.38 MT
+Full: 3.51 MT
+
+DIMENSIONS:
+Length: 6.0 m
+Beam: 4.4 m
+Draught: 2.7 m
+
+POWER PLANT:
+Engines: 2 1,250 Millicochrane Warp Nacelles (Standard); 2 2,100 Millicochrane Warp Nacelles (Uprated)
+Reaction Control System: 12 DeFL 3234 Microfusion RCS Thrusters
+
+PERFORMANCE:
+Warp 1.2 for 48 hours (Standard); Warp 2 for 36 hours (Uprated)
+
+ACCOMODATIONS:
+Crew: 2 (Pilot and Systems Manager)
+Passengers: 6 (Standard); 2 (Diplomatic); 12 (Emergency)
+
+ARMAMENT
+None (Standard); 2 Type IV Phaser Emitters (Special)
+
+Reference: Darmok, All Good Things; Author, Author;
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

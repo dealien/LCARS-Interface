@@ -1,0 +1,90 @@
+STATIONS: Deep Space Nine
+CLASS: Nor
+
+An old Cardassian mining station built in orbit of planet Bajor during the Occupation. Built in 2351, it was originally called Terok Nor by its inhabitants. The station was under the direct command of Gul Dukat along with the rest of the Cardassian's Second Order.
+In 2369 the Cardassians relinquished their claim on Bajor and retreated from the region. Starfleet assumed control of the facility shortly thereafter, at the request of the Bajoran provisional government. Though administered by the Federation, the station fell under the jurisdiction of the Bajoran government and was subject to its laws. Starfleet officer Commander Benjamin Sisko was placed in charge of the station. He requested a Bajoran national to act as his liaison officer and second in command; Major Kira Nerys. The rest of the senior staff included Operations Chief Miles O'Brien, CMO Lieutenant Julian Bashir, science officer Lieutenant Commander Jadzia Dax, counsellor Lieutenant Ezri Dax, strategic operations Lieutentant Commander Worf, and security officer Odo.
+During the occupation the station's ore processing facilities were used to help strip mine the planet of its uridium deposits.
+Shortly after Starfleet began its administration the station assumed great commerical, scientific, and strategic importance when the Bajoran wormhole was discovered; linking the distant Gamma Quandrant. Major Nerys ordered the station moved near the mouth of the wormhole in order to solidify the Bajoran claim on this remarkable phenomenon. This placed the station three hours from the planet Bajor.
+In 2370 all Federation and non-Bajoran personnel were briefly evacuated from the station when Circle forces threatened the station's safety. The political group had caused much duress in the planet's population and was trying to claim the station as well.
+In 2371 the station was upgraded with additional weapons and shielding
+The major features of this kind of station include the Operations Center, from which all station functions are managed, the Promenade, a main thoroughfare containing numerous service facilities and stores that includes Quark's Bar, three massive docking towers, and several smaller docking ports on an outer docking ring; and living and storage facilities located on a middle habitat ring. Incorporated into the docking towers were several massive ore processing facilities designed to refine uridium ore. 
+The habitat ring contained the residences for the station's personnel and regular tennants as well as offered a larger number of guest quarters for travelers and visitng dignitaries. There were about 300 permanent residents aboard the station at one time, but it has a capacity to house nearly 7,000 persons in a variety of different environments.
+
+DISPLACEMENT
+Light: 5,210,360 MT
+Standard: 5,470,750 MT
+Full: 5,720,840 MT
+Cargo Capacity: 850,000 MT
+
+DIMENSIONS
+Overall Diameter: 1451.82 m
+Habitat Ring Diameter: 579.12 m
+Upper Core Maximum Diameter: 285.90 m
+Mid-Core Maximum Diameter: 182.88 m
+Lower-Core Maximum Diameter: 184.46 m
+Ops Maximum Diameter: 59.43 m
+Draught of Core (Ops to Fusion Exhaust Cone): 368.80 m
+Draught of Docking Pylons: 969.26 m
+Draught of Weapon Sail Towers: 192.02 m
+Number of Decks: 18
+
+POWER SYSTEM
+Primary Power System: 6 Fusion Power Cores (4 Operational)
+Station Keeping Thrusters: 54 Protean-Cycle Fusion Thrusters
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Time Between Resupply: 2 Years
+Time Between Refit: 30 Years
+
+COMPLEMENT
+Total: 25+
+
+EMBARKED CRAFT
+Work Bees: 4
+Type 6 Shuttlecraft: 2
+Runabouts: 3
+Defiant Class Starships: 1
+
+COMPUTERS
+Type: 3 Ruggedized Isolinear Processing Units; 3 Coprocessor and Peripherals Groups (CPG)
+Crew Interface Software: CCCSS (Cardassian Command and Control Software System)
+Data Transfer Rate: 743 Kiloquads/Second
+Primary Storage: 104,976 Class-4 Isolinear Rods Per Core
+Intermediate Data Storage: 8,748 Class-4 Isolinear Rods Per Core
+Coprocessor and Peripherals Groups Storage: 526 gigaquads Per Core
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 2.5 ly
+Medium to Low Resolution Range: 3.75 ly
+
+COMMUNICATIONS
+Intrastation Transmissions: Voice & Data
+Ship to Ground Range: 38,000 - 75,000 km
+Communications Speed: 19.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 12 Type IX Rotary Phasers: 4.0 MW; 6 Type X Phasers: 4.8 MW; 3 Type XI Planetary Phasers: 81.6 MW
+Personal: Type I, II & III Phasers: 0.01MW
+
+TORPEDOES AND MINES
+Tubes: 12 Mk 11 Mod 3 Direct
+Photon Torpedos Carried: 400
+Quantum Torpedoes Carried: 200
+Self-Replicating Mines Carried: 100
+Max Torpedo Simultaneous Spread: 6
+
+DEFENSE
+Shields: 3 Polarized Graviton Generators, Providing 3 Overlapping Polarized Graviton Emissions
+
+Previously called by its original creators "Terok Nor," this old Cardassian mining station orbiting the planet of Bajor was built in 2351 and abandoned 18 years later as the Cardassian occupation of Bajor came to a close and the Cardassian retreated from the system. 
+Soon after, at the request of the Bajoran provisional government, Starfleet assumed command of Deep Space Nine and gave it a Starfleet designation. When the Bajoran wormhole was discovered nearby, linking the Bajoran system to the Gamma Quadrant, what had once been a backwater station became a bustling hub of commercial, scientific, and strategic significance, reflecting Bajor's new-found independence and strength within the Alpha Quadrant. 
+The station was briefly overrun by a Dominion occupation force featuring Cardassian troops in 2373-74. 
+
+Reference: Emissary at al episode of Deep Space Nine
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach
+

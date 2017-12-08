@@ -1,0 +1,11 @@
+SHUTTLECRAFT:
+TYPE:
+REGISTRY: NCC-1701-D-9
+
+A shuttlepod, name unspecified, used by LaForge and Data to explore the Barzan wormhole alongside the cantakerous Ferengi in their own pod. It is stowed in the Main Shuttlebay. 
+
+Reference: The Price 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+
+

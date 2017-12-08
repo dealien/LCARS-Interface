@@ -1,0 +1,8 @@
+SHIPS: Drake, U.S.S.
+TYPE: light cruiser
+
+A Starfleet light cruiser that Commander Riker had first crack at commanding in 2364 when he turned it down to remain on the starship Enterprise. The ship disappeared in the Lorenze cluster on stardate 41798.2 and was found destroyed by the arms-dealer computers of Minos.
+
+Reference: The Arsenal of Freedom
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

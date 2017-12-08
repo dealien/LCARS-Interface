@@ -1,0 +1,13 @@
+CITY: Martian Colony One
+PLANET: Mars
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+First settlement on Mars. Primarily inhabited by people of Soviet descent. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

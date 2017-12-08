@@ -1,0 +1,12 @@
+SHIPS: Merchantman
+TYPE: transport
+
+A small merchant cargo ship, chartered in 2285 by Klingon operative Valkris on a mission to transport stolen data on the Federation Project known as Genesis to the Klingon government. A rather short-lived mission to say the least, as after delivering said data to the Klingons, the Merchantman and all aboard were destroyed by Klingon Commander Kruge. 
+
+Reference: The Search for Spock 
+The Merchantman was never referred to by name during the film. The name is from the script only. The Merchantman model, designed by Nilo Rodis and built at Industrial Light & Magic was re-used several times as various "guest" spaceships in The Next Generation.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Ex-Astris Scientia, www.ex-astris-scientia.com, @2002 Bernd Schenider
+

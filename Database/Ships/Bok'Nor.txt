@@ -1,0 +1,12 @@
+SHIPS: Bok`Nor
+TYPE: freighter
+
+Ill-fated Cardassian freighter blown up by Maquis saboteur Bill Samuels in 2370; the crew of 78 was killed. Components include its fusion-based impulse generator, which imploded when an undetected proto-matter device attached to the engines' cross-feeds caused an overload and a resulting fusion shock. Its holds were empty when it arrived at Deep Space Nine, having off-loaded 14 metric tons of golside ore within the Regulon system. As with most Cardassian ships, kelindide and rhodinium are major component materials - but mercassium, a unique United Federation of Planets synthetic, is not. 
+
+Reference: The Maquis
+The Bok'Nor model was a re-use of the Merchantman ship first seen in "The Search For Spock."
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

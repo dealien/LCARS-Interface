@@ -1,0 +1,15 @@
+CHEMISTRY: dilithium
+
+Crystalline substance used in warp propulsion systems to regulate the matter/antimatter reactions that provide the energy necessary for faster-than-light speed. These more rare but higher density crystals replaced lithium crystals as the energy regulator for starships during the 23rd Century, but during the early part of that time civilian ships were still using them.
+Naturally occurring dilithium is extremely rare and is mined on only a few planets, such as Coridan, Troyius, Dozaria, and Rura Penthe. In 2286 a breakthrough occurred when Captain Spock (who had traveled back in time to 1986) devised a means whereby dilithium crystals could be recrystallized by exposure to gamma radiation (high energy photons) that were by-products of nuclear fission reactions. In later years, theta-matrix compositing techniques permitted even more efficient recrystallization. By the laste 2360s recrystalliaation techniques had advanced to the point that crystals could be recomposited while still inside the articulation frame of the dilithium chamber, extending the useful life of the crystals even further. in 2372 U.S.S. Voyager personnel discovered a new form of dilithium that remained stable at a much higher warp frequency. The new form of dilithium, installed aboard the Shuttlecraft Cochrane, made possible the first human flight at transwarp velocities.
+In starship operations the dilithium crystals are held in an articulation frame at a precise position so that the matter stream and antimatter stream are both directed into specific facets of the crystal which then directs the resulting annihilation-based energy into a third direction- controlling and focusing the energy so it can be harnessed by the ship's engines. The articulation frame is accessible through the dilithium chamber hatch located in main engineering.
+Radans was the Troyian word for the dilithium mined on that planet, used as gemstones until its usefulness in warp drive was made known to their culture. The leader of Troyius gave Elaan, the Dohlman of Elas, a necklace of radans as a wedding present in 2268. Elaan's necklace served as a source of emergency crystals for the U.S.S. Enterprise NCC-1701 when that ship was under attack by a Klingon vessel. 
+
+Reference: Where No Man Has Gone Before, Journey to Babel, Elaan of Troyius, The Voyage Home, The Undiscovered Country, Family, Relics, Threshold
+This item is often mistakenly referred to as a fuel supply, especially in Trek games. It is a power regulator- not a power source.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+Armada, www.activision.com, @2000 2002 Activision
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

@@ -1,0 +1,13 @@
+SHUTTLECRAFT: air tram
+TYPE:
+MISSION: mass transit vehicle
+
+A type of shuttlecraft used as public transportation on Earth in the 23rd century before the advent of transmat booths. This transport vehicle was commonly used in the San Francisco Bay Area. Admiral Kirk once took one to Starfleet Headquarters. 
+
+Reference: The Motion Picture 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

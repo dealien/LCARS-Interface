@@ -1,0 +1,9 @@
+WEAPON: Polarized Hull Armor
+
+Type of hull Armor used by NX Class starships.  In a battle situation, electromagnetic power can be applied to the hull materials, making them several orders of magnitude harder.
+
+Reference: Broken Bow
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

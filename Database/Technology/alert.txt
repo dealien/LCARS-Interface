@@ -1,0 +1,13 @@
+TECHNOLOGY: Alert System
+
+A series of general attention getting status indicators used in military and para-military installations. The alerts use a combination of light and sound to gain the attention of the crew, and the type of alert is designed to quickly instruct personnel which steps to take.
+* Red Alert indicates a level of total readiness, and all crew are to report to battlestations.
+* Yellow Alert indicates a level to prepare for battlestations. Off duty crew should get dressed and be prepared to be called to duty.
+* Green Alert indicates
+* Blue Alert indicates incoming turbulence, like when entering a planetary atmosphere. The alert is needed to prepare the crew before they may be hurt from rough flight conditions.
+* Orange Alert indicates a security threat where security personnel should take alert and all others should refrain from leaving their current areas. A GQ (General Quarters) order would trigger an orange alert.
+
+Reference:
+Information provided by:
+Various star trek websites, many of the alerts are animated but may not move based on your Terminal’s configuration
+

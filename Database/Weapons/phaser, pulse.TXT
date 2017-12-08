@@ -1,0 +1,12 @@
+WEAPONS: Pulse Phaser Cannon 
+
+Dimensions: Unknown 
+Mass: N/A 
+Effective Range: 400,000 km (approx)
+
+The Phaser Pulse Cannon was one of the "next generation" weapons to be installed on the new Defiant. It works by using a large emitter crystal and high speed beam focusing coils to temporarily store a phaser beam for up to 2.3 nanoseconds before releasing it as a layered pulse. This has the advantage of not only creating an altogether more powerful energy packet, but because the pulse is layered like an onion, it can not be as easily distributed across shields and armour therefore causing more damage to the target area. Pulse phaser cannons have one major disadvantage however - like torpedoes, they will only fire in the direction at which the emitters are pointed, and the emitters can not be directed anywhere other than the forward arc of the ship. This works OK for the USS Defiant because the ship is so manoeuvrable, but is unworkable for most other starships.
+
+Reference:
+Information provided by:
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

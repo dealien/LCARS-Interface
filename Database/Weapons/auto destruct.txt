@@ -1,0 +1,10 @@
+TECHNOLOGY: auto destruct sequence
+
+Computer program aboard starships for destruction of the vessel should the ship be captured or controlled by an enemy. It will detonate explosive charges throughout the starship located in strategic places to effectively obliterate all usable aspects of the craft. Activation of the program requires verbal orders and handprint verification from the two most senior command officers of the ship. 
+
+Reference: 11001001, Where Silence Has Lease, The Adversary, Star Trek: First Contact
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

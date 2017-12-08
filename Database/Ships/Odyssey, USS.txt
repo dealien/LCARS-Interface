@@ -1,0 +1,15 @@
+SHIPS: Odyssey, U.S.S.
+CLASS: Galaxy
+REGISTRY: NCC-71832
+
+"ITS ORIGIN AND PURPOSE, STILL A TOTAL MYSTERY"
+A Federation starship under the command of Captain Keogh. It was destroyed in a first encounter with the Jem'Hadar when one of the opposing fighters made a kamikaze run on its warp nacelle, its phased polaron beam punching through the starship's shields despite rotating shield harmonics. Civilians and non-essential personnel had been off-loaded at Deep Space Nine, and at the time of its destruction it had already sustained casualties on decks 4, 5, 8 and 17, a plasma leak in the port nacelle, major damage to Deck 7, and the loss of phaser power, external communications, and weapons control. 
+
+Reference: The Jem'Hadar
+The unnamed first officer of the Odyssey was played by Michael Jace. The Odyssey was named after the command module of Apollo 13. The starship motto is a quote from the sci-fi movie 2001: A Space Odyssey.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Ex Astris Scientia, www.ex-astris-scientia.org, @2002 Bernd Schneider
+Gilso's Star Trek Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

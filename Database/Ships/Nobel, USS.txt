@@ -1,0 +1,11 @@
+SHIPS: Nobel, U.S.S.
+CLASS: Olympic
+REGISTRY: NCC-55012
+
+This Federation vessel and the U.S.S. Excelsior searched for the U.S.S. Hera in 2370.
+ 
+Reference: Interface 
+The Nobel was named after Alfred Nobel, Swedish industrialist, inventor of dynamite, and founder of the Nobel Prize.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

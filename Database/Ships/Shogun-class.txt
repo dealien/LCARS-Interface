@@ -1,0 +1,12 @@
+CLASS: Shogun
+TYPE:
+
+U.S.S. Shogun, NX-
+
+DIMENSIONS:
+LENGTH: 300 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

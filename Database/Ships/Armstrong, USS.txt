@@ -1,0 +1,11 @@
+SHIPS: Armstrong, U.S.S.
+CLASS: Challenger
+REGISTRY: NCC-57537
+
+Starship which took heavy casualties with the Drake following a Klingon ambush during the Archanis tensions of 2372-73. It docked with station Deep Space Nine following that encounter to receive medical assistance.
+
+Reference: Apocalypse Rising 
+Named for Neil Armstrong, commander of the Apollo 11 mission and the first Terran to set foot on a foreign world when he and Edwin "Buzz" Aldrin landed on Luna in AD 1969. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,8 @@
+CLASS: Legate
+TYPE: medium cruiser
+
+A long range bomber in use by the Cardassian Union.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

@@ -1,0 +1,10 @@
+SHIPS: Firebrand, U.S.S.
+CLASS: Freedom
+REGISTRY: NCC-68723
+
+A Starfleet vessel that served at Wold 359 against the Borg cube.
+
+Reference: The Best of Both Worlds
+The Firebrand was one of the ships in the graveyard scene after the Borg attack on Wolf 359. At the time of writing this entry I can't reall if it was actually seen, or if it was mentioned on a display screen aboard the Enterprise-D.
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

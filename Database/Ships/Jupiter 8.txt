@@ -1,0 +1,8 @@
+VEHICLE: Jupiter 8
+TYPE: automobile
+
+An internal-combustion engine-powered wheeled vehicle used by citizens of the Roman culture on planet Eight Ninety-Two IV.
+
+Reference: Bread and Circuses
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

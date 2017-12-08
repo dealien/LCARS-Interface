@@ -1,0 +1,11 @@
+SHIPS: Vico, S.S.
+CLASS: Oberth
+REGISTRY: NAR-18834
+
+A vessel of civilian registry, which was destroyed while in the Black Cluster on stardate 45397.3, leaving only one young boy surviving. 
+
+Reference: Hero Worship 
+Because the starship had an S.S. Designation and it did not have an NCC-registry prefix, we assume it was not a Starfleet vessel, even though it was of Federation registry.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books

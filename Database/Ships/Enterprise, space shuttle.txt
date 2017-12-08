@@ -1,0 +1,16 @@
+SHUTTLECRAFT: Enterprise
+CLASS: OR-1 
+TYPE: Space Shuttle
+REGISTRY: OV-101
+
+Earth orbital test vehicle, built by NASA in 1976. This craft was involved in several missions pertaining to such things as zero-gravity experiments and satellite launches. This particular vessel was never launched into space but was the first to become airworthy and proved as the testbed for the entire line.
+This ship and many others named Enterprise were honored aboard later starships like the display in Captain Archer's office aboard the Enterprise-class vessel of the same name, or the recreation room of the refit Constitution-class ship of the same name.
+
+Reference: Star Trek: The Motion Picture, Enterprise series. 
+In real life the orbiter Enterprise was named by American President Gerald Ford after many Star Trek fans wrote to NASA, urging that the first space shuttle be named for Star Trek's starship. Gene Roddenberry and several members of the Star Trek cast were honored guests at the rollout of the Enterprise in September, 1976.
+Information provided by:
+The Continuum, www.startrek.com
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

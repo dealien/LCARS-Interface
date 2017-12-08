@@ -1,0 +1,14 @@
+SHIPS: Enterprise, I.S.S.
+CLASS: Enterprise
+TYPE: heavy cruiser
+
+A Mirror Universe ship, the I.S.S. Enterprise operated under the command of Captain Forrest and was the flagship of the Terran Empire in the mid-22nd century. Its mission was to defend the Empire from a rising rebellion against Terran rule, from such factions as certain Vulcan and Andorian cells. 
+The vessel was armed with a Suliban cloaking device, which enabled the NX-01 to fire weapons while cloaked. I.S.S. Enterprise also featured an impressive array of weaponry, including several phaser and photon banks.
+Along with main engineering and a more militaristic bridge module than its "normal universe" counterpart, the ship featured the "Agony Booth," a disciplinary interrogation tool that could stimulate the pain center of any humanoid, causing the subject to experience severe and varying levels of pain. A synaptic scan callibrates the Booth for each species, thus making each subject's "experience" unique.
+First Officer Jonathan Archer managed to usurp command from Captain Forrest, and commandeered the vessel in order to investigate reports that the Tholians had in their possession a starship from both the future and an alternate reality.
+Upon discovering the future starship (the Defiant) at a secret Tholian spacedock facility, Enterprise was caught in a Tholian web and destroyed, with Captain Forrest at the conn. 
+
+Reference: In a Mirror, Darkly
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+

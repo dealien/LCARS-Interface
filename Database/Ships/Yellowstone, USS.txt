@@ -1,0 +1,13 @@
+SHIPS: Yellowstone, U.S.S. 
+CLASS: Sequoia
+REGISTRY: NCC-70073
+
+2370: Federation starship that transported Ensign Melora Pazlar to Deep Space Nine on stardate 47229.1. It was destroyed in battle during the Dominion War.
+
+Reference: Melora 
+The Yellowstone was named after the United States' largest and oldest national park, which was established in 1872. Its destruction is purely conjectural but allows for Starfleet to create the Yellowstone-class runabout seen in "Non Sequitur." Being destroyed in the Dominion War seems very reasonable.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

@@ -1,0 +1,12 @@
+SHIPS: Mosquito-class
+TYPE:
+
+U.S.S. Mosquito, NX-
+
+DIMENSIONS:
+LENGTH: 69 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+

@@ -1,0 +1,12 @@
+CLASS: Sterof
+TYPE: scout
+
+A third type of scout that was also used as an interceptor after the Satarran Rebellion took power. This vessel was very adept at atmospheric flight and was widely used for planetary bombardment or subduing enemies upon planetary approach. It was also used in space combat in some instances as well. But its original purpose was a scout ship that could be capable of land and air reconnaissance. This was often used by the Lysian military until the Satarran Rebellion took over.
+The main fuselage was eye shaped, rather than the typical round to make it more aerodynamic in atmospheres. The small four person front cockpit contained one pilot, one co-pilot, one sensor analyst, and one engineer. Behind them were two bunks for sleeping. Behind that were the environmental controls and ship’s batteries. In the front of the craft was the computer core, and later modified to contain a laser emitter.
+Behind the crew section were the fuel tanks, two fusion generators, and the two Ion radiant thrusters.  Under the engines was a cargo section that would be used for transporting small cargo boxes and machines.
+The wings of the craft began behind the crew section and swung out to a point where they curved back in and ended at the rear of the craft. The wings were covered in sensor panels making it one of the better scouts of its time. On top of the wings, at the rear, and at the base with the fuselage were two rudder wings placed at 66? angles inward. Under the wings, near the base, were the rear landing gear, with the front gear under the crew section of the fuselage. 
+
+Reference: Q Neighbor
+This ship was modeled after the Stealth bomber used by U.S. Air Force.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

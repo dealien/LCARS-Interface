@@ -1,0 +1,9 @@
+PROBE: Galileo
+
+Project Galileo was a series of probes designed to study Jupiter by descending onto the Jovian atmosphere behind a heat shield, radioing back data until the increasing pressure crushed the hull, about 30 minutes after entry.
+
+Reference: Sapceflight Chronology
+Information provided by: 
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

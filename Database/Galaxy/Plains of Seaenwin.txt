@@ -1,0 +1,11 @@
+REGION: Plains of Seanwin
+PLANET: Xenex
+SYSTEM:
+SECTOR: 221G
+QUADRANT: Alpha
+
+Site of a battle on Xenex in which rebel forces led by M’k’n’zy of Calhoun defeated a Danteri force led by Falkar.
+
+Reference: House of Cards
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack

@@ -1,0 +1,7 @@
+SHIPS: Cardassian constructor
+
+A deep range construction rig for building stations in deep space.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

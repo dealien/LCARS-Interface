@@ -1,0 +1,15 @@
+STATION: Cochrane Memorial
+CITY: San Francisco
+STATE: California
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Building belonging to Starfleet Academy in San Francisco, Earth. 
+
+Reference: Time’s Enemy  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

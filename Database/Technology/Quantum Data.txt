@@ -1,0 +1,8 @@
+TECHNOLOGY: Quantum Data
+
+Scanning an alloy's quantum data allows one to know exactly when it was synthesized in absolute time.  Therefore, if an item was made in the future and brought backwards in time, the scanner will be able to tell one that.  Starfleet scanners were capable of registering an object's quantum data, though until 2153 it was not known that they could tell objects were made in the future.
+
+Reference: The Expanse
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

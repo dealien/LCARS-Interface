@@ -1,0 +1,19 @@
+SHIPS: Klingon colonizing transport
+TYPE: transport
+
+A type of colonial transport used by the Klingon Empire to establish colonies of worlds within their areas of influence. These ships carry large numbers of civilians and warriors, tools, and supplies. Like all Klingon vessels they are armed with disruptor emitters but the weapons are such a drain on ship's resources that they can only be used while the ship is motionless or using simple thrusters.
+
+SHIPS OF THE LINE:
+I.K.S. BarghDoq
+I.K.S. Herghwl HoS
+I.K.S. Muq HarQu
+I.K.S. OchDaq
+I.K.S. PetaQ
+I.K.S. Ta'PuqIoDe'e
+I.K.S. Wej DISmo
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 2002 Activision
+
+

@@ -1,0 +1,11 @@
+SHIPS: Yorktown, U.S.S.
+CLASS: Zodiac
+REGISTRY: NCC-61137
+
+The third starship to bear the name. During the anti-time reality created by the Q Continuum on stardate 47988.1, the Yorktown received orders from Admiral William Riker to make long-range sensor sweeps of the Devron system searching for of a temporal anomaly. 
+
+Reference: All Good Things...
+This ship is considered to be a different type than the second since the registry number indicates it is unlikely that Tuvok's father served aboard such a new ship, and it was established that his father served on the 2nd Yorktown.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

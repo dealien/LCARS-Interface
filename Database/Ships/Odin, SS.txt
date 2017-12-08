@@ -1,0 +1,11 @@
+SHIPS: Odin, S.S.
+TYPE: Freighter
+REGISTRY: NGL-12535
+
+The Odin collided with an asteroid near the planet Angel One in 2357. Escape pods were launched, but drifted for approximately five months before reaching the surface of Angel One. 
+
+Reference: Angel One 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

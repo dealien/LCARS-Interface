@@ -1,0 +1,9 @@
+TECHNOLOGY: Library Computer Access and Retrieval System (LCARS)
+
+Name of the main computer system within Federation installations.
+
+Reference: Encounter at Farpoint
+The official definition states that the LCARS is used on Galaxy-class starships. The same program has been seen on Voyager, in Starfleet Command, and other locations- and while they may have a different name it is unlikely.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

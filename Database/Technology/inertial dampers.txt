@@ -1,0 +1,8 @@
+TECHNOLOGY: inertial dampers
+
+Field manipulation devices aboard starships to compensate for acceleration forces caused by speed and direction changes. 
+
+Reference: Cause and Effect 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

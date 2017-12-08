@@ -1,0 +1,10 @@
+PLANET: Wren’s Planet
+SYSTEM: Cestus
+SECTOR:
+QUADRANT: Beta
+
+The seventh planet in the Cestus system, also known as Cestus VII.
+
+Reference: Dreadnought!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

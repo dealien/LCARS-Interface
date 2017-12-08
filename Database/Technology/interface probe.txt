@@ -1,0 +1,10 @@
+TECHNOLOGY: interface probe
+
+A remotely-controlled robotics device that allows work to occur in dangerous environments. The user is able to connect with the probe such that the senses believe the individual is actually in the environment. 
+The robot is controlled by a user in an interface unit. Commander Geordi La Forge used an interface unit in 2370 to "see and feel" the insides of the U.S.S. Raman. La Forge was uniquely qualified because of his VISOR implants allowed for a direct connection. La Forge was able to manipulate the robot by thought.
+
+Reference: Interface 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

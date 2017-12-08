@@ -1,0 +1,12 @@
+SHIPS: Porkay-class
+TYPE: light cruiser
+
+The most noted ship in the Grazerite fleet patrolling the Grazeri home and colonial systems. From a silhouette it appears to be a Klingon bird-of-prey with a unique wing shape. It features a large engineering section and a command section attached by a long, thick support column.
+The front command section is a soft edged teardrop shape, where the point faces forward, with indentations on the ventral and dorsal sides. The dorsal indentation makes view for the bridge and chief command offices. The ventral indentation houses the main deflector dish. All command functions, except for engineering, are controlled from this section. The command module also includes many of the ship's science labs, stellar chartography, and other such services.
+The command section is connected by a substancial support that is chiefly a set of umbilicals between the main and secondary hulls fo the craft. Within it are the EPS and ODN lines and turboshaft system. But also within the support are four small hangars to house one Frecor class interceptor each. These military support vessels allow one light cruiser to fulfill duties normally reserved for heavier cruisers effectively.
+The engineering section contains the typical ship support systems, crew quarters, cargo  bays, shuttlebays, and other expected services of a starship. The galley, sickbay, life support, fuel cells, fusion reactors, batteries are also included in this section.
+Grazerite vessels use recent Federation technology including the matter/ anti-matter warp cores and the warp nacelles. Each nacelle is fitted to the dorsal side of the engineering section and is preceeded by a set of Bussard collectors.
+
+Reference: Plague
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

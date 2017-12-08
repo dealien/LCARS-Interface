@@ -1,0 +1,12 @@
+STATIONS: Regula One
+CLASS: Noah
+
+A space lab in orbit of the planet Regula, Regula One housed the research facilities for Project: Genesis. 
+The project, lead by Doctors Carol and David Marcus, created "life" from "lifeless-ness." Regula was a dead planetoid and Regula One's research staff planned to test the Genesis Device on the planetoid. 
+Regula One was also site of a terrible massacre, at the hands of one Khan Noonien Singh. Khan beamed aboard the space lab, stole all materials related to Genesis, and murdered most of the research team in his wake. Carol and David Marcus were among those that survived Khan's rampage.
+
+Reference: The Wrath of Khan
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

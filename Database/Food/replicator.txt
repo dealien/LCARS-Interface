@@ -1,0 +1,14 @@
+TECHNOLOGY: replicator
+
+Devices derived from transporter technology to dematerialize matter and then reconstitute it in another form. They represented a significant advancement from simple protein resequencers. In large scale use, like for a starship or station, the dematerialized energy may be stored and used later. Replicators, in use since the early 24th century, are very commonly used as food dispensers aboard Federation starships: the menu is only limited by the programming, as opposed to the days of carrying natural or reconstituted foodstuffs with delivery by special turbolifts or transporters. Generally replicated food and "natural" food taste the same, though some people claim to be able to detect a difference; for instance, Captain Picard kept real caviar stored for special occasions since he felt replicated caviar was inferior to the real thing. 
+Replicators can not create live foods, like gagh or fresh tube grubs.
+Industrial replicators are available for creating larger items, or bulk quantities. For efficiency these units were able to use energies derived from waste extraction and often could serve as waste receptacles themselves. After a meal the user was encouraged to replace the leftovers and/or dishes into the unit for recycling. 
+Replicators have been included into weapons, like self-replicating mines. They have been included in machines like the exocomps- so that custom tools could be constructed then exchanged in a space-saving routine. And replicators have been used by medical personnel to create simple medicines. Complex structures can not be replicated with current technology.
+These machines should not be confused with simple food dispensers.
+
+Reference: Sins of the Father, Quality of Life, 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

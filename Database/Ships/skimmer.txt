@@ -1,0 +1,9 @@
+SHUTTLECRAFT: skimmer
+TYPE: transport
+
+Cardassian ground-to-air transport, used by its military. Another name for a hopper or a shuttlecraft.
+
+Reference: The Darkness and the Light 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

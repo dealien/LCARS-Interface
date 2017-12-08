@@ -1,0 +1,89 @@
+CLASS: Avenger
+TYPE: Heavy Frigate
+
+A modification of the Miranda-class cruiser.
+
+DISPLACEMENT
+Light: 144,000 MT
+Standard: 150,000 MT
+Full: 156,000 MT
+Cargo Capacity: 15,000 MT
+
+DIMENSIONS
+Length: 236.0 m
+Beam: 141.7 m
+Draught: 67.8 m
+Number of Decks: 18
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 LN-64 Mod 4 Dilithium-Energized Antimatter Linear Warp Drive Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 RST Subatomic Unified Energy Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: QASR Particle Beam Maneuvering Thrusters
+Reaction Control System: "Trentis" Pulsed Laser Reaction Control System
+
+VELOCITY
+Normal Cruising Speed: Warp 7*
+Max Cruising Speed: Warp 11*
+* Following old Warp standards.
+
+ACCELERATION
+Rest-Onset Critical Momentum: 6.08 sec
+Onset Critical Momentum-Warp Engage: 1.23 sec
+Warp 1-Warp 4: .81 sec
+Warp 4-Warp 7: .70 sec
+Warp 7-Warp 11: 2.42 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 19 Years
+
+COMPLEMENT
+Officer Crew: 91
+Enlisted Crew: 269
+Civilian/Families: 0
+Evacuation Capacity: 500
+
+EMBARKED CRAFT
+Total: 20+
+
+NAVIGATION
+System: "Artos" Warp Celestial Guidance
+
+COMPUTERS
+Type: "Fasfax" Duotronic III with Datatac Support System
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 1.3 ly
+Medium to Low Resolution Range: 2.35 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 225 km
+Ship to Ground Range: 27,000 - 38,000 km
+Communications Speed: 17.5 Kiloquads/Second
+Subspace Speed: 9.975 Warp
+
+PHASERS
+Ship: 6 banks of 2 each - RIM-12C Independent Twin Mount; 2 banks of 2 each - "Emperor 60" Multi-Directional Phaser Cannons
+
+PHOTON TORPEDOES
+Tubes: 4 Mk 22 Mod 1 Direct
+
+DEFENSE
+Shields: "Lancelot" Primary Force Field and Deflector Control System
+Fire Control: CETIS Weapon System with Pra-Tak Add-On
+
+TRANSPORTERS
+Personnel Transporters: 4
+Emergency Transporters: 2
+Cargo Transporters: 2
+
+Reference:
+Information provided by:
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+

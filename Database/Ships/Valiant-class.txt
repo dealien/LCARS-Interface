@@ -1,0 +1,8 @@
+CLASS: Valiant
+TYPE: destroyer
+
+An offensive military vessel created by Starfleet but not put into wide production. This ship was based on many of the Defiant-class designs.
+
+Reference:
+This class was named in honor of the ship destroyed by the Dominion while operated by the cadet Red Squad.
+Information provided by:

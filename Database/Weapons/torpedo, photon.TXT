@@ -1,0 +1,15 @@
+WEAPONS: photon torpedo
+
+A very powerful explosive weapon which works by combining small amounts of matter and antimatter and releasing the high energy phtons in an uncontrolled mixture. It's greatest advantage is that it is one of the few weapons that can be used efffectively while at warp speed. It does not have a warp drive engine, but is able to sustain it's warp speed by "coasting" within it's own warp field while at FTL speeds. If launched at a speed less than c (c= the speed of light) it will continue to coast at a speed equal to that at which it was launched. The maximum explosive yield of a photon torpedo was found, by Federation scientists, to be 25 isotons, hence the need for a more powerful explosive device, the later quantum torpedo.
+Dimensions: 2.1 x 0.76 x 0.45 metres
+Mass: 247.5 KG
+Effective Range: 3.5 Million KM
+Torpedos are equipped with a sustainer engine, a propulsion system within a photon torpedo. It comprises a matter/antimatter fuel cell that powers a sustainer coil. The coil maintains a warp field around the torpedo that is handed off from the launching ship, allowing the torpedo to travel at warp speeds. As part of Dr. Timicin's experiments in 2367 in fusion enhancement within stars, sustainer engines were modified on a number of photon torpedoes. 
+
+Reference: Half a Life 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

@@ -1,0 +1,7 @@
+STATIONS: Transmuter Station
+
+A biologic station in use by Species 8472 for the purpose of collecting and converting dilithium and metal ores, and latinum into usable energy for the various biological lifeforms serving in non-Fluidic space. These stations are mutated from passive embryos that are given birth by the Mother. They are quick to develop compared to other passive embryos. They can move, unlike most other Species 8472 stations, so they can reposition themselves closer to a new fuel source when one is depleted, but they are very slow movers and not likely to be able to avoid attack. They have no weapons or defenses of their own and are vulnerable to weapons fire.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2002 Activision

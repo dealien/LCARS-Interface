@@ -1,0 +1,14 @@
+SHIPS: Erstwhile, S.S.
+CLASS: 9
+TYPE: transport
+
+Interplanetary ship making runs between the trojan Madena planets. Its cargo holds were empty and its guidance system burned out when discovered by the Enterprise in 2365. 
+
+Reference: The Outrageous Okona 
+The Erstwhile was a re-use of the Merchantman miniature originally built for The Search For Spock. The Continuum featured images of a different type of vessel.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

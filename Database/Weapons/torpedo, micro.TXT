@@ -1,0 +1,11 @@
+WEAPONS: Micro-Quantum Torpedo
+
+Dimensions: 13.3 x 3.2 x 3.1 Centimetres
+Mass: Unknown 
+Effective Range: 1.2 million KM
+
+The Micro Quantum Torpedo was introduced to help arm the relatively small and undefended Starfleet Runabouts. Although Runabouts were equipped with Phaser arrays, a more powerful weapon was required to help defend the Runabouts against larger, more powerful oponents such as the Dominion fighters they were frequently encountering. Measuring just 13 cm in length, the Micro Quantum Torpedo is the most powerful weapon of it's size. When fired from a Runabout, the torpedo incorporates a mini guidance system which will home in on the nearest enemy target, but this guidance system does not kick in unitil 3.7 seconds after it is launched in order to let it clear the vicinity of the Runabout. As with all torpedoes, the Micro Quantum Torpedo can be fired while the ship is at Warp.
+
+Reference:
+Information provided by:
+Deep Space 9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books

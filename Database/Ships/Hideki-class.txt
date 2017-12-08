@@ -1,0 +1,39 @@
+CLASS: Hideki
+TYPE: Strike Fighter
+
+A fighter used by the Cardassian Union. Resembling a stubbier version of the Galor-class warship, the class of vessel is known and recognized by Starfleet computer databases. It has a crew of three or more and is armed with at least photon torpedoes and capable of jamming subspace frequencies. Gul Evek boarded the O'Brien's runabout from such a ship to seize Chief O'Brien and his cargo. It may be of the same class as that detected in the early Maquis tensions and may be used for other uses, such as freight hauling. Many of its significant design elements appear to be copied from the Defiant-class starship, indicating that Cardassian intelligence has obtained technical information about the escort vessel. 
+
+DISPLACEMENT
+Standard: 120,000 MT
+
+DIMENSIONS
+Length: 85.78 m
+Beam: 60.14 m
+Draught: 12.43 m
+
+PROPULSION
+Warp Drive: 1 (Possibly 2) M/A Warp System
+Impulse Drive: 1 or more
+
+VELOCITY
+Normal Cruising Speed: 6*
+Max Cruising Speed: 9.5*
+* observed
+
+COMPLEMENT
+Total: 30 plus Flight Crew*
+* estimated
+
+WEAPONS
+Ship: 4 or more Spiral-Wave Disruptors; 1 Medium Aft Disruptor Wave Cannon; possibly others
+
+Reference: Tribunal
+This class may have been named in honor of Japenese physicist Yukawa Hideki, who first postulated the existence of the subatomic pion in 1935, although it is unclear why Cardassians might so recognize an Earth scientist.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+
+
+
+

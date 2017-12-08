@@ -1,0 +1,12 @@
+SHIPS: U.S.S. Platte
+CLASS: Danube
+TYPE: Runabout
+REGISTRY:
+
+New Deep Space Nine Runabout stolen by Pak Dorren in 2371. 
+
+Reference: Time’s Enemy
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

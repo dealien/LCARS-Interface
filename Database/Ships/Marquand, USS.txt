@@ -1,0 +1,10 @@
+SHIPS: U.S.S. Marquand
+CLASS: Danube
+TYPE: runabout
+REGISTRY: 
+
+A runabout assigned to the U.S.S. Excalibur. Si Cwan and Zak Kebron traveled aboard the Marquand to a rendezvous with the Kayven Ryin while the Excalibur was busy with another rescue. The call from the Kayven Ryin turned out to be a trap, and the Marquand was destroyed by Zoran, an enemy of Si Cwan. Si Cwan and Zak Kebron escaped by transporting to the Kayven Ryin.
+
+Reference:
+Information  provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack

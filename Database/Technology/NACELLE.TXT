@@ -1,0 +1,12 @@
+TECHNOLOGY: nacelle
+
+That part of a starship's hull that houses the warp drives -- usually an outboard pair of symmetrical cylinders or pods, and in Federation designs running parallel to the ship's line of flight. The nacelles contain subspace field coils and in some cases have Bussard collectors mounted at the fore end. 
+The warp field coils, also known as toroids, are two halves of a circular shape matched pair.
+
+Reference: The Cage, Peak Performance, The Battle, Eye of the Beholder, All Good Things...
+Information provided by:
+Gene Roddenberry insisted that starships have even numbers of nacelles, although the refit Enterprise-D from anti anti-time future had three. The nacelle control room and plasma injectors were a full-sized set designed by Richard James. The cavernous warp coils were a miniature designed by Anthony Fredrickson and composited by visual effects supervisor David Stipes. The design of the coils was based on a drawing by Rick Sternbach in the TNG Technical Manual.
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

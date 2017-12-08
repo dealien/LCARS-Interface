@@ -1,0 +1,21 @@
+CLASS: Palomar
+TYPE: science
+
+These small vessels were designed to replace the work previously done by the Edison-class series of ships. Offering a broader range of scanning equipment these ships were better designed for general science and observation, and featured more advanced engines so that the ship could be refreshed (crew rotations, refueling, repairs and refits) more often.
+
+Commissioned: 2139
+Decommissioned: 2167
+
+DIMENSIONS:
+Length:	100 meters
+Weight:	26,581 tons
+
+ACCOMODATIONS:
+Crewmen:	50
+
+PROPULSION:
+Second generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

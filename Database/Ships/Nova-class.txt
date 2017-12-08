@@ -1,0 +1,16 @@
+CLASS: Nova
+TYPE: science
+
+A small Federation research craft. These vessels are designed for short-term planetary research missions, outfitted with minimal weapons, and have a maximum speed of warp 8. These ships have a typical crew compliment of 78.
+One of these vessels, U.S.S. Equinox under the command of Captain Rudolph Ransom, was captured by the Caretaker and taken to the distant Delta Quadrant, then forced to find its own way home, like the U.S.S. Voyager. Those two ships met while returning and the smaller ship was destroyed.
+
+SHIPS OF THIS LINE:
+U.S.S. Nova, NX-
+U.S.S. Equinox, NCC-72381
+
+Reference: Equinox
+The ship design was originally one of the suggestions for the U.S.S. "Defiant Pathfinder" that was used on Deep Space Nine.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+

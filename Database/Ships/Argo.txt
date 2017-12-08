@@ -1,0 +1,13 @@
+SHUTTLECRAFT: Argo
+TYPE: 21
+MODEL:
+MISSION: 
+
+The Argo shuttle is the latest and most advanced design of shuttlecraft thus far, a two vehicle pair.
+The ship, equipped with retractable wings that allow the craft to easily land on a variety of planet surfaces, is housed in the Enterprise-E's main shuttlebay, located on the saucer section. The Argo allows away teams to achieve quick and easy ship-to-shore missions, where it would be too dangerous to beam only an away team. An ATV, under the same namesake as the shuttle which houses it, is a standard feature of the Argo. 
+Both the shuttle and the ATV were tested in the field circa Stardate 56844. Captain Picard, Data and Worf used the craft to investigate unique positronic signatures on Kolarus III.
+
+Reference: Star Trek Nemesis
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+

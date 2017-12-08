@@ -1,0 +1,32 @@
+TECHNOLOGY: Transporters
+
+Transporter systems work somewhat differently to replicators, though many of the principles are the same. When a person steps on to a transporter pad, and the transporter sequnce is initialized, the person is held within an "annular confinement beam". This beam acts like a forcefield and prevents the person from moving too much so that the transporter can analyse his/her molecular build. Once the transporter has analysed the person, he is deconstructed at the quantum level by phase transition coils. His pattern is held temporarily in a buffer beore being beamed away from the ship to his destination as a stream of data. Once the data reaches its destination, the subject is then reconstructed back into his whole self.
+Incoming transports are very similar, however, before the pattern is rematerialised on the transporter, it passes through a bio-filter to seperate any possible harmful organisms or viruses that could spread throughout the ship. The pattern is then held briefly in the pattern buffer. In an emergency, a single pattern can be held in here for up to 6.5 mins before being fully materialised.
+The Galaxy-class contains 4 personnel transporters, 8 cargo transporters, and 8 emergency transporters. Personnel transporters are configured to transport at the quantum level. Cargo transporters operate at the molecular level and as such cannot transport living beings. They can be configured to operate at the quantum level with considerable reduction in transportable payload mass. The effective range of the transporter is 40,000 kilometers.
+Transported matter is not converted to energy, but is disassembled by the transporter (at the appropriate resolution) and is conveyed via an "annular confinement beam" as a "subatomically debonded matter stream." and reassembled at the destination. 
+The Transporter sequence:
+1. Transporter operation sequence all those preparing to be transported enter the standard six-person chamber and take up their position on each transporter pad of the platform, which is elevated to prevent the chance of occasional static discharge. At this time, the transport operator uses the system's automated controller - a dedicated subprocessor located in consoles off to one side - to run a self-diagnostic check in order to verify that all of the various system components are in full working order. 
+2. Transporter Check All the main components of the transporter system are checked automatically each time it is used in order to eliminate any potential malfunctions. These components include the primary energizing coils, the phase transition coils, the molecular imaging scanners, the pattern buffer, the biofilter and, on the ship's exterior, the emitter pad arrays and the targeting scanners. 
+3. Destination Coordinates The destination coordinates are relayed via computer from another ship's station or input directly by the operator, and once the system and travelers both signal 'ready' the operator 'sweeps' the three red touch-sensor controls upward. This is usually performed upon the traditional command to 'energize'.
+4. Confinement The annular confinement beam (ACB) creates a spatial matrix from the primary energizing coils overhead. A secondary inner field is a back-up safety feature, to prevent an energy discharge if the ACB is disrupted.
+5. Scanning Four redundant molecular imaging scanners in the overhead pads make the 'memory file' of each transporting subjects quantum state. 
+6. Records The pattern is stored in the ship's computer as a retrievable transporter trace and an entry in the transporter log records the beam-out itself. 
+7. Disassembly Using a wideband quark manipulation field, the phase transition coils in the lower pads begin the actual disassembly of each body by partially unbinding their energy on the subatomic level. 
+8. Matter Stream Once recorded and deconverted, each pattern's matter stream is held in the pattern buffer until the Doppler shifts between ship and the destination can be determined. 
+9. Pattern Buffer The Pattern Buffer is a superconducting tokamak device holding the pattern in suspension. One pattern buffer is shared by each twinned set of transporter chambers but, as with every stage of the beaming process, a backup is assigned for emergency shunting if needed. 
+10. Beam out Once beam out is secured, an ACB 'carrier' directs each pattern's matter stream through an emitter array on the external hull of the ship toward the target coordinates. A booster set of the coils and scanners then work in reverse within the ACB to reassemble each pattern into its original form
+11. No receiver required Because no special arrival apparatus is required, a transporter destination may be another point within the same ship, another vessel, or a planet surface. In adverse cases, a destination site's transporter system may be used to aid reception, if so equipped. 
+12. Warp Limits Transport between two objects is not possible unless the warp factor is matched precisely, and the procedure requires an experienced operator.
+13. Arrival Within five seconds of the initial energizing signal, the transported body has fully reformed at the target destination.
+14. Return The repeat process from a destination without its own transporter system is accomplished in much the same way, using a crew member's personal communicator, or ship's sensors in other cases, to provide a lock-on signal. 
+15. Security Weapons or other accessories deemed unwanted for security reasons may be detected, deactivated or even removed form persons arriving within the ACB 
+
+Reference: The Cage, et al episodes of Star Trek
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+Starfleet Technical Manual, @1979 Franz Joseph
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+http://web.ukonline.co.uk
+

@@ -1,0 +1,17 @@
+SHIPS: Sao Paulo, U.S.S.
+CLASS: Defiant
+TYPE: destroyer
+REGISTRY: NCC-75633
+
+"Give me liberty, or give me death" Patrick Henry
+This ship was assigned to Deep Space Nine following the destruction of the U.S.S. Defiant. Admiral Ross allowed for special dispensation and changed the name of this ship to U.S.S. Defiant and transferred the Defiant crew to this ship. He also changed the ship’s registry to NX-74205 like the original.
+
+Commissioned: 52859.3
+
+Reference:
+Named for the people of Brazil, as stated on the dedication plaque. The name change was done (no question about it) so that the visual effect department would not have to create new visuals for the remaining episodes of the series- they could continue to use stock footage of the Defiant.
+Information provided by:
+Ex-Astris Scientia, www.ex-astris-scientia.com, @2002 Bernd Schneider
+Gilso Schematics, gerarg.g@ntlworld.com Gerard Gillan 
+
+

@@ -1,0 +1,12 @@
+SHIPS: Venture, U.S.S.
+CLASS: Galaxy
+TYPE: heavy cruiser
+REGISTRY: NCC-71854
+
+Leader of a six-ship relief force for Deep Space Nine. The Venture helped DS9 deal with Klingons wanting Cardassian leaders handed over in 2372. The vessel's captain was a friend of Captain Benjamin Sisko's, who offered Worf a posting on his ship if Worf decided not to stay with the station. 
+
+Reference: The Way of the Warrior
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

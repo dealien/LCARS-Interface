@@ -1,0 +1,11 @@
+STATION: Farside Station
+SYSTEM:
+SECTOR:
+QUADRANT: Alpha
+
+Cardassian space station on the far side of Cardassian space.  Berat worked as an engineer there before the Revanche Party seized control of Cardassia in 2370. 
+
+Reference: Betrayal
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

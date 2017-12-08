@@ -1,0 +1,9 @@
+STATIONS: Midas-class
+
+An unmanned communications platform used by the United Federation of Planets. Starfleet Communications used this station to emit a tachyon beam toward a itinerant pulsar which would create a surge powerful enough to create an artificial wormhole. Through that wormhole Starfleet was able to establish instant communication despite the vast distance.
+
+Reference: Pathfinder
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+
+

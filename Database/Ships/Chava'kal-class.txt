@@ -1,0 +1,9 @@
+CLASS: Chava’kal
+TYPE: frigate
+
+A troop transport in use by the Klingon Empire for transferring warriors. These starships are used for attack scenarios and can quickly overtake enemy vessels, stations, and planets. These ships are equipped with unusually large transporter systems to facilitate the quick transfers which can overwhelm the crew of an enemy target and allow the warriors to take control before too much damage is done.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

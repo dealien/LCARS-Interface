@@ -1,0 +1,14 @@
+CLASS: Constitution
+TYPE: heavy cruiser
+
+Initially commissioned circa 2245, this type of Federation starship is one of the most well-known. During the 2250s there were only twelve of this class of ship commissioned into service. The original U.S.S. Enterprise is of this class. Others have included the U.S.S. Excalibur NCC-1664 and the U.S.S. Potemkin NCC-1657. A refit program was instituted to bring new life into the original starships as well as an aggressive program to build a variant of this class, called Constitution II-class.
+
+Reference: Star Trek the original series and movies
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Starfleet Technical Manual, @1977 Franz Joseph
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+

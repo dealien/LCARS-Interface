@@ -1,0 +1,11 @@
+CLASS: Invictor
+TYPE: scout/ Interceptors
+
+The first vessels to travel past Satarra IV were planes modified for space flight. These ships are not warp capable, but feature two Ion radiant thrust engines that can propel it to speeds of ¼ Impulse, or 1/16 the speed of light. At that speed it would take an astronaut about 30 seconds to reach their moon and a week to cross their entire solar system. The three wing design placed each wing at 120? of each other, two 30? below the main flight plane, and one at 90? straight up. The lower wings were equipped with landing gear for liftoff and landing. The wing blades were narrow, square pieces of metal that extended out from the plane. To add support, long arms were attached from a point just behind the muzzle of the craft to the wing ends to form a triangle. 
+The main fuselage tapered to a point in the front and bulged for the cockpit in the center of the craft. At the foremost point of the craft was a harpoon launcher, when so equipped, and the sensor array. Aft of that was the computer core and control systems. The main cockpit was next which featured a transparent aluminum dome and seat belts to restrain the pilot during zero gravity space flight. Below the cockpit is the mooring hatch for spacial transfers. Original models did not offer this feature, but as the space fleet grew, it was added to new builds. 
+Behind that was the environmental systems that also included food preparation and storage. Aft of the fuselage was the main reactor which fed all systems including the two thrusters. The thrusters were attached externally to the craft on the sides of the fuselage and on top of the lower wings. In later models, these craft were modified to carry laser cannons at the edge of each wing.
+
+Reference: Q Neighbor
+These ships were modeled after the fighter craft seen in Battlestar Galactica.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

@@ -1,0 +1,11 @@
+SHIPS: Phoenix
+TYPE: transport
+
+Federation tanker.  The Phoenix was used to deliver 30 storage tanks of Antimatter from Alpha Centauri to Bajor in 2370.  Upon arriving at Deep Space Nine, the Phoenix was attacked by two Klingon birds-of-prey and hijacked through the Gamma Quadrant.  Commander Sisko, Jadzia Dax, and Odo were able to recover the tanker and return it to the Alpha Quadrant. 
+
+Reference: Antimatter
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+
+

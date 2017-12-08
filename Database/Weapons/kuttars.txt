@@ -1,0 +1,8 @@
+WEAPONS: kuttars
+
+Type of bayonet.
+
+Reference: Blood Oath
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

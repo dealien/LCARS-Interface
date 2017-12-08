@@ -1,0 +1,13 @@
+CLASS: Hanseatic
+TYPE:
+
+U.S.S. Hanseatic, NX-
+
+DIMENSIONS:
+LENGTH: 341 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

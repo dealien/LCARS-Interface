@@ -1,0 +1,7 @@
+WEAPONS: tachyon detection grid
+
+This sensor enhancement is often used on sensor arrays and scout vessels like the Venture-class scout. These improvements in the sensors allow scans to use tachyon particles to detect for cloaked ships in the vicinity. Many of the Alpha Quadrant's major powers have developed this technology and use it regularly in their monitoring posts with the exception of the Cardassian Union.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2000 Activision

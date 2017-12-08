@@ -1,0 +1,21 @@
+CLASS: Iwo Jima
+TYPE: Frigate
+
+These starships are usually only seen in large convoys and fleet deployments. They are basically armed troop transports designed to ferry large numbers of Starfleet Marines into battle. Construction began in 2375 after many Federation implacements were lost to Klingon forces before the Dominion War. These ships have one primary function; to assist in disabling a target's shields then transporting large compliments of troops over to the shield-less station, ship, or planet and to begin combat.
+Special Marines are used to crew these starships, those with training in hand-to-hand and hand/weapon combat; as well as those familiar with a variety of starship operations. Once a target has been overrun by Marines the target will then be turned over to Starfleet control. 
+These ships are armed with pulse phasers and powerful tractor beams to hold on and disable a target's shields. Many times these ships are assisted by the firepower of the nearby vessels to disable the shields of large targets such as enemy starbases and the like. These ships are also equipped with numerous evacuation type transporters in order to transfers large numbers of Marines in a short period of time.	
+
+SHIPS OF THE LINE:
+U.S.S. Iwo Jima, NX-
+U.S.S. Bougainville, NCC-
+U.S.S. Culebra, NCC-
+U.S.S. Peleliu, NCC-
+U.S.S. RL Ermey, NCC-
+U.S.S. Solomon, NCC-
+U.S.S. Tarawa, NCC-
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+
+

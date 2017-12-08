@@ -1,0 +1,11 @@
+CLASS: Rassel
+TYPE: transport
+
+The most popular Antedean freighter in use by that race of people. It is the most different from any other Antedean ship too since it does not feature the three dimensional teardrop hull of the others, rather an almost two dimensional.
+The main hull is five decks thick from bow to stern. All of this space is dedicated to the storage of freight in large cargo holds that can be accessed from inside or from crago doors in the ship's dorsal hull. These openings make it easy for these craft to carry large pre-fabricated items and to load and unload these pieces while in a zero-g environment. These features would be especially useful for construction of space borne objects like starships, stations, and starbases.
+The main hull is equipped with the two warp nacelles that are typical of all Antedean designs, and are built into the hull sides like normal. They are supplied power by reinforced EPS conduits from the bridge module. Between the engines are the fuel tanks and pods that supply power directly to the M/ARA above them. In the aft of the main hull is a large hangar for shuttles; even though many times a freighter has been known to fill this area with cargo as well.
+The bow of the craft is equipped with two fins, one on each side, and each of them are fitted with a deflector dish. The aft of the craft is fitted with two larger fins that contain the impulse engines and thrusters. The bridge module contains all other ship functions including command sections, engineering, and personnel facilities. Reinforced EPS and ODN lines transfer power and commands to the front and rear sections.
+
+Reference: Genesis Nebula
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

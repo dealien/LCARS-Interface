@@ -1,0 +1,11 @@
+CLASS: Sparta
+TYPE:
+
+U.S.S. Sparta, NX-
+
+DIMENIONS:
+LENGTH: 281 meters
+
+Reference:
+Information provided by:
+Ex-Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider

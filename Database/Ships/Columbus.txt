@@ -1,0 +1,10 @@
+SHUTTLECRAFT: Columbus
+CLASS: Type 2
+REGISTRY: NCC-1701-4
+
+Enterprise NCC-1701 Shuttle used at Argelius to defeat Romulan trying to get Trilithium.  
+
+Reference: Battlestations!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

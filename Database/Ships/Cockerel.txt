@@ -1,0 +1,10 @@
+SHIPS: Cockerel 
+CLASS: Dynacarrier
+TYPE: Naval
+
+Earth (ocean-going) cargo vessel. Kirk and some friends (Emily; Malkin, Zack; Pogue, Lucy; Beauvais, Tom) wanted to sign on as crew.  
+
+Reference: Best Destiny
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

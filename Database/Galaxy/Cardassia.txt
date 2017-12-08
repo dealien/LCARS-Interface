@@ -1,0 +1,10 @@
+PLANET: Cardassia
+SYSTEM: Cardassia
+SECTOR: Cardassian
+QUADRANT: Alpha
+
+1) In the 23rd century, the Emperor of Cardassia changed the Cardassian musical scale.  The scale was shortened to accomodate his voice range.  By the 24th century, the scale reverted back to its original form.2) In the 23rd century, Cardassians sent 3 envoys out to travel to the Bekkir homeworld  to get their help in their war with the Klingons.  All ships were destroyed by the Bekkir.{NOTE: There's a problem with this story.  Odo admits that this is "pre-wormhole", so how did the Cardassians send the envoy to begin with?  And how did Cardassia learn that ALL envoy ships were destroyed.  There must have been survivors who traveled back to Cardassia, but that would have taken decades. Did the Cardassians send out generational ships to track down the Bekkir?  And did these ships have life pods?  If so, these events must have happened OVER 100 years earlier}    Fallen Heroes    In 2370 the Cardassian government was briefly overthrown and replaced by the Revanche Party which was quickly replaced by the former regime. Betrayal     Ten thousand years ago the ancestors of the Cardassians were swimming in swamps catching fish in their mouths. Fall of Terok Nor    They were quite particular about preserving their comrades' remains, which caused them to equip Terok Nor with lot of stasis drawers. Life-saving equipment, on the other hand, does not seem to have been as important. Time’s Enemy     On Cardassia, sabotage is a capital offense. On Cardassia, various sectors have different systems of mathematical notation. While the numbers remain the same, the bases used for dividing and multiplying into units of measurement differ. The mathematical bases have their roots in the various economic classes. The main mathematical bases are the Damur, the scientific system, and the Umur, the military system.   
+
+Reference: Bloodletter
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

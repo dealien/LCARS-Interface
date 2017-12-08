@@ -1,0 +1,10 @@
+SHIPS: Republic, U.S.S.
+CLASS: Constitution
+REGISTRY: NCC-1371
+
+While serving aboard this vessel, Ensign James Kirk reported a careless mistake made by Ensign Ben Finney. Finney later claimed that this kept him from receiving a promotion for three years. The Republic eventually became a training ship. 
+
+Reference: Court Martial 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

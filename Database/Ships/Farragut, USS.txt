@@ -1,0 +1,14 @@
+SHIPS: Farragut, U.S.S.
+CLASS: Constitution
+REGISTRY: NCC-1647
+
+Timeline:
+Commissioned and assigned to Captain John Garrovick.
+Lieutenant James Kirk accepted his first starship posting here.
+2257: 200 crew members were slaughtered by the dikironium cloud creature on Tycho IV. 
+
+Reference: Obsession 
+Named for American naval officer David Glascow Farragut, who commanded Union ships during the American Civil War, famous for his rallying cry, "Damn the torpedoes, full speed ahead.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

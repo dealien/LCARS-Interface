@@ -1,0 +1,13 @@
+SHIPS: Lexington, U.S.S. 
+CLASS: Nebula
+TYPE: medium cruiser
+REGISTRY: NCC-61832
+
+The third starship to bear the name. For the graduating class of 2369 this ship was the prime request for a posting for its exploration mission into uncharted territory. It docked at Deep Space Nine in 2371, giving Chief Medical Officer Elizabeth Lense, from the class of '69, a chance to visit with her former classmate, Dr. Julian Bashir. Lense was a little disappointed with her choice after serving two years. The hectic pace of exploration never gave her a chance to properly study anthing, unlike what she expected her job to be like.
+
+Reference: Explorers 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.startrek.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

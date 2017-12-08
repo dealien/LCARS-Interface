@@ -1,0 +1,16 @@
+SHIPS: Enterprise-C, U.S.S.
+CLASS: Ambassador
+TYPE: heavy cruiser
+REGISTRY: NCC-1701-C
+
+The fourth starship to bear the name U.S.S. Enterprise, commanded by Captain Rachel Garrett. 
+The ill-fated but historic ship was lost with all hands aboard some in 2366 after it answered a distress call from the Klingon's Narendra III outpost and engaged three attacking Romulan warbirds - a heroic sacrifice that further cemented the growing trust between the two governments. 
+Still, the act was more substantive than anyone could have guessed: the battle created a temporal rift that swallowed the ship and left no trace of its impending mercy run in an alternate universe, where the lack of its heroism contributed to friction that led to a long all-out war between the two powers that the UFP was slowly losing by 2366. The tear in time was not healed until U.S.S. Enterprise NCC-1701-C's 123 survivors, commanded after Captain Garrett's death by helmsman Castillo and the alternate time-line's Lieutenant Natasha Yar from the U.S.S. Enterprise NCC-1701-D, made the trip back through to certain death in their interrupted battle. 
+
+Reference: Yesterday's Enterprise 
+The Enterprise-C model was designed by Rick Sternbach and Andrew Probert. Interior supervised by Richard James.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

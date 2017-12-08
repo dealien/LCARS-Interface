@@ -1,0 +1,8 @@
+TECHNOLOGY: microreplication system
+
+Components of an exocomp allowing it to fabricate tools for conducting engineering tasks. When an exocomp performs a task it has never attempted previously, the microreplicator creates a new circuit pathway within the system. 
+
+Reference: The Quality of Life 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

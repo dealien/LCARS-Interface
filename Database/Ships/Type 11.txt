@@ -1,0 +1,16 @@
+SHUTTLECRAFT: 
+TYPE: 11
+MODEL:
+MISSION: long-range scout
+
+This long-range, streamlined Starfleet shuttle was used by Data when he escaped from the Ba'ku planet. 
+
+Speed:      Mid-Warp speeds
+Crew:       2 Flight Crew, 4+ passengers
+Armament:   4 Phaser arrays, 1 micro-torpedo launcher
+
+Reference: Insurrection
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

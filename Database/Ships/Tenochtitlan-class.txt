@@ -1,0 +1,12 @@
+CLASS: Tenochtitlan
+TYPE:
+
+U.S.S. Tenochtitlan, NX-
+
+DIMENSIONS:
+LENGTH: 315 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

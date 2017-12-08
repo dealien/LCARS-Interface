@@ -1,0 +1,20 @@
+STATIONS: drydock
+
+Orbital construction used for major maintenance and repair of starships and other space vessels. Most stations are created to be universal enough to handle a wide variety of ship types. Different sized and shaped stations are used for building different sized craft. These stations often contain large amounts of materials, like "shop parts", are assigned fleets of workbees and EVA equipment, and house up to 500 engineers each.
+Utopia Planitia, in Mars orbit, houses the Advanced Starship Design Bureau, a collection of shipyards and engineering offices deep within the Federation for the purpose of building and exploring new ship designs. Most of Starfleet's noted ships of the line were originally built and tested here. Once approved for general construction other drydocks may be approved to build these ships as well.
+The original Enterprise NCC-1701 was refit in the San Francisco Yards dry-dock located in Earth orbit after completion of its initial five-year mission under Captain Kirk's command. The U.S.S. Enterprise-D docked at McKinley station after its encounter with the Borg, another shipyard in orbit of Earth.
+Most spacefaring civilizations employ these kinds of stations since it is often much easier to conduct the work in space than on the ground.
+
+STATIONS OF THIS TYPE:
+Barisa Prime
+Cestus Prime
+Idran Prime
+Invernia Prime
+Moriya Prime
+Qualor Prime
+
+Reference: Star Trek: The Motion Picture, Family, Armada
+Information provided by:
+The Continuum, www.satrtrek.com, @2002 Paramount Pictures
+Armada, www.activision.com, @2000, 2002 Activision
+

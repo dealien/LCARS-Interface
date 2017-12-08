@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Bondar
+CLASS: Akira
+TYPE: heavy cruiser
+REGISTRY:
+
+Federation starship assigned to protect Deep Space Nine from Dominion forces while the station was offline in late 2374. 
+
+Reference: Fall of Terok Nor  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S 
+

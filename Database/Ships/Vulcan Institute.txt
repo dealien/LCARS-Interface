@@ -1,0 +1,8 @@
+STATIONS: Vulcan Institute
+
+A science and research station specializing in starship enhancements. This station has developed life support, shield, weapons, sensor, and engine upgrades to help the entire fleet.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

@@ -1,0 +1,13 @@
+SHIPS: Bellerophon, U.S.S.
+CLASS: Nebula
+TYPE: medium cruiser
+REGISTRY: NCC-62048
+
+A Federation starship among those destroyed in the Battle of Wolf 359 with the Borg, as Commander Sisko recalled the incident on stardate 46379.1. 
+
+Reference: Emissary
+The ship is named for the mythical Greek hero who slew the Chimera with the aid of Pegasus. It is also named after the ship from the movie "Forbidden Planet."
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

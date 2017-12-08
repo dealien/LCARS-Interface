@@ -1,0 +1,15 @@
+CLASS: D'Kora
+TYPE: heavy cruiser
+
+A type of starship used by the Ferengi Alliance. Sophisticated vessels, some Marauders were equipped with the ability to fire a powerful plasma energy burst, capable of disabling a Galaxy-class starship. The first encounter with the Federation was in 2364 near planet Gamma Tauri IV.
+
+Crew: 450
+
+Reference: The Last Outpost, The Battle, Peak Performance, The Price, Menage a Troi, Rascals
+The Ferengi ship was designed by Andrew Probert and built by Greg Jein.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2003 Sean Stevenson
+Gilso’s Schematics, Gerard.g@ntlworld.com, Gerard Gillan
+

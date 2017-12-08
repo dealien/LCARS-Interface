@@ -1,0 +1,7 @@
+WEAPONS: chain reaction pulsar
+
+This weapon is a torpedo that automatically locks onto the closest enemy target, hits the target, and gains in intensity when it hits the shields of the enemy vessel. The torpedo is then deflected, intact, toward the next nearest target with more destructive power than when it was first launched. The torpedo will continue to bounce around hitting targets until each vessel has been hit, or until the accumulated energy is enough to overwhelm an enemy ship.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2000 Activision

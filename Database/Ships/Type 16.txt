@@ -1,0 +1,34 @@
+SHUTTLECRAFT: Roddenberry-class
+TYPE: 16 shuttlepod
+MODEL: MKY-XVI
+MISSION: Medium Short-Range Sublight Shuttle
+
+DISPLACEMENT
+Light: 1.18 MT
+Standard: 1.25 MT
+Full: 1.32 MT
+
+DIMENSIONS
+Length: 4.8 m
+Beam: 2.4 m
+Draught: 1.6 m
+
+POWER PLANT
+Engines: 2 750 Millicochrane Impulse Drivers
+Reaction Control System: 8 DeFL 635 Hot Gas RCS Thrusters
+Power Supply: 4 Sarium Krellide Storage Cells
+
+PERFORMANCE
+Maximum Delta-v 12,250 m/sec
+
+COMPLEMENT
+Crew: 2 (Pilot and Systems Manager)
+Passengers: None (Standard); 2 (Emergency)
+
+ARMAMENT
+2 Type IV Phaser Emitters
+
+Reference:
+Information provided by:
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

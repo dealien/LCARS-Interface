@@ -1,0 +1,10 @@
+SHIPS: Cardassian orbital platform
+
+Two unmanned different station types were created to protect Cardassian interests. The phaser style platforms were introduced in the Chintoka System. The torpedo versions were integrated into existing blockades. Each station uses regenerative shielding and induction power from a central power station.
+
+Reference: Inter Arma Leges, Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+
+
+

@@ -1,0 +1,10 @@
+SHIP CLASS: Demon
+TYPE: Short-range raider
+
+Type of Klingon vessel. The Pathfinders fed false information to computers on Prime in 2269 claiming such ships had landed and were invading. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2007 Deb J S
+
+

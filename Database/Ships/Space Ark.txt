@@ -1,0 +1,37 @@
+SHIPS: Space Ark
+TYPE: transport
+
+The Space Ark was originally conceived as a huge interplanetary industrial spaceworks, but its design flexibility was too narrow to keep pace with the rapidly evolving technology of the 21st century. Instead, it was cheaply purchased by a consortium of like-minded people, who refitted it as a multi-generational colony ship.
+Only one of these ships survived its journey out of the Sol System; and that one stranded its passengers on a totally hostile planet.
+
+Commissioned: 2067
+
+DIMENSIONS:
+Length: 	306 meters
+Diameter: 	140 meters
+Weight:	34.6 million kilograms
+Living Sphere 
+Diameter: 	57.5 meters
+Volume:	100,000 cubic meters
+Fuel Sphere (4)
+Diameter:	64 meters
+fuel volume 	137,500 cubic meters
+
+ACCOMODATIONS:
+
+PROPULSION:
+Speed: 		.5c
+Multi-configured advanced fusion
+
+SUPPORT SYSTEMS:
+Food grow tanks
+Manufacturing facilities
+Resource collectors
+Schools
+Stores
+Recreational facilities
+Chapel
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

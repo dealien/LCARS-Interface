@@ -1,0 +1,13 @@
+SHIPS: Rio Grande, U.S.S.
+CLASS: Danube
+TYPE: runabout
+REGISTRY: NCC-72452
+
+The only remaining survivor of Deep Space Nine's three original runabout vessels dropped off by the U.S.S. Enterprise NCC-1701-D; it is apparently the first one to be used after Starfleet's arrival when Science Officer Dax and Commander Sisko head out to explore what turns out to be the wormhole, and later - with the wormhole aliens' help, presumably - it tows out an entire Cardassian warship. When Sisko and Dukat took it with all three runabouts to head off the Maquis at the Bryma colony, it sustained damage to the impulse fusion core, port warp nacelle, and required a few days to repair. Jake Sisko and Nog disabled half of its systems trying to fly it while returning from a Gamma Quadrant science project interrupted by Commander Sisko and Quark's capture by the Jem'Hadar. 
+
+Reference: Emissary, et al Deep Space 9
+Named after the river separating Texas from Mexico on the North American continent, Earth. Members of the staff art department, noticing that the Rio Grande seems to be the longest lived (and therefore the safest) of any of the runabouts assigned to the station, strongly recommend that if you must travel by runabout, you should choose the Rio Grande. Just a suggestion.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

@@ -1,0 +1,11 @@
+CLASS: Windacron
+TYPE: runabout
+
+A popular craft in Grazerite space for transporting citizens within the system and to neighboring colonies. A single deck ship for transporting people and small amounts of luggage, but not heavy cargo.
+The ship is designed with a windowed bow so that passengers seated in rows can watch the starscape zip by. Aft of the passenger area are the flight attendants station, galley, head, and other passenger services. Next station aft is the bridge. Behind that is the main engineering section with a lateral warp core facing side to side. At the very far aft are the impulse engines. Below the main deck is a half deck that is used for small cargo (luggage), environmental support, landing struts, and the fuel tanks and pods.
+To the sides of the craft are the warp nacelles. Jutting out of the nacelles are the forward facing crescent shaped wings typical of Grazerite designs. The wings are like all others, equipped with anti-grav emitters and tractor beam projectors. Atop and below the nacelles are more forward facing crescent shaped wings with air foils to assist with atmospheric flight.
+
+Reference: Plague
+This craft was inspired by one of the land speeders seen in Star Wars. Its crescent wings were added to make the craft consistent with other Grazerite vessels and to continue the resemblance to Centauri ships of Babylon 5.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

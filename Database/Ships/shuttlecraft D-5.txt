@@ -1,0 +1,9 @@
+SHUTTLECRAFT:
+TYPE: 7
+REGISTRY: NCC-1701-D-5
+
+This Enterprise-D shuttle was used by Geordi La Forge and Reginald Barclay to look into a probe near the Argus Array. 
+
+Reference: The Nth Degree 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures

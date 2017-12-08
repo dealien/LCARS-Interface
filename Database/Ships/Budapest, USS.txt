@@ -1,0 +1,16 @@
+SHIPS: Budapest, U.S.S.
+CLASS: Norway
+REGISTRY: NCC-64923
+
+This starship was one of the vessels defending Sector 001 against the Borg invasion in 2373. 
+
+Named for the European city.
+
+Reference: Star Trek: First Contact 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+
+

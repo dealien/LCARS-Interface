@@ -1,0 +1,18 @@
+PROBES: Starfleet
+
+Class-1 sensor Probe
+An instrumented torpedo launched from Federation starships for investigation into areas that one might not wish to take the starship. The class-1 probe carries a very wide range of scientific sensing equipment.
+
+class-4 probe
+A self-contained scientifically instrumented probe used for remote sensor scans. On stardate 46853, a class-4 probe was sent to study an anomalous subspace disturbance near Deep Space Nine. 
+
+class-5 probe
+This medium-range probe is used for reconnaissance. Enterprise-D launched a class-5 probe to check out a Cardassian research facility that was supposedly located on Celtris III. 
+
+class-8 probe
+A probe designed for extended flight at high warp speeds, usually instrumented heavily with sensor equipment, it is similar in appearance and shape to a photon torpedo. Not specifically designed to fit a person, it was a class-8 probe in which Special Federation Envoy K'Ehleyr arrived on board the Galaxy-class U.S.S. Enterprise on stardate 42901.3. 
+
+Reference: The Emissary, Chain of Command, If Wishes Were Horses 
+Information provided by:
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson

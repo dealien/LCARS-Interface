@@ -1,0 +1,10 @@
+TECHNOLOGY: fusion reactor
+
+An energy source duplicating the energy creation effect of a star by merging atoms into one and harnessing the escaping energy. In many cases the electroplasma is funneled into the same conduits used by the warp engine energy and are engaged when the warp drives are offline. In other cases fusion reactors can be dedicated to specific uses like to operate impulse drives. When supplying energy to a starship it is considered auxilliary power, while main power is coming from the warp supply.
+Fusion engines succeeded fission reactors (those that split atoms) and were much less harmful and created fewer by-products. Fusion reactors were succeeded by warp engines.
+
+Reference: The Forsaken
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

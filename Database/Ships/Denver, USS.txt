@@ -1,0 +1,10 @@
+SHIPS: Denver, U.S.S.
+CLASS: Yorkshire
+REGISTRY: NCC-54927
+
+A transport ship with a standard crew of 23, capable of crash-landing on a planet as other Starfleet ships are designed to do. While transporting 517 colonists to the Beloti sector in 2368, it struck a leftover gravitic mine from the Cardassian War and required evacuation. The U.S.S. Enterprise-D assisted the ship from its location in the Mericor System.
+
+Reference: Ethics 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

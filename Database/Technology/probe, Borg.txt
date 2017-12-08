@@ -1,0 +1,9 @@
+PROBES: Borg
+
+A small oblong-shaped Borg vessel about half the size of an Intrepid-class Federation starship, with about the same amount of firepower. 
+In 2375, a Borg probe confronted the U.S.S. Voyager in an attempt to assimilate the ship and its crew. Voyager fought back, and at one point during the battle the probe was forced to remodulate its shields. During this vulnerable moment, Voyager beamed a photon torpedo aboard the probe which detonated near the power matrix. The explosion caused a chain reaction which completely destroyed the vessel. 
+The probe left behind eight kilotons of debris, from which Voyager salvaged a variety of equipment including two power nodes, 12 plasma conduits and what appeared to be an auto-regeneration unit made of some kind of lightweight polytrinic alloy. Also found was a servo-armature from a Medical Repair Drone, which included a laser scalpel, biomolecular scanner and micro-suture all rolled into one instrument. A transwarp coil was recovered, but it had self-destructed beyond repair by fusing its field regulator (per Borg protocol when a vessel is critically damaged). 
+Also salvaged from the debris were a couple of data nodes which contained tactical information that Voyager used to locate a disabled Borg scout ship and plan a "heist" of a working transwarp coil. 
+Reference: Dark Frontier, Part I 
+
+

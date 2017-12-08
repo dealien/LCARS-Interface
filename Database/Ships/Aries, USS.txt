@@ -1,0 +1,13 @@
+SHIPS: Aries, U.S.S.
+CLASS: Renaissance
+REGISTRY: NCC-45167
+
+Riker turned down command of this starship when it is offered upon her captain's retirement, circa stardate 42686.4. At the time, it is assigned to the Vega Omicron sector. 
+This ship was the last assignment for crew member Mendez before her disappearance in 2367, possibly associated with a mission she served on during her time aboard the U.S.S. Victory to Tarchannen III.
+The Aries was named for the Terran constellation (the Ram) of the same name, as well as for the moon landing shuttle from the motion picture 2001: A Space Odyssey.
+
+Reference: The Icarus Factor, Identity Crisis 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

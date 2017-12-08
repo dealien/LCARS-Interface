@@ -1,0 +1,40 @@
+CLASS: Hopkins
+TYPE: medical frigate
+
+In 2097 the first long term vessels were launched into space for the purpose of fleet support in remote locations. Hospital ships, as they were called, were sent to far flung areas and high traffic trade routes to be available to respond to emergency needs. These ships basically replaced the ambulance ships as the primary medical providers for space-going Terrans.
+As a long term craft, these ships were supplied like a station or starbase would be but were equipped with drive engines for moving and responding to emergency needs.
+
+Commissioned: 2098
+Decommissioned: 2133
+
+DIMENSIONS:
+Length:	238 meters
+Diameter:	150 meters
+Weight:	90 million kilograms
+Life Support Toroid
+Length:	25 meters
+Diameter:	150 meters
+Landing bays (4)
+Length:	28.2 meters
+Diameter:	16 meters
+
+ACCOMODATIONS:
+Crewmen:		23
+Medical:		105
+Capacity:		600
+Landing bays: 	4
+Space Ambulance:	5
+
+PROPULSION:
+Advanced first generation warp drive
+Range:	40 light years
+Velocity
+Cruising:	Warp 2.2
+Maximum:	Warp 2.7
+
+SUPPORT SERVICES:
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

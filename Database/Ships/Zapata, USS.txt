@@ -1,0 +1,11 @@
+SHIPS: Zapata, U.S.S.
+CLASS: Surak
+REGISTRY: NCC-33814
+
+A starship that was assigned to rendezvous with the U.S.S. Enterprise-D at Xanthras III, following the Betazed trade conference in 2366. 
+
+Reference: Ménage à Troi
+The encyclopedia states that the ships were to meet after the Enterprise mission to the Gamma Erandi Nebula; but the Continuum is supposed to be the official source for Trek news. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

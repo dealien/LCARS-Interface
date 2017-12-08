@@ -1,0 +1,17 @@
+SHIPS: U.S.S. Ajax
+CLASS: Apollo
+TYPE:
+REGISTRY: NCC-11574
+
+Federation Starship. 
+Jean-Luc Picard's friend from the Academy, Corey Zweller, was assigned to this ship upon graduating. In 2333 he was promoted to be the ship's second officer. He had a dom-jot table installed into the ship's recreation room with the permission from Captain Narth.
+It was also one of two Starfleet ships whose increased warp engine performance is supposed proof of consultant Kosinski's theories, who went from there to the U.S.S Fearless to the Galaxy-class U.S.S. Enterprise-D on stardate 41263.1. 
+The Ajax was also one of the ships in Captain Picard's blockade fleet on the Klingon-Romulan border on stardate 45020.4. 
+
+Reference: Where No One Has Gone Before, Tapestry, Redemption, Gauntlet
+Named for two heroes from Greek mythology who fought in the Trojan War, Ajax of Salamis and Ajax of Locris.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

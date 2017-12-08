@@ -1,0 +1,12 @@
+SHIPS: U.S.S. Lincoln
+CLASS: Constitution
+TYPE: Heavy cruiser
+REGISTRY: 
+
+Federation Starship, commanded by Captain Nash Sukaru.
+
+Reference: Dreadnought!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

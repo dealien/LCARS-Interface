@@ -1,0 +1,7 @@
+STATIONS: Recycler Station
+
+A Borg facility designed to dismantle assimilated vessels and to disect and learn about alien technology. This new technology can then be added to other Borg ship to use against their enemies.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

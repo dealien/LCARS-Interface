@@ -1,0 +1,44 @@
+CLASS: Galor
+TYPE: heavy cruiser
+
+Powerful military warships operated by the Cardassian Union that spanned a long lifetime for a series. As more powerful variations became available they were referred to by their type; 1, 2, 3. In the late 24th Century Cardassians were using a Tpye 3 version of the Galor-class.
+Two type-3 Galor-class ships, the most powerful in the fleet at the time, were dispatched to the Cardassian border to destroy a Bajoran Antares-class carrier in 2368. 
+The ships headed by Guls Dukat, Jasad and Dunar, with amber-orange running lights at the midpoint top and at each wing approached Deep Space Nine as soon as the U.S.S. Enterprise-D departed. The interior of Dukat's ship was blandly steel gray/brown metallic interior - featured angled arches, gridded ceiling lighting and flooring in corridors, lateral sliding doors, and in-wall crew lockers with automated hatch, opened with a one-touch side control panel. The ship-mounted weapons, referred to as phasers, were carried in at least two batteries; one forward, just under the overhanging fan structure, glows orange and fires a like-colored beam; it is fired in random duration. Cargo bays are located in the "belly" of the design. 
+A Cardassian warship was destroyed by the U.S.S. Phoenix in 2367, even though the starship's prefix codes were given to the pursuing Cardassians, identified as "5459824854" on the Enterprise sensor imaging display. 
+
+DISPLACEMENT
+Standard: 1,678,000 MT
+
+DIMENSIONS
+Length: 371.88 m
+Beam: 192.23 m
+Draught: 59 m
+
+PROPULSION
+Warp Drive: 1 (Possibly 2) M/A Warp System
+Impulse Drive: 3 or more
+
+VELOCITY
+Normal Cruising Speed: 6*
+Max Cruising Speed: 9.6*
+* observed
+
+COMPLEMENT
+Total: 300 plus Flight Crew and Troops*
+* estimated
+
+WEAPONS
+Ship: 8 or more Spiral-Wave Disruptors; 1 Large Aft Disruptor Wave Cannon; possibly others
+
+Reference: The Wounded, Ensign Ro, Emissary, The Die Is Cast
+The Galor-class ship was designed by Rick Sternbach and built by Ed Miarecki. It was first seen in "The Wounded." 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2002 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+
+

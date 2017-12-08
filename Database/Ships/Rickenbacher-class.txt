@@ -1,0 +1,42 @@
+CLASS: Rickenbacker
+TYPE: armored transport
+
+With one notorious exception, the Flying Fortresses have enjoyed a remarkably flawless security records for their precious cargoes. From multi-trillion currency shipments to classified military packages to the rarest materials in the galaxy (dilithium, anti-matter), these heavily armored and gunned vessels have provided safe passage throughout the Federation for decades.
+
+Commissioned: 2156
+
+DIMENSIONS:
+Diameter:	310 meters
+Draught:	195 meters
+Weight:	190 million kilograms
+Command Pod
+Length: 	49 meters
+Height:	38.8 meters
+Width:	116 meters (to antenna tips)
+Security Saucer
+Diameter:	185.7 meters
+
+ACCOMODATIONS:
+Officers:	8
+Ensigns:	9
+Crewmen:	405
+
+PROPULSION:
+Third generation warp drive
+Range:	2,000 light years
+Velocity
+Cruising:	Warp 4
+Maximum:	Warp 4.5
+
+ARMAMENT:
+Circumferential shielding
+Secondary shield emitters
+10 laser banks (before refit)
+10 phaser banks (after refit)
+10 energy projectors
+12 photon torpedo tubes
+
+Reference: Spaceflight Chronology
+Some size information was changed from the original schematic since it listed the overall size as 185.7m in width, then stated that one section had a width of 195m. The numbers were reversed.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan Goldstein, Fred Goldstein, Rick Sternbach

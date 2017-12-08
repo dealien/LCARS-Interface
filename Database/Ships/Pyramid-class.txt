@@ -1,0 +1,8 @@
+CLASS: Pyramid
+TYPE: transport
+
+A Borg design for a colonizing ship for transporting drones and supplies to newly acquired worlds. This ship was outfitted with a new weapon that attack from orbit and wipe out a population and other life forms, making more suitable for colonization of already assimilated Borg drones.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

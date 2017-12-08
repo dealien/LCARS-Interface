@@ -1,0 +1,13 @@
+CLASS: Suurok
+TYPE: cruiser
+
+A multipurpose craft in use by the Vulcan Central Command. These ships with their radial warp nacelle comprised the majority of the Vulcan’s deep space exploration craft. They also served to assist their allies before the creation of the United Federation of Planets. 
+
+Ships of the line:
+Sh’Raan
+Ti’Mur
+
+Reference: Breaking the Ice, Silent Enemy
+This class has been spelled Surak and Suurok. I accept the latter so that it doesn’t conflict with the other Surak-class runabout.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

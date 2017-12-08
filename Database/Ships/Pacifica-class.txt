@@ -1,0 +1,13 @@
+CLASS: Pacifica
+TYPE:
+
+SHIPS OF THE LINE:
+U.S.S. Pacifica, NX-
+
+DIMENSIONS:
+LENGTH: 445 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

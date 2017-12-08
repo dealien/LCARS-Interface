@@ -1,0 +1,12 @@
+CLASS: Trident
+TYPE: runabout
+
+U.S.S. Trident, NX-
+
+DIMENSIONS:
+LENGTH: 117 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

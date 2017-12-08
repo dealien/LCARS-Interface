@@ -1,0 +1,12 @@
+SHIPS: Tiller, U.N.S.S.
+CLASS: DY-500
+
+This early Earth vessel was assigned to the terraforming of Venus. The vessel’s science officer, Dr. William Slater filed the following report in 2027 after a successful first stage in that project:
+One of our truly outstanding interplanetary scientific projects has become a reality. The attempts to make our sister planet, Venus, habitable for humans is reaping its first results: the rains have started. It’s been one year and seventeen days since twenty programmed probes seeded the upper Venerian atmosphere with billions of the blue-green algae Cyanidium Caldarium. At the same time, our associates have been periodically bombarding the planet with huge ice asteroids from water for the arid world and, because of their calculated angle of impact, have already doubled the rate of rotation, which will generate a protective Van Allen belt for the planet.
+For the past year, our orbiting survey team has been carefully monitoring the terraforming- the algaes’ truly astronomical reproduction rate that has thinned the carbon dioxide clouds and created an oxygen atmosphere, and the slow growth in water vapor from the almost instant vaporized asteroids (the surface temperature is 500 degrees Celcius). Finally, the vapor pressure has become too great to remain gaseous. And so the rains have begun.
+The planet is covered with clouds now, but these are billowing steam cloud produced when the rains approached the literally red-hot planet surface. Over the next several years, this cycle of rain and evaporation will repeat itself, each time lowering the temperature until finally, the rains will be able to remain to nourish the soil, and the inferno that was Venus will be replaced by sparkling oceans and rich oxygen atmosphere. Or so it is hoped.
+I must confess my skepticism to the success of this whole project. Some of my colleagues are completely confident this radical terraforming will come off without a hitch, but I see a number of serious problems. Without an ozone layer, the artificially induced Van Allen belts might not provide enough radiation shielding. On top of that, the planet surface has high concentrations of corrosive hydrochloric and sulfuric acids. What good will sparkling acid oceans be to anyone? We might be able to make Venus look like Eden, but I doubt very much whether anyone will ever be able to live comfortably here.
+
+Reference: Spaceflight Chronology
+Information provided by:
+ST Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

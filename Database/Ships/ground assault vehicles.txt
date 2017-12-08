@@ -1,0 +1,18 @@
+TYPE: ground assault vehicles
+
+Assorted types of vehicles used for close planet operations including science and military operations. Each vehicle in this class does make contact with the ground as part of its motion using wheels, tracks, and leg walkers to move about. Most units are also equipped with antigravs for stabilization but not for momentum.
+The Klingon military used these land-based vehicles. 
+
+Vessels of this type include:
+Chariot-class, Federation vessel
+Predator-class, Fetlik vessel
+Puma-class, Fetlik vessel
+Panther-class, Fetlik vessel
+
+Reference: Elogium, Battlewagons, Terrafirma
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+ST Encyclopedia, www.simonsays.com/st, @1997 Pocket Books
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

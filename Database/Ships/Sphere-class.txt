@@ -1,0 +1,13 @@
+CLASS: Sphere
+TYPE: medium cruiser
+
+Sphere-shaped Borg vessel, usually smaller than the Borg cube. This type of Borg vessel can apparently house itself within a Borg cube, until needed.
+In 2373, Picard and the crew of the Enterprise-E followed a Borg sphere back in time, to 21st-Century Earth, in order to prevent the Borg from stopping the first warp test-flight. The Enterprise destroyed the sphere, but not before its Borg crew beamed over to Enterprise.
+The U.S.S. Voyager encountered spheres several times in the Delta Quadrant. Borg Sphere 878 with a complement of 11,000 drones, one of which was separated from the Hive mind in early 2377, thanks to a virus introduced into the Collective by the U.S.S. Voyager. Sphere 878 was patrolling Spatial Grid 091, when the Borg Queen noticed that that single "voice" had become silent, so she initiated the sphere's self-destruct mechanism, thus silencing all 11,000 voices. The Queen's motive for destroying the ship was in effort to convince Captain Janeway that her attempts to undermine the Collective would lead to thousands -- or millions -- of deaths. In 2378, this Borg sphere was the last vessel to hear the thoughts of the Borg Queen, after the Collective was infected with a neurolytic pathogen introduced by Admiral Kathryn Janeway. The sphere was sent to intercept the U.S.S. Voyager, in a Transwarp Hub corridor, and attempted to destroy the starship while the hub collapsed. But then the sphere "swallowed" Voyager, and emerged in the Alpha Quadrant -- less than a light-year away from Earth. The sphere was destroyed from within by a transphasic torpedo. Voyager emerged intact from the sphere's debris to greet an armada of Federation ships, eager to welcome Voyager and her crew home. 
+
+Reference: First Contact, Nemesis, Unimatrix Zero, Endgame
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

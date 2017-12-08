@@ -1,0 +1,13 @@
+SHIPS: Medium cruisers
+
+Another multipurpose craft designed for long voyages, just not as long as a heavy duty unit. They are generally smaller in size and mass than a heavy machine and with a crew smaller than 500 persons.
+
+SHIPS OF THIS TYPE:
+Miranda-class
+Nebula-class
+Steamrunner-class
+
+Reference: all episodes of Star Trek
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

@@ -1,0 +1,9 @@
+CHEMISTRY: terracon
+ 
+Terracon particles are used by archaeologists, as their decay profiles can allow the authenticity of ancient artefacts to be determined. 
+ 
+Reference:
+Information provided by:
+Daystrom Institute Technology, www.ditl.org, @1998 Graham Kennedy
+
+

@@ -1,0 +1,9 @@
+SHUTTLECRAFT: Jem'Hadar
+TYPE: shuttlecraft
+
+A utility craft in use by the Dominion for transporting supplies and other low security items to a planetary surface. These ships are not generally used to transport Founders, troops, or other tactical and important items. These models are capable of long voyages and atmospheric maneuverability.
+
+Reference: Star Trek Australia
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+

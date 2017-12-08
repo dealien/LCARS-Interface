@@ -1,0 +1,8 @@
+CLASS: Sartan
+TYPE:
+
+This is one of the many Cardassian military vessels.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

@@ -1,0 +1,20 @@
+CLASS: Watt
+TYPE: transport, cargo carrier
+
+Commissioned: 2137
+Decommissioned: 2173
+
+DIMENSIONS:
+Length:	164 meters
+Weight:	89,000 tons
+
+ACCOMODATIONS:
+Crewmen:	60
+
+PROPULSION:
+Advanced first generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

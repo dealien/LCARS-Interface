@@ -1,0 +1,29 @@
+SHIPS: Enterprise-D, U.S.S.
+CLASS: Galaxy
+TYPE: heavy cruiser
+REGISTRY: NCC-1701-D
+
+"TO BOLDLY GO WHERE NO ONE HAS GONE BEFORE"
+The U.S.S. Enterprise NCC-1701-D was a Galaxy-class extended-duration starship and the flagship of Starfleet. The fifth starship to be named Enterprise, she was commanded by Captain Jean-Luc Picard. 
+
+With a total of 42 decks, the U.S.S. Enterprise-D was twice the length and had eight times the interior space of the Constitution-class ships of over a century earlier; she carried a combined crew and passenger load of about 1,012. 
+Defensive systems included 10 phaser banks, 250 photon torpedoes, and a high capacity shield grid; there are some 4,000 power systems in all aboard ship. Full acceleration time from reverse, sub-light impulse through nominal top warp speed, warp 9, was 0.03 milliseconds. The ship achieved maximum speed of warp 9.5 when pursued by the entity known as "Q"; at warp 9.3 its engines had passed the red line. By stardate 43205, she had already logged tens of thousands of light-years since setting out around stardate 41153.7 after Jean-Luc Picard formally became her first captain on stardate 41124. 
+An average day aboard ship, according to Lieutenant Commander Data, included four birthdays, two personnel transfers, two chess tournaments, a secondary school play, four promotions, the celebration of the Hindu Festival of Lights - and a birth and wedding. Some 13 planets were represented among the ship's complement as of stardate 44247. 
+In several alternate timelines encountered by the crew of the starship the Enterprise-D had been engaged with several enemies, from the Klingons, to the Borg, in all out wars. And yet another reality depicted that the ship was decommissioned and later recommissioned by Admiral William Riker and used as his personal flagship. Under Riker's service it was refit with a third nacelle and received numerous weapons upgrades and a cloaking device.
+
+Timeline:
+2364: The ship was assigned to deep-space exploration, to begin at Farpoint Station where it would collect the remaining members of its command staff and crew. On that mission it made first contact with the "Q".
+2366: During the Borg incursion, Captain Picard was abducted and assimilated, leaving Commander William Riker to give orders and to attempt to stop the Cube-class ship. Decks 23-25 were sliced open by the enemy during the final battle over Earth, requiring a refit at Earth Station McKinley which lasted 5-6 weeks. It was far less damage than the kamikaze warp-driven collision Riker had readied as one last recourse, however. During that refit, the starship received a phaser upgrade as well as damage repair and a dilithium chamber articulation frame. The frame exploded and crippled the starship for two weeks. Sabotage was originally suspected but it was later identified to be a defective part.
+2368: The Enterprise underwent a temporal causality loop near the typhon Exapnse.
+2369: It off-loaded the original three Runabouts and the first arriving officers at Deep Space 9 while standing guard during the first few days of Starfleet's assumption of administration of the Bajoran station.
+2369: The ship was temporarily assigned to Captain Edward Jellico when Picard was also given a temporary assignment in Cardassian space. 
+2371: The U.S.S. Enterprise-D was destroyed after an attack by renegade Klingons breached her warp core; although the saucer section separated before the breach, the force of the explosion caused the saucer to crash on the planet Veridian III. Fortunately, losses were minimal. 
+
+Reference: Encounter at Farpoint et al Next Generation episodes, Generations
+The Enterprise-D model was designed by Andrew Probert. Interior sets were supervised by Herman Zimmerman and Richard James.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

@@ -1,0 +1,16 @@
+SHIPS: Zhukov, U.S.S.
+CLASS: Ambassador
+TYPE: heavy cruiser
+REGISTRY: NCC-62136
+
+In 2367 it ferried Vulcan Ambassador T'Pel to the Enterprise before she was revealed as a deep-cover, long-time Romulan spy. This was also Lieutenant Reginald Barclay's assignment just prior to the U.S.S. Enterprise-D.
+2369: The starship dropped off at least five science teams to the U.S.S. Enterprise-D to study the uncharted Phoenix Cluster, including two exobiologists and three stellar cartographers. 
+
+CREW MANIFEST:
+Starship Commander: Captain Gleason
+
+Reference: Hollow Pursuits 
+The ship was named after Russian general Grigori Konstantinovich Zhukov (1896-1974).
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

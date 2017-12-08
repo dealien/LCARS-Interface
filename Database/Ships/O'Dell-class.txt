@@ -1,0 +1,11 @@
+CLASS: O'Dell
+TYPE: heavy cruiser
+
+A large, long range craft in use by the Vulcan government. 
+The main hull is a long submarine looking shape with several appendages. On the bow of the craft are two hezagon shaped plates that are covered in sensor pallets and weapons systems. In this section are the science labs, some cargo holds, and a few crew quarters. The main deflector dish is at the very tip of this section. Aft of that is the docking section of the craft where the airlocks, umbillical connection points, and external cargo bay doors are located. On the top of the craft are hangar doors for verticle lift shuttles. These ships are usually equipped with four shuttles but can carry up to ten.
+The far aft section contains the ships impulse drives and their fusion reactors. The dueterium fuel tanks and anti-matter storage pods are held next within the main hull. Main engineering is just behind the center point of the main hull. The matter/ anti-matter reaction chamber is located here so that it can feed plasma through the nacelle pylons to the warp nacelle surrounding the craft. The pylons are attached to the dorsal and vetral sides of the main hull and hold the hull properly centered within the warp field.
+The main bridge is located directly in front of main engineering and features engineering control, weapons control, and all other command sections. Other crew services are also built into this area like the galley, sickbay, and the ship's rec centers. Crew quarters and cargo holds are located throughout the entire craft, usually offering services related to the local department; for example, quarters and holds located within engineering are used by engineering personnel.
+
+Reference: pon-farr
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

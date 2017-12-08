@@ -1,0 +1,29 @@
+PROBE: Stellar-series
+TYPE: probe
+
+The earliest series of interstellar probes was called, appropriately enough, the Stellar Series. This project, designed by the brilliant space scientist, Jackson Roykirk, was the first to employ the controversial computer capability for elementary independent thought, a capacity then feared by many in a machine.
+A total of ten of these well designed probes were launched during the years 2015- 2022. One, the Nomad, was damaged in a meteor storm and contact subsequently lost with it in 2026. Amazingly, this probe was recently discovered in Sector 21C altered in a way that required it to self-destruct. Another, the U Thant, inadvertently stumbled upon the hitherto unsuspected existence of large amounts of antimatter between stars.
+
+Production base: Earth
+Commissioned: 2015 – 2022 Expected life: 2500 days
+
+DIMENSIONS: LxDxM
+85m, 44.5m (including rear deflector), 8M kg
+
+ACCOMODATIONS:
+Fuel sphere volume: 6km, cubic
+
+PROPULSION:
+Velocity: 0.104c
+Engines: advanced fission with ion drive
+Fuel consumption: 500:1
+COMPUTER SYSTEMS:
+Communication: tightbeam laser radiotelemetry, (failsafe) self destruct (so that the explosion would be detected and recognize the discovery of a planetary body)
+Instrumentation: magnetometer ion detector, multispectral imaging, full-frequency sampling, color cameras, mass spectronomer
+
+ARMAMENT:
+Forward erosion shield, 12m diameter
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

@@ -1,0 +1,9 @@
+STATIONS: S'Klar-class
+TYPE: Romulan dilithium processing center
+
+A station usually found in orbit of dilithium moons and other significant sources of dilithium to process the raw ores into useable crystals for starship and matter/ antimatter reaction chambers throught the Star Empire.
+
+Reference: Armada
+Information provided by:
+Activision, www.activision.com, @2002 Activision
+

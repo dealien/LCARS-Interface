@@ -1,0 +1,12 @@
+PLANET: Xenex
+SYSTEM:
+SECTOR: 221-H
+QUADRANT: Alpha
+
+A class-M world near the border of Thallonian space. It is the homeworld of the Xenexians and of Starfleet Captain Mackenzie Calhoun, a.k.a. M’k’n’zy of Calhoun, who in his youth led a revolt that ended the 300-year long occupation and oppression of Xenex by the Danteri.
+Xenex features several unique locations like The Pit, a large arid desert surrounded by mountains that traps weather patterns, causing for quick developing storms.
+
+Reference: House of Cards
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+

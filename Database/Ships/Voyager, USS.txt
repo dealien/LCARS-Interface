@@ -1,0 +1,36 @@
+SHIPS: Voyager, U.S.S.
+CLASS: Intpreid
+TYPE: light cruiser
+REGISTRY: NCC-74656
+
+"FOR I DIP INTO THE FUTURE, AS FAR AS HUMAN EYE COULD SEE; SAW THE VISION OF THE WORLD AND ALL THE WONDERS THAT WOULD BE"
+
+A vessel capable of holding 200 crew members, the U.S.S. Voyager is one of the fastest and most powerful starships in Starfleet. Although at 345 meters long it is about half the size of the U.S.S. Enterprise NCC-1701-D, Voyager is more technologically advanced than previous Starfleet vessels. Superbly equipped for exploration and research, Voyager has an equally impressive array of defensive and offensive weapons, making it ready for action. 
+The U.S.S. Voyager is the second of only four Intrepid-class starships built by Starfleet to date, launched in 2371 on stardate 48038.5. 
+On stardate 48307.5, Voyager was pulled over 70,000 light-years from the Badlands area near Deep Space Nine by an extragalactic alien dubbed "Caretaker." The alien had been searching the galaxy for a compatible life-form with which to procreate. 
+Voyager's assigned first officer Cavitt, helmsman Stadi, chief engineer, and doctor and nurse were killed in the transfer as well as a transporter chief and other crewmembers. Its original short mission did not call for a counselor to be assigned. 
+Voyager's folding wing-and-nacelle warp drive system allows the starship to exceed the warp 5 "speed limit" without polluting the space continuum. Voyager can reach a speed of warp 9.975, but only for short periods. 
+Its EPS system and back-up have been totally modified to employ Enaran power-conservation technology; power relays on some decks now employ Borg technology. It carried 152 people as of SD 48975.1; Chakotay doesn't believe it can be operated with less than 100. 
+The mission returning from the Delta Quadrant was expected to take 70 years at normal warp speeds, but due to several shortcuts along the way, the craft made it in 7. Those short cuts included a wormhole, transwarp conduits, an unknown means of propulsion offered by former crewman Kes, slipstream conduits, and others.
+While in the Delta Quadrant, the starship made First Contact with numerous species including: several sects of Kazon, Ocampa, Nacene, Talaxian, Komar, Vidiian, Malon, Hirogen, and Species 8472.
+
+CREW MANIFEST: (adjusted to include Maquis)
+Starship Commander: Captain Kathryn Janeway
+Executive Officer: Commander Chakotay
+Chief Tactical Officer: Commander Tuvok
+Chief Helm Officer: Lieutenant Thomas Paris
+Chief Engineering Officer: Lieutenant B'Elanna Torres
+Chief Operations Officer: Ensign Harry Kim
+Chief Medical Officer: none, Emergency Medical Hologram is used
+Xenobiologist: Ensign Samantha Wildman
+Engineering Officer: Ensign Vorik
+Astrometrics Officer: Crewman Anika Hansen/ Seven of Nine
+Galley Officer: Crewman Neelix
+
+Reference: Caretaker, et al, Q-Voyage
+The Voyager landing in "The 37's" was the first time in Star Trek history that a starship soft-landed on a planet's surface and returned into space. The show traditionally avoided such a maneuver because of the expensive visual effects required for a spaceship landing, preferring instead to use the transporter; but by the time Voyager was in production, visual effects techniques (and budgets) had improved to the point where this was occasionally feasible. The starship was designed by series production designer Richard D. James and senior illustrator Rick Sternbach. The photographic miniature was built by Tony Meininger and photographed under the supervision of visual effects producer Dan Curry. Digital versions of the ship were also used for some computer-generated visual effects by Santa Barbara Studios, Digital Muse, and Foundation Imaging.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

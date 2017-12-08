@@ -1,0 +1,10 @@
+CLASS: Geolu
+TYPE: transport
+
+A cargo vessel built by the Fetlik government to transport ores and large goods to colony worlds. As with all Fetlik vessels, this ship begins with the typical saucer shape and proven warp core design with the centralized bridge and deflector dish.
+However these ships do not have the standard lower section like the cruisers do. These craft are cone shaped under the main saucer to accomodate room for large amounts of cargo and large access doors for easy loading and unloading. And at the tip of the cone is a docking control office that is built onto the outside of the hull.
+
+Reference: Terrafirma
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

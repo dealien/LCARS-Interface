@@ -1,0 +1,12 @@
+PLANET: Comar IV
+SYSTEM: Comar
+SECTOR: 221G
+QUADRANT: Alpha
+
+A planet on the outer rim of the former Thallonian Empire. Transport captain Hufmin was a native of this world.
+
+Reference: Into the Void 
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+
+

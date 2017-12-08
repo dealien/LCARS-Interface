@@ -1,0 +1,15 @@
+STATION: Lotus Blossom Restaurant
+CITY: San Francisco
+STATE: California
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Restaurant in San Francisco's Chinatown on Earth.  Jonathan Archer ate dinner with his girlfriend Rebecca here.
+
+Reference: The Expanse
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

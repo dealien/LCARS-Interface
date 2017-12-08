@@ -1,0 +1,94 @@
+CLASS: Negh`Var
+TYPE: heavy cruiser
+
+The newest flagship of the Klingon fleet when it was introduced, and General Martok commanded this Klingon vessel on stardate 49011 during the invasion of Cardassia. The vessel was slowly duplicated to allow for multiple versions of the craft throughout the fleet. 
+These ships have massive disruptors, photon launchers, and powerful shields, as well as a large crew compliment. These ships can also be equipped with an Ion Cannon which fires a single, powerful blast of ionized energy that decimates an enemy target.
+Admiral Janeway was chased by a pair of these while she was in a shuttlecraft escaping a dishonorable Klingon that traded temporal technology with the future version of the U.S.S. Voyager commander.
+
+DISPLACEMENT
+Light: 4,126,000 MT
+Standard: 4,310,000 MT
+Full: 4,534,000 MT
+Cargo Capacity: 800,000 MT
+
+DIMENSIONS
+Length: 682.32 m
+Beam: 470.09 m
+Draught: 136.65 m
+Number of Decks: 35
+
+PROPULSION
+Warp Drive: 2 M/ARA Mark II feeding 4 STQ9A Warp Drive Graph Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 4 Hydrogen Energy Impulse Units
+Impulse Engine Fuel: Hydrogen
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: "Tak'Nar" Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.6
+
+ACCELERATION
+Rest-Onset Critical Momentum: 1.65 sec
+Onset Critical Momentum-Warp Engage: .12 sec
+Warp 1-Warp 3: .16 sec
+Warp 3-Warp 6: .15 sec
+Warp 6-Warp 9: .23 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 175
+Time Between Resupply: 10 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 407
+Enlisted Crew: 2093
+Troops: 1500
+Evacuation Capacity: 12,500
+
+EMBARKED CRAFT
+Total: 50+
+
+NAVIGATION
+System: "Cha-Blinge" Vector And Tensor Analysis Unit
+
+COMPUTERS
+Type: "Ka-Me" FTL Central Information Unit
+
+SENSORS
+High Resolution Long Range Max Effective Range: 3.25 ly
+Medium to Low Resolution Effective Range: 15 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 50,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+GRAVITIC DISRUPTORS:
+Ship: 20 (Force 149) "Krazin Ha'Te" Type; 1 (Force 532) "Mah'Pac Vwe" Type
+
+PHOTON TORPEDOES
+Tubes: 4 ((2 Fore (Force 753) 2 Aft (Force 621)) "Che Maltak" Type
+Max Torpedo Simultaneous Spread: 12
+
+DEFENSE
+Shields: "Hechla" Deflector Plating And Field Generation System
+Fire Control: "Kormek Ho-Vwe" Tactical System
+Cloaking: "Remat Tu" Cloaking Generator
+
+TRANSPORTERS
+Personnel Transporters: 8
+Emergency Transporters: 4
+Troop Transporters: 8
+Cargo Transporters: 4
+
+Reference: The Way of the Warrior, End Game, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Deep Space Nine Technical Manual, www.simonsay.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2000 2002 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

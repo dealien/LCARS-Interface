@@ -1,0 +1,10 @@
+SHIPS: Ekina
+TYPE: transport
+
+Supposedly a cargo ship crippled by the plasma storm in the Denorios belt on stardate 47182, it was actually the ship taken by Verad when he came to Deep Space 9 to steal the Dax symbiont in 2370. It was manually released in the airlock by Constable Odo to thwart Verad's main escape plan. 
+
+Reference: Invasive Procedures 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Pocket Books
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

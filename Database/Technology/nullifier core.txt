@@ -1,0 +1,8 @@
+TECHNOLOGY: nullifier core
+
+The nullifier core is the main engineering element of the propulsion systems on Romulan Warbird's. The nullifier core must be kept within strict levels of performance in order to prevent a phenomena known as magnetic disruptions, that can be detected by other ships while the Romulan Warbird is cloaked. 
+
+Reference: Face of the Enemy 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

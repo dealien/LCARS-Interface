@@ -1,0 +1,9 @@
+SHIPS: Galipotan 
+TYPE: freighter
+
+A cargo ship that was due to arrive at Deep Space Nine with a load of clothing for Garak, including the Galipotans' prized sweaters, but was delayed. 
+
+Reference: The Wire 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+

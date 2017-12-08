@@ -1,0 +1,12 @@
+SHUTTLECRAFT: orbital shuttle
+TYPE: 
+MODEL:
+MISSION: intra-orbital transit
+
+One of many shuttlecraft types used by Starfleet and the United Federation of Planets. This specific craft is used for orbital flight only, to transport personnel and light supplies between stations, starbases, and orbiting ships. These craft are not designed for atmospheric entry or landing due to the lack of landing gear under the vessel.
+
+Reference: The Voyage Home
+The designation that these are space-only vessels is conjectural but based on the fact that the bottom of the craft is not smooth to make a landing easy. While other vessels without smooth bottoms do land on surfaces other Federation shuttlecraft have smooth bottoms so this is clearly designed for something different.
+Information provided by:
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

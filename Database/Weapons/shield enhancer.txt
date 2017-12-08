@@ -1,0 +1,8 @@
+WEAPONS: shield enhancer
+
+This defensive tool was researched for the Aegian-class frigates to assist convoys and fleets of vessels. Once activated all allied ships within a close proximity to the frigate will receive a boost in shield strength. The enhancer is run by a set of dedicated power reactors and a compliment of storage batteries. Usage of the defense drains out power at a rate far quicker than can be produced and therefor only lasts for short bits of time. Once the power has been drained from the batteries, the enhancement is over. The power generators will continue to recharge the storage cells in preparation for its next use. 
+The enhancer can only be activated when the cells are at full charge. Because of the high rate of loss of energy in the void of space, it takes the full discharge amount in order to cover the specified distance.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

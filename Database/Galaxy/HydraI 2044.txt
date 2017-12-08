@@ -1,0 +1,11 @@
+STAR: HydraI 2044
+SYSTEM: Hydra I
+SECTOR:
+QUADRANT:
+
+A brown dwarf discovered by Terran observers in the year 2044.
+
+Reference: Dark Mirror
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,14 @@
+SHIPS: U.S.S. Magellan
+CLASS: Constellation
+TYPE: Heavy cruiser
+REGISTRY: NCC-3069
+
+Commanded by Captain Flynn then Captain Conklin. This starship was docked at the Remmler Array over Arkaria Base on stardate 46682.4. Lieutenant Piper was originally ordered to report to as this ship as her first assignment before being redirected to U.S.S. Enterprise.
+
+Reference: Starship Mine, Dreanought!
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

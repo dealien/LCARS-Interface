@@ -1,0 +1,12 @@
+LOCATION: The Joining Place
+PLANET: Vulcan
+SYSTEM: 40 Eridani
+SECTOR: Vulcan
+QUADRANT: Beta
+
+A special room held for generations by the family of Voltak of Vulcan, reserved for the formal Joining ceremony of mates and the consummation of the pon-farr ritual.
+
+Reference:
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+

@@ -1,0 +1,54 @@
+CLASS: Broadway
+TYPE: transport
+
+The U.N.S.S. Hurok was the flagship of the U.E.S.P.A. Galactic Cultural Exchange Project. A hybrid ship, it was originally a Merchant-class cargo ship that was renovated to accommodate the specific needs of its complement of cultural ambassadors. Through the decades, the Hurok was refitted with the latest warp engines, and this incredibly sturdy classic can still be seen in operation at various ports of call.
+
+SHIPS OF THE LINE:
+U.N.S.S. Broadway
+U.N.S.S. Hurok
+
+Commissioned: 2118
+
+DIMENSIONS:
+Length:	265 meters
+Beam:		51.5 meters
+Draught:	61.9 meters
+Weight:	33 million kilograms
+Living Section
+Length:	103.5 meters
+Beam:		46 meters
+Draught:	28.7 meters
+Decks:		6
+Command Tower
+Length:	34.5 meters
+Beam:		25.8 meters
+Draught:	20 meters
+Decks:		6
+Engine Section
+Length:	100 meters
+Diameter:	28.7 meters
+
+ACCOMODATIONS:
+Officers:	3 (captain, navigator, engineer)
+Crewmen:	30
+Passengers:	158
+
+PROPULSION:
+Second generation warp drive
+Range:		1,200 light years
+Velocity
+Cruising:	Warp 3
+Maximum:	Warp 4.5
+
+SUPPORT SYSTEMS:
+4 shuttleecraft
+1 zoo
+1 cargo ship
+1 ampitheater
+recreation facilities & gymnasiums
+
+Reference: Spaceflight Chronology
+Some references to the UFP were changed to the U.E.S.P.A. since canon sources have indicated that the Federation wasn’t founded until after the starship went into use.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

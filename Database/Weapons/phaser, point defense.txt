@@ -1,0 +1,7 @@
+WEAPONS: point defense phaser
+
+A modification to the targeting scanners used by Nebula-class cruisers, this weapon is very effective in protecting the ship and its allies during battle and is based on technology that dates back to defense systems of the 20th century. This system targets incoming torpedoes and uses the ship's phasers to hit them, detonating them early and before they can do any damage to an allied vessel.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2000 Activision

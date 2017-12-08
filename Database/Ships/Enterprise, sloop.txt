@@ -1,0 +1,11 @@
+SHIPS: Enterprise
+CLASS: sloop-of-war
+TYPE: naval
+
+United States sloop-of-war.  Originally a Canadian provincial sloop built by the British in 1771, the ship was captured by General Benedict Arnold at St. Johns in May, 1776. By October, 1771, she was "the grand dame" of the United States Continental Navy and under the command of Captain Israel Daniel Dickenson.  Like any British sloop, the Enterprise had a single gun deck.  She was also a "sloop rig", meaning she had only one mast, and was armed with twelve four-pounder cannons.  On October 11, 1776, the Enterprise was one of sixteen ships which confronted the British Royal Navy at Valcour Bay.  Since the fleet's only doctor, Dr. Stephen McRae, was assigned to her, she was the fleet's medical ship.  The battle raged from noon until sunset.  That evening things looked very grim for the Continental fleet.  Dickenson, however, saw that a fog was soon to flow into the bay, so he suggested to General Arnold that the fleet attempt to flee under it.  The fleet successfully escaped that night.   
+
+Reference: Veil at Valcour
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

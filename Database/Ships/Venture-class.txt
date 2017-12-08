@@ -1,0 +1,55 @@
+CLASS: Venture
+TYPE: scout
+
+A small single or dual pilot advance craft developed by Starfleet. These ships are basically a large shuttlecraft, but large enough that it is not assigned to starships or stations but is a starship of its own. These ships can be equipped with tachyon detection arrays for locating cloaked vessels.
+Lieutenant Commander Data misused one of these that was assigned to assist with the observation of the Ba'ku to attack Son'a and Starfleet teams trying to land on the planet. Captain Picard and Worf were forced to bring Data and the scout ship down by docking with the vessel and later subduing its android pilot. 
+
+SHIPS OF THE LINE:
+U.S.S. Venture, NX-
+U.S.S. Aberdeen, NCC-
+U.S.S. Appomatox, NCC-
+U.S.S. Arrowhead, NCC-
+U.S.S. Calais, NCC-
+U.S.S. Carbides, NCC-
+U.S.S. Casablanca, NCC-
+U.S.S. Circe, NCC-
+U.S.S. Coltrane, NCC-
+U.S.S. Crimea, NCC-
+U.S.S. Drake, NCC-
+U.S.S. Dunkirk, NCC-
+U.S.S. Firestreak, NCC-
+U.S.S. Fletcher, NCC-
+U.S.S. Flynt, NCC-
+U.S.S. Grace, NCC-
+U.S.S. Guernica, NCC-
+U.S.S. Horatio, NCC-
+U.S.S. Jade, NCC-
+U.S.S. Kingston, NCC-
+U.S.S. Nina, NCC-
+U.S.S. Nobeenaga, NCC-
+U.S.S. Othello, NCC-
+U.S.S. Paris, NCC-
+U.S.S. Partisan, NCC-
+U.S.S. Perth, NCC-
+U.S.S. Pinta, NCC-
+U.S.S. Redoubt, NCC-
+U.S.S. Santa Maria, NCC-
+U.S.S. Serpentine, NCC-
+U.S.S. Sky Lark, NCC-
+U.S.S. Sparta, NCC-
+U.S.S. Tokugawa, NCC-
+U.S.S. Troy, NCC-
+U.S.S. Ursula, NCC-
+U.S.S. Vanguard, NCC-
+U.S.S. Vizier, NCC-
+U.S.S. Vivian, NCC-
+U.S.S. Zurich, NCC-
+
+Reference: Insurrection, Armada
+Sometimes this vessel is referred to  as a ship, and sometimes as a shuttle within The Continuum. The game locks-in the use as a ship. 
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Armada, www.activision.com, @2000, 2002 Activision
+
+
+

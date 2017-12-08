@@ -1,0 +1,10 @@
+PLANET: Rudolpha IV
+SYSTEM: Rudolpha
+SECTOR:
+QUADRANT:
+
+Rudolphan toadlets produce a protective musk.   
+
+Reference:    Caretaker
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

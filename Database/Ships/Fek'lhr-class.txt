@@ -1,0 +1,22 @@
+CLASS: Fek'lhr
+TYPE: medium cruiser
+
+A variant of the Vor'cha-class, this vessel is equipped with a larger command section than the original. But since it was built after the original, and while larger Negh'Var's were also in production, this design was dubbed a medium cruiser and allotted to fleet deployments and frigate service. It was named after the mythical Klingon beast and Guardian of Gre'Thor, the Klingon afterlife for the dishonored. 
+The Fek'lhr is equipped with powerful disruptors, photon torpedo launchers, and other typical Klingon weapons. These ships have space to be equipped with additional weapons: Death Chant, Ion Storm, Energy Dissipators, and Repulsion Waves.
+
+SHIPS OF THE LINE:
+I.K.S. 'Is'pub
+I.K.S. HoH'bIH
+I.K.S. JorwI'apoq
+I.K.S. LeSpoH'qll
+I.K.S. Nagh'SIS
+I.K.S. NgH'che'
+I.K.S. Non'urgh
+I.K.S. Qut'a'Dal
+I.K.S. WIH'Hotlh
+I.K.S. YepHa'Hub
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

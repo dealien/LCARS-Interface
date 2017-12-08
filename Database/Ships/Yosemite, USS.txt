@@ -1,0 +1,12 @@
+SHIPS: Yosemite, U.S.S.
+CLASS: Oberth
+REGISTRY: NCC-19002
+
+Science vessel studying a plasma streamer in the Igo Sector whose crew was lost. During transport of plasma samples to the ship, quasi-energy microbes caused an explosion of a sample container resulting in severe damage to the ship. Due to a transporter accident, Lieutenant Barclay stumbled across the suspended forms of some of the crew on stardate 46041.1. 
+The ship was later mentioned by the Tilonian asylum inmate Jaya, but just a part of the drugged Commander Riker's hallucination on stardate 46778.1. 
+
+Reference: Realm of Fear, Frame of Mind
+Named for Yosemite National Park on the North American continent of Earth. Information provided by:
+The Continuum, www.startrek.com, @2002, 2006 CBS Studios Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

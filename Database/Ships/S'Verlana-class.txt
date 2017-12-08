@@ -1,0 +1,8 @@
+CLASS: S’Verlana
+TYPE: destroyer
+
+An armed ship in service of the Vulcan Defense Ministry.
+
+Reference: 
+Information provided by:
+

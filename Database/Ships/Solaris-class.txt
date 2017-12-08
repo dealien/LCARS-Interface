@@ -1,0 +1,7 @@
+CLASS: Solaris
+TYPE: medium cruiser
+
+An early version of the Miranda-class with a third warp nacelle.
+
+Reference:
+Information provided by:

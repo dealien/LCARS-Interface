@@ -1,0 +1,14 @@
+SHIPS: U.T.S. Relativity
+CLASS:
+TYPE: Timeship
+REGISTRY:
+
+Federation Timeship commanded by Captain Braxton of the Department for Temporal Investigations. Braxton recruited Seven of Nine to help him figure out who planted a deadly weapon on the U.S.S. Voyager. It was eventually revealed that Braxton himself planted the weapon and he was relieved of command by his first officer. 
+The U.T.S. Aeon is believed to have been a shuttlecraft of this larger vessel.
+
+Reference: Relativity, Cold Wars
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

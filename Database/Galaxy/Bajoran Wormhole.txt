@@ -1,0 +1,17 @@
+ANOMALY: Bajoran Wormhole
+Terminus A
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+Terminus B
+SYSTEM: Idran
+SECTOR:
+QUADRANT: Gamma
+
+Suffered minor fluctuations in the subspace membrane when an asteroid fragment passed through it in 2371. Shortly after that event, the wormhole experienced unusual subspace oscillations which caused it to opened and close once every ten seconds. Like similar singularities, it deformed time as well as it deformed space and gravity. Any change in its internal matrix would ripple through the fabric of space-time in all directions. Julian Bashir concluded in an article in the Journal of Quantum Medicine that particle-flux effects inside the wormhole introduce small errors into people's molecular clocks, giving rise to apparent time anomalies between their biological and chronological ages. The wormhole twists the fabric of subspace and time throughout the Bajoran System, causing temporal anomalies. Bajor itself is protected from these anomalies by its gravity well. 
+This wormhole was also referred to as the Blue Wormhole when mentioned in context to the Red Wormhole of Jalbador.
+The Bajoran name for the Wormhole is the Celecstial Temple.  According to certain Pah-wraiths’ cults, there was once One True Temple, which was sundered by a battle between the Prophets and the Pah-wraiths.  The Prophets’ half was known as Jalkaree, the False Temple, and remained visible.  The Pah-wraiths’ half was the Jalbador Wormhole, the True Temple, and remained sealed until the alignment of the Red Orbs of Jalbador.  Those Pah-wraiths that refused to fight in the battle were cast out into the Fire Caves. 
+
+Reference: Emissary, Fall of Terok Nor, Time’s Enemy 
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

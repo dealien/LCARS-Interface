@@ -1,0 +1,7 @@
+SHIPS: Borg assault ship
+
+A troop transport frigate used in fleet operations by the Borg. These ships carry drones designed for the overtaking and occupation of enemy targets. These ships have simple functions and require few operators so the vast crew are available for being transported over to selected worlds or ships to perform assimilation.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

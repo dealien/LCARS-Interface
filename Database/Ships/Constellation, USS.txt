@@ -1,0 +1,12 @@
+SHIPS: Constellation, U.S.S.
+CLASS: Constitution
+REGISTRY: NCC-1017
+
+Commanded by Commodore Matt Decker. 
+In 2367, confronted by an extragalactic planet killer weapon near system L-374, the Constellation took heavy damage as its crew was evacuated to a planet which was eventually destroyed by the killer weapon. The Constellation's impulse engines were later programmed to self-destruct within the maw of the killer weapon, finally destroying it. 
+
+Reference: The Doomsday Machine 
+The miniature Constellation, identical in design to the original Enterprise, was an AMT plastic Enterprise model kit, appropriately burnt and scorched. The registry number, 1017 was used since the decals included with the kit could be re-arranged from the 1701 it was originally intended to display. The Starship Constellation was presumably replaced by a starship of a new design that was the prototype for the Constellation class, of which Picard's U.S.S. Stargazer was a member.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

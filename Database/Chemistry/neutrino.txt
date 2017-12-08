@@ -1,0 +1,11 @@
+CHEMISTRY: neutrino
+ 
+A particle which has no charge and very small mass. They were first detected by Earth scientists in 1956 and are often found in nuclear reactions deep within stars. Neutrinos are famous for their ability to pass through large amounts of matter. Despite this, by the 24th century neutrino detectors have become very compact and efficient, allowing these particles to be used in distress beacons. Neutrinos are associated with the opening and closing of the Bajoran wormhole. In 2365 the Enterprise was able to use a neutrino beam to destroy a colony of bacteria which were eating its hull. Neutrinos have a spin of 1/2. In 2370 Jadzia Dax found that the laws of probability on Deep Space Nine were being distorted, affecting the spin of the neutrinos in the station. 
+The antineutrino is the antimatter equivalent of the neutrino. These can be highly harmful to Federation warp cores - in 2371 a Sikarian space folding mechanism released antineutrino particles when B'Elanna Torres attempted to use it, threatening the safety of the ship. In 2368, Chief Engineer La Forge used a neutrino field to detain a group of noncorporeal criminals from the Ux-Mal system that had possessed several crewmembers in an attempt to take over the starship. Neutrinos are also found in a starship's warp signature; so Maquis terrorist Michael Eddington used an unmanned probe set to transmit a false warp signature containing neutrinos.
+
+Reference: Power Play, A Matter of Honor, The Enemy, Captive Pursuit, Q-Less, For the Uniform
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+

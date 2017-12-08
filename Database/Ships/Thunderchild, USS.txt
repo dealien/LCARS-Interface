@@ -1,0 +1,14 @@
+SHIPS: U.S.S. Thunderchild
+CLASS: Akira
+TYPE: Heavy cruiser
+REGISTRY: NCC-63549
+
+The Thunderchild was one of the ships on the front line during the Borg attack on Earth in 2373. Several fighter pilots from this vessel visited Quark's in late 2374. 
+
+Reference: First Contact, Fall of Terok Nor
+Named for the H.M.S. Thunderchild, a fictional British warship from H.G. Wells' classic novel "The War of the Worlds."
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

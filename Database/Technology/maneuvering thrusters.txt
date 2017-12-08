@@ -1,0 +1,9 @@
+TECHNOLOGY: maneuvering thrusters
+
+Low-velocity propulsion system used by spacecraft. The thrusters are reaction-control jets in docking maneuvers and similar situations for precision positional and attitude control. 
+
+Reference: The Motion Picture, Emissary
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

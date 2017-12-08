@@ -1,0 +1,12 @@
+SHIPS: Valdore
+CLASS:
+TYPE: heavy cruiser
+
+The Valdore is a newer, sleeker design of warbird, distinguished from its predecessor by its expansive wingspan and elongated hull. 
+Under the command of Commander Donatra, the ship lead the Romulan campaign to stop Reman Shinzon and his massive warship, the Scimitar, from attacking Earth with its thalaron-radiation weapon. 
+Donatra also aided Picard and the Enterprise-E in their efforts to stop Shinzon. This brief alliance marked a significant turn in Romulan-Federation relations.
+During the incursion, the Valdore was severely damaged; left adrift, but salvageable.
+
+Reference: Star Trek Nemesis
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

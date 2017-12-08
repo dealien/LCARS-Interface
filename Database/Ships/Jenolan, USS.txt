@@ -1,0 +1,15 @@
+SHIPS: Jenolen, U.S.S.
+CLASS: Sydney
+REGISTRY: NCC-2010
+
+Timeline:
+2294: The starship was lost without a trace while en route to a colony world.
+2369: The ship was found by the U.S.S. Enterprise-D crashed on the surface of a Dyson Sphere. Its pilot and passenger, Montgomery Scott, were still suspended in the ship's transporter buffer; however only Mr. Scott was able to be restored from the uniquely reconfigured system. Once Scott was retrieved from the buffer, Enterprise-D engineer Geordi La Forge and Scott worked together to repair the Jenolen's systems enough to assist the now-trapped Enterprise-D escape from the interior of the Dyson Sphere, although the Jenolen was destroyed. 
+
+Reference: Relics 
+The Jenolen miniature was a modification of a shuttlecraft built by John Goodson of Industrial Light & Magic for The Undiscovered Country. (It was the ship that transported the crew up to spacedock) The modifications by Greg Jein adde warp engines to the model. Fans have pointed out, quite correctly, that it shouldn't have been possible for Scotty and Geordi to be beamed off the Jenolen whiel that shi's shields were still up. The Jenolen model has been re-used as a ship visiting Deep Space 9, notably as the transport that brought the two Temporal Investigations agent to the station in "Trials and Tribble-ations."
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

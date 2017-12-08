@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Manitou
+CLASS: Cheyenne
+TYPE:
+REGISTRY:
+
+Federation Starship. In 2333, it was commanded by Captain Cepeda.  Ensign Jiterica served on the Manitou before being transferred onto the U.S.S. Stargazer.
+
+Reference: Gauntlet
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

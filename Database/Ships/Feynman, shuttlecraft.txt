@@ -1,0 +1,12 @@
+SHUTTLECRAFT: Feynman
+TYPE: 6
+REGISTRY: NCC-1701-D-
+
+Enterprise shuttlecraft (pronounced "FINE-man") carrying Picard, Worf and Crusher on a secret mission to Torman V. 
+
+Reference: Chain of Command
+Named for Terran American physicist Richard Phillips Feynman (AD 1918-88), co-winner of the 1965 Nobel Prize. The name was misspelled as Feyman on the shuttle's exterior because of a mistake made in the art department.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

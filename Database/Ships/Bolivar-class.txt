@@ -1,0 +1,13 @@
+CLASS: Bolivar
+TYPE:
+
+U.S.S. Bolivar, NX-
+
+DIMENSIONS:
+LENGTH: 196 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

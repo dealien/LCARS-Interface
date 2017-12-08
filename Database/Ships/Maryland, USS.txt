@@ -1,0 +1,13 @@
+SHIPS: U.S.S. Maryland 
+CLASS: Renaissance
+TYPE:
+REGISTRY: NCC-45109
+
+Federation starship. Patricia Paris served on the Maryland at the time of the Battle of Ankaata, where she lost an arm saving two of her fellow officers. The Dominion was believed to be responsible for this ship's disappearance in the Gamma Quadrant. 
+
+Reference: In Purgatory's Shadow, Progenitor
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

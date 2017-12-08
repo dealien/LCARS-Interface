@@ -1,0 +1,7 @@
+WEAPONS: Bajoran phaser
+
+A handheld gun used by security deputies on Deep Space Nine, on Bajor, and other Bajoran interests.
+
+Reference:
+Information provided by:
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

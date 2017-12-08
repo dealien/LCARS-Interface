@@ -1,0 +1,95 @@
+CLASS: Corvette
+TYPE: Destroyer
+
+A light cruiser starship designed and put into production in the early 2350s by the United Federation of Planets. Originally built as a light cruiser class vessel, it was re-classed as larger ships became available. These ships were used on a variety of mission all over the Federation territory and into unexplored space. Not designed as a long-term craft, but containing equipment and staffing for full design missions.
+These ships have a lot in common with the newer Norway class vessels, or the Romulan scout ships. An arrowhead shaped saucer in front leads the engineering section with its wing style nacelles and support pylons. The front saucer is about the size of a Defiant class starship, measuring 170.4 by 134.18 by 48.33 LxWxH. The main hull contains the bridge, deflector dish, shuttlebay, and its share of transporters computer resources, impulse drives, cargo bays, staterooms, science labs, phaser arrays, torpedoes and launchers, and is solely responsible for the deployment of probes. All command offices and department services are located in the main area including security and the detention center, sickbay, the main armory, tactical control, and other similar systems.
+The engineering section contains the auxiliary control, fuel tanks, batteries, matter/ antimatter reaction chamber, fusion reactors, main impulse drives, nacelles, pulse phasers, and the rest of the services that the main saucer does not service. It measures 318.73 by 115.98 by 52.48 meters LxHxW.
+The shuttlebay on these craft are a little different than other starships since it is accessible from a large hole in the front of the craft. Most Corvettes have been assigned between six and eight shuttlecraft and pods, two or more workbees, and a captain's yacht. In recent years a couple of the shuttles have been replaced with a single Danube-class runabout.
+Since their original introduction these craft have been modified several times with upgrades to account for new technologies. In the 2360s holodecks became proven technology and these vessels were modified to offer the new services. Many cargo bays were converted to make holodecks. In every craft the cargo bay next to sickbay was converted into a holodeck and includes a holoprogram that can convert the holodeck into a triage unit for caring for numerous patients. The Emergency Medical Hologram program has been added to many craft's database's too for use of the holodeck, and in some cases holoemitters have been installed in the sickbay to offer the projection access to the main medical facility.
+Other upgrades include modifications in preparation for the Dominion War including the addition of pulse phasers onto the support pylons. These forward firing weapons have been extremely powerful in defending the Federation. And the torpedo launchers were upgraded to allow the mixture of quantum torpedoes into the arsenal of defense of each ship.
+The most major upgrade took place in the late 2390s. For those craft still in service, well more than half of them, were fitted with Cochrane IB warp nacelles providing the ship with stable warp 9 flight for long periods of time.
+Depending upon the missions undertaken most of the Corvettes were mounted with sensor pallets onto the underside of the support pylons providing for multitasking and redundant scanning performance. This made the ships one of the best science vessels, second only to Oberth class and the later arriving Nebula class explorers. In fact it was the addition of Nebula class ships that caused the reclassification of the Corvette from a light cruiser to a destroyer since Nebulas were larger ships capable of performing every function the Corvette could.
+The Corvette served as a model for the Intrepid class starship which was introduced 20 years later. Both ships being about the same size were also created to serve many of the same functions. And, as inspired by the Corvette, the Intrepid was given landing struts to allow for planetary landing. Granted, the Corvette is still far better suited for the task because of the unique design on the support pylons taking the shape of wings, an original and still unduplicated build for Federation starships.
+Famous Corvettes include the U.S.S. Corvette, the namesake of the fleet still in service defending Earth and Spacedock; U.S.S. Mustang under the constant command of Fleet Captain Lexus d'Arese serving as coastal cutter along the Cardassian border; and the U.S.S. Viper in service within the Andorian system and border duties along the Orion systems.
+These vessels were originally designed by an architect and amateur historian to resemble the sports car of the 20th century. Several aspects of the craft were taken from the Chevrolet Corvette and the Ford Mustang when designing the craft. Many of the more outrageous and identifiable traits were removed by Starfleet engineers, but the basic design, including the front shuttlebay remained form the early designs.
+				
+dimensions	length	width	height	decks	mass (MT)
+overall	489.13	257.65	52.48	12	634,000
+saucer	170.4	134.18	48.33	11	
+engineering	318.73	115.98	52.48	12	
+support pylons	92.45	257.65	6	2	
+nacelles	148.33	10	10	0	
+crew		accomodations		area (m2) volume (m3)	
+sr officers	15	staterooms	150		
+ensigns	25	bunkhouses	20		
+crewmen	135	family units	30		
+science techs	50	suites	30		
+civilians	30	cargo bays	10		
+		holodecks	3		
+		sickbay			
+transporters		
+personnel	5	(3 fore/ 2 aft)
+cargo	4	(1 fore/ 3 aft)
+evacuation	2	(1 fore/ 1 aft)
+support craft		
+captain's yahct	Mazda	Corvette special
+runabout	Tribute	Danube class
+Shuttlecraft	Millenia	Type 9
+Shuttlecraft		Type 9
+shuttlepod	Protégé	Type 18
+shuttlepod		Type 18
+workbee	2	Type 4
+lifepods	75	Type 6
+
+Performance		
+Cruising warp speed	9.2	
+Maximum warp speed	9.998	
+
+Power supply		
+main power	1	1500+ Cochrane M/ARA
+nacelles	2	
+impulse	2	saucer mounted drive units (1 port/ 1 starboard)
+impulse	3	engineering mounted drive units (center aft)
+thrusters		reaction control thrusters
+auxilliary	2	fusion injection reactors
+battery	10	Saurium kellide dry cells
+deuterium tanks		
+anti-deuterium pods		
+
+
+Armament		
+deflector screen	2	
+energy shield emitters	4		
+tractor emitters	2	(ventral and dorsal)	
+boarding tractors	3	(inside shuttlebay)	
+phasers		2	Type 9 phaser strips (ventral and dorsal saucer)	
+phasers	 	2	Type 2 pulse phaser emitters (port and starboard nacelle)	
+torpedo launchers	4	Type Q (quantum/ photon/ probe compatible)	
+torpedoes		250	standard compliment	
+probes		10	Class 1	short range, full spectrum
+			10	class 2	short range, large area
+			10	class 3	short range, terrestrial recovery
+			10	class 4	short range, nebula and energy sub-probe 
+			20	class 5	medium range, reconn
+			30	class 6	comm relay, beacon, emergency, sentry
+			40	class 7	long term remote probe
+			15	class 8	long range
+			10	class 9	x-long range, emergency recorder
+Life support			
+CASM units		10		
+
+Computer			
+core units		3		
+consoles			
+desktops			
+
+Support services			
+structural integrity field			
+artificial gravity net			
+intertial dampers		
+
+Reference: Battlewagons, Front Lines, Atomic Showers
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson	
+
+

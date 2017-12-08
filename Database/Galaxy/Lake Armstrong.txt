@@ -1,0 +1,13 @@
+CITY: Lake Armstrong
+MOON: Luna
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Alana Hart was born at Lake Armstrong.
+
+Reference: What Price Honor?
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

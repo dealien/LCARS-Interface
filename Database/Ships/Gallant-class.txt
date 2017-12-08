@@ -1,0 +1,9 @@
+CLASS: Gallant
+TYPE: interceptor
+
+A large fighter craft with a design similar to the Defiant-class. The warp nacelles of this ship stick out farther by comparison to allow for the weapons system to be placed in the nacelle cowling. The forward sensor arrays protrude more from the hull than the original ship as well. And the engineering section has side appendages for fuel storage near its dual impulse drive, compared to the three drive system of the larger model.
+
+Reference: 
+Information provided by:
+Nova Hobbies, @2002 Jeffrey Griffin
+

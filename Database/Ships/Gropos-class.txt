@@ -1,0 +1,12 @@
+CLASS: Gropos
+TYPE: transport
+
+A small private ship used by many Lysian dignitaries for pleasure travel as a family, work observation group, or collection of friends. The warp capable ships were designed to be able to travel to all of the star systems within Lysian space, 
+A central fuselage contained the personnel of the craft in a one deck space. At the foremost section of the craft was a large bunkhouse style sleeping room that could hold up to 10 people. Behind it was a living section. Above the sleeping section was a half deck that contained most of the ship’s command systems and life support. And above the living section was a full deck, that bulged up from the fuselage’s hull, to reveal the cockpit for two pilots.
+Aside of the main fuselage were two long wings, mush longer than would normally be necessary for such a small craft. Attached within the wings, a few meters from the main section, were two additional fuselages, one on each side. Each one contained a warp nacelle at the head of the tube, a fusion reactor in the middle, fuel tanks, and ended with an Ion radiant engine. A second wing was attached to the rear of the two engines hulls to keep them an equal distance apart. Rudder wings were attached to the top and sides of the drive lines.
+
+Reference: Q Neighbor
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

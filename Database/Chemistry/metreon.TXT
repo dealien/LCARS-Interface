@@ -1,0 +1,8 @@
+CHEMISTRY: metreon
+ 
+Particle which allows the "Metreon Cascade" to function. This weapon was used to end a war by destroying a Talaxian lunar colony; the Cascade resulted in enormous levels of metreon radiation on the moon. Exposure to such high levels of can cause Metremea, a fatal blood disease. In 2371 Dr Jetrel, creator of the Metreon Cascade, died of Metremea which he contracted after working on the sites of the Cascade detonations. 
+ 
+Reference: Jetrel
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+

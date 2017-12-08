@@ -1,0 +1,8 @@
+SHIPS: Talarian observation craft
+TYPE: scout
+
+A small amber-colored craft with the distinctive projecting Talarian power panels. One was being used for training purposes in 2367 when it sprung a radiation leak in its propulsion system, and the distress call is answered by the Enterprise. 
+
+Reference: Suddenly Human 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

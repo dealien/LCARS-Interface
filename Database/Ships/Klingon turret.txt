@@ -1,0 +1,7 @@
+STATIONS: Klingon turrets
+
+Unmanned defense platforms guarding territory claimed by the Empire. One type of station fires powerful disruptor blasts at enemy targets, the other is equipped with photon torpedoes.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision

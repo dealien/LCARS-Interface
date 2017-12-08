@@ -1,0 +1,43 @@
+CLASS: Declaration
+TYPE: transport
+
+This original Enterprise starship was the first spaceliner built specifically for the major space lanes. the travel demand that blossomed in the 22nd century resulted in 957 of these Declaration-class ships being commissioned. The Enterprise’s name lives on through the subsequent flagships of the United Federation of Planet’s Starfleet. This vessel was the first ship to feature subspace radio communication.
+
+Commissioned: 2123
+Decommissioned: 2165
+
+DIMENSIONS:
+Length:	300 meters
+Diameter:	210 meters
+Weight:	52.7 million kilograms
+Living Section
+Width:	28.7 meters
+
+ACCOMODATIONS:
+Crewmen:	100
+Passengers:	850
+
+PROPULSION:
+Advanced second generation warp drive
+Velocity
+Cruising:	Warp 3.2 (32.8c)
+Range
+Standard:	350 light years
+Maximum:	1,200 light years
+
+COMPUTER SYSTEMS:
+Celestial warp reading navigation
+Subspace radio communications
+
+SUPPORT SYSTEMS:
+null-grav gymnasium
+5 dining rooms
+3 theaters
+3 nightclubs
+2 stellar observatories (forward & aft)
+
+Reference: The Motion Picture, Spaceflight Chronology
+Some references to the UFP have been changed to the U.E.S.P.A. since canon sources state that the Federation was founded after this vessel class went into service. This starship was modeled in the Enterprise recreation deck as a previous ship named Enterprise.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

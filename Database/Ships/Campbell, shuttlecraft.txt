@@ -1,0 +1,10 @@
+SHUTTLECRAFT: Campbell
+TYPE: 15
+REGISTRY: NCC-1701-D-
+
+A smaller-class shuttlepod off the Enterprise. It crash landed due to impulse generator shutdown amid the E-M storms of the Class M moon of Mab-Bu VI. 
+
+Reference: Power Play 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+

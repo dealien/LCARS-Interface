@@ -1,0 +1,80 @@
+CLASS: Romulan
+TYPE: freighter
+
+A variety of Romulan vessels used for transporting cargo and freight.
+
+SHIPS OF THE LINE: (cargo)
+R.S.E. Adjunius
+R.S.E. Bantius
+R.S.E. Flotelius
+R.S.E. Nicatius
+R.S.E. Noronis
+R.S.E. Plaedius
+R.S.E. Quitius
+R.S.E. Susmas
+R.S.E. Tisius
+
+SHIPS OF THE LINE: (ore freighter)
+R.S.E. Afacunius
+R.S.E. Albanius
+R.S.E. Anteluis
+R.S.E. Areius
+R.S.E. Asonius
+R.S.E. Aulia
+R.S.E. Besonia
+R.S.E. Caetius
+R.S.E. Centes
+R.S.E. Citulia
+R.S.E. Conia
+R.S.E. Danthonius
+R.S.E. Dulcitis
+R.S.E. Flabo
+R.S.E. Flattius
+R.S.E. Fruuallius
+R.S.E. Gavelirius
+R.S.E. Halvonis
+R.S.E. Horiaccius
+R.S.E. Jular
+R.S.E. Laenia
+R.S.E. Liulfa
+R.S.E. Lopan
+R.S.E. Malchio
+R.S.E. Megutilo
+R.S.E. Mininius
+R.S.E. Motutius
+R.S.E. Naepius
+R.S.E. Navrus
+R.S.E. Neriax
+R.S.E. Olpia
+R.S.E. Orceius
+R.S.E. Paitius
+R.S.E. Perrix
+R.S.E. Piussus
+R.S.E. Ponunenius
+R.S.E. Potruso
+R.S.E. Pusis
+R.S.E. Samens
+R.S.E. Secistonus
+R.S.E. Seqovus
+R.S.E. Sigimiulus
+R.S.E. Stacius
+R.S.E. Stlacutius
+R.S.E. Susia
+R.S.E. T'esedar
+R.S.E. T'gereth
+R.S.E. T'ixtar
+R.S.E. T'rnderf
+R.S.E. Tibimnius
+R.S.E. Truso
+R.S.E. V'Cassia
+R.S.E. Vapodris
+R.S.E. Velber
+R.S.E. Vellunis
+R.S.E. Vulas
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+
+
+

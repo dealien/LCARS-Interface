@@ -1,0 +1,31 @@
+TECHNOLOGY: Personal Access Display Device
+
+Also known by the acronym PADD. A small handheld information unit used by numerous races. The basic physiological characteristics of humanoids have shaped the similar forms of the padds encountered by Federation engineers. Moreover, the technology transfer between races has endowed these mechanisms with familiar functions and capabilities. All are portable and can communicate with larger computer system, though various levels of data translation and decryption keep the majority of them operationally isolated. Security concerns will reinforce the isolation for the foreseeable future, though they will not affect the more benign display instruments in the same manner as they would affect tricroders, and particularly the smaller, more undetectable data storage media in a time of hostilities and widespread espionage. Upgrades in display and storage science of the various cultures have proved largely predictable due to the availability of information across territorial borders. As with other technical innovations in the galaxy, the appearance of radically new materials or hardware may be deliberately postponed, while covert applications are tested away from the main theaters of operation.
+
+STARFLEET PADD variants include three principal hardware sizes in current use;
+10.16 by 15.24 by 0.95cm, 113.39g, 5.08 by 7.62cm display, 15.3kq storage
+20.32 by 25.41 by 0.95cm, 224.29g, 13.51 by 19.35cm display, 56.8kq storage
+22.86 by 30.47 by 1.27cm, 340.19g, 20.32 by 27.94cm display, 97.5kq storage
+All are fabricated from micromilled duranium and operate on sarium-krellide power cells. Display screens all employ dynamic resolution switching created by a nonpixel molecular matrix. The matrix is the result of a fivefold improvement on previous padd, tricorder, and control panel imaging thin films. All variants contain subspace transceiver assemblies for data transmission to larger core computers. 
+Development units employing encapsulated bioneural gel wafers are scheduled to be delivered shortly after the Research, Development, Testing, and Evaluation (RDT&E) cycle is complete for all data devices.
+
+KLINGON PADDS, by comparion, are extremely limited in memory capacity and display options, though highly ruggedized for battlefield use. Each unit is fabricated from pressurized-forged tritanium, as a subsidiary use of Klingon construction activity. It measures 19.10 by 6.98 by 0.99 centimeters, and masses 45.5 grams. The display screen is an irregular hexagon 8.13 by 5.71 centimeters and provides a fixed resolution of 250 discrete elements per millimeter. Data is stored in two isolinear chips for a total memory capacity of 4.32 kiloquads. Through the technology transfer agreements between the United Federation of Planets and the Klingon High Council, Klingon padds are equipped with standard subspace transceiver assemblies for data transmissions. No alternate RF channels are present. The unit is powered by a single thermocouple induction loop of cesium diferroflourite, and can run continuously for 47.5 hours.
+
+FERENGI PADDS are highlighted by the latest high-clock-rate processors optimized for financial and material inventory calculations. The unit measures 19.07 by 8.96 centimeters and masses 268.54 grams, and the casing is formed from relatively inexpensive sintered aluminum-lithium, typically by the lowest-bidder facilities on Ferenginar. The trilobed central processor is based on isolinear technology, but is molded in a 4-D forced matrix process that takes seventy-three hours to cure completely. The Ferengi patience is rewarded, however, with a massively cross-linked circuit possessing a density of twenty-three hundred neurites per square millimeter. Memory storage is handled by a single 5.35 centimeter molded isolinear disk piggybacked directly to the processor, with a smaller 2.13 centimeter disk and backup processor, which maintains a limited record of only the last 358,700 transactions.
+
+CARDASSIAN PADDS appear to be hybrid products of their own materials developments and borrowed technology from other worlds. The primary model a is ruggedized unit molded from rodinium boronate, mostly from ore tailings. The housing measures 18.41 by 9.53 centimeters, with a tapered handhold, and masses 198.2 grams. The display employs a gas-field suspension screen with a standoff gap distance of 0.3 millimeters and is capable of imaging both two-dimensional and limited holostereo data. Isolinear processors and memory chips are piggyback-paired in hot-swappable modules, with two type-2 memory rods for a total capacity of 12.1 kiloquads. Controls include capacitance sliders and voice activation. Power for 29.3 hours continuous operation is provided by liquid isotolinium ampules. In the modified units used by Starfleet and Bajoran personnel in Nor-class stations and other stations and vessels serving along the Cardassian border two Starfleet-type sarium-krellide cells were installed to replace the other batteries and operate the machine for 37.5 continuous hours.
+
+Reference:
+At the time Star Trek: The Next Generation's padd was designed in 1987 it seemed fairly futuristic. But machines like Apple Copmuter's Newton, Ipod, Casio, and Palm Pilot personal digital assistant (PDA) that do virtually everything a PADD can theoretically do, are already being marketed as consumer products. An electronic clipboard was also used by the Enterprise crew in the original series, which might also have been a PADD device, although it was never referred to as such.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+
+
+
+
+
+
+
+

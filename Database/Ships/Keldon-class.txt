@@ -1,0 +1,43 @@
+CLASS: Keldon
+TYPE: Heavy cruiser
+
+A new variation of the Galor-class warship designed and maintained by the Obsidian order; despite their charter limitations that prevent them from operating military vessels. These new craft were originally built at secret shipyards in the Orias System. News of the event made its way to the Central Command when Lieutenant Thomas Riker stole the U.S.S. Defiant from Deep Space Nine in an attempt to destroy the yards. When Riker made his way to the system three of these classification of craft began pursuit of his ship until he was rescued by a Cardassian patrol under the command of Gul Dukat, who wanted an explanation for the secret weapons.
+These ships were larger than the regular version Galor-class, equipped with a large section the size of a freighter onto its dorsal tail. These ships were faster than the others in the fleet as well. Later it becomes known that the ships were being modified with Romulan cloaking devices for the ill-fated attack on the Founders homeworld. 
+
+DISPLACEMENT
+Standard: 2,230,000 MT
+
+DIMENSIONS
+Length: 371.88 m
+Beam: 192.23 m
+Draught: 70.13 m
+
+PROPULSION
+Warp Drive: 1 (Possibly 2) M/A Warp System
+Impulse Drive: 2 or more
+
+VELOCITY
+Normal Cruising Speed: 6*
+Max Cruising Speed: 9.6*
+* observed
+
+COMPLEMENT
+Total: 500 plus Flight Crew and Troops*
+* estimated
+
+WEAPONS
+8 or more Spiral-Wave Disruptors
+1 Large Aft Disruptor Wave Cannon
+1 Romulan Cloaking device
+Possibly others
+
+Reference: Defiant, Improbable Cause, The Die is Cast, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2002 Activision
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+
+

@@ -1,0 +1,105 @@
+CLASS: Vor'cha
+TYPE: Heavy Cruiser
+
+A Klingon attack cruiser and a major Klingon design, first seen as K'mpec's ship in 2367, about three fourths the length of a Galaxy-class starship. It echoes the traditional Klingon battle cruiser design, but with a foredeck protrusion and, reflecting newly shared technology with the Federation, carries Starfleet-like warp nacelles. As with its Starfleet counterparts, it also carries a mission recorder. These ships are usually equipped with cloaking devices but have rarely been seen using one. And they can be equipped with a poleron torpedo launcher, modified from Jen’Hadar weapons.
+The explosion of one within the 15 kilometer distance from Deep Space Nine to the wormhole briefly overpowered the station's inertial dampers. 
+The Mirror Universe Klingons also fly this variety of ship. One ship's crew spied and boarded Major Kira Nerys' runabout the minute it exited the wormhole, though no one knows of the anomaly's existence; the same or another of the class pursued the fleeing craft later, firing the familiar green disrupter bolts from the forward wing tips. 
+
+SHIPS OF THE LINE:
+I.K.S. Vor’cha
+I.K.S. Bortas
+I.K.S. Drovna
+I.K.S. Maht-H’a
+I.K.S. Qu’Vat
+I.K.S. Toh’Kaht
+I.K.S. Vor’nak
+
+DISPLACEMENT
+Light: 2,016,000 MT
+Standard: 2,238,000 MT
+Full: 2,424,000 MT
+Cargo Capacity: 495,000 MT
+
+DIMENSIONS
+Length: 481.32 m
+Beam: 341.76 m
+Draught: 106.87 m
+Number of Decks: 28
+
+PROPULSION
+Warp Drive: M/ARA Mark I feeding 2 STP9 Warp Drive Graph Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 Hydrogen Energy Impulse Units
+Impulse Engine Fuel: Hydrogen
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: "Tak'Nar" Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.6
+
+ACCELERATION
+Rest-Onset Critical Momentum: 1.64 sec
+Onset Critical Momentum-Warp Engage: .11 sec
+Warp 1-Warp 3: .14 sec
+Warp 3-Warp 6: .13 sec
+Warp 6-Warp 9: .20 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 175
+Time Between Resupply: 10 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 305
+Enlisted Crew: 1595
+Troops: 1000
+Evacuation Capacity: 10,000
+
+EMBARKED CRAFT
+Total: 18
+
+NAVIGATION
+System: "Cha-Blinge" Vector And Tensor Analysis Unit
+
+COMPUTERS
+Type: "Ka-Me" FTL Central Information Unit
+
+SENSORS
+High Resolution Long Range Max Effective Range: 3 ly
+Medium to Low Resolution Effective Range: 14 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 50,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+GRAVITIC DISRUPTORS:
+Ship: 18 (Force 137) "Krazin Tu" Type; 1 (Force 502) "Ke-Pac Tu" Type
+
+PHOTON TORPEDOES
+Tubes: 2 ((Fore (Force 734) Aft (Force 609)) "T Maltak" Type
+Max Torpedo Simultaneous Spread: 12
+
+DEFENSE
+Shields: "Hechla" Deflector Plating And Field Generation System
+Fire Control: "Kormek Ho-Cha" Tactical System
+Cloaking: "Remat Tu" Cloaking Generator
+
+TRANSPORTERS
+Personnel Transporters: 8
+Emergency Transporters: 4
+Troop Transporters: 8
+Cargo Transporters: 4
+
+Reference: Reunion, Sons of Mogh, The Defector, Redemption, The Chase, Aquiel, Dramatis Personae, Through the Looking Glass, Way of the Warrior, Sons and Daughters, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2000 2002 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
