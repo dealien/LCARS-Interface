@@ -1,0 +1,56 @@
+// LCARS Elbow
+
+.{prefix}elbow
+  position relative
+  width base-width + elbow-column-spacing
+  min-width @width
+  height (base-height * 1.5)
+  min-height @height
+  background default-color
+  margin 0
+  & a
+    display inline-block
+    position absolute
+    color black
+    bottom 0
+    padding base-spacing
+  &:after
+    content ''
+    display block
+    position absolute
+    width elbow-column-spacing
+    height @height - (base-height/2)
+    background black
+  &.left-bottom
+    border-top-left-radius elbow-radius-size
+    & a
+      right elbow-column-spacing + base-spacing
+    &:after
+      right 0
+      top (base-height/2)
+      border-top-left-radius (elbow-radius-size/2)
+  &.left-top
+    border-bottom-left-radius elbow-radius-size
+    & a
+      top 0
+      right elbow-column-spacing + base-spacing
+    &:after
+      right 0
+      bottom (base-height/2)
+      border-bottom-left-radius elbow-radius-size
+  &.right-bottom
+    border-top-right-radius elbow-radius-size
+    &:after
+      top (base-height/2)
+      border-top-right-radius (elbow-radius-size/2)
+    & a
+      left elbow-column-spacing + base-spacing
+  &.right-top
+    border-bottom-right-radius elbow-radius-size
+    & a
+      display inline-block
+      top 0
+      left elbow-column-spacing + base-spacing
+    &:after
+      bottom (base-height/2)
+      border-bottom-right-radius (elbow-radius-size/2)
