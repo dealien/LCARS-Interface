@@ -4,6 +4,8 @@ const app = express()
 const path = require('path')
 const port = 3000
 
+app.use(express.static('files'))
+
 app.listen(port, (err) => {
     if (err) {
         return console.log('something bad happened', err)
@@ -14,7 +16,7 @@ app.listen(port, (err) => {
 
 app.get('/', (request, response) => {
     response.render('home', {
-        name: 'John'
+        file_data: 'The contents of the currently loaded data file are displayed here.'
     })
 })
 
