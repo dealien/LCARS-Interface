@@ -1,5 +1,7 @@
 # LCARS-Database
-A text file reader built in HTML inspired by the LCARS Terminal project (http://www.lcars-terminal.net/). 
+A text file reader built in HTML inspired by the [LCARS Terminal project](http://www.lcars-terminal.net/). 
+
+[View it live](https://dealien.github.io/LCARS-Database/)
 
 Additional information and resources provided by: 
 * [LCARS Standards Development Board](http://lcarsdeveloper.com/).
