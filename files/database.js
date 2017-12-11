@@ -1,7 +1,6 @@
 // const dataFolder = './data/';
 // const fs = require('fs');
 
-
 function walk(currentDirPath, callback) {
   var fs = require('fs'),
     path = require('path');
