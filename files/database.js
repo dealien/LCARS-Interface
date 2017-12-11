@@ -1,5 +1,5 @@
-// const dataFolder = './data/';
-// const fs = require('fs');
+const dataFolder = './data/';
+const fs = require('fs');
 
 function walk(currentDirPath, callback) {
   var fs = require('fs'),
@@ -23,6 +23,5 @@ function walk(currentDirPath, callback) {
 function loadDatabase() {
   walk(dataFolder, function(filePath, stat) {
     console.log(filePath);
-    $('.file-list').append(filePath.toString());
   });
 }

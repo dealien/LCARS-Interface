@@ -8,14 +8,16 @@ app.use(express.static('files'))
 
 app.listen(port, (err) => {
     if (err) {
-        return console.log('something bad happened', err)
+        return console.log('Something bad happened', err)
     }
 
     console.log(`Server is listening on ${port}\nhttp://localhost:${port}/`)
 })
 
+// Data to render
 app.get('/', (request, response) => {
     response.render('home', {
+        file_name: 'The name of the loaded file',
         file_data: 'The contents of the currently loaded data file are displayed here.'
     })
 })

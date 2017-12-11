@@ -1,6 +1,7 @@
 body {
     background: #000;
-    font-family: lcars1, Helvetica, Arial, sans-serif;
+    /*font-family: lcars1, Helvetica, Arial, sans-serif;*/
+    /*letter-spacing: 1px;*/
 }
 
 div.line {
@@ -21,4 +22,8 @@ h1 {
 
 .file-data {
     color: #fff;
+}
+
+.scrollable {
+    overflow-y: auto;
 }

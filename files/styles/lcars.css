@@ -394,8 +394,7 @@
   color: #821 !important;
 }
 
-
-/*html,
+html,
 body {
   font-family: "arial", monospace;
   color: #fff;
@@ -429,7 +428,7 @@ h5 {
 h6 {
   font-size: 140%;
   font-weight: bold;
-}*/
+}
 
 .lcars-app-container {
   display: flex;
