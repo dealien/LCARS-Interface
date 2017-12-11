@@ -20,6 +20,9 @@ function walk(currentDirPath, callback) {
   });
 }
 
-walk('./data', function(filePath, stat) {
-  console.log(filePath);
-});
+function loadDatabase() {
+  walk(dataFolder, function(filePath, stat) {
+    console.log(filePath);
+    $('.file-list').append(filePath.toString());
+  });
+}
