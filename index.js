@@ -2,7 +2,11 @@ const express = require('express')
 const exphbs = require('express-handlebars')
 const app = express()
 const path = require('path')
-const port = 3000
+const port = 8080
+
+const dataFolder = './data/';
+const fs = require('fs');
+const database = require('./database')
 
 app.use(express.static('files'))
 
@@ -10,7 +14,6 @@ app.listen(port, (err) => {
     if (err) {
         return console.log('Something bad happened', err)
     }
-
     console.log(`Server is listening on ${port}\nhttp://localhost:${port}/`)
 })
 
