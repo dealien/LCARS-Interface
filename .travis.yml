@@ -3,6 +3,7 @@ node_js:
  - "node"
 before_script:
   - npm install -g gulp-cli
+  - npm install handlebars -g
 script: gulp
 
 deploy:

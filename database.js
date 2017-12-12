@@ -1,7 +1,5 @@
-const fs = require('fs');
-
 module.exports = {
-  generateFileList: function() {
+  generateFileList: function(currentDirPath, callback) {
     var fs = require('fs'),
       path = require('path');
     fs.readdir('./data/', function(err, files) {
@@ -21,7 +19,7 @@ module.exports = {
   },
   scan: function() {
     var files = [];
-    walk('./data/', function(filePath, stat) {
+    generateFileList('./data/', function(filePath, stat) {
       files.push(filePath.toString());
     });
   }
