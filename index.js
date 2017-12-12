@@ -1,12 +1,12 @@
-const express = require('express')
-const exphbs = require('express-handlebars')
-const app = express()
-const path = require('path')
-const port = 8080
+var express = require('express')
+var exphbs = require('express-handlebars')
+var app = express()
+var path = require('path')
+var port = 8080
 
-const dataFolder = './data/';
-const fs = require('fs');
-const database = require('./database')
+var dataFolder = './data/';
+var fs = require('fs');
+var database = require('./database')
 
 app.use(express.static('files'))
 
@@ -59,9 +59,4 @@ function scan() {
     walk('./data/', function(filePath, stat) {
         files.push(filePath.toString());
     });
-}
-// },
-// load: function() {
-
-// }
 }
