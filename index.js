@@ -5,6 +5,8 @@ var exphbs = require("express-handlebars");
 var app = express();
 var fs = require("fs");
 var path = require("path");
+var publicIp = require('public-ip');
+
 var port = 8080;
 
 var datafolder = "files/data/";
@@ -18,7 +20,9 @@ app.listen(port, function(err) {
     if (err) {
         return console.log("Something bad happened", err);
     }
-    console.log('Server is listening on ' + port + '\nhttp://localhost:' + port + '/');
+    publicIp.v4().then(ip => {
+        console.log('Server is listening on ' + port + '\nhttp://' + ip + ':' + port + '/');
+    });
 });
 
 // Data to render
