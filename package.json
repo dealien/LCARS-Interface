@@ -23,7 +23,8 @@
   },
   "dependencies": {
     "express": "^4.16.2",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "public-ip": "^2.4.0"
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint index.js"
