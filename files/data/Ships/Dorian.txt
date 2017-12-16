@@ -1,0 +1,9 @@
+SHIPS: Dorian
+TYPE: Transport
+
+This vessel was attacked near planet Rekag-Seronia in 2369 while attempting to deliver Ambassadro Ves Alkar to that planet in hopes of mediating peace there.
+
+Reference: Man of the People
+The Dorian was a re-dress of the Straleb transport ship originally built for "The Outrageous Okona."
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

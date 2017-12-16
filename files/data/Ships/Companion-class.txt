@@ -1,0 +1,56 @@
+CLASS: Companion
+TYPE: escort frigate
+
+One of the most used vessels of its class that also paid witness to the disastrous testing of the Advanced Fusion Prototype One experimental ship. After the vessel was decommissioned from regular service is was renovated and served as the Official Interplanetary Carrier for the Secretary General of the United Nations.
+What follows is the exact transcript of the tragedy that preceded the era of advanced fusion drive. The participants in this communication were Robert Caradine, test pilot of the Advanced Fusion Prototype One experimental ship and Richard Hanna, Captain of the trailing escort support vehicle. Nulcear fusion proved, at times, to be difficult to tame, and, as revealed in the official inquiry of this unfortunate accident, the new vehicle was not yet ready for rigorous testing.
+Hanna: …on my mark we’ll be minus ten… mark, ten seconds to power-up.
+AFP1: Okay… ten seconds. Our program 9-21 is in. We’ve got the velocity light at nine… reaction prefire and energy stream detonator power levels are stable at six seconds, five, four… fuel pellets are switching to larger size… two, one
+Hanna: We see your power-up.
+AFP1: -and the throttle is up! The positive-g light is on… we’re burning! Nozzle temp is going up… leveling off at ten thousand six. Dick, it’s a very smooth firing.
+Hanna: We copy; GNC and Flight Dynamics report you moving out past Marker 1, and your velocity is climbing to .389c… looking good.
+AFP1: …Dick, we’re getting a Master Caution and Warning alarm on the… wait a second. The engine is misfiring. The beams are first missing the fuel pellets and then hitting them, and it’s shaking up the Engineering section. We’re dropping the throttle down to previous setting.
+Hanna: Shut down the injector and turn the ship around. We want to bring you back to the inner Markers. Prepare to copy guidance instructions when you’ve settled the engine down.
+AFP1: I don’t know if we can get a total shutdown. If we stop the sequence right now, it may not be restartable within the time we have.
+Hanna: All right… we’ll get a low-g chase configured to start after you… and begin working on a fix for your engine from this end. How serious do you estimate your situation is right now?
+AFP1: We’re experiencing severe shaking when the engine fires. Something is clogging the delivery tube and it’s not going to settle down.
+Hanna: The Test Director wants everybody to get into the crew module and break off from the ship. Right now!
+AFP1: …trying to dislodge the fuel in injector… we’ll be able to turn- what? What size is it? Twenty-five? No… too big… engine…
+Hanna: Bob! Cut the module away! Cut the… Oh my God! Oh my God! One flash and five years of research and ten of friendship are vaporized. Where do we go from here?
+
+SHIPS OF THE LINE: 
+U.N.S.S. Fisher
+
+COMMISSIONED: 2033	DECOMMISSIONED: 2080
+
+DIMENSIONS: 
+Length:	156 meters
+Diameter:	37.9 meters
+Mass:		6.9 million kilograms
+Engine Section
+Length:	78 meters
+Diameter:	37.9 meters
+Life Support Section
+Length:	40 meters
+Diameter:	29 meters
+Forward Sensor
+Diameter:	18 meters
+
+ACCOMODATION:
+Crewmen:	16
+Officers:	4 (Captain, science, engineer, communicator)
+
+PERFORMANCE:
+Range:	up to 6 billion kilometers
+Cruising velocity:	6,000 meters per second
+Maximum velocity:		9,500 meters per second
+Engines:	2 advanced fission thrusters
+Fuel capacity:		1.5 million kilograms
+
+SUPPORT SYSTEMS:
+Full-band communications receptivity
+High precise local sensitivity forward sensors
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

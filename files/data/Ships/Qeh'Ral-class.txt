@@ -1,0 +1,34 @@
+CLASS: Qeh’Ral
+TYPE: heavy cruiser
+
+A Klingon battle cruiser design used in the early 2300s, and a few were still left into the last half of the century, the predecessor to the Negh’Var-class cruiser.
+
+SHIPS OF THE LINE:
+I.K.C. Qeh’Ral
+I.K.C. Bekta
+I.K.C. Boyn'Ton
+I.K.C. De'na'Ilj
+I.K.C. De'vam
+I.K.C. Do'Ha'oh
+I.K.C. DogDaq
+I.K.C. Dur'gha
+I.K.C. Hevpu'a
+I.K.C. J'Hvad
+I.K.C. LenglaHIl
+I.K.C. Mu'QujIIj
+I.K.C. Mu'vetlh
+I.K.C. Navvetlh
+I.K.C. Nobta'Gha
+I.K.C. Nuq Qum
+I.K.C. Qa'wI'Ho'vad
+I.K.C. Qahjaj
+I.K.C. Qalpup
+I.K.C. Qatlh'ram
+I.K.C. Qu'Daj
+I.K.C. Sa'Hmo
+I.K.C. Van'Daj
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

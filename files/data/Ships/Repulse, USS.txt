@@ -1,0 +1,11 @@
+SHIPS: Repulse, U.S.S.
+CLASS: Excelsior
+REGISTRY: NCC-2544
+
+Dr. Pulaski's assignment at the time she transfered to the Enterprise about stardate 42073.1. The Repulse's Shuttle 10, name classified, transported her over without using the transporter. 
+
+Reference: The Child 
+Named for the British battle cruiser that fought in Earth's World War II.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

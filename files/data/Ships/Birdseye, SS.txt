@@ -1,0 +1,13 @@
+SHIPS: Birdseye, S.S. 
+TYPE: Cryo-satellite
+
+A late 20th century sublight spacecraft found on stardate 41986.0 by the U.S.S. Enterprise NCC-1701-D, carrying several humans from 1990s Earth in a state of cryogenic preservation - placed there shortly after their deaths. 
+
+Reference: The Neutral Zone 
+The name S.S. Birdseye was barely visible on the side of the model used for production. The ship was designed by Rick Sternbach and Mike Okuda. The ship was later modified and used as Subspace Relay Station 47.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Commnications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+

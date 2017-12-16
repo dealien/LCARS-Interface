@@ -1,0 +1,15 @@
+SHIPS: Vahklas
+TYPE: transport
+
+A Vulcan civilian ship in use by a group of self-exiled persons that believed in mild melds and emotions, known as V'tosh ka'tur, contrary to popular Vulcan beliefs. The ship was exploring the Arachnid Nebula at the same time as Enterprise when the ship hailed the Terran Starfleet vessel to request repairs.
+
+CREW:
+Tavin, captain
+Kov, engineer
+Tolaris, crewman
+
+Reference: Fusion
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+
+

@@ -1,0 +1,8 @@
+TECHNOLOGY: mnemonic memory circuit
+
+Type of computer circuit used in modern databank access. A primitive circuit, composed of a variety of electrical and radio parts of the 1930s on Earth, was jury-rigged by Commander Spock to retrieve tricorder data while he and Captain Kirk were trapped there. 
+
+Reference: The City on the Edge of Forever 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

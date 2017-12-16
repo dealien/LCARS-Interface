@@ -1,0 +1,12 @@
+SHIPS: Yangtzee Kiang, U.S.S.
+CLASS: Danube
+REGISTRY: NCC-72453
+
+One of Deep Space 9's three original runabout vessels dropped off by the U.S.S. Enterprise-D. It was used by Major Kira Nerys to mount Commander Benjamin Sisko's rescue operation with Science Officer Jadzia Dax, Security Chief Odo and Doctor Julian Bashir, when it carried a special-mission module, perhaps due to its refigured navigational sensors to better handle the wormhole. The ship was crash-landed and lost in the Gamma Quadrant, after Sisko had taken it to show Kai Opaka the wormhole - and unwittingly fulfill a Bajoran prophesy - with Kira and Bashir. 
+
+Reference: Emissary, Battle Lines
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

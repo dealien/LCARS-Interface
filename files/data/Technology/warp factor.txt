@@ -1,0 +1,22 @@
+TECHNOLOGY: warp factor
+
+Warp factor is the unit used to measure faster-than-light travel, where 'c' is equal to the speed of light. Each increase of one warp is computed geometrically. Warp ten is theorized to be infinite and with current technology, unobtainable. 
+Warp 1= 1 billion kilometers per hour, the speed of light
+Warp 2= 11 billion kph, 10x the speed of light
+Warp 3= 42 billion kph, 39x the speed of light
+Warp 4= 109 billion kph, 102x the speed of light
+Warp 5= 229 billion kph, 214x the speed of light
+Warp 6= 421 billion kph, 392x the speed of light
+Warp 7= 703 billion kph, 656x the speed of light, maximum speed of generation-0 starships
+Warp 8= 1.1 trillion kph, 1024x the speed of light
+Warp 9= 1.62 trillion kph, 1516x the speed of light
+Warp 9.2= 1.77 trillion kph, 1649x the speed of light, maximum speed of generation-D starships
+Warp 9.6= 2.05 trillion kph, 1909x the speed of light, emergency speed (short distance) of generation-D starships
+Warp 9.9= 3.27 trillion kph, 3053x the speed of light, also known as warp 11
+Warp 9.99= 8.48 trillion kph, 7912x the speed of light, also known as warp 12
+Warp 9.9999= 214 trillion kph, 199,516x the speed of light, speed of subspace radio, also known as warp 14
+
+Reference: The Cage, et al episodes of Star Trek 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

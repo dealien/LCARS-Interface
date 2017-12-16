@@ -1,0 +1,11 @@
+SHIPS: Nuubari
+TYPE: freighter
+
+A vessel that crash landed on a planet and hosted a barrage of ghost stories among traders. It was attacked by raiders and suffered heavy crew losses, all but two persons died. The chief engineer and his young child survived but the father/ engineer was unable to repair the ship by himself and take care of his daughter so he created a complex set of holograms to recreate the crew and his wife. He and his daughter lived in that fake reality for decades, until the Enterprise discovered the craft while inspecting it for salvage. Starfleet Engineer Charles Tucker was able to assist and get the ship operational again.
+
+Reference: Oasis
+This starship model was used for Bajoran, Cardassian, Klingon, and other Delta Quadrant races throughout the many series.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

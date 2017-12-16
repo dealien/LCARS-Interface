@@ -1,0 +1,36 @@
+SHUTTLECRAFT: Magellan-class
+TYPE: 7 shuttlecraft
+MODEL: MKX-VII
+MISSION: Medium Short-Range Warp Shuttle
+
+DISPLACEMENT
+Light: 3.78 MT
+Standard: 3.96 MT
+Full: 4.13 MT
+
+DIMENSIONS
+Length: 8.5 m
+Beam: 3.6 m
+Draught: 2.7 m
+
+POWER PLANT
+Engines: 2 1,250 Millicochrane Warp Nacelles (Standard); 2 2,100 Millicochrane Warp Nacelles (Uprated)
+Reaction Control System: 12 DeFL 3234 Microfusion RCS Thrusters
+
+PERFORMANCE
+Warp 1.75 for 48 hours (Standard); Warp 2 for 36 hours (Uprated)
+
+COMPLEMENT
+Crew: 2 (Pilot and Systems Manager)
+Passengers: 6 (Standard); 2 (Diplomatic); 12 (Emergency)
+
+ARMAMENT
+None (Standard); 2 Type V Phaser Emitters (Special)
+
+Reference: Coming of Age
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+

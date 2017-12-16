@@ -1,0 +1,8 @@
+SHIPS: Kotakian ship
+TYPE: transport
+
+A passenger ship registered with its own world, otherwise unspecified, whose run along the Cardassian-Bajoran-Federation frontier includes a stop at Deep Space Nine. Dukat got aboard as an unregistered passenger on his unauthorized visit to Commander Sisko after the Bok'Nor incident. 
+
+Reference: The Maquis
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

@@ -1,0 +1,8 @@
+SHIPS: Lissepian
+TYPE: transport
+
+A Starfleet starship of unspecified registry and class where Curzon Dax and Ben Sisko served together for months at some time during their 20-year friendship. On stardate 47182.1, they recalled one incident involving the ship's science officer, Kustanovich.
+
+Reference: The Homecoming
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studio

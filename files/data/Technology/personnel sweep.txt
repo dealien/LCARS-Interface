@@ -1,0 +1,13 @@
+TECHNOLOGY: personnel sweep
+
+A variety of security procedures to locate and/or identify people within a station or ship.
+Level 1 is an elaborate sensor scan pattern used to locate personnel. In 2369 Security Chief Odo ran such a sweep to ensure than a station-wide evacuation order was being obeyed by station residents. 
+Level 2 is a light use of sensors to scan public and restricted areas, or a private area after a level 3 sweep has narrowed down the search areas.
+Level 3 requires access to computer logs from replicator stations, personal quarters doors, access logs from secured areas that require identifiable log-in, and record logs from security and maintenance check-in stations. These logs are used to establish a pattern, or a last known position from which to begin a search.
+Level 4 uses the communication system to find and identify the location of a combadge, communicator, or other communications device to open direct communication. This is often used for personnel equipped in this matter,
+Level 5 uses the communication system to call to the likely area a person would be (quarters, duty station) or to make a general page in common areas, then wait for a response. This was used on starships and stations until personnal communication devices became popular. It is still widely used for non-commissioned civilians.
+
+Reference: If Wishes Were Horses 
+Information provided by:
+Star Trek Continuum, www.startrek.com, @2002 Paramount Pictures
+

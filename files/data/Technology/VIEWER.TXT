@@ -1,0 +1,11 @@
+TECHNOLOGY: viewer
+
+General term for the visual displays found throughout Federation starships. Viewers come in a variety of sizes, from desktop units to wall-mounted version such as that commonly found on the main bridge of a starship. Some viewers are equipped to generate three-dimensional images. 
+
+Reference: Where No Man Has Gone Before, et al episodes of Star Trek
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

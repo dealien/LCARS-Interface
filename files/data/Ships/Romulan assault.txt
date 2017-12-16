@@ -1,0 +1,9 @@
+CLASS: Romulan
+TYPE: frigate
+
+A Romulan heavy transport equipped with extra duty transporters for transferring large numbers of personnel onto target vessels or stations and overwhelming the crew. These ships have disruptors to wear down the enemy's shields but these ships work better as part of a fleet effort. As with all Romulan vessels these ships can cloak.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

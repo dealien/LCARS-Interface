@@ -1,0 +1,43 @@
+STATIONS: Central Command
+
+Starfleet's first contact with the Lysians occurred under tragic cirumstances; the Enterprise-D crew met a Satarran vessel in space and was incapacitated by some form of neural weapon or capability of the Satarrans. Whilst the Starfleet crew was unconcious the Satarrans wiped much of their memories, and altered the ships records to indicate that the Federation was at war the the Satarrans enemies, the Lysians.2 
+Captain Picard, acting under this belief, destroyed a Lysian cruiser and entered Lysian space, heading for their home world. The Enterprise destroyed a number of sentry drones defending the Lysian home world and approached the central command. Scans indicated that the station, although quite large, was relatively primitive in design. Its primary on-board armament consists of four laser cannons and some missiles equipped with magnetic propulsion and cobalt fusion warheads in the 5 Megaton range; the former naturally would have no effect on a Federation Starship2, while the latter where of such low speed and yield that they also presented little threat. Troubled by the fact that their "mortal enemies" were so weak in comparison, Captain Picard refused to continue with the attack and instead attempted to open communications with the Lysians. A Satarran agent masquerading as the ships Executive Officer attempted to overrule the Captain, but was incapacitated by Commander Riker. 
+The Enterprise crew was subsequently able to recover their memories on the way back to Federation territory. The Federation President and the entire Enterprise-D crew issued a joint apology to the Lysians; material reparations were subsequently made to the government for the loss of their vessels. Despite this, the Lysians remain somewhat wary of the Federation and there has been little contact between the two. The Satarrans continue in their war against the Lysians.
+
+Type :
+Command center, general purpose orbital station
+
+Unit Run :
+1 built in total. 
+
+Commissioned :
+2347, class remains in service
+Dimensions :
+Depth : 2,700 m
+Width : 3,200 m
+Height : 3,520 m1
+Decks : 824
+Mass :
+235,000,000 metric tons
+Crew :
+15,311 
+Armament :
+4 x Laser cannon 2 x 
+Defence Systems :
+Low level Structural Integrity Field
+Docking Facilities :
+Internal docking bays capable of holding a variety of small interplanetary and interstellar craft
+Warp Speeds
+Not capable of independent movement; attitude control and/or orbital adjustment only.
+Expected Hull Life : 80 years
+Refit Cycle :
+Minor : 1 year
+Standard : 4 years
+Major : 20 years 
+
+Reference: Conundrum
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2002 Dave & Richard
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

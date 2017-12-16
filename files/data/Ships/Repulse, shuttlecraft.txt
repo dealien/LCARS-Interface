@@ -1,0 +1,10 @@
+SHUTTLECRAFT: Repulse shuttle
+TYPE: 7
+REGISTRY: NCC-2544-10
+
+This support craft transferred Dr. Katherine Pulaski to the U.S.S. Enterprise-D from the U.S.S. Repulse. 
+
+Reference: The Child 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+

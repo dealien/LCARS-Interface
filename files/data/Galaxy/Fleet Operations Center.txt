@@ -1,0 +1,15 @@
+STATION: Fleet Operations Center
+CITY: San Francisco
+STATE: California
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Facility where Starfleet was overseen.  Admiral Forrest's offices were here.
+
+Reference: The Expanse
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

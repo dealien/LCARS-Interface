@@ -1,0 +1,10 @@
+SHIPS: Rak-Minunis
+TYPE: freighter
+
+A Kobheerian ship that traveled a trade route along the Cardassian-Federation border. On one of its voyages it transported Marritza to Deep Space Nine. 
+With the U.S.S. Defiant disguised through shield harmonics to a Cardassian patrol, Commander Sisko claimed the ship was this Kobheerian freighter.
+ 
+Reference: Second Skin, Duet 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

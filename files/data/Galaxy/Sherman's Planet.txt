@@ -1,0 +1,11 @@
+PLANET: Sherman's Planet
+SYSTEM:
+SECTOR:
+QUADRANT: Beta
+
+Farming planet held by the Federation. The U.S.S. Enterprise delivered grain there in 2269 to alleviate a famine. Unfortunately, the grain did not take hold as quickly as projected due to interference by Pathfinder Twelve at Memory Gamma. 
+
+Reference: The Trouble With Tribbles, More Tribbles, More Trouble, Memory Prime, Trials and Tribble-ations
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+

@@ -1,0 +1,11 @@
+SHIPS: Thomas Paine, U.S.S.
+CLASS: New Orleans
+REGISTRY: NCC-65530
+
+A frigate under the command of Captain Rixx, who joined in the secret rendezvous on Dytallix B amid concerns of a feared conspiracy within Starfleet in 2364. Two years later, it was one of the ships in Picard's blockade fleet on the Klingon-Romulan border. 
+
+Reference: Conspiracy 
+This ship was named for the American patriot and writer.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

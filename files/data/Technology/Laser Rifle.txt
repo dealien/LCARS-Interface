@@ -1,0 +1,10 @@
+WEAPON: Laser rifle
+
+Rifle that utilizes a laser beam.  Laser rifles make very little sound. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+
+

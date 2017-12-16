@@ -1,0 +1,14 @@
+SHIPS: Rubicon, U.S.S.
+CLASS: Danube
+TYPE: runabout
+REGISTRY: NCC-72936
+
+This Deep Space Nine replacement Runabout arrived soon after the abandonment of the U.S.S Mekong in the Gamma Quadrant amid the aftermath of the Cardassian-Romulan debacle at the Founders' Homeworld. Perhaps the rush delivery is the reason it arrived unnamed, since Commander Sisko was allowed to christen it. 
+Among its more notable assignments is the infamous "little ship" mission to explore a rare subspace compression phenomenon ca. SD 51474.2. After the three-member crew were shrunk to a height of about two centimeters, they aided - even in miniature form - in retaking the U.S.S Defiant from Jem'Hadar capture. 
+This ship conducted a bio-survey of Merik III with Dr. Bashir and Chief Miles O'Brien on stardate 49066.5. It was forced to crash land on Bopak III after the Jem'Hadar hit it with a subspace magneton pulse.
+
+Reference: Family Business, Hippocratic Oath, One Little Ship
+The Rubicon was named after the river in Italy that was a strategic importance to Caesar in 49 BC.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

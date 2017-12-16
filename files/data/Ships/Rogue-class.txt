@@ -1,0 +1,7 @@
+CLASS: Rogue
+TYPE: fighter
+
+A newer fighter design in use by Starfleet.
+
+Reference:
+Information provided by:

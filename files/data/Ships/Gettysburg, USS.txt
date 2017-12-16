@@ -1,0 +1,11 @@
+SHIPS: Gettysburg, U.S.S.
+CLASS: Constellation
+REGISTRY: NCC-3890
+
+Cruiser under the command of Mark Jameson. In 2319 the ship was sent to Mordan IV to resolve a hostage crisis involving Federation citizens. The captain was successful in securing the release and restoring the government to power. It was later found that the captain secured the hostages with an offering of weapons from his ship's stores. It was his last starship command before his promotion to admiral. 
+
+Reference: Too Short a Season 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

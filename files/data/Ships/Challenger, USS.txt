@@ -1,0 +1,12 @@
+SHIPS: Challenger, U.S.S.
+CLASS: Galaxy
+REGISTRY: NCC-71099
+
+Commanded by Captain Geordi La Forge. 
+In an alternate timeline in which Commander Chakotay and Ensign Harry Kim were the only survivors from the U.S.S Voyager, the Challenger was dispatched to the Takara Sector in 2390 to prevent those ex-Starfleet officers from changing history. In 2375, Voyager had crashed on an icy Class-L planet just outside the Alpha Quadrant, killing all aboard, after falling out of a quantum slipstream. Chakotay and Kim - along with Chakotay's companion, Tessa Omond - conspired to steal a Borg temporal transmitter (Salvage Component 36698, found among the wreckage of a Borg Cube in the Beta Quadrant), as well as the Delta Flyer from a Federation shipyard, and return to Voyager with the express purpose of violating the Temporal Prime Directive. Upon intercepting the Delta Flyer, Captain La Forge was ordered to offer leniency to the outlaws, if they would stand down and turn over the Borg transmitter. They refused, so the Challenger was forced to fire upon the shuttle. Once the Flyer's engines were disabled, the Challenger locked onto it with a tractor beam; however, Chakotay sent a plasma surge back through the beam to break free. Doing that destabilized the shuttle's warp core, making a breach imminent within three minutes. La Forge offered to beam the fugitives to safety, but they refused. The Delta Flyer exploded, killing the three aboard. (Presumably, though, the timeline was altered so that these events never actually occurred.) 
+
+Reference: Timeless 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+
+

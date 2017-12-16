@@ -1,0 +1,11 @@
+TYPE: rockets
+
+Combustion engine used to give incredible amounts of thrust used by pre-warp civilizations. These powerful fuselages carried payloads of various kinds including satellites, space station parts, and warheads.
+
+CLASSES OF THIS TYPE:
+Saturn-class
+Titan-class
+
+Reference: all episodes of Star Trek
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

@@ -1,0 +1,22 @@
+FLEET: Broto vessels
+
+An alien fleet of ships from across the Milky Way that do not have warp capability, but do make extensive use of warp gates and wormholes for travel. First contact was made with this species in 2376 when they unexpectedly came through the warp gate outside the Sol System. Because of friendly relations established by Admiral Alynna Nechayev and regular scans made of the ships, some superficial data is available about these craft. The basic technology and design principles are the same as their planetary neighbors, the Draquil.
+Broto capital vessels were originally designed to be colony transports with farming and industrial equipment in addition to livestock, passengers, and other supplies for colonial expansion. As tensions between the Draquil and Broto people grew several Broto engineers began work on ways to modify the current fleet of ships and new starship designs for fighters and weapons.
+Each vessel is based on a large oblong hexagonal shaped wing accented by hexagon vertical wings near the extreme weapons ports and other places atop and bottom of the main hull. These wings do allow for some atmospheric flight capabilities, but depending upon the size of the craft will determine how effective the wings really can be; larger capital ships can only maneuver within the ionosphere and troposphere layers, while smaller craft can maneuver into the stratosphere. 
+The main hull is a tapered horizontal set of decks, narrowing toward the outside edges. The front and rear edges of the hexagon are often cut off, leaving large gaps between the outer sections and allowing them to come to a point. Within the front cutout area are the ship's most powerful weapons systems, limited to forward firing only, within a small degree of firing arc. And often these front sections include a bridge or auxiliary control station and shuttlebay access. Within the rear cutout sections are the ship's drive systems, ion radiant propulsion offering Broto vessels a top speed equal to 3x Federation standard full impulse, equal to 3/4 light speed.  The engines themselves are long cylinders wrapped in coils that bleed off energy for use in other ships systems. These engines are powered by matter/antimatter fusion reactors contained within large spheres directly in front of the engine tube. The fuel tanks are also contained in spherical pods and located within this area of the craft.
+The far extreme sides are equipped with multiple weapons systems including a pair of phased energy emitters on 270 degree rotating turrets and forward and aft firing torpedo launchers. Each side is computer controlled by its own sensor net and tracking system which is linked to the main ship's central computer for firing commands and overlap protection.
+Every craft within the Broto fleet has a reinforced hull to withstand the heat and gravitational forces of planetary entry. And every craft is fitted with landing support struts and loading ramps on the belly for access to the cargo bays.
+
+Classifications of ships built by the Broto include: 
+Bin'Tak-class medium cruisers
+Dag'Kar-class light cruisers
+Frazi-class shuttles
+G'Quon-class heavy cruisers
+Gorith-class fighters
+Rutarian-class carriers
+Thentus-class transport tugs
+
+Reference: New Contact
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

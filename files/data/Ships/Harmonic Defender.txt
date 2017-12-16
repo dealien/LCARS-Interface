@@ -1,0 +1,8 @@
+SHIPS: Harmonic Defender
+TYPE: frigate
+
+An accessory vessel used in fleet deployments of Borg assault craft. These vessels have some weapons but are mostly used for their special power, the ability to create a resonant field that recharges the special weapon ability of nearby allied vessels.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

@@ -1,0 +1,9 @@
+SHIPS: Xerxes, U.S.S.
+CLASS: Saladin
+REGISTRY: NCC-505
+
+An early Starfleet destroyer.
+
+Reference:
+Information provided by:
+Ted W Geibel, @1997

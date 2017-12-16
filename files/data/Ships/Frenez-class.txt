@@ -1,0 +1,11 @@
+CLASS: Frenez
+TYPE: light cruiser
+
+A submarine looking starship in use by the Vulcan fleet. These craft have extra durable hulls and have been widely used in nebula research. These ships were crucial before the Antedeans joined the Federation.
+The main hull is a long oval running down the center of the area in between the warp nacelle. An extra science module is attached to the bow of the craft in a ring covering the front half of the main hull. At its tip is the main deflector dish. The rest of the module's hull is fitted with sensor pallets. Inside the main hull are the science labs that receive the information from the sensor grid. Moving aft of the science area is the crew section which has the quarters, sickbay, galley, rec centers, and other crew needs. In the aft section of the craft is the engineering equipment. The deuterium fuel and anti-matter storage pods are at the far aft of the craft for easy fueling. Attached to the side of the hull are the impulse drive engines. Life support and the ship's batteries are also housed in this section.
+The secondary hull is attached like a conning tower on a submarine, on the dorsal section of the main hull. It contains the bridge and all command centers. Attached to the command tower is a ring that is attached to the outside of the tower and contains the weapons systems. Four torpedo launchers and eight phaser emitters cover forward, rear, port, and starboard firing arcs. The torpedo and probe magazines are stored in the tower, close to the launchers.
+
+Reference: pon-farr
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

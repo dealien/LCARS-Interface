@@ -1,0 +1,18 @@
+SHIPS: U.S.S. Grissom
+CLASS: Excelsior
+TYPE: Heavy cruiser
+REGISTRY: NCC-42857
+
+The second Federation starship to bear the name, and assigned to the Sigma Erandi system. McKenzie Calhoun served on as first officer under Captain Korsmo. When the U.S.S. Stargazer returned from her mission to catch the White Wolf, Captain Vayishra told Captain Jean-Luc Picard that the Grissom and the U.S.S. Reliant would be there within one hour.  
+
+Timeline:
+2366: Circa stardate 43872 the ship was ordered to stand by to bring more hytritium from that system to neutralize Beta Agni II's tainted water after half the intended load shuttled aboard the Enterprise was lost. 
+
+Reference: The Most Toys, House of Cards, Gauntlet
+The Encyclopedia contradicts the official website when determining the registry number; the website lists NCC-59314. Subsequent uses of the registry numbers in the books coincide with the Encyclopedia. The website was probably a simple typing error.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

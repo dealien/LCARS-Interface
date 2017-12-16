@@ -1,0 +1,14 @@
+SHIPS: Prince of Wales, U.N.S.S.
+CLASS: Magellan
+
+This starliner was one of the most luxurious vessels created by Terrans for the transport of passengers within their native solar system. The craft was designed for regular weekly flights between Mars and Jupiter, a trip that was expected to take weeks to complete. During the inaugural flight of the vessel, Captain Lars Olmstead filed the following log:
+“Good afternoon ladies and gentlemen. As Captain of the Prince of Wales spaceliner, I want to welcome you aboard her maiden voyage. Our inaugural flight plan, as you can see on the screen below me, will take us first to Marsbase One, a journey of some six days, then on to the capital city of the Asteroid Belt, Asteropolis, thirty days farther, and then for our remaining passengers, to our final destination in Jupiter orbit, the Ganymede Outpost.
+“Quite naturally, all the members of the crew are delighted about the opening of commercial cruises throughout the Solar System. I myself am a twenty-two-year veteran of the Earth/moon route and have, I don’t mind saying, dreamed of the day when service between the planets would start. Not only for the adventure of it, but to be able to pilot a ship such as this. It’s even hard for me to be able to believe this is an interplanetary spaceship and not some grand hotel. We have two opulent dining rooms, stage and screen theater, null-gravity gymnasium, stellar observatory, even a wine cellar. And more. After we establish standard trajectory, the Cruise Director, Mr. Anthony, will be by to give you a complete rundown of the facilities on board. In the meantime, I ask that you remain in your seat harnesses until we’ve completed initial thrust sequence, about thirty minutes, and for your safety, I ask that you return to this Main Maneuvering Module whenever a major course correction on docking is scheduled.
+“We will be leaving Piccadilly Platform shortly on the first leg of our journey. I look forward to speaking with all of you during the course of this flight, and seating for dinner at the huge Captain’s Table has been arranged on a rotating basis to assure this.
+“I hope you enjoy your flight cruise. Next stop is Mars.”
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

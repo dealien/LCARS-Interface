@@ -1,0 +1,10 @@
+SHIPS: Blue Jay 4
+CLASS: F-104
+TYPE: fighter
+
+An atmospheric only fighter craft employed by the United States Air Force. This vessel was commanded by Captain John Christopher.
+In 1969 the plane was sent to investigate an unidentified radar contact over the North American continent. The object was the U.S.S. Enterprise that had traveled back in time and space as the result of a black hole that had caused a time & space displacement. The Enterprise ensnared the plane in its tractor beam but the craft was not able to withstand the force of the energy and crumbled. In an effort to restore the timeline to its original status, Captain Kirk duplicated the time travel effects which allowed him to return in time some in order to restore F-104 and to erase the evidence of that ship's involvement in that timeline.
+
+Reference: Tomorrow Is Yesterday
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

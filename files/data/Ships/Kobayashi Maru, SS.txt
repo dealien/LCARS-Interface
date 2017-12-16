@@ -1,0 +1,29 @@
+SHIPS: Kobayashi Maru, S.S.
+TYPE: 3rd-class neutronic fuel freighter
+REGISTRY: (Amber, Tau Ceti IV)
+
+Federation fuel carrier that served as part of the Kobayashi Maru scenario, a simulated Starfleet Academy training exercise wherein cadets had to decide what to do after receiving a distress call from the freighter. The scenario was considered unwinnable. As a cadet, James Kirk found a way around the test by reprogramming the simulation, making it possible for him to beat it. 
+
+DIMENSIONS:
+Length: 237m
+Height: 70m
+Beam: 111m
+Weight: 147,943 MT
+Cargo capacity: 97,000 MT
+
+ACCOMMODATIONS:
+Crew: 81
+Passengers: 300
+
+CREW: 
+Kojitro Vance, ship’s master
+
+PERFORMANCE:
+Maximum cruising speed: warp 3
+Maximum emergency speed: warp 6
+
+Reference: The Wrath of Khan 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

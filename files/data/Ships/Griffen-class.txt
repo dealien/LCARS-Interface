@@ -1,0 +1,10 @@
+CLASS: Griffen
+TYPE: light cruiser
+
+A Romulan warship designed to compliment the Romulan fleet by confusing and disabling the enemy. Its reinforced shielding and ample crew allow it to be a formidable opponent in combat. All Griffens are armed with powerful disruptors, as well as cloaking devices.
+Griffens can also be outfitted with a sensor jammer; a weapon that unleashes a subspace wave disabling all enemy ship’s sensors in its wake.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2002 Activision
+

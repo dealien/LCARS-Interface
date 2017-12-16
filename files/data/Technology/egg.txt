@@ -1,0 +1,9 @@
+PROBES: EGG
+
+An instrumented sensor probe, designed by Dr. Paul Stubbs to record the decay of neutronium expelled during a stellar explosion. Dr. Stubbs, who nicknamed his brainchild "the Egg," worked on it for twenty years before successfully launching it from the U.S.S. Enterprise-D at the Kavis Alpha Sector in 2366. 
+
+Reference: Evolution
+The full-scale egg prop was a modification of the virus containment device originally built for "The Child."
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

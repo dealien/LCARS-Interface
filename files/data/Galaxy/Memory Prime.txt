@@ -1,0 +1,12 @@
+STATION: Memory Prime
+PLANET:
+SYSTEM:
+SECTOR:
+QUADRANT:
+
+After the Memory Alpha disaster, Starfleet decided that the Federation's total knowledge should have been decentralized. Hence,  Memory Beta, Memory Gamma, Memory Delta, and Memory Epsilon were built across the galaxy, each with a specific specialty. Memory Prime is the central coordinating database for all four planets. It also serves as the home to the Pathfinders. Located in Quadrant Zero, five days from Starbase 4 at Warp 4.   Its design was based upon Starfleet weapon-testing facilities. Built on a nickel-iron asteroid, Memory Prime is protected by warp core-powered shields and photon torpedoes. The Interface Chamber is twelve kilometres below the surface.  Upon its activation there was some dispute over who was in command, as it was a civilian installation with a military presence. The Federation and Starfleet compromised by giving command to the chief Starfleet technician, Mira Romaine.
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

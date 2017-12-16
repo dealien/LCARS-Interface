@@ -1,0 +1,92 @@
+CLASS: D7
+TYPE: Battle Cruiser
+
+The workhorse of the Klingon Imperial Fleet in the 2250s and the predecessor to the K't'inga class. Koloth's ship was the I.K.S. Gr'oth. This design was shared with the Romulan Star Empire during the brief alliance between the two powers. 
+These starships were equipped with warp drive and phase-disruptor style directed energy weapons. After the alliance with the Romulans they also became equipped with cloaking devices. The D7-class was later replaced with the K’t’inga-class battle cruiser.
+
+SHIPS OF THE LINE:
+I.K.S. Gr'oth
+I.K.S. K'tanco
+
+DISPLACEMENT:
+Light: 105,000 MT
+Standard: 110,000 MT
+Full: 115,000 MT
+Cargo Capacity: 8,500 MT
+
+DIMENSIONS
+Length: 216.41 m
+Beam: 152.4 m
+Draught: 57.1 m
+Number of Decks: 9
+
+PROPULSION
+Warp Drive: 2 S-2 Dilitium-Conversion Graph Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 1 Hydrogen Energy Impulse Unit
+Impulse Engine Fuel: Hydrogen
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: Chemical Propulsion
+
+VELOCITY
+Normal Cruising Speed: Warp 5*
+Max Cruising Speed: Warp 7*
+* Following old Warp standards.
+
+ACCELERATION
+Rest-Onset Critical Momentum: 10.28 sec
+Onset Critical Momentum-Warp Engage: 2.21 sec
+Warp 1-Warp 3: 1.00 sec
+Warp 3-Warp 5: .71 sec
+Warp 5-Warp 7: 2.36 sec
+
+DURATION
+Expected Lifetime: Estimated 50 Years
+Number of Maintaince/Upgrade Layovers: 100
+Time Between Resupply: 2.4 Years
+Time Between Refit: 7.2 Years
+
+COMPLEMENT
+Officer Crew: 24
+Enlisted Crew: 430
+
+EMBARKED CRAFT
+Total: 2
+
+NAVIGATION
+System: "Chon" Vector & Tensor Analysis Unit
+
+COMPUTERS
+Type: "Krotus'Mor" Level 12 Central Information Unit
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: .9 ly
+Medium to Low Resolution Range: 1.75 ly
+
+GRAVITIC DISRUPTORS:
+Ship: 2 (Force 47) "Ovlarka Moy" Type
+
+PHOTON TORPEDOES
+Tubes: 1 (Force 103) "Yagust-Tik" Type
+Max Torpedo Simultaneous Spread: 2
+
+DEFENSE
+Shields: "Mengat Pil" Force Field And Deflector Generation System
+Fire Control: "Sorg'Tu Vwe-Cha" Tactical System
+Cloaking: "Clitimera" Cloaking Generator
+
+TRANSPORTERS
+Personnel Transporters: 3
+Emergency Transporters: 6
+Cargo Transporters: 2
+
+Reference: The Enterprise Incident, The Trouble With Tribbles, More Troubles More Tribbles, The Motion Picture, The Undiscovered Country, Trials and Tribble-ations, Unexpected
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+
+
+

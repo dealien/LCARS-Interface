@@ -1,0 +1,38 @@
+PROBE: U.N.S.S. Orpheus
+TYPE: Kepler-series telemetry probe
+
+This craft’s series was named after the U.N.S.S. Kepler, a starship that was destroyed when Phi Puma went supernova unexpectedly and engulfed the science ship in orbit about it. This probe also suffered a fate to a star anomaly as it was sucked into a black hole that it was sent to study.
+
+Telemetry log:
+Data Parameters:
+Distance from Black Hole (BH):	1 A.U. (1.495x10^8km)
+Velocity:				79,181 km/sec
+Acceleration from gravity		2.305 km/sec^2
+Commitment to BH descent		irreversible
+
+Systems Report:
+All warp engines off-line
+Warp power entirely diverted to telemetry transmission
+Sensors still functional- error correction necessary for space-time deformation
+
+Quantitative Analysis:
+Estimated mass of BH, based on gravivational acceleration; 3.8 times Sol
+Estimated radius of BH event horizon, based on field flux triangulation; 543 meters
+--ATTENTION—ATTENTION—
+Calibration sensors partially damaged by flux fields
+Damage strategy; revert to qualitative analysis
+
+Qualitative Analysis:
+BH rotating on its axis at rapid rate approaching speed of light angular velocity.
+BH pulsating at rate approaching speed of light: cause unknown. Virtual particle detector/analyzer reveals presence of particles from matter/ antimatter annihilation. No source of antimatter could come from this universe. Preliminary data indicate possible presence of alternate universe gate at center of BH.
+…. Repeating sequence
+Data Parameters:
+Distance from Black Hole (BH):	.48 A.U. (7.176x10^7km)
+Velocity:				94,340 km/sec
+Acceleration due to……..
+[end of transmission]
+
+Reference: Spaceflight Chronology
+Some mathematical information was changed due to errors when converting fiction to fact. 2.305 x 10km/sec equals 23.05 km/sec. The use of x10 and an exponential number indicates exceptionally large values. The original value only indicated moving one decimal place and thus more time and space wasteful than writing the basic number. References to the UFP were changed to the U.E.S.P.A. since canon sources indicate that the Federation was founded after this probe was launched.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

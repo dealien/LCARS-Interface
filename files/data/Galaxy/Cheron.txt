@@ -1,0 +1,10 @@
+PLANETOID: Cheron
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Sometimes called a moon of Pluto, sometimes called half of a double planet with Pluto. When Pluto was downgraded to a planetoid in 2006 this partner received equal billing for its 9th place in orbit of the star Sol.
+
+Reference:
+
+

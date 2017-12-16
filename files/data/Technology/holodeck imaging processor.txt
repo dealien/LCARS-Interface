@@ -1,0 +1,10 @@
+TECHNOLOGY: holodeck imaging processor
+
+
+The technology in a holodeck system which produces the visual imagery. 
+The imaging processors in a U.S.S. Enterprise-D holodeck malfunctioned following exposure to plasmonic energy in the atmosphere of planet Boraal II in 2370, and the cimulation of Boraal II suffered many resolution failures as a result.
+
+Reference: Homeward 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

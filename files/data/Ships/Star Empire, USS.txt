@@ -1,0 +1,10 @@
+SHIPS: U.S.S. Star Empire 
+CLASS: prototype MK-X
+TYPE: dreadnought
+REGISTRY: MKC-2331
+
+Tonage is 30% over a Constitution Starship. Three nacelles. Crew compliment is 500. Strictly a warship, with neither labs nor recreational areas on board.  Primary hull is fifteen decks. Construction ordered during time of conflict with Klingons. Equipped with holographic projection device. State-of-the-art weapontry includes five dual-mounted phase banks and four banks of photon torpedoes. Triple shielding. Outer hull constructed of Fibercoil Quantobirilium.  Schematics are classified at Security One Prohibited level. The ship was stolen by renegade Starfleet officers and recovered by the U.S.S. Enterprise. Kirk and his senior officers, and also Commander Piper and Sarda were instrumental in the recovery.
+
+Reference: Dreadnought!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006

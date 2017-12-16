@@ -1,0 +1,8 @@
+CLASS: Raptor
+TYPE: medium cruiser, long range bomber
+
+A stealthy offensive starship in use by the Romulan Star Empire. It is equipped with disruptors and torpedo launchers through which it can shoot tricobalt ordinance very long ranges while keeping back at virtual safety. It is suspected that Tal Shiar agents stole this technology from the Federation. Like all Romulan vessels it is able to cloak. These ships can also be equipped with mytronic inhibitors.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, Activision

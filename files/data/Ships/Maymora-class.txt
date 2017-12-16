@@ -1,0 +1,8 @@
+CLASS: Maymora
+TYPE: cruiser
+
+Vulcan starship classification. Captain Archer was once a guest aboard a Maymora-class vessel, the Yarahla, under the command of Captain Tok. 
+
+Reference: Breaking the Ice
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

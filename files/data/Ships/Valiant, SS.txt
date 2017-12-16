@@ -1,0 +1,14 @@
+SHIPS: S.S. Valiant
+CLASS: Valiant
+TYPE: Cruiser
+REGISTRY:
+
+Early interstellar vessel launched in 2064 from Earth on a mission of exploration with a crew of 88 under the command of Captain Carlos Tarasco. In 2069 it was lost when it was carried out of the galaxy into the surrounding energy barrier, the Galactic Barrier, when a powerful magnetic storm flung them lightyears off course, past the outer edge of the galaxy. Their ship's warp and nuclear impulse engines were heavily damaged. After weeks of repairs, the Valiant continued her journey towards Earth, even though it had been lengthened by eleven months. On December 30th, 2069, the ship had a violent encounter with "Big Red," their nickname for the Galactic Barrier, which left six crewmembers dead. Geirrod Agnarsson survived, but he had been physically and psychologically changed and eventually developed into a danger to the ship. He and other crewmembers were altered as a result of their unusually high Extra Sensory Perception rating. His alterations caused him to exhibit god-like abilities and a lack of compassion for his crewmates or the chain of command. To stop him, Captain Tarasco decided to explode the Valiant's atomic missiles while they were still inside the ship. The captain was forced to self-destruct his ship and all hands to prevent the affected crew from escaping into the populated galaxy. 
+Information about the craft was discovered hundreds of years later by the U.S.S. Enterprise when they recovered its recorder-marker log buoy. 
+
+Reference: Where No Man Has Gone Before, The Valiant
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+

@@ -1,0 +1,13 @@
+CLASS: Barracuda
+TYPE:
+
+U.S.S. Barracuda, NX-
+
+DIMENSIONS:
+LENGTH: 155 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

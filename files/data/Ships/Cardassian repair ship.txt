@@ -1,0 +1,8 @@
+SHIPS: Cardassian repair ship
+
+Small ships available at Navigation Control Posts for dispatch to vessels in need or escort. 
+
+Reference: The Homecoming, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+Armada, www.activision.com, @2002 Activision

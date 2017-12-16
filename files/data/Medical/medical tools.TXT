@@ -1,0 +1,10 @@
+MEDICAL: Field Kit
+
+Field medical equipment has been used for Centuries, before the Federation was even formed, and continues to be a most valuable asset on away teams under hazardous conditions. When medical personnel are on away missions, they are supplied with a portable equipment package which typically consists of a medical tricorder, field hypospray, respirator, defib module, sample kit, and a selection of drugs and bandages for emergency use. 
+The hypospray has been used for decades as a method of administering many types of medicaton intravenously. It uses a pinpoint high-pressure microscopic aerosol stream which allows low density liquid medication to be admisitered without penetrating the outer skin layers. 
+
+The medical tricorder is merely a standard tricorder, programmed with medical data, and equipped with an additional medical peripheral device incorporating a hand scanner for specific local area scans on any part of the body.
+
+Reference: 
+Information provided by:
+

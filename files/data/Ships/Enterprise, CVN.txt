@@ -1,0 +1,14 @@
+SHIPS: Enterprise, U.S.S.
+TYPE: naval aircraft carrier
+REGISTRY: CVN-65
+
+Twentieth century U.S. Naval warship whose dock was stationed at the Alameda Naval Base, across the bay from San Francisco. 
+In 1986 Commander Pavel Chekov and Commander Nyota Uhura of the future took high-energy photons from this nuclear-powered vessel in order to recrystallize the dilithium on their Klingon Bird-of-Prey, the H.M.S. Bounty, and safely return to the 23rd century with the humpback whales George and Gracie. Chekov was detained by Naval officers of that ship, but managed to escape. 
+
+Reference: The Voyage Home 
+The aircraft carrier U.S.S. Ranger actually stood in for the Enterprise for filming during The Voyage Home since the real Enterprise was at sea at the time.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

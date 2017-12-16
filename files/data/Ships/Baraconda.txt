@@ -1,0 +1,13 @@
+CLASS: Baraconda
+TYPE: transport
+
+A multipurpose Antedean transport capable of moving passengers and heavy cargo in interstellar space.
+The ship features the typical teardrop shape customary to all Antedean designs and is equipped with an attached bridge module, two inset warp nacelles, and two tail fins that include the engineering sections of the craft.
+The engineering tails are equipped with the impulse drive engines in each rudder on the port-aft and starboard-aft section of the craft. The port fin holds the deuterium tanks while the starboard fins has a small deuterium tank (for the impulse engines) and athe anti-matter storage pods. The matter/ anti-matter injection chamber is laid horizontally across the back section of the craft so that the fuel tanks have direct access to their respective injectors. 
+Above the M/ARA is the main hangar where the craft can hold two shuttles during flight. This hangar is often used for loading and unloading large items from the larger cargo holds in the rear of the craft. Smaller cargo bays are located between the warp nacelles. Passenger cabins are built into the craft's nose and across the belly. 
+In the nose of the craft is the ship's main deflector dish. And on the dorsal side is the ship's bridge module where all operations are taken care. The bridge contains the ship's computer cores and environmental support machines too.
+
+Reference: Genesis Nebula
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

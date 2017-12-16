@@ -1,0 +1,11 @@
+SHIPS: Mail Barge
+TYPE: transport
+
+A generic name for a cargo transport hauling mail packages throughout the United Federation of Planets. It is not just a criminal offence on Earth, but a Federation offence to tamper with it.
+
+Reference: Best Destiny
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+
+

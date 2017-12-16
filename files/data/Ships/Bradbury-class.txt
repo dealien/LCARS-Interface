@@ -1,0 +1,12 @@
+CLASS: Bradbury
+TYPE: transport
+REGISTRY: NX-72307
+
+An experimental ship class, the first of its would-be design in 2366, assigned as a Starfleet Academy transport ship orbiting Betazed while waiting to pick up Academy cadets - including Wesley Crusher, who later decided to stay aboard the Enterprise. Named for 20th Century Earth science fiction author and futurist Ray Bradbury. 
+
+Reference: Ménage à Troi 
+The Bradbury was named for s-f/fantasy writer Ray Bradbury, a friend of the late Gene Roddenberry. Based on the ship's registry number we suspect it is an experimental vessel, the first of its class.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

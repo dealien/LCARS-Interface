@@ -1,0 +1,11 @@
+PLANET: Deneb IV
+SYSTEM: Deneb
+SECTOR:
+QUADRANT: Alpha
+
+Homeworld of the Bandi. Location of Farpoint Station. 
+
+Reference: Encounter at Farpoint, Fall of Terok Nor  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2007 Deb J S
+

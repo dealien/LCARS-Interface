@@ -1,0 +1,8 @@
+SHIPS: Mayflower, U.S.S.
+
+A Starfleet vessel in service during 2366.
+
+Reference:
+Named in honor of the ship used by Christopher Columbus with which he discovered the American continents on Earth in 1492.
+Information provided by:
+

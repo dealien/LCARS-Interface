@@ -1,0 +1,13 @@
+SHIPS: T`Pau
+TYPE: transport
+REGISTRY: NSP-17938
+
+2364: This ship was decommissioned and assigned to the surplus depot in orbit around Qualor II.
+2368: Parts of this ship's navigational deflector array were discovered in the wreckage of a Ferengi cargo shuttle. An inquiry revealed that the ship had been taken over by Romulans and carried 2,000 Romulan troops during the attempt to invade Vulcan. The ship was destroyed by the Romulans when Spock revealed the planned invasion. 
+
+Reference: Unification
+The ship was named after the Vulcan dignitary from "Amok Time," the only person to decline a seat on the Federation Council.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

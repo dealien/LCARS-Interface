@@ -1,0 +1,8 @@
+CLASS: Explorer
+TYPE: heavy cruiser
+
+A variation of the Soveriegn-class, featuring additional deflector emitters located port and starboard of the main dish, and a circular saucer instead of the long oval shape of the traditional vessel.
+
+Reference: 
+Information provided by:
+

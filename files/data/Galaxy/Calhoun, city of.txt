@@ -1,0 +1,13 @@
+CITY: Calhoun
+PLANET: Xenex
+SYSTEM:
+SECTOR: 221H
+QUADRANT: Alpha
+
+This was the home of rebellion leader M’k’n’zy, who later became known as Starfleet Captain Mackenzie Calhoun.
+
+Reference: House of Cards, Into the Void
+Information provided by:
+New Frontier Minipedia, www.simonsays.com/st, @1998 Pocket Books, Peter David, David Mack
+
+

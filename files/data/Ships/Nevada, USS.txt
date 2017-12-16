@@ -1,0 +1,9 @@
+SHIPS: Nevada, U.S.S.
+CLASS: Excelsior
+TYPE: heavy cruiser
+
+A starship that was destroyed while trying to escape the weapons range of a hostile base.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

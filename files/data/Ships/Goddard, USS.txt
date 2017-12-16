@@ -1,0 +1,11 @@
+SHIPS: Goddard, U.S.S.
+CLASS: Korolev
+REGISTRY: NCC-59621
+
+Starship that the U.S.S. Enterprise was to have rendezvoused with after leaving the Acamarian talks in 2366 until Starfleet postponed the order in favor of a medical resupply run to the Alpha Leonis system. It was also one of the ships in Captain Picard's blockade fleet on the Klingon-Romulan border in 2368. 
+
+Reference: The Vengeance Factor, Redemption
+This starship is the only one known of its kind, so the class, Korolev, was issued to it in recognition of spacecraft designer Sergey Pavlovich Korolev, a key figure in the early Russian space program.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,14 @@
+MOON: Jeraddo
+PLANET: Bajor
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+Closest moon to Bajor. The moon was Class-M until a core energy tap in 2369 rendered it Class-Y. The tap was expected to provide Bajor with energy for a thousand years. The second of the Red Orbs of Jalbador was found here in 2374. 
+
+Reference: (Fall of Terok Nor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+  
+

@@ -1,0 +1,61 @@
+CLASS: Danube
+TYPE: Runabout
+MODEL: MKZ-I
+MISSION: Medium/ Long-Range Warp Shuttle
+
+A multi-function small starship assigned to assist space stations and starbases with longer range or more elaborate duties than a shuttlecraft or shuttlepod could perform. Deep Space Nine was issued (and maintained) three of these starships assigned to it at a time. Some of these models feature a "roll bar" looking sensor array along the rear dorsal section of the craft.
+This class has become the model for several variants including the Yellowstone-class, Chariot-class all terrain vehicle, and Seine-class.
+
+SHIPS OF THE LINE:
+U.S.S. Danube, NX-
+U.S.S. Chari, NCC-
+U.S.S. Ganges, NCC-72454
+U.S.S. Mekong, NCC-72617
+U.S.S. Orinoco, NCC-72905
+U.S.S. Rio Grande, NCC-72452
+U.S.S. Rubicon, NCC-72936
+U.S.S. Shenandoah, NCC-72024
+U.S.S. Volga, NCC-73196
+U.S.S. Yankzee Kiang, NCC-72453
+U.S.S. Yukon, NCC-74602
+
+DISPLACEMENT
+Light: 11.72 MT
+Standard: 12.28 MT
+Full: 12.81 MT
+
+DIMENSIONS
+Length: 23.1 m
+Beam: 13.7 m
+Draught: 5.4 m
+
+POWER PLANT
+Warp Drive: M/ARA Mark I-L feeding 2 DNC-3 Mod 1 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 8 LX-L Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+PERFORMANCE
+Warp 2 for 48 hours; Warp 2.35 for 36 hours
+
+COMPLEMENT
+Crew: 2 (Pilot and Mission Commander)
+Passengers: 6 (Standard); 2 (Diplomatic); 14 (Emergency)
+
+ARMAMENT
+6 Type VI Phaser Emitters 
+1 microtorpedo launcher
+
+Reference: Emissary (Deep Space Nine et. al), Rascals, House of Cards, (New Frontier et. al) Fall Semester (Starfleet Academy et. al)
+The Danube-class was first seen in Emissary. These ships are traditionally named after great rivers. The Danube-class was designed by Rick Sternbach and Jim Martin; the interior cockpit by Joseph Hodges; the aft compartment by Richard James. The miniature was built by Tony Meininger. All design work was supervised by Herman Zimmerman. Although runabouts are primarily seen in Deep Space 9, Picard an company took a trip in an unnamed runabout in "Timescape" which was the only time to date that the aft compartment has been seen in an episode.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+
+
+

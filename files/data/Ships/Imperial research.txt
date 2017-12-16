@@ -1,0 +1,7 @@
+STATIONS: Imperial Research Center
+
+A Klingon facility developing and implementing system upgrades for its military vessels. These facilities have been known to create upgrades to weapon systems, engine efficiency, shield strength, sensor range, and life support generators among other systems.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

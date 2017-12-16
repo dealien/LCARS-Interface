@@ -1,0 +1,8 @@
+CHEMISTRY: magneton
+ 
+Historically, the magneton is a unit used to measure of the magnetic dipole moment of a particle. In modern physics the term refers to a specific particle which can be used by sensor systems. 
+ 
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+

@@ -1,0 +1,99 @@
+CLASS: Norway
+TYPE: Medium cruiser
+
+This type of Federation starship has a sleek design and was seen protecting Sector 001 from the Borg attack. 
+
+SHIPS OF THIS LINE:
+U.S.S. Norway, NX-
+U.S.S. Budapest, NCC-
+
+DISPLACEMENT
+Light: 618,000 MT
+Standard: 622,000 MT
+Full: 626,500 MT
+Cargo Capacity: 120,000 MT
+
+DIMENSIONS
+Length: 364.77 m
+Beam: 255.61 m
+Draught: 52.48 n
+Number of Decks: 14
+
+PROPULSION
+Warp Drive: M/ARA Mark I-B feeding 2 NCN-4 Mod 2 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 1 LMR Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 7
+Max Cruising Speed: Warp 9.7
+
+ACCELERATION
+Rest-Onset Critical Momentum: 3.17 sec
+Onset Critical Momentum-Warp Engage: .04 sec
+Warp 1-Warp 3: .09 sec
+Warp 3-Warp 6: .07 sec
+Warp 6-Warp 9: .11 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 25
+Enlisted Crew: 165
+Civilians/Families: none
+Evacuation Capacity: 500
+
+EMBARKED CRAFT
+Total: 8
+
+NAVIGATION
+"Saber" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk IIB
+Crew Interface Software: LCARS 2.0
+Data Transfer Rate: 4600 Kiloquads/Second
+Number of Dedicated Modules: 1024
+Storage Capacity/Module: 630,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 4 ly
+Medium to Low Resolution Effective Range: 15 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 60,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 6 Type X Phasers: 5.1 MW
+
+PHOTON TORPEDOES
+Tubes: 2 Mk 11 Mod 3 Direct
+Max Torpedo Simultaneous Spread: 10
+
+DEFENSE
+Shields: "Protectori" Primary Force Field and Deflector Control System
+Fire Control: "Talon" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 3
+Emergency Transporters: 2
+Cargo Transporters: 1
+
+Reference: First Contact 
+The Norway-class starship was designed by Alex Jaeger at Industrial Light & Magic. It was rendered as a computer-generated visual effect.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson

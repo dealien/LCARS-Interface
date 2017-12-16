@@ -1,0 +1,9 @@
+WEAPONS: locator bomb
+
+Advanced weapon mounted with a sorium argine explosive that could seek out and track a target using sensors capable of detecting the pheromones of the targeted individual. In 2369, Rom and Krax used one of these weapons in an attempted assassination of then-Grand Nagus Quark. 
+
+Reference: The Nagus 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

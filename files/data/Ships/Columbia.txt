@@ -1,0 +1,13 @@
+SHIPS: Columbia
+CLASS: Enterprise
+REGISTRY: NCC-02
+
+The second version of Enterprise-class starship was still in drydock, undergoing construction, when the Enterprise NX-01 was sent into the Expanse to deal with the Xindi threat. 
+In 2154, the Columbia, under the command of Captain Hernandez, aided Enterprise in its efforts to bring Trip over from Columbia to fix the NX-01's warp reactor. A device planted on the reactor prevented Enterprise from traveling below warp five or else the ship would explode. 
+So the Columbia, at high warp, intercepted Enterprise, got into formation, and linked a cable between the two ships, thus allowing Trip -- while both vessels were at warp -- to travel to Enterprise.
+
+Reference: The Expanse, Home,  
+This entry has been modified to state that it is an Enterprise-class vessel, and its registry is NCC not NX. It was stated that it was the same class as the Enterprise and not a new type of starship so it should not have an NX- or experimental- registry.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+

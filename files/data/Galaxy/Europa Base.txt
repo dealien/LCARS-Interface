@@ -1,0 +1,14 @@
+STATION: Europa Base
+MOON: Europa
+PLANET: Jupiter
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Starfleet facility on Europa.  Alana Hart was posted here from 2146 to 2149. 
+
+Reference: What Price Honor?
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

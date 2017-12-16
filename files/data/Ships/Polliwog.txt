@@ -1,0 +1,11 @@
+SHIPS: Polliwog
+CLASS: Tycho
+TYPE:
+REGSITRY: 
+
+Starfleet ship, attached to Pompeii.
+
+Reference: Dreadnought!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

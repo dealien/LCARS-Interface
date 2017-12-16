@@ -1,0 +1,18 @@
+SHIPS: asteroid mover
+TYPE: tug
+
+Commissioned: 2026	Decommissioned: 2046
+
+DIMENSIONS:
+Length: 	70 meters
+Weight:	840 tons
+
+ACCOMODATIONS:
+Crewmen:	15
+
+PROPULSION:
+Chemical/Fission
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight  Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

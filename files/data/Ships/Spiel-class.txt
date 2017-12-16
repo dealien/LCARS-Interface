@@ -1,0 +1,11 @@
+CLASS: Spiel
+TYPE: carrier
+
+A large Fetlik ship designed to transport passengers, cargo, and other smaller ships across large distances. They are often accompanied by other support craft and usually used in the beginning stages of a new colony or during extensive growth of an existing colony.
+As with all Fetlik vessels, this ship begins with the typical saucer shape and proven warp core design with the centralized bridge and deflector dish.
+This ship begins with the same design as the Solari class cruiser, and then adds to it. These ships are colonizing craft and carry supplies and personnel necessary to begin a new world. Most of the internal spaces of the main saucer have been converted into habitable quarters for hundreds of colonists. The carriers do not maintain science labs and other exploratory facilities since they will be accompanied by a cruiser in the early stages of settlement, and will only be approaching planets that have been extensively researched already.
+Below the third hull begins the hangar section where the craft carries up to four Geolu class transports. This hangar is a large cylinder that is equal in diameter as the lower hull. It extends downward to a large bowl shape that ends appruptly. Geolu vessels are docked with their docking points facing the center of the ship so that they back in, and fly out when deployed. Within the central region of the hangar exists a thick column of cargo bays and workbee hangars. These workbees can be used on a planet as well as in an atmosphere or space to build facilities in any of those environments.
+
+Reference: Terrafirma
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

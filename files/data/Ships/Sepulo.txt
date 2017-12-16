@@ -1,0 +1,9 @@
+SHIPS: Sepulo
+TYPE: transport
+
+Transport that was the third Ferengi ship within 18 hours to arrive with attendees for Grand Nagus Zek's conference on future business in the Gamma Quadrant; the first was likely Zek's ship itself. It was moored at Docking Bay 5. 
+
+Reference: The Nagus 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

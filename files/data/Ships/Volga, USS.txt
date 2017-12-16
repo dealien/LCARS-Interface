@@ -1,0 +1,13 @@
+SHIPS: Volga, U.S.S.
+CLASS: Danube
+TYPE: runabout
+REGISTRY: NCC-73196
+
+Runabout assigned to Deep Space 9. 
+2372: This craft was used for a three day botanical study of Torad IV in the Gamma Quadrant. It was damaged when its deflectors were overwhelmed amid an asteroid field upon return, resulting in injuries to the pregnant Keiko O'Brien that forced Bashir to beam her fetus permanently into Kira. 
+2373: The ship was to have been used in the massive response to an anticiapted Dominion invasion of the Alpha Quadrant.
+
+Reference: Body Parts, By Inferno's Light
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

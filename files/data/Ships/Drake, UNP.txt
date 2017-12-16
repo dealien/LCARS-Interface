@@ -1,0 +1,35 @@
+PROBE: U.N.P. Drake
+CLASS: Wells-series
+
+The Drake discovered what was then unknown deformations in the space-time fabric that are fairly common in the interstellar void. These “Geon Holes” in space were harnessed forty years later for the quantum jump to warp communications.
+Telemetry readout:
+ATTENTION
+* Anomaly indicated in density pattern of interstellar dust in surrounding region.
+ANALYZING
+* Drift examination shows attraction of hydrogen, helium, and other elements of focal point approximately .117 A.U. distant.
+* Attraction extends outward from point in gravity-wave patterns.
+* Sensors can find no mass or energy source at center point of attraction.
+* Implementing course correction for closer analysis. Approach modified to maintain .05 A.U.  distance from anomaly.
+ATTENTION-
+* Anomaly indicated at focal point of attraction.
+ANALYZING
+* Interstellar dust disappearing from universe at focal point.
+* Matter apparently vanished into focal point.
+CONCLUSION
+* Cause unknown .
+* Data contrary to Prime Programming Loop “Laws of Physics.”
+* All problem solving circuits output impossible series converging to 1/0, an undefined and impermissible endpoint.
+* Random-access memory integration unable to locate acceptable explanation.
+* Repeat data summary: interstellar dust disappearing from universe. Cause unknown.
+
+DIMENSIONS:
+Length:	72 meters
+Weight:	1,500 tons
+
+PERFORMANCE:
+Early fusion thrusters
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

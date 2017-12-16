@@ -1,0 +1,10 @@
+SHIPS: S.S. Lakul
+CLASS: Whorfin
+TYPE: Transport
+
+A Federation ship that was destroyed in the Nexus while transporting El-Aurian refugees to Earth from the Delta Quadrant. The U.S.S. Enterprise-B was able to delay the destruction of the ship long enough to rescue some of the passengers before it eventually succumbed to the gravimetric pressure and electrical charges.
+
+Reference: Well of Souls
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

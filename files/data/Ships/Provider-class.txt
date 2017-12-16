@@ -1,0 +1,35 @@
+CLASS: Provider
+TYPE: tug
+
+This was the lead ship for the warp superconvoys, the 100-kilometer cargo carriers that revolutionized interstellar industrial transport. These groups were configured in 8-ship linked octagons at the head of the convoy, with 4-ship squares of booster tugs after each 10-container segment, and all controls subspace-radio synchronized per superconvoy.
+
+Notable ships of this line:
+U.S.S. Provider
+U.S.S. Muletrain
+
+Commissioned: 2157
+Decommissioned: 2190
+
+DIMENSIONS:
+Length: 	225 meters
+Beam:		220 meters
+Draught:	45.6 meters
+Weight:	72.5 million kilograms
+
+ACCOMODATIONS:
+Officers:	5
+Crewmen:	61
+
+PROPULSION:
+Advanced third generation warp drive
+Range:	2,000 light years
+Velocity
+Single:	Warp 3.5
+Convoy:	Warp 2 (towing)
+
+ARMAMENT:
+Tractor beam emitters
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

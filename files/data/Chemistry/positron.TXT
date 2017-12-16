@@ -1,0 +1,9 @@
+CHEMSITRY: positron
+ 
+The Positron is the antiparticle of the electron, one of the particles which make up atoms. 20th century science fiction writer Issac Asimov used positronic brains in his robot stories; centuries later Dr. Soong made this a reality when he developed Positronic technology for the neural nets of his androids, including Lore and Data. This technology is not yet widespread, but positronic systems can be used to keep the brain of an injured person functioning. Positrons can also be used by scanning systems against objects which are particularly difficult to penetrate with normal scans. 
+ 
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+
+

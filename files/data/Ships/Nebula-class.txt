@@ -1,0 +1,133 @@
+CLASS: Nebula
+TYPE: medium cruiser
+
+A deep space exploration craft. Distinctive Starfleet design with nacelles on pylons hugging the saucer underside and a distinctive triangular wedge, located over the rear saucer, rather than an underside secondary hull. Obviously based on the Miranda-class of a century ago with high tech equipment making it similar in design to the Galaxy-class starships. This vessel overall is slightly smaller than the Galaxy-class but the saucer is the same size, as well as the secondary hull. 
+Phasers can be emitted from the underside of the saucer. The warp engines of the class are rated at WF 9.5, but O'Brien coaxed those of the U.S.S. Prometheus up to 9.6. 
+While these ships were originally designed for scientific research and exploration the class has been refitted for combat since the Dominion War. With an extensive array of multi-purpose weaponry and new technology at its disposal, the Nebula-class is a great compliment to the Federation fleet. It can be outfitted with three special weapons in addition to the traditional phasers and torpedo banks that includes a shield disruptor, Gemini Effect, and Point Defense Phaser. These ship are also crewed with additional engineering teams and special transporter protocols for assisting allied vessels.
+
+SHIPS OF THE LINE:
+U.S.S. Nebula, NX-
+U.S.S. Bellerephon, NCC-62048
+U.S.S. Cougar, NCC-
+U.S.S. Curie, NCC-
+U.S.S. Einstein, NCC-
+U.S.S. Endeavor, NCC-71805
+U.S.S. Euclid, NCC-
+U.S.S. Farragut, NCC-60591
+U.S.S. Foucault, NCC-
+U.S.S. Hegel, NCC-
+U.S.S. Hera, NCC-62006
+U.S.S. Lexington, NCC-61832
+U.S.S. Luther, NCC-77831
+U.S.S. Merrimack, NCC-61827
+U.S.S. Monitor, NCC-61826
+U.S.S. Newell, NCC-
+U.S.S. Nobel, NCC-
+U.S.S. Pascal, NCC-
+U.S.S. Pasteur, NCC-
+U.S.S. Phoenix, NCC-65420
+U.S.S. Prometheus, NCC-71201
+U.S.S. Proxima, NCC-61952
+U.S.S. Pythagoras, NCC-
+U.S.S. Salk, NCC-
+U.S.S. Sutherland, NCC-72015
+U.S.S. Ulysses, NCC-66808
+U.S.S. Zee Magness, NCC-
+
+DISPLACEMENT
+Light: 2,775,000 MT
+Standard: 3,309,000 MT
+Full: 3,750,000 MT
+Cargo Capacity: 735,000 MT
+
+DIMENSIONS
+Length: 442.23 m
+Beam: 318.11 m
+Draught: 130.43 m
+Number of Decks: 33
+
+PROPULSION
+Warp Drive: M/ARA Mark I feeding 2 GN-3 Mod 2 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 LMP Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9
+
+ACCELERATION
+Rest-Onset Critical Momentum: 5.39 sec
+Onset Critical Momentum-Warp Engage: .11 sec
+Warp 1-Warp 3: .14 sec
+Warp 3-Warp 6: .11 sec
+Warp 6-Warp 9: .19 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 173
+Enlisted Crew: 577
+Civilians/Families: none
+Evacuation Capacity: 9,800
+
+EMBARKED CRAFT
+Total: 20
+
+NAVIGATION
+System: "Cosmosis" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk I
+Crew Interface Software: LCARS 2.3
+Data Transfer Rate: 4600 Kiloquads/Second
+Number of Dedicated Modules: 2048
+Storage Capacity/Module: 630,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 5 ly
+Medium to Low Resolution Effective Range: 17 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 60,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 8 Type X Phasers: 4.9 MW
+
+PHOTON TORPEDOES
+Tubes: 2 Mk 10 Mod 5 Direct
+Max Torpedo Simultaneous Spread: 10
+
+DEFENSE
+Shields: "Hercules" Primary Force Field and Deflector Control System
+Fire Control: "Monitor V" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 4
+Emergency Transporters: 4
+Cargo Transporters: 6
+
+Reference: The Wounded, Redemption, Emissary, Generations, all episodes of Starfleet Academy
+The Nebula-class ship was designed by Ed Miarecki, Rick Sternbach, and Mike Okuda. The model was built by Greg Jein. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2000 2002 Activision
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+Ed Miarecki, www.edmiarecki.com, edmiarecki@earthlink.net
+USS Miranda, Pat Weber, Rick Wiltshaw
+
+
+

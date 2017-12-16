@@ -1,0 +1,19 @@
+STATIONS: 
+TYPE: shipyard/ drydock
+
+Three of the simple styles of shipyards in use by the Romulan Star Empire.
+
+STATIONS OF THIS TYPE:
+Folcus
+Gaius
+Hasdrabar
+Plupus
+T'Sau
+Velesh
+
+Reference: Armada, Star Trek Australia
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+
+

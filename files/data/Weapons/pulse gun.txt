@@ -1,0 +1,7 @@
+WEAPONS: pulse gun
+
+Type of directed energy hand weapon used by Akritirian patrollers.
+
+Reference: The Chute
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

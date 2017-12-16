@@ -1,0 +1,33 @@
+SHUTTLECRAFT: Lindbergh-class
+TYPE: OR-3 space shuttle
+
+Known as the "Space Ferry", it took over the shuttle series as the primary Earth surface to orbit craft. Early versions were equipped with booster rockets, much like the OR-1-class shuttles, but advances in early 21st-century technology eliminated the need for them. The Space Ferry played a vital role in the completion of the Orbital Power Satellite network that guaranteed energy-independence for Earth and also in the construction of orbiting satellite-cities.
+
+Production base: Earth
+Commissioned: 2003	Decommissioned: 2015 Expected life:
+
+DIMENSIONS: LxWxHxM
+61m, 51m (to finpoints), 51m (to finpoints), 2.5M kg
+Payload bay: 10km cubic, up to 1M kg
+
+ACCOMODATIONS:
+Crew: 14, including up to 8 flight attendants
+Passengers: up to 125
+16 cargo ports
+
+PROPULSION:
+Velocity: 11km/hr (necessary for Earth escape)
+Engines: Chemical boost single stage to orbit (SSTO)
+Engine configuration: Aerospike plug-nozzle, w/ 24 coordinated small engines for greater efficiency and reliability
+
+COMPUTER SYSTEMS:
+
+ARMAMENT:
+none
+
+Reference: Spaceflight Chronology, Broken Bow
+The connection to the ship seen in the opening sequences of Enterprise is conjectural, but the similarities are close enough that I feel it is reasonable to make the statement.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

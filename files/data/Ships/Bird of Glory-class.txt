@@ -1,0 +1,10 @@
+CLASS: Bird of Glory
+TYPE: scout
+
+A small atmospheric capable vessel used by powerful Houses within the Klingon Empire. The ship does not have wide use in the Klingon Defense Force or with many of the Houses.
+
+Reference: Star Trek Australia
+This starship design was created by Cyrille "Tachy" Lefevre	.
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+

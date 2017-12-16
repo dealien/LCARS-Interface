@@ -1,0 +1,10 @@
+CLASS: O'Kan
+TYPE: transport
+
+A Starfleet-Vulcan hybrid designed vessel serving in the Vulcan fleet. It was based on the Oberth-class vessel and has many of the same dimensions.
+The main hull is a large square containing the cargo holds and the shuttle hangars in the aft. The aft and bow are rounded off so the hull is not a perfect square. On top of that is the command section, a round saucer with its center positioned over the front edge of the lower decks. In the command section is the bridge, crew facilities, and passenger accommodations.
+The engineering hull is much like the trough of a boat and is connected to the main hull by two support arms that are equipped with the ship's impulse drive engines. This hull contains the fuel tanks, matter/ anti-matter reaction chamber, and some additional cargo storage, usually filled with ship's needs.
+
+Reference: pon-farr
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

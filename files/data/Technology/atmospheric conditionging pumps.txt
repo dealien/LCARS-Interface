@@ -1,0 +1,8 @@
+TECHNOLOGY: atmospheric conditiong pumps
+
+Component of the life support system of a starship. While under the control of Noonien Soong in 2367, Lieutenant Commander Data overrode seven independent safety locks and reset the pumps supplying the bridge of the U.S.S. Enterprise NCC-1701-D to operate in negative mode. Thie resulitng vaccuum forced the bridge crew to evacuate. 
+
+Reference: Brothers
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.con/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,11 @@
+SHIPS: Lantree, U.S.S.
+CLASS: Miranda
+REGISTRY: NCC-1837
+
+A Class VI Starfleet supply ship assigned to the Gamma 7 sector under the command of Captain L. Isao Teleka. Its crew of 26 was found dead by the U.S.S. Enterprise-D after answering its distress signal. Initially, the ship was quarantined by the U.S.S. Enterprise; finally, it was destroyed with a single photon torpedo when the disease that killed its crew was found to be incurable. 
+
+Reference: Unnatural Selection 
+The Lantree was a minor modification of the U.S.S. Reliant model originally built for The Wrath of Khan. The Reliant's upper "roll bar" was removed to turn it into the Lantree. The Lantree bridge (seen briefly in a screen readout) was a re-dress of the Enterprise-D battle bridge.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

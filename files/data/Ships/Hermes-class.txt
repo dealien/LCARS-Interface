@@ -1,0 +1,8 @@
+CLASS: Hermes
+TYPE: scout
+
+An early Starfleet starship.
+
+Reference: 
+Information provided by:
+

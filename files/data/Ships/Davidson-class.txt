@@ -1,0 +1,8 @@
+CLASS: Davidson
+TYPE: 
+
+A Starfleet vessel designed like an inverted Oberth vessel.
+
+Reference: 
+Information provided by:
+

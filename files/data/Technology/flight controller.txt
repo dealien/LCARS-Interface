@@ -1,0 +1,7 @@
+TECHNOLOGY: flight controller
+
+Aboard more recent Starfleet vessels, the control station and officer responsible for both helm and navigator functions. The flight controller (or conn) is the pilot of the ship. Conn is one of two freestanding consoles located ahead of the captain's chair on many starship bridges. Geordi La Forge served as conn aboard the U.S.S. Enterprise-D during the early missions, to be replaced by acting-ensign then Ensign Wesley Crusher. On the U.S.S. Voyager Lieutenant Thomas Paris filled the duties of conn.
+
+Reference: Encounter at Farpoint, et al Next Generation, Caretaker, at el Voyager
+Information provided by:
+The Encycloepdia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

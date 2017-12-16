@@ -1,0 +1,10 @@
+PLANET: Nelkar
+SYSTEM:
+SECTOR: 221G
+QUADRANT: Alpha
+
+Homeworld of the Nelkarites, located within the former Thallonian Empire.
+
+Reference:
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack

@@ -1,0 +1,18 @@
+SHIPS: Yamato, U.S.S.
+CLASS: Galaxy
+TYPE: heavy cruiser
+REGISTRY: NCC-71807
+
+"I HAVE SWORN ETERNAL HOSTILITY AGAINST EVERY FORM OF TYRANNY OVER THE MIND OF MAN," ~ Thomas Jefferson
+2362: The second starship of this kind, launched before the U.S.S. Enterprise-D. It was on a deep space mission and sent a congratulatory subspace message to the christening ceremony of the sister starship.
+2365: Destroyed by the Iconian viral softaware probe near the Romulan Neutral Zone. It had also been conjured up by Nagilum in the black void as an illusion only weeks before. 
+
+CREW MANIFEST:
+Starship commander: Captain Donald Varley
+
+Reference: Where Silence Has Lease, Contagion
+Although the Yamato's registry number was given in "Contagion," to be NCC-71807, an earlier, incorrect number was given in "Where Silence Has Lease," when an illusory version of that ship was seen. An early draft for that episode gave the number as NCC-1305E, which didn't fit into the numbering scheme developed for starships in the Next Generation. Mike Okuda wrote a note to the producers, requesting the number be changed, but didn't send the memo because a later draft of that script dropped the reference to the Yamato's registry number. Mike wasn't aware that an even-later draft of the script restored the scene and the incorrect number. By the time he found out when he saw the completed episode on the air), he had already prepared the markings for the U.S.S. Yamato saucer, for the scene when that ship blew up in the episode "Contagion," as well as the ship's log computer screens for that episode. Named for the Japanese World War II battleship.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

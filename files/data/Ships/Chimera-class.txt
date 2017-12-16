@@ -1,0 +1,9 @@
+SHIPS: CLASS: Chimera
+TYPE:
+
+Cardassian Obsidian Order ship designed to look exactly like a Sagittarian cruiser.  Has four warp nacelles.  The middle third of the ship is covered by escape pods.  The front third is covered with ablative armor.  Filled with weapons.  Faster than almost any other ship in the Bajor/Cardassia area.  Capable of firing when cloaked. 
+
+Reference: Fall of Terok Nor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

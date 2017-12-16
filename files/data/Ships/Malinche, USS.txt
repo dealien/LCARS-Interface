@@ -1,0 +1,12 @@
+SHIPS: Malinche, U.S.S.
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NCC-38997
+
+Captain Sanders commanded this vessel in 2373, when it was attacked in the Demilitarized Zone near the Gamma 7 outpost by Michael Eddington and the Maquis. 
+
+Reference: For the Uniform 
+The ship was named after the 16th century Mexican princess who was originally a slave given as a peace offering to the Spanish conquistadors by the Tabascan Indians. Images of the starship were not available on The Continuum due to internet problems.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

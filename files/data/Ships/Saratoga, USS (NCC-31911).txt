@@ -1,0 +1,13 @@
+SHIPS: Saratoga, U.S.S.
+CLASS: Miranda
+REGISTRY: NCC-31911
+
+The second ship to bear the name, and in an unusual move by Starfleet, it is the same class as it's predecessor. This starship was assigned to exploration and research and carried families aboard.
+This ship served under the first officer of Commander Benjamin Sisko.
+In 2367 it was one of the ships serving at Wolf 359 when the Borg Cube attacked Earth. Most of the crew was lost in that battle, but Sisko was able to rescue his son from the disabled craft before it exploded. He lost his wife in that attack.
+
+Reference: Emissary
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

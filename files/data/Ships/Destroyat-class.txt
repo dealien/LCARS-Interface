@@ -1,0 +1,8 @@
+CLASS: Destroyat
+TYPE: 
+
+An early Starfleet vessel.
+
+Reference: 
+Information provided by:
+

@@ -1,0 +1,21 @@
+SHIPS: Work pod
+TYPE: workbee
+
+An early version of the starship support vessel “workbee”. These vehicles were used for extra-vehicular repairs, construction, and services too cumbersome or difficult for manual technicians. These early craft employed two pilots; one for vessel operation (to move the craft, maintain life support, and other critical needs) and one for task operation (to operate the mechanical arms, welder, and similar tasks).
+Many revisions of the vehicle were put into service over time, some with specialized duties or modifications of the original model for dedicated tasks.
+
+Commissioned: 2027 	Decommissioned: 2047
+
+DIMENSIONS:
+Length:	16 meters
+Weight:	12 tons
+
+ACCOMODATIONS:
+Crewmen:	2
+
+PROPULSION:
+Chemical thrusters
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

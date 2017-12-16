@@ -1,0 +1,21 @@
+CLASS: Saratoga
+TYPE: cargo carrier
+
+An early Terran spacecraft used for missions to Luna and Mars.
+
+Commissioned: 2036	Decommissioned: 2060
+
+DIMENSIONS:
+Length: 	180 meters
+Weight:	19,500 tons
+
+ACCOMODATIONS:
+Crewmen:	18
+
+PROPULSION:
+Early fusion engines
+
+Reference: Spaceflight Chronology
+This ship resembles that used in the TV series Space 1999.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

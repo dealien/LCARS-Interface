@@ -1,0 +1,12 @@
+SHIPS: Santa Maria, S.S.
+CLASS: Erewon
+TYPE: transport
+REGISTRY: BDR-529
+
+A civilian colony ship en route to Gemulon V suffered life support system trouble and was stranded on an Orellious Minor planet, becoming its colonists' main shelter - dubbed "the cabin" - with cubicles devoted to individuals' rooms and a herb-filled medical area as well. It was stripped of all non-working technology so as not to remind the survivors of their past lives. 
+
+Reference: Paradise 
+The Santa Maria was named for Christopher Columbus' ship that reached the new world in 1492.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books. Michael & Denise Okuda, Debbie Mirek

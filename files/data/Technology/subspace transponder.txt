@@ -1,0 +1,8 @@
+TECHNOLOGY: subspace transponder
+
+Location beacon used by space vehicles ranging from starships to flight recorders. These radio devices send automated messages on subspace radio waves in a general pattern.
+
+Reference: Where No Man Has Gone Before, Dramatis Personae 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

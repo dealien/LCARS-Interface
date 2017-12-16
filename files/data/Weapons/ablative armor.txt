@@ -1,0 +1,10 @@
+WEAPONS: ablative armor
+
+An outer hull layer on some Federation starships that is designed to vaporize under weapons fire, thereby dissipating energy and protecting the ship's interior. The material used to create such defenses is very rare and difficult to acquire for this kind of purpose so the armor is extremely rare. Because of the cost there are no classes of ships eqipped in this way, only individual vessels. The prototype ships Defiant and Prometheus were equipped with ablative armor. The use of this defense is often not widely available even when reviewing ship schematics of vessels thus outfitted. Captain Erika Benteen was surprised when her starship, the U.S.S. Lakota was ordered to fire upon the U.S.S. Defiant. She reviewed Starfleet Operations technical data about the ship before engaging it so that she could prepare an effective plan of attack. In 2371 chroniton particles became lodged in the U.S.S. Defiant's armor matrix from using the Romulan cloaking device. These particles directed transporter energy through time.
+
+Reference: The Search, Past Tense, Paradise Lost, Message in a Bottle
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

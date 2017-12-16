@@ -1,0 +1,8 @@
+TECHNOLOGY: prefix code
+
+The prefix code in Federation starship's locks control of that vessel to a unique code, accessed by authorized personnel. This code prevents unsecured control of key ship's systems through transmission from another vessel. Admiral James T. Kirk used the prefix code for the starship U.S.S. Reliant to control that ship's systems from the bridge of the U.S.S. Enterprise while the starship was under hostile control. The Starship Reliant's prefix code was 16309. 
+
+Reference:  The Wrath of Khan 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

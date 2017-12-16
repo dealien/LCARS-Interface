@@ -1,0 +1,8 @@
+CLASS: Kelvin
+TYPE: medium cruiser
+
+A variant of the Sovereign-class, this smaller craft cuts back on much of the engineering sections of the original design and moves the warp nacelles below the main saucer and adjacent to the remaining piece of the secondary hull.
+
+Reference:
+Information provided by:
+

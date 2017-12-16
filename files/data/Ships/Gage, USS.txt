@@ -1,0 +1,11 @@
+SHIPS: Gage, U.S.S.
+CLASS: Apollo
+REGISTRY: NCC-11672
+
+A starship in the Battle of Wolf 359 with the Borg on stardate 44001.4 - in the second wave with the U.S.S. Kyushu. All ships which fought at Wolf 359 were destroyed, including the U.S.S. Gage. 
+
+Reference: Emissary
+The Gage was named for Thomas Gage (1721-1787), a British general, colonial administrator and governor of Massachusetts who paved the way to the start of the American Revolution.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

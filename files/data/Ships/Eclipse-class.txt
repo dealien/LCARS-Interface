@@ -1,0 +1,13 @@
+CLASS: Eclipse
+TYPE:
+
+U.S.S. Eclipse, NX-
+
+DIMENSIONS:
+LENGTH: 169 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

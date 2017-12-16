@@ -1,0 +1,39 @@
+CLASS: Scarab
+TYPE: Strike Fighter
+
+These formidable warcrafts were encountered by the Federation in 2371, when the Defiant went looking for clues about the Dominion. The ships used ion propulsion, and like Jem'Hadar attack ships, featured shielding against tractor beams. Like many Dominion ships, these were not designed for comfort, and carried almost no cargo or safety gear. 
+Personnel craft comparable in size to a Klingon B'rel-class bird-of-prey or a Federation Danube-class runabout. These craft were armed with phased polaron beam weapons. They were also equipped with an advanced deflector shield that prevented tractor beam lock and a transporter device that was unhampered by Federation defensive shields. 
+The class was first encountered in the Alpha Quadrant in 2370, when one ship arrived at station Deep Space 9 to deliver news of Commander Sisko's capture by the Jem'Hadar. Three of these ships attacked a small fleet of Federation craft sent to investigate the Jem'Hadar threat. As the Federation craft were withdrawing, one of the Jem'Hadar ships rammed and destroyed the U.S.S. Odyssey.
+One such ship that crashed on Torga IV had 43 Jem'Hadar and one female Vorta, and a Founder, and was the intelligence find of the decade, according to Sisko. 
+
+DIMENSIONS:
+Standard: 2,450 MT
+Length: 68.32 m
+Beam: 70.02 m
+Draught: 18.32 m
+
+PROPULSION
+Warp Drive: 1 M/A Warp System
+Impulse Drive: 1
+
+VELOCITY
+Normal Cruising Speed: 6*
+Max Cruising Speed: 9.6*
+* observed
+
+COMPLEMENT
+Total: 12 plus Flight Crew and Troops*
+* estimated
+
+WEAPONS
+Ship: 3 Phased Polaron Beams
+
+Reference: The Jem'Hadar, The Search, The Die Is Cast, A Call to Arms, Sacrifice of Angels (many others)
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

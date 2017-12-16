@@ -1,0 +1,7 @@
+TECHNOLOGY: command console
+
+A series of buttons and remote control access to the ship's primary systems and found on the starship commander's chair or within reach of that position. Some consoles were simple switches, some included display screens and flip up displays, and some included a full desktop console situated nearby.
+
+Reference:
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph

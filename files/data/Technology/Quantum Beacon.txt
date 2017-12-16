@@ -1,0 +1,8 @@
+TECHNOLOGY: Quantum Beacon
+
+Device used by the Enterprise NX01 crew to reveal Suliban Stealth Cruisers.  It was positron based and had an output of two hundred gig watts.  The subassembly tolerances were isolated from the emitter algorithms, which was made possible by generating a stable flux between the positronic conductors and renormalizing the tertiary wave functions.  The quantum engineering required to build it was beyond Starfleet's level; the necessary knowledge was provided by Crewman Daniels.  The beacons were installed on the grappling arm, replacing the ship's usual clamps. 
+
+Reference: Shockwave
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

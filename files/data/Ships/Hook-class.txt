@@ -1,0 +1,9 @@
+CLASS: Hook
+TYPE: scout
+
+An early Starfleet vessel in service during the early 2200s. The first wave of ships were equipped with one nacelle but second wave of ships built included a second nacelle to increase their speed, efficiency, distance, and duration. 
+
+Reference:	
+Information provided by:
+
+

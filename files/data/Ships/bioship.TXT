@@ -1,0 +1,15 @@
+SHIPS: bioship
+
+Species 8472 uses this organic type of starship. Bioships are able to regenerate damaged systems, and are equipped with powerful energy weapons. In 2373, Species 8472 used this kind of ship to invade our space. The crew of Voyager came up with a way to destroy bioships - by infusing Starfleet photon torpedoes with Borg technology. 
+Numerous different variety of bioships have been observed within non-fluidic space:
+Behemoth-class
+Frigates
+Bombers
+Scouts
+Interceptors
+
+Reference: Scorpion, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+Armada, www.activision.com, @2002 Activision
+

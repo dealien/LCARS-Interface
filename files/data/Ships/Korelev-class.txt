@@ -1,0 +1,13 @@
+CLASS: Korelev
+TYPE:
+
+A Starfleet vessel.
+
+SHIPS OF THE LINE:
+U.S.S. Korelev, NX-
+U.S.S. Goddard, NCC-
+
+Reference: 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

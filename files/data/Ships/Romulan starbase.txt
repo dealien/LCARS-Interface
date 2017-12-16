@@ -1,0 +1,16 @@
+STATIONS: Romulan
+TYPE: starbase
+
+Two of several designs of starbase in use within the Romulan Star Empire.
+
+STATIONS OF THIS TYPE:
+D'deras
+D'durun
+Muturiun
+
+Reference: Armada, Star Trek Australia
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+
+

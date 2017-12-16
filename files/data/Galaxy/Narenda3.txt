@@ -1,0 +1,12 @@
+PLANET: Narenda III
+SYSTEM: Narenda
+SECTOR:
+QUADRANT: Beta
+
+Location of a Klingon outpost.  In 2152, Jonathan Archer was brought before a Klingon tribunal on this planet for rendering assistance to the Raatooras rebels.
+
+Reference: The Expanse
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

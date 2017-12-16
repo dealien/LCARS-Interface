@@ -1,0 +1,57 @@
+CLASS: Messier
+TYPE: cruiser
+
+The last exclusively Earth-built major series, these ships were the first to have integrated Earth-alien crews. They were originally commissioned in 2078 and typically served until 2110. These ships were refitted for military use, and the Pollux, for example, saw considerable action during the Romulan War.
+This was the first starship created that was designed to accommodate extraterrestrial lifeforms.
+
+SHIPS OF THE LINE:
+U.N.S.S. Messier
+U.N.S.S. Intrepid
+U.N.S.S. Pollux
+
+COMMISSIONED: 2078
+DECOMMISSIONED: 2110
+
+DIMENSIONS:
+Length:	258 meters
+Beam:		113.8 meters
+Draught:	72 meters
+Weight:	27.7 million kilograms
+Engine Section
+Length:	125 meters
+Beam:		113.8 meters
+Draught:	72 meters
+Living Section
+Length:	110 meters
+Beam:		38 meters
+Draught:	55.8 meters
+
+ACCOMODATIONS:
+Officers:	6 (captain, lieutenant, science, engineer, medical, navigator)
+Ensigns:	2
+Crewmen:	93
+
+PERFORMANCE:
+Second advanced first generation warp drive
+Range
+Standard:	50 light years
+Maximum:	80 light years
+Velocity
+Cruising:	Warp 2.75 (20.8c)
+Maximum:	Warp 2.9 (24.4c)
+
+ARMAMENT:
+4 forward lasers
+2 particle beam cannons
+55 fusion torpedoes
+Shielding was enhanced during Romulan War
+
+COMPUTERS:
+Computer-assist warp field reader (with stellar distortion program)
+Complex independent problem-solving and self-programming processors
+Forward statolith sensors, incredibly sensitive devices integrating organic components
+
+Reference: Spaceflight Chronology
+This file was modified some to correct the chronology of events. The book originally depicted the formation of the UFP, then the Romulan war. 
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

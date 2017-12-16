@@ -1,0 +1,14 @@
+CLASS: Eagle
+TYPE: scout
+
+U.S.S. Eagle, NX-
+
+DIMENSIONS:
+LENGTH: 352 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+
+

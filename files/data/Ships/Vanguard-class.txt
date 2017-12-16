@@ -1,0 +1,28 @@
+CLASS: Vanguard
+TYPE: transport
+
+Commissioned: 2092
+Decommissioned: 2128
+
+DIMENSIONS:
+Length:	260 meters
+Diameter:	98.7 meters
+Weight:	25 million kilograms
+
+ACCOMODATIONS:
+Officers:	6 (captain, lieutenant, navigator, engineer, cargo supervisor, flight coordinator)
+Crewmen:	88
+Cargo volume
+Forward:	150,000 cubic meters
+Midship:	300,000 cubic meters
+
+PROPULSION:
+Advanced first generation warp drive
+Range		100 light years
+Velocity
+Empty:	Warp 2.75
+Loaded:	Warp 2
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

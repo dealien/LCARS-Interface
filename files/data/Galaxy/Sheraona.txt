@@ -1,0 +1,11 @@
+PLANET: Sheraona
+SYSTEM:
+SECTOR:
+QUADRANT: Alpha
+
+A colony world in Cardassian space.  The Anionan trader was at the Sheraona Colony when he learned about the Helios's piracy. 
+
+Reference: Proud Helios  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+

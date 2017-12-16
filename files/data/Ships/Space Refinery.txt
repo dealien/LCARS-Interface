@@ -1,0 +1,18 @@
+STATIONS: Space Refinery
+
+Commissioned: 2140
+
+DIMENSIONS:
+Length:	335 meters
+Weight:	375,000 tons
+
+ACCOMODATIONS:
+Crewmen:	85
+
+PROPULSION:
+Ion maneuvering thrusters
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

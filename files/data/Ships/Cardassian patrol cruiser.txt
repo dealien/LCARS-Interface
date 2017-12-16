@@ -1,0 +1,7 @@
+SHIPS: Cardassian patrol cruiser
+
+A Cardassian class used by Evek's crew taking O'Brien hostage on trumped-up charges in 2370. In modified form, it can also be used as a freighter, as seen with the Bok'Nor, and as seen with the craft used by Natima Lang's underground leaders to escape an ambush by the Cardassian military. Small enough to use the Deep Space Nine docking ring ports but big enough for the upper pylons, it can still go Warp 8 - even with the small cloaking device installed in its central engine core. Its impulse engines use a fusion generator, with cross-feeds. 
+
+Reference: The Maquis
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

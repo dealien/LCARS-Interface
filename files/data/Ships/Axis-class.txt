@@ -1,0 +1,9 @@
+CLASS: Axis
+TYPE: 
+
+The prototype for a large destroyer type vessel in use by Starfleet, NX-77701.
+
+Reference:
+This is fan fiction, and the entry is conjectural based on assumptions from a submitted image.
+Information provided by:
+cblim@aol.com

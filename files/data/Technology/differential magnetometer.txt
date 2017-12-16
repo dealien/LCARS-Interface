@@ -1,0 +1,8 @@
+TECHNOLOGY: differential magnetometer
+
+Mechanisms used to fine-tune interpretations of magnetic scans. One used by the U.S.S. Rio Grande in 2369 to search for the Yangtzee Kiang was mounted on probes to pick up magnetic deflections from the Yangtzee Kiang's hull crashed on a moon's surface. 
+
+Reference: Battle Lines 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

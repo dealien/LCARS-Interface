@@ -1,0 +1,9 @@
+SHIPS: Northstar, E.C.S.
+TYPE: freighter
+
+A Terran freighter that was lost in space, and a commonly known story to all space "boomers." The ship did have at least one survivor that returned to space and became first officer of the S.S. Fortunate, Matthew Ryan.
+
+Reference: Fortunate Son
+The Continuum, www.startrek.com, @2006 CBS Studios
+Ex Astric Scientia, www.ex-astric-scientia, @2002 Bernd Schneider
+

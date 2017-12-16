@@ -1,0 +1,49 @@
+CLASS: Broadsword
+TYPE: Multi-Role Strike Fighter
+
+A Federation vessel often used for escorting high ranking UFP officials while in transit. These ships are not in use by the Starfleet and are crewed by the "Secret Service" which acts as body guards for the President and senior staff. 
+Commissioned 2376 - Present 
+Structure: 
+Length: 18 meters 
+Width: 12 meters 
+Height: 4 meters 
+Decks: 1 
+
+Warp Systems: 
+Normal Cruise: Warp Factor 1 
+Maximum Cruise: Warp Factor 2 
+Maximum Rated: Warp Factor 6 for 20 minutes 
+
+Impulse Systems: 
+Power: Fusion 
+Engines: 2 
+
+Tactical Systems: 
+Phasers: 4 Micro-Pulse Phaser cannons, 2 on each wing tip 
+Torpedoes: 2 Mk II micro torpedo launchers, 1 under each wing tip 
+Quantum: 12 or 
+Photon: 12 
+
+This Fighter also has the capability to carry weapons pods. There are five different variations of pod available to the pilot dependent upon role assigned: 
+
+1: Heavy Fighter: No pod, this is a default setting for the fighter and gives the best performance from onboard systems. 
+2: Assault Fighter: Two Type-J phaser emitter's shoulder mounted forward of Impulse Engines, slightly reduces maneuverability. 
+3: Light Bomber: Micro Tri-cobalt launcher, under slung forward of Impulse Engines, 8 warheads, has a negative effect on maneuverability; therefore the fighter should be escorted by faster craft. 
+4: Light Bomber 2: The fighter has six hard points under the wings and fuselage. These can carry any standard Starfleet ordinance, but the fighter cannot carry any other pod at the same time as these hard points are used.
+
+Shields: Grid-projected (TDS)/Distance-projected. 
+High level Structural Integrity Field 
+Duranium with added Ablative Armor Matrix. 
+
+Crew and Auxiliary Systems: 
+Officers: 2 
+Enlisted Crew: 0 
+Passengers: 0 
+Transporters: 1 x 2-person Emergency Transporter. 
+
+Diplomatic Capability: None
+
+Reference: 
+Information provided by:
+I don't recall where I found this image online. It was the same source (that is now closed) that posted all of the animated gif starship images. I acquired these images MANY years ago, when I was accumulating images for my personal collection and not concerned with maintaining credits. When the site shut down I deleted the link from my favorites list. The information about the craft is conjectural based on the fact that the wings are decorated with UFP insignia instead of Starfleet deltas. Information about this craft is open to debate- and debate is encouraged.
+

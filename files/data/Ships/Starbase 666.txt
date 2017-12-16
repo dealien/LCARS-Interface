@@ -1,0 +1,8 @@
+STATIONS: Starbase 666
+TYPE: station
+
+A nickname for one of Starfleet's secret tactical planning facilities. The United Federation of Planets maintains a firm number of 500 stations.
+
+Reference: Star Trek Australia
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges

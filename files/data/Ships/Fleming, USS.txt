@@ -1,0 +1,15 @@
+SHIPS: Fleming, U.S.S.
+CLASS: Wambundu
+TYPE: medical frigate
+REGISTRY: NCC-20316
+
+A light cruiser assinged to medical and humanitarian aide for Federation colonies and its allies.
+
+Timeline:
+2370: The ship was assigned to transport biomimetic gel through Hekaras space. It was lost and believed to have been hijacked for its cargo. It was discovered in the Hekaras Corridor after being disabled by a Hekaran verteron mine. Following that, the ship was caught in a subspace rift within the Corridor. The ship was lost, but the crew was beamed aboard the Enterprise-D. 
+
+Reference: Force of Nature 
+The Fleming was named for Sir Alexander Fleming, the British bacteriologist who discovered penicillin.
+Information provided by:
+The Continuum, www.startrek.com, @2002, 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

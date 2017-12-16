@@ -1,0 +1,10 @@
+TECHNOLOGY: Optical Data Network
+
+Also known as ODN, the system of fiber-optics used on Federation starships by the ship's computers for data transmission. Deep Space Nine used a similar network, but it was poorly maintained and unreliable. 
+
+Reference: Emissary
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

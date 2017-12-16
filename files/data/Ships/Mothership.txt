@@ -1,0 +1,10 @@
+SHIPS: Mothership
+CLASS:
+TYPE: Carrier
+
+Romulan starship commanded by T’Cael.   Mothership to Swarm including War Thorn, Raffish, Raze, Soar, Experience, Future Fire. 
+
+Reference: Final Frontier
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

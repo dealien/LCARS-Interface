@@ -1,0 +1,9 @@
+STATIONS: Ko'va-class
+TYPE: Klingon orbital processor
+
+A planetary orbiting station that extracts minerals and metal ores then processes it into useable metal for ship and station construction. These are often found in the field by temporary military outposts.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

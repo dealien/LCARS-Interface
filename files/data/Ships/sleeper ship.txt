@@ -1,0 +1,12 @@
+SHIPS: sleeper ship
+TYPE: transport
+
+Spacecraft in which the crew hibernates in suspended animation or a reduced-metabolism coma during the journey, which is often slower-than-light. Khan's ship, the S.S. Botany Bay, was a sleeper ship, as was the Klingon I.K.S. T'Ong. Earth stopped using sleeper ships by the year 2018 because of advances in sublight propulsion.
+
+SHIPS OF THIS TYPE:
+DY-100-class
+
+Reference: Space Seed, The Emissary
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

@@ -1,0 +1,11 @@
+PERSONNEL: Jascha Heifetz
+
+A famous concert violinist. Data programmed himslef to emmulate Heifetz's performance style.
+
+TIMELINE:
+1901: Born
+1987: Died
+
+Reference: Sarek
+Information provided by:
+Star Trek Encyclopedia, www.simonsays.com/st, @1997 Pocket Books

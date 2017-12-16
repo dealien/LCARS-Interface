@@ -1,0 +1,182 @@
+FLEET: Starfleet vessels
+
+A large fleet of ships used by the para-military arm of the United Federation of Planets for exploration, security, humanitarian, and other collective needs. Representing one of the most diverse collection of races and nearly the largest unified organization in the known Milky Way this fleet has the most diverse number of vessels of any encountered government. Because this unified organization is charged with the responsibility of providing military and scientific vehicles for all 150+ members, and assorted protectorates it is the largest known fleet of vessels in the Milky Way. Cultural analysts suspect that the Borg and Dominion may have fleet to rival these numbers but that is purely speculative.
+Starfleet ships are warp capable craft and usually employ a pair of detached warp nacelles.
+Large capital ships are often built on a multi-hulled design and the sections are able to separate in cases of emergency to allow the majority of the personnel to survive a catastrophic event. This particular feature has been used VERY rarely since in most early models, separation of the craft came at an explosive consequence eliminating the possibility of re-using the cast off section. And in any case the split craft would be severely hampered; usually left without warp drive or heavy weapons. In the cases with multi-hulled ships the primary section is usually a saucer shape or oblong saucer. Within this section are the ship's main facilities including the bridge. The saucer design was inspired by Fetlik craft that had visited and influenced the Terran culture subconsciously, to the point that their starships were modeled after the ancient memories. The second hull is attached by a "neck" to a cylindrical or eye-shaped hull containing the main work facilities like the drive engines, engineering sections, and most of the cargo holds.
+Starfleet vessels are always equipped with science stations and equipment since the organization prides itself on being a multitask organization, not simply a military fleet. The Starfleet also values information and tactical preparedness over brute force and determination like some of its adversaries, so the science sections and its connected sensor nets are very important to the ship's systems.
+Starfleet philosophy maintains high regard for the safety and security of its systems and personnel. In order to achieve this engineers design doubly redundant backup systems for all primary functions including life-support, weapons and shields, engines, and communications.
+Most Starfleet vessels are considered quite luxurious compared to other government fleets. The ships offer a wide variety of recreational facilities for its crew and visitors, padded furniture, carpeted decking, and more. 
+
+Classifications of ships built by the Starfleet include: 
+Achernar-class heavy cruisers
+Ajax-class
+Akira-class heavy cruisers
+Akyazi-class
+Ambassador-class heavy cruisers
+Andor-class
+Andromeda-class
+Antares-class transports
+Apollo-class
+Aquarius-class
+Asia-class
+Avenger-class 
+Banzai-class
+Barracuda-class
+Battlestar-class carriers
+Blackbird-class
+Boliver-class
+Bonhomme Richard-class heavy cruisers
+Bradbury-class
+Breman-class
+Buenos Aires-class
+Caesar-class
+Centaur-class medium cruisers
+Challenger-class
+Chariot-class all terrain vehicles
+Cheyenne-class
+Chimera-class
+Cochise-class destroyers
+Concorde-class
+Constellation-class heavy cruisers
+Constitution-class heavy cruisers
+Corvette-class destroyers
+Cougar-class
+Crosswell-class
+Curie-class
+Cygnus-class scouts
+Daedalus-class
+Danube-class runabouts
+Dauntless-class
+Defiant-class destroyers
+Deneva-class
+Detroit-class
+Dolland-class transport tugs
+Doppler-class transport tugs
+Eagle-class
+Eclipse-class
+Excalibur-class
+Excelsior-class heavy cruisers
+Falcon-class fighters
+Federation-class dreadnoughts
+Franklin-class
+Freedom-class
+Galaxy-class heavy cruisers
+Hannibal-class
+Hanseatic-class
+Hercules-class
+Hermes-class scouts
+Himalaya-class
+Hodges-class
+Hokulea'-class
+Hornet-class
+Hornet-class workbees
+Hydra-class
+Insignia-class
+Intrepid-class
+Istanbul-class
+Katana-class
+Keppler-class
+Khitomer-class
+Korolev-class
+Kremlin-class
+Lancelot-class
+Leavenworth-class
+Lincoln-class
+Manski-class
+Mauritania-class
+Meditteranean-class
+Merced-class
+Mercury-class
+Meteor-class
+Miranda-class medium cruiser
+Monoceros-class scout
+Mosquito-class
+Nautilus-class
+Neptune-class
+New Orleans-class
+Newton-class
+Niagra-class
+Norway-class medium cruiser
+Nova-class science frigate
+Oberth-class science frigate
+Ondalin-class destroyer
+Olympic-class
+Pacifica-class
+Patria-class
+Patriot-class
+Peregrine-class interceptor
+Phantom-class interceptor
+Predator-class all terrain vehicle
+Premonition-class heavy cruiser
+Prevaricate-class
+Prey-class all terrain vehicle
+Prometheus-class heavy cruiser
+Prudence-class
+Ptolomy-class transport tug
+Puma-class all terrain vehicle
+Quasar-class
+Ramses-class
+Rapier-class
+Renaissance-class 
+Renegade-class
+Resolute-class
+Rigel-class
+Roosevelt-class
+Runiex-class
+Sabre-class light cruiser
+Saberwolf-class
+Saladin-class destroyer
+San Francisco-class
+Saskatchewan-class
+Seleya-class
+Sentinel-class
+Seine-class runabout
+Sequoia-class
+Shania-class
+Shelley-class medium cruiser
+Shikira-class
+Shogun-class
+Sirius-class
+Siva-class destroyer
+Sky Striker-class fighter
+Sovereign-class heavy cruiser
+Soyuz-class destroyer
+Sparta-class
+Spitfire-class interceptor
+Splendor-class
+Springfield-class
+Steamrunner-class medium cruiser
+Stinger-class
+Surak-class runabout
+Sydney-class runabout
+Tanganyika-class
+Tenochtitlan-class
+Thunder-class
+Tikopai-class heavy cruiser
+Trident-class
+Tom Cat-class fighter
+Venture-class
+Venus-class
+Viper-class
+Vladvostok-class
+Wallace-class
+Warhammer-class
+Wasp-class workbee
+Yeager-class light cruiser
+Yellowjacket-class workbee
+Yellowstone-class runabout
+Yorkshire-class
+Zodiac-class
+
+Reference: every episode of Star Trek
+Information provided by:
+Star Trek Continuum, www.startrek.com, @2002 Paramount Pictures
+Star Trek Encyclopedia, www.simonsays.com/st, @1997 Pocket Books
+Deep Space 9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books
+Starfleet Technical Manual, @1977 Franz Joseph
+Star Trek Armada, www.activision.com, @200 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+Star Trek Australia, www.startrekaustralia.com, @2002 various artists
+Ex Astris Scientia, www.ex-astris-scientia.com, @2002 Bernd Schenider
+

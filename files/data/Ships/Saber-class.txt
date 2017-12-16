@@ -1,0 +1,102 @@
+CLASS: Saber
+TYPE: Light Cruiser
+
+Saber-class starships entered service in the late 24th Century. One of the first Saber-class vessels, the U.S.S. Yeager, NCC-81947, defended Earth against the Borg invasion of 2373. 
+
+SHIPS OF THIS LINE:
+U.S.S. Saber, NX-
+U.S.S. Yaeger, NCC-
+
+DISPLACEMENT
+Light: 290,000 MT
+Standard: 310,000 MT
+Full: 340,500 MT
+Cargo Capacity: 50,000 MT
+
+DIMENSIONS
+Length: 156.33 m
+Beam: 170.41 m
+Draught: 29.24 n
+Number of Decks: 7
+
+PROPULSION
+Warp Drive: M/ARA Mark I-C feeding 2 SCN-2 Mod 3 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 LMS Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 7
+Max Cruising Speed: Warp 9.7
+
+ACCELERATION
+Rest-Onset Critical Momentum: 2.06 sec
+Onset Critical Momentum-Warp Engage: .02 sec
+Warp 1-Warp 3: .04 sec
+Warp 3-Warp 6: .03 sec
+Warp 6-Warp 9: .06 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 4
+Enlisted Crew: 36
+Civilians/Families: none
+Evacuation Capacity: 200
+
+EMBARKED CRAFT
+Total: 8
+
+NAVIGATION
+"Saber" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk IIB
+Crew Interface Software: LCARS 2.0
+Data Transfer Rate: 4600 Kiloquads/Second
+Number of Dedicated Modules: 1024
+Storage Capacity/Module: 630,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 4 ly
+Medium to Low Resolution Effective Range: 15 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 60,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 4 Type X Phasers: 5.1 MW
+
+PHOTON TORPEDOES
+Tubes: 2 Mk 11 Mod 3 Direct
+Max Torpedo Simultaneous Spread: 10
+
+DEFENSE
+Shields: "Protectori" Primary Force Field and Deflector Control System
+Fire Control: "Talon" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 3
+Emergency Transporters: 2
+Cargo Transporters: 1
+
+Reference: First Contact
+The Sabre-class was designed by Alex Jaeger at Industrial Light & Magic and rendered as a computer generated visual effect.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Starfleet Corps of Engineers book series, www.simonsays.com/st, @2000 Pocket Books
+LCARS Communications Network, www.lcarscom.net, @002 Sean Stevenson
+
+
+

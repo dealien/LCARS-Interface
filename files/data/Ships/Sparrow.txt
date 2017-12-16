@@ -1,0 +1,7 @@
+CLASS: Sparrow
+TYPE:
+
+A variation of the Excelsior-class with no neck between the two hulls, and with the nacelles pushed to the side and under the saucer. This and the Judge-class were both released at the same time.
+
+Reference:
+Information provided by:

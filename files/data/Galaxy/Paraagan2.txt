@@ -1,0 +1,12 @@
+PLANET: Paraagan II
+SYSTEM: Paraagan
+SECTOR:
+QUADRANT: Gamma
+
+Class-M planet.  In March 2152 the Enterprise NX01 visited a Paraagan mining colony established on this planet.  When the colony started in 2132 there were 30 miners; by 2152 there were 3600, plus schools, landscaped communities, and a museum.  The colonists were somewhat nonconformist by Paraagan standards, eschewing most of the ceremonies of mainstream society.  The atmosphere of the colony planet had a large amount of tetrazine in the atmosphere that reacted poorly with plasma.  When Enterprise's shuttle pod approached the planet, the atmosphere was ignited and all the Paraagan colonists were killed.  It was later determined that it was actually a device planted by a Suliban Stealth Cruiser that caused the released plasma. {Given that this planet is most likely not in the same system as the Paraagan homeworld, the "II" in its name probably represents the fact it is their second planet, not that it is the second planet in their system.} 
+
+Reference: Shockwave
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

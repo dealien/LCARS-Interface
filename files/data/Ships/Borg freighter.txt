@@ -1,0 +1,7 @@
+SHIPS: Borg freighter
+
+A heavy transport used to extract and carry raw ores back to processing stations to facilitate the growth of the collective. These ships are not capable of warp or transwarp speed without the use of a conduit and portal or gate, and are not fortified with weapons but have heavy structures to withstand some weapons fire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000, 2002 Activision

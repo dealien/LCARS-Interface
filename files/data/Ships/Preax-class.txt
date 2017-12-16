@@ -1,0 +1,7 @@
+CLASS: Preax
+TYPE: Scout
+
+A variant of the Talon-class scout, this vessel is designed for longer range and more sensitive missions.
+
+Reference: 
+Information provided by:

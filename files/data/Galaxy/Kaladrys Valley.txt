@@ -1,0 +1,13 @@
+REGION: Kaladrys Valley
+PLANET: Bajor
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+Location of a Bajoran refugee camp in 2370. At one time, Kaladrys Valley contained the choicest, most fertile farmland on Bajor, that is until the Cardassians set up a system of forced agricultural production. The farmers were forced to meet high production quotas and were severely punished if those quotas weren't met. During the Cardassian withdrawal, the Cardassians destroyed many farms and villages in the Valley and the inhabitants were forced to relocate to a refugee camp. 
+
+Reference: Warchild
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

@@ -1,0 +1,9 @@
+SHIPS: Prakesh
+CLASS: Galor
+TYPE: heavy cruiser
+
+A Cardassian cruiser.
+
+Reference:
+Information provided by:
+

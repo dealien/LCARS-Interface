@@ -1,0 +1,9 @@
+TECHNOLOGY: MHD Flow
+
+Magnetohydrodynamic system for regulating matter/antimatter reaction in warp engines. 
+
+Reference: Mutiny on the Enterprise
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

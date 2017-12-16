@@ -1,0 +1,46 @@
+CLASS: Galileo
+TYPE: transport
+
+One of the most durable workhorses in Terran spaceflight history, the Galileo-class ships were extremely durable and long-lasting vessels. These early fusion ships could attain modest relativistic speeds (.2c, later .35c) and traveled to the outer planets and beyond into interstellar space. In the 2030’s the Galileo was the primary ship class to the Asteroid Belt, and in the 2040’s the most popular carrier to the outer planets.
+
+Production base: Earth
+Commissioned: 2028	Decommissioned: 2052 Expected life:
+
+DIMENSIONS: LxWxHxM
+Length: 	300 meters
+Width: 	120.7 meters
+Hiegth: 	120.7 meters
+Weight: 	.5B kg (empty) 
+		4.84B kg (loaded)
+Fuel sphere: 920km cubic, 3B kg capacity
+Engine reservoirs: 370m cubic, 1.2M kg capacity
+Crew section: 6 decks, 40.8m, 35.5m diameter
+Cargo section: 40km cubic
+Forward Command Sensor Disc: 35.5m diameter
+
+ACCOMODATIONS:
+Officers: 6 (captain, Lieutenant, science, engineer, navigator, medical)
+Crew: 98
+
+PROPULSION:
+Cruising velocity: 200M km/hr
+Maximum velocity: 375M km/hr
+Acceleration: 0-1M km/hr – 3.55hr, 1 – 100M km/hr – 2.85hr
+Thrust: 10M kg per fusion engine
+24 Space Op Fusion Engines
+10 laser/ electron fusion initiators per engine
+Fuel, frozen deuterium (H2)
+3 detachable fusion engines for landing craft or emergency evacuation
+
+COMPUTER SYSTEMS:
+Navigation: Interplanetary Triangulation/ Elementary Celestial Navigation
+Communications: Encoded Particle Beam Telemetry, exterior crystal communications transceiver
+Processors: Intermediate Independent Thought Memory Scan
+
+ARMAMENT:
+Forward command/ instrument disc coated with erodable material for duration shielding
+
+Reference: Spaceflight Chronology
+Information provided by:
+ST Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

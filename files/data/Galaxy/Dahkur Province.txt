@@ -1,0 +1,12 @@
+REGION: Dahkur Province
+PLANET: Bajor
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+An area where three tectonic plates collided to create a perfect “X” of intersecting mountain ranges. The symbol is so well known it’s almost the galactic symbol for Bajor. In 2369, the province was swept by lake flu. 
+
+Reference: Fall of Terok Nor
+Information provided by:
+Star Trek Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,10 @@
+TYPE: all terrain vehicle
+
+A ground-based vessel designed to travel over various terrain types, rough ground, swamp and marshy conditions, ice, shallow water (perspective), grassy, and others. Most recent vessels are equipped with anti-grav generators to allow them to be amphibious and to transit large canyons, cliffs, steep inclines, and other hazards.
+
+Reference: all episodes of Star Trek
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

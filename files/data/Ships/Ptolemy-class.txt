@@ -1,0 +1,7 @@
+CLASS: Ptolemy
+TYPE: scout
+
+These Starfleet vessels were created as heavy scouts, designed to operate at extended reaches of space for long periods of time. These ships did most of the starcharting for the Federation and made space navigation and commercial trafficing easier once accurate maps were made.
+
+Reference:
+Information provided by:

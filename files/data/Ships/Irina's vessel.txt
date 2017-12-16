@@ -1,0 +1,14 @@
+SHIPS: Irina's vessel
+TYPE: 2 person personal craft
+
+This fast Terrellian spaceship was entered in the Antarian Trans-stellar Rally in 2377 in the Delta Quadrant. Its pilot, Irina, used the peace initiating event to promote her own personal political agenda and planned to defeat the good spirit of the race. Her co-pilot, Joxom, was injured when his console exploded resulting from Irina's intentional tampering. Harry Kim agreed to serve as co-pilot after that and discovered Irina's devious plans.
+
+CREW: 
+Irina, pilot
+Joxom, co-pilot
+
+Reference: Drive
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Gilso Schematics, gerad.g@ntlworld.com, Gerard Gillan
+

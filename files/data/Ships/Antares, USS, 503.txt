@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Antares
+CLASS: 
+TYPE:
+REGISTRY: NCC-503
+
+Federation Starship. Commanded by Captain Vayishra, the first ship to welcome the U.S.S. Stargazer after its mission to capture the White Wolf. Before it was decommissioned it was commanded by Captain Sannek. Lieutenant Nol Kastiigan served on the Antares under Captain Sannek before he transferred onto the U.S.S. Stargazer.
+
+Reference: Progenitor, Gauntlet
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,37 @@
+SHUTTLECRAFT: 
+TYPE: 10
+MODEL: MKX-X
+MISSION: Heavy Medium-Range Warp Shuttle
+
+DISPLACEMENT
+Light: 19.37 MT
+Standard: 19.73 MT
+Full: 20.01 MT
+
+DIMENSIONS
+Length: 9.64 m
+Beam: 5.82 m
+Draught: 3.35 m
+
+POWER PLANT
+Warp Engines: 2 2,500 Millicochrane Warp Nacelles
+Impulse Engines: 1 WLS Fusion Reaction Impulse Unit
+Reaction Control System: 12 DeFL 3234 Microfusion RCS Thrusters
+
+PERFORMANCE
+Warp 1.2 for 120 hours; Warp 2 for 72 hours
+
+COMPLEMENT
+Crew: 4 (Pilot, Navigator, Mission Specialist, and Systems Manager)
+Passengers: 4 (Standard); 1 (Diplomatic); 8 (Emergency)
+
+ARMAMENT
+2 Type VI Phaser Emitters
+
+Reference:
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

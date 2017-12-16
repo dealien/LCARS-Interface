@@ -1,0 +1,15 @@
+SHIPS: Hera, U.S.S.
+CLASS: Nebula
+REGISTRY: NCC-62006
+
+Commanded by Captain Silva La Forge, mother to Enterprise crewman Geordi La Forge. It was crewed by over 300 persons, mostly Vulcans.
+
+Timeline:
+2370: The ship and crew disappeared without a trace, and has not been seen again. 
+
+Reference: Interface 
+This vessel was named for the Greek goddess, the wife of Zeus and Queen of the gods. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

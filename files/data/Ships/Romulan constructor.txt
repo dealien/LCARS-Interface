@@ -1,0 +1,8 @@
+CLASS: Romulan
+TYPE: carrier
+
+A construction rig assigned with teams of workbees and supplies for setting up starbases and stations in remote areas of the Star Empire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

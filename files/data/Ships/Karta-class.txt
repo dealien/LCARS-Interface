@@ -1,0 +1,11 @@
+CLASS: Karta
+TYPE: heavy cruiser
+
+One of the first known Vulcan ships used for long range flight. These craft were originally used as orbital facilities since they were large enough. But when the long range multi-purpose craft became desirable a warp nacelle and upgraded impulse engines were added. These ships were used until the Dial-class became more popular and the Karta-class was modified with additional weapons are reserved for defensive purposes.
+It is a large barbell shaped ship with the radial warp nacelle held in place by two lateral support struts. The bow of the craft is equipped with the main deflector dish in the center. Above that is the viewing section of the auxiliary bridge. Below the dish are the ships main weapons; photon torpedo launchers and phaser emitters. The sides of the bow section contain docking ports at each end and science labs, crew quarters, cargo holds, and other science related equipment.
+Atop the bow section and main spine is the main bridge module. A three deck bulge contains the chief command and operations center, weapons control, conference room, and astrometrics. Below that, contained within the main spine is the ship's computer core and more crew quarters. Directly aft is main engineering with a lateral matter/ anti-matter reaction chamber. Aft of engineering are the deuterium fuel tanks and the anti-matter storage pods. In the very aft are the impulse engines; two to the port, two to starboard of the main spine. At the edges of the aft section are additional docking collars on each side. In the center of the aft section, directly over the spine is the shuttle hangar for verticle lift entry. The craft usually carries four shuttles, but can carry up to ten to accommodate visiting craft and personnel transfers.
+
+Reference: pon-farr
+Information provide by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

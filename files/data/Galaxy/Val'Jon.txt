@@ -1,0 +1,10 @@
+PLANET: Val'Jon
+SYSTEM: Kursican
+SECTOR:
+QUADRANT:
+
+Class M planet located in the Kursican system.  Home of a large human settlement, called New Terra by the inhabitants.  The inhabitants were opposed to the Kursican governments application for membership in the Federation.  Source of the opposition that sabotaged the Plat.  The fugitives fled to an outpost on Val'Jon with their hostages.  The opposition had hoped that the return of Augustus Bradford would set in motion the wheels of a revolution that would overthrow the Kursican government. 
+
+Reference: No Surrender
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb

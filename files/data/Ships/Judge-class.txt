@@ -1,0 +1,8 @@
+CLASS: Judge
+TYPE: heavy cruiser
+
+A variant of the popular Excelsior-class, this design incorporates a two additional nacelles and condenses the hull support between the saucer and engineering hulls to provide a more streamline vessel. The extra nacelles extend away from the engineering hull and face downward, attached to pylons farther forward than the traditional units and affording a more stable warp field in front of the craft which enhances the effectiveness of the forward shields and sensor systems.
+
+Reference:
+Information provided by:
+

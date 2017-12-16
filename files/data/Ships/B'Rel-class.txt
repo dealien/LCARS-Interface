@@ -1,0 +1,14 @@
+CLASS: B`rel
+TYPE: Scout
+
+A type of Klingon Bird-of-Prey that is mostly used for reconaissance or patrol. These ships, which are smaller than the K'Vort-class vessels, usually have a crew of about 12. 
+
+Reference: The Search For Spock, The Voyage Home, The Final Frontier, The Undiscovered Country, Rascals 
+The ship was first seen in the movie but was not named until the Next Generation episode, and at that time was given the distinction between itself and its larger brother, the K'Vort.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+

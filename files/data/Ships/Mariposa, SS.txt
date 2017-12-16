@@ -1,0 +1,11 @@
+SHIPS: Mariposa, S.S.
+CLASS: DY-500
+
+This vessel of colonists was launched to the Ficus Sector on November 27, 2123 during the lingering chaos of the post-World War III era, probably from the old European Hegemony. The ship was under the command of Captain Walter Granger. It dropped off its load of Irish Neo-Transcendentalists on Bringloid V who preferred the old fashioned equipment for farming and other humanoid chores. The ship then crashed on its second planet with the remaining colonists, who named their new home for their ship. This group had packed a lot of high-tech equipment that they used to set-up a colony of clones.
+
+Reference: Up The Long Ladder 
+Named after the Spanish word for butterfly.
+Information provided by: 
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

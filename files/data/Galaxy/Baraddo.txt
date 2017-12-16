@@ -1,0 +1,12 @@
+MOON: Baraddo
+PLANET: Bajor
+SYSTEM: B’hava’el
+SECTOR: Bajoran
+QUADRANT: Alpha
+
+Further from Bajor than Penraddo and Jeraddo. 
+
+Reference: Fall of Terok Nor  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S   
+

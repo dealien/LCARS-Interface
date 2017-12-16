@@ -1,0 +1,11 @@
+SHIPS: Valdemar, U.S.S.
+CLASS: Ambassador
+REGISTRY: NCC-26198
+
+One of three starships ordered to the Demilitarized Zone border during the tensions surrounding O'Brien's arrest by the Cardassians on stardate 47944.2. 
+
+Reference: Tribunal 
+Named for the Terran Danish king Valdemar I (1131-82). Also named for Valdemar Poulsen, the inventor of the first tape recorder.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

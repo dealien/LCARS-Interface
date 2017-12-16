@@ -1,0 +1,7 @@
+SHIPS: Dauntless, USS
+CLASS: 
+TYPE:
+REGSITRY: NCC-30889
+
+Reference:
+Information provided by:

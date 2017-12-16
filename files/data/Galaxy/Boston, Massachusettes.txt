@@ -1,0 +1,13 @@
+CITY: Boston
+STATE: Massachusettes
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: Sol 001
+QUADRANT: Alpha
+
+City in the Northeast portion of the United States. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S 
+

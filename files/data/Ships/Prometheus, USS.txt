@@ -1,0 +1,14 @@
+SHIPS: Prometheus, U.S.S.
+CLASS: Nebula
+REGISTRY: NCC-71201
+
+"ALL THE WORLD'S A STAGE AND ALL THE MEN AND WOMEN MERELY PLAYERS, THEY HAVE THEIR EXITS AND THEIR ENTRANCES AND ONE MAN IN HIS LIFE PLAYS MANY PARTS, HIS ACT BEING SEVEN STAGES," ~ William Shakespeare
+Federation science ship. On stardate 47329.4, the Prometheus hosted Dr. Gideon Seyetik's Epsilon 199 stellar re-ignition project - ironic in light of the ship's mythic Greek namesake, who was tortured by Zeus for bringing fire to mortal humans. Normally not so fast a ship, Dax and O'Brien helped boost its top speed to warp factor 9.5 for a fast getaway in case of supernova failure. Seyetik killed himself in the project to set his unhappy yet mated-for-life wife free, after which she took the ship back to New Halana. 
+
+Reference: Second Sight 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Ex Astris Scientia, www.ex-astris-scientia.org, @2002 Burnd Schneider
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

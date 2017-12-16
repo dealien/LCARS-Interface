@@ -1,0 +1,12 @@
+STATION: Cochrane University of Applied Warp Physics
+PLANET: Centaurus
+SYSTEM:
+SECTOR: Centauri
+QUADRANT: Beta
+
+Prestigious university on Centaurus. Home campus to Professor Zoreem La'kara.    
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

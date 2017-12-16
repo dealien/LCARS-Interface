@@ -1,0 +1,10 @@
+STATIONS: Manheim
+
+A scientific research station developing temporal field manipulation. These stations are capable of freezing time in a selected area causing the ships and stations within the targeted area to become immobile. Vessels entering the field after the field is created are not affected and may fire weapons, land troops, or other activities without retaliation. The field created is short term and takes a lot of time to build up the energy necessary to create the field. 
+These stations have been found in Starfleet battle camps to be used against their adversaries.
+
+Reference: Armada
+These stations were named in honor of Dr. Paul Manheim who had begun the Federation's research into temporal mechanics.
+Information provided by:
+Armada, www.activision.com, @2000, 2002 Activision
+

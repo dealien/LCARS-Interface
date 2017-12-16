@@ -1,0 +1,11 @@
+CLUSTER: Denobulan 
+SECTOR:
+QUADRANT: Alpha
+
+Star cluster containing the planet Denobula Triaxia. Not far from Dinai Station and Arcturus. 
+
+Reference: What Price Honor?
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2007 Deb J S
+
+

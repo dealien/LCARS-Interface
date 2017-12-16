@@ -1,0 +1,14 @@
+SHIPS: Ganges, U.S.S.
+CLASS: Danube
+TYPE: runabout
+REGISTRY: NCC-72454
+
+One of Deep Space Nine’s three original Danube-class runabout vessels dropped off by the U.S.S. Enterprise NCC-1701-D in 2369 and destroyed the next year by a T'Lani munitions cruiser; it was later replaced by the U.S.S. Mekong. 
+The Ganges was used to ferry Starfleet families to the Korat system during the temporary evacuation of Deep Space 9 caused by Bajoran Minister Jarro Essa's attempted coup. The Ganges was also used to drop off Kira and Dax at the Lunar V base. 
+
+Reference: Emissary, Past Prologue, Q-Less, Vortex, Armageddon Game
+In the episode "Past Prologue" it sported a "roll bar" that contained sensor equipment. From a visual-effects standpoint, the purpose of the roll bar was to make it easier to tell the Ganges from the Yangtzee Kiang in that episode's chase sequence. The ship was named after the river in northern India and eastern Pakistan that flows 3,000 kilometers from the Himalayas to the Bay of Bengal.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

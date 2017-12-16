@@ -1,0 +1,35 @@
+SHIPS: Federation construction vessel
+
+These carriers transport supplies and engineering teams into space to build stations throughout Federation space.  These craft can also be found in Starfleet convoys building shipyards, research facilities, and defensive platforms as necessary to support fleet operations. They can build starbases, trading posts, mining and processing facilities and other needs of the members of the United Federation of Planets.
+These ships are weaponless but do employ strong shields and thick hulls which can withstand limited enemy attacks. They do not have agile handling and do not engage warp within solar systems, making them vulnerable.
+
+SHIPS OF THE LINE:
+U.S.S. Blumberg, NCC-
+U.S.S. Bradshaw, NCC-
+U.S.S. Braverman, NCC-
+U.S.S. Calabria, NCC-
+U.S.S. Campbell, NCC-
+U.S.S. Danan, NCC-
+U.S.S. Dunlop, NCC-
+U.S.S. Elliott, NCC-
+U.S.S. Frost, NCC-
+U.S.S. Gaudi, NCC-
+U.S.S. Geary, NCC-
+U.S.S. Graham, NCC-
+U.S.S. Greco, NCC-
+U.S.S. Lang, NCC-
+U.S.S. Malamed, NCC-
+U.S.S. Meyers, NCC-
+U.S.S. Moyes, NCC-
+U.S.S. Mysliwy, NCC-
+U.S.S. Raphael, NCC-
+U.S.S. Scarpa, NCC-
+U.S.S. Somers, NCC-
+U.S.S. Sullivan, NCC-
+U.S.S. Walden, NCC-
+U.S.S. Wright, NCC-
+U.S.S. Wyman, NCC-
+
+Reference: Armada
+Information provided by:
+The Continuum, www.activision.com, @2000 2002 Activision

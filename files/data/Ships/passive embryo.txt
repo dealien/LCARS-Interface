@@ -1,0 +1,7 @@
+SHIPS: passive embryo
+
+A biological entity used by Species 8472 and given birth at Mother stations. These embryos are mutated into various stations to serve the Species.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

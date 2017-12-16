@@ -1,0 +1,11 @@
+SHIPS: Mekong, U.S.S.
+CLASS: Danube
+REGISTRY: NCC-72617
+
+A replacement runabout that arrived on Deep Space Nine in 2370 - sometime between the destruction circa stardate 47532 of its predecessor, the U.S.S. Ganges, and stardate 47552.2, when Commander Sisko, Major Kira and Doctor Bashir chased the replicant O'Brien back to Parada II in it. After several missions, it was lost the next year as Odo and Garak's craft amid the disastrously failed Cardassian-Romulan invasion of the Founders Homeworld. 
+
+Reference: Playing God, Whispers, The Maquis, The Jem'Hadar, The Die Is Cast 
+The Mekong was named after the river in Southeast Asia that flows south to the China Sea.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

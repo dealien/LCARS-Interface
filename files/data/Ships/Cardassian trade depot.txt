@@ -1,0 +1,8 @@
+STATIONS: Cardassian trade depot
+
+A space station used by various traders and Ferengi merchants to buy and sell goods. The Cardassian Union built these stations amongst military complexes to allow them an opportunity to buy and sell dilithium, metals, and other building parts necessary to support the duties of their mission.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

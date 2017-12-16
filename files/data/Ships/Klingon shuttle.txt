@@ -1,0 +1,9 @@
+SHUTTLECRAFT:
+TYPE: shuttlecraft
+
+A support vehicle attached to carrier groups, starbases & space stations, and to colony worlds within the Klingon Empire. These ships are not found aboard starships within the Klingon Defense Force since that races does not believe in abandoning ship.
+
+Reference: Star Trek Australia
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+

@@ -1,0 +1,15 @@
+SHUTTLECRAFT: hopper
+TYPE: transport
+
+A light ground-to-orbit vehicle easily picked off by ground-based fire.
+These craft were often incorporated into the hulls of Iwo Jima-class troop transport frigates. 
+Starfleet marines used these vessels often to deploy forces and collect troops and rescue hostages/ civilians. Such units were used on Ajilon Prime in the skirmish against the Klingons.
+
+Reference: ...Nor the Battle to the Strong, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+Star Trek Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Armada, www.activision.som, @2001 Activision
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

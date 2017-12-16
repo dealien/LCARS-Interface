@@ -1,0 +1,11 @@
+WEAPONS: Phaser - Bajoran
+
+Types of phased direct energy weapons created by the Bajoran militia and used in addition to phasers issued by Starfleet and Cardassian military stores. There is a pistol and more powerful rifle model
+The Bajoran phasers are technologically similar to Starfleet units. The basic units involves a superconducting crystal and power cell to pump it, though no prefire chamber is required to contain the energy prior to discharge. The ajoran unit establishes an initial six-stranded energy beam at a relatively low power at the moment of trigger activation, followed within 0.00001 seconds by an amplified discharge that uses the initial beam to focus the primary energy onto the target. In effect, the first stage beam acts as an energy-based prefire chamber.
+The power cell in the pistol model is a rechargeable isotolinium ampule, though some units have been retrofitted for sarium-krellide cells. The total energy charge is rated at 1.2 x 10^6 megajoules. Pistol units used aboard Deep Space 9 have been modified with parital STA components to conform to the Starfleet setting-3 limits.
+The rifle model is a ruggedzed and enlarged version of the pistol and supports a larger power cell. The rifle also contains a seeker/trakcer, which operates primarily on IR and amplified biogenic fields. During the occupation, some early rifle units were outfitted with target discriminators; Bajoran fighters using coded biogenic transponders, in theory, would not be hit by friendly fire. In practice, few melees involving large numbers of Cardassian and Bajorans occurred in which the effectiveness of the target system could be proven. The current rifle is also constrained to setting 3 aboard the station, though it is more often deployed on away mission and on Bajor.
+
+Information provided by:
+Deep Space 9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books
+
+

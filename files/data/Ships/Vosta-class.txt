@@ -1,0 +1,42 @@
+CLASS: Vosta
+TYPE: Heavy Cruiser
+
+Jem'Hadar Warship which also serves as base to a fleet of small fighter craft. Early on Weyoun used one of these as his flagship while he commanded the Dominion forces within the Alpha Quadrant. Guls Dukat and Dumar also commanded from this vessel type from time to time.
+These formidable Jem`Hadar warships were encountered by the Federation in 2371, when the Defiant went looking for clues about the Dominion. The ships used ion propulsion, and like Jem'Hadar attack ships, featured shielding against tractor beams. Like many Dominion ships, these were not designed for comfort, and carried almost no cargo or safety gear, or even seats for the on-duty crew. 
+
+DISPLACEMENT:
+Standard: 4,215,000 MT
+
+DIMENSIONS:
+Length: 639.75 m
+Beam: 568.44 m
+Draught: 204.97 m
+
+PROPULSION:
+Warp Drive: 1 (Possibly 2) M/A Warp System
+Impulse Drive: 2 or more
+
+VELOCITY:
+Normal Cruising Speed: 6*
+Max Cruising Speed: 9.6*
+* observed
+
+COMPLEMENT:
+2,500 plus Flight Crew and Troops*
+50 embarked craft*
+* estimated
+
+WEAPONS:
+Ship: 6 or more Phased Polaron Beams; possibly others
+
+Reference: The Search, A Call to Arms, Sacrifice of Angels, What You Leave Behind
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision, @2000 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+
+
+
+

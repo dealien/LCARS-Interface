@@ -1,0 +1,12 @@
+STATION: Memory Epsilon
+PLANET:
+SYSTEM:
+SECTOR:
+QUADRANT:
+
+Memory planet created after the Memory Alpha disaster to house knowledge on multiphysics. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

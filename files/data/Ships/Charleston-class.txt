@@ -1,0 +1,8 @@
+CLASS: Charleston
+TYPE: medium cruiser
+
+A rare Starfleet vessel designed to replace the Nebula-class cruiser.
+
+Reference: 
+Information provided by:
+

@@ -1,0 +1,10 @@
+SECTOR: Badlands 
+QUADRANT: Alpha
+
+A region of space on the edge of Cardassian, Bajoran, and Federation territories. Plasma streamers regularly erupt like tornadoes between the energy clouds causing navigation in the area to be extremely dangerous. Roughly spherical plasma storm eighty-four parsecs in width. This region exerts a strong gravitational pull and casts a sensor "shadow" that blocks readings nearby. Has kiloelectron voltages exceeding the eighth power.  There is variability in frequency and intensity in optical and radio pulsations by ten thousand times. Discovered in 2268 by the U.S.S. Enterprise NCC-1701. Named by Captain Kirk. 
+The Maquis began using this region for hiding since they used small craft that were more maneuverable than large starships, they were able to avoid Cardassian and Starfleet patrols. One-third of the sector is taken up by the Badlands.
+
+Reference: Badlands 
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

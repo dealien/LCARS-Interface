@@ -1,0 +1,29 @@
+body {
+    background: #000;
+    /*font-family: lcars1, Helvetica, Arial, sans-serif;*/
+    /*letter-spacing: 1px;*/
+}
+
+div.line {
+    display: inline-block;
+}
+
+h1 {
+    display: inline-block;
+    width: auto;
+    margin-top: 0px;
+}
+
+.interface {
+    background: #000;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.file-data {
+    color: #fff;
+}
+
+.scrollable {
+    overflow-y: auto;
+}

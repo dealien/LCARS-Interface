@@ -1,0 +1,12 @@
+SHIPS: U.S.S. Kingston
+CLASS:
+TYPE: transport
+REGISTRY:
+
+Starfleet colony-relief transport. Lieutenant Commander Cavit had been assigned to the Kingston while he was still a cadet. The ship ferried scientists, medicines, animals and supplies to every growing colony between Miracle and Cimota VI. While the Kingston was transporting gametes to Rukbat III, it was attacked by Orion pirates.
+
+Reference: Caretaker
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

@@ -1,0 +1,8 @@
+SHIPS: Borg researchers
+
+Three different kinds of research stations have been observed by Federation scientists to be used by the Borg. The first kind is used to develop weapons for a variety of different vessels including tachyon detection, assimilation beams, holding beams, and others. More advanced research is conducted at a separate facility that specializes in nanites, ultritium, shield remodulation, and computer override algorithyms. The third kind has been used to increase vessel efficiency in the areas of engines, shields, life support, weapons, and sensors.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

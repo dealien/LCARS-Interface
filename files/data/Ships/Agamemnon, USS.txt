@@ -1,0 +1,12 @@
+SHIPS: Agamemnon, U.S.S.
+CLASS: Apollo
+REGISTRY: NCC-11638
+
+Part of Captain Picard's 2369 impromptu task force, #3, to fortify and brace for the expected Borg Invasion. 
+
+Reference: Descent
+The Agamemnon was named for the Greek mythological figure who was commander of the Greek forces during the Trojan War.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

@@ -1,0 +1,91 @@
+CLASS: K`t`inga
+TYPE: Heavy cruiser
+
+This class of Klingon ship replaced the D7-type of battle cruiser around 2270. K't'inga-class battle cruisers are among the smaller Klingon ships by 2370 fleet standards.
+
+SHIPS OF THE LINE:
+I.K.C. K’t’inga
+I.K.C. Amar
+I.K.C. Kronos One
+
+DISPLACEMENT
+Light: 116,000 MT
+Standard: 120,000 MT
+Full: 124,000 MT
+Cargo Capacity: 10,000 MT
+
+DIMENSIONS
+Length: 214.3 m
+Beam: 152.4 m
+Draught: 57.3 m
+Number of Decks: 9
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 STN5 Dilithium-Conversion Linear Graph Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 Hydrogen Energy Impulse Units
+Impulse Engine Fuel: Hydrogen
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: "Sech'Nar" Chemical Propulsion
+
+VELOCITY
+Normal Cruising Speed: Warp 6*
+Max Cruising Speed: Warp 10*
+* Following old Warp standards.
+
+ACCELERATION
+Rest-Onset Critical Momentum: 4.74 sec
+Onset Critical Momentum-Warp Engage: 1.42 sec
+Warp 1-Warp 4: .80 sec
+Warp 4-Warp 7: .64 sec
+Warp 7-Warp 10: 2.11 sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintenance/Upgrade Layovers: 175
+Time Between Resupply: 8 Years
+Time Between Refit: 16 Years
+
+COMPLEMENT
+Officer Crew: 10
+Enlisted Crew: 375
+
+EMBARKED CRAFT
+Total: 2
+
+NAVIGATION
+System: "Druim-Blinge" Vector And Tensor Analysis Unit
+
+COMPUTERS
+Type: "Ku-Tan" Level 15 Central Information Unit
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: .9 ly
+Medium to Low Resolution Range: 1.75 ly
+
+GRAVITIC DISRUPTORS:
+Ship: 8 (Force 61) "Krazin Moy" Type
+
+PHOTON TORPEDOES
+Tubes: 2 ((Fore (Force 241) Aft (Force 157)) "T Yagust" Type
+Max Torpedo Simultaneous Spread: 2
+
+DEFENSE
+Shields: "Zigarmit" Deflector Plating And Field Generation System
+Fire Control: "Kortuk Vwe-Cha" Tactical System
+Cloaking: "Kaekus" Cloaking Generator
+
+TRANSPORTERS
+Personnel Transporters: 3
+Emergency Transporters: 6
+Cargo Transporters: 2
+
+Reference: The Motion Picture, The Undiscovered Country
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+

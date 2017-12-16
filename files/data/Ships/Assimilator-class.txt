@@ -1,0 +1,11 @@
+CLASS: Assimilator
+
+A tactical vessel in use by the Borg for the assimilation of enemy targets. These vessels can be equipped with special transporters for the use of capturing alien citizens and assimilating them. It is unsure if the beam itself incorporates nanoprobes into the subjects, or if they are simply captured and assimilated by waiting drones.
+The rogue band of Borg drones led by Lore used a unique design of ship that had an irregular multileveled shape, unlike other Borg vessels, which are normally symmetrical. This disjointed appearance was perhaps a result of their disordered state after Hugh "infected" them with a sense of individuality. Far larger than a Galaxy-class starship, the renegade Borg ship was evidently constructed in less than a year (Hugh returned to the Collective in late 2368 and the vessel was first sighted in 2369), but it is not clear whether the ship was an adapted Borg cube or constructed from scratch. It was eventually destroyed in a solar fusion eruption. 
+
+Reference: Descent, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Armada, www.activision.com, @2000 Activision
+

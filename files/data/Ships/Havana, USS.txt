@@ -1,0 +1,11 @@
+SHIPS: Havana, U.S.S.
+CLASS: Istanbul
+REGISTRY: NCC-3403
+
+This starship was scheduled to meet the Enterprise-D after that ship studied the deadly firestorms over Bersallis III in 2369. 
+
+Reference: Lessons 
+The Continuum lists the registry as 3404, the encyclopedia lists it as NCC-34043.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

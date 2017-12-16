@@ -1,0 +1,9 @@
+TECHNOLOGY: mooring clamps
+
+Mechanisms used at space stations like Deep Space Nine to hold docked ships in place at their assigned docking ports. Attempting to remove a vessel while the clamps were still engaged led to serious damage to the vessel, so the clamps could also by used by security efforts to prevent a suspect from escaping.
+
+Reference: Babel 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

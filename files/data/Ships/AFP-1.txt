@@ -1,0 +1,29 @@
+SHIPS: AFP-1
+TYPE: prototype
+
+A test vessel for the advanced fusion engine system built in 2034. The version of reactors included on this craft were not safe enough and the craft exploded with all lives lost in 2035. It was a major setback for Terran interstellar travel capability.
+What follows is the exact transcript of the tragedy that preceded the era of advanced fusion drive. The participants in this communication were Robert Caradine, test pilot of the Advanced Fusion Prototype One experimental ship and Richard Hanna, Captain of the trailing escort support vehicle. Nuclear fusion proved, at times, to be difficult to tame, and, as revealed in the official inquiry of this unfortunate accident, the new vehicle was not yet ready for rigorous testing.
+Hanna: …on my mark we’ll be minus ten… mark, ten seconds to power-up.
+AFP1: Okay… ten seconds. Our program 9-21 is in. We’ve got the velocity light at nine… reaction prefire and energy stream detonator power levels are stable at six seconds, five, four… fuel pellets are switching to larger size… two, one
+Hanna: We see your power-up.
+AFP1: -and the throttle is up! The positive-g light is on… we’re burning! Nozzle temp is going up… leveling off at ten thousand six. Dick, it’s a very smooth firing.
+Hanna: We copy; GNC and Flight Dynamics report you moving out past Marker 1, and your velocity is climbing to .389c… looking good.
+AFP1: …Dick, we’re getting a Master Caution and Warning alarm on the… wait a second. The engine is misfiring. The beams are first missing the fuel pellets and then hitting them, and it’s shaking up the Engineering section. We’re dropping the throttle down to previous setting.
+Hanna: Shut down the injector and turn the ship around. We want to bring you back to the inner Markers. Prepare to copy guidance instructions when you’ve settled the engine down.
+AFP1: I don’t know if we can get a total shutdown. If we stop the sequence right now, it may not be restartable within the time we have.
+Hanna: All right… we’ll get a low-g chase configured to start after you… and begin working on a fix for your engine from this end. How serious do you estimate your situation is right now?
+AFP1: We’re experiencing severe shaking when the engine fires. Something is clogging the delivery tube and it’s not going to settle down.
+Hanna: The Test Director wants everybody to get into the crew module and break off from the ship. Right now!
+AFP1: …trying to dislodge the fuel in injector… we’ll be able to turn- what? What size is it? Twenty-five? No… too big… engine…
+Hanna: Bob! Cut the module away! Cut the… Oh my God! Oh my God! One flash and five years of research and ten of friendship are vaporized. Where do we go from here?
+
+DIMENSIONS:
+Length: 	169 meters
+Weight:	7,998 tons
+
+ACCOMODATIONS:
+Crewmen:	14
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

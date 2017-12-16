@@ -1,0 +1,13 @@
+CLASS: Detroit
+TYPE:
+
+U.S.S. Detroit, NX-
+
+DIMENSIONS:
+LENGTH: 184 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

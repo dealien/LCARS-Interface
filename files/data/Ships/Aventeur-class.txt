@@ -1,0 +1,40 @@
+CLASS: Aventuer
+TYPE: science
+
+This was the first ship whose final assembly was completed entirely in Earth orbit. Advanced fission propulsion and capacious cargo modules made this an invaluable vessel for early planetary flight, and in fact the U.N.S.S. Lewis and Clark was the first manned ship to Jupiter. Under the command of Colonel Shaun Christopher, later Chief of Staff of UNSF, it took part in the historic Earth-Saturn probe of 2020. These classification of ships typically traveled between Earth and Mars (5.5 days), Earth and Jupiter (39.5 days), and Earth and Saturn (81 days).
+
+SHIPS OF THE LINE: 
+U.N.S.S. Aventeur
+U.N.S.S. Lewis & Clark
+
+Production base: Earth orbit
+Commissioned: 2008	Decommissioned: 2030 
+
+DIMENSIONS: LxWxHxM
+125m, 28.5m, 28.5m, 2.81M kg
+Antenna Span: 59.3m
+Heat radiators: 2m x 8.7m each
+Carrier modules: 1140m cubic each, 12 capable
+Front command sensors: 80m square
+
+ACCOMODATIONS:
+Officers: 3- Captain, lieutenant, ensign
+Crew: 12
+Passengers: 94
+
+PROPULSION:
+Thrust: 135K kg per fission engine
+Velocity: 700,550 km/hr
+
+COMPUTER SYSTEMS:
+Multiscan Digital Memory
+Navigation: Gamma ray tracker-controlled inertial guidance
+Communication: laser radiotelemetry
+
+ARMAMENT:
+none
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

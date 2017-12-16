@@ -1,0 +1,9 @@
+WEAPONS: flintlock
+
+Primitive armament that fires projectiles via an explosive charge. In 2267, the Klingons supplied the village people of Tyree's planet with these weapons, tilting the societal balance of power and forcing the U.S.S. Enterprise NCC-1701 to give the hill people of the planet the same weapons. 
+
+Reference: A Private Little War
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

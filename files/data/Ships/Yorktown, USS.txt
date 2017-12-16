@@ -1,0 +1,16 @@
+SHIPS: U.S.S. Yorktown
+CLASS: Constitution
+TYPE: Heavy cruiser
+REGISTRY: NCC-1717
+
+2268: The Yorktown was set to meet with the U.S.S. Enterprise to deliver vaccines for the planet Theta VII. 
+2286: It was disabled by the Cetacean space probe en route to Earth. The chief engineer rigged a makeshift solar sail to provide emergency power until help could arrive, which turned out to be the return of the probe restoring power to disabled craft. 
+Mollie Katz had been assigned to the Yorktown some time before 2333.
+
+Reference: Obsession, The Voyage Home, Battlestations! Gauntlet
+Named for the American aircraft carrier that fought in the Pacific theater during World War II. The captain of the Yorktown, seen on a communications viewer in Starfleet Command, was played by Vijay Armitraj. His character's name, according tot he script, was captain Joel Randolph. Also seen on one of the big Starfleet screens was Go-Gos singer (and Star Trek aficionado) Jane Wiedlin, who played an alien communications officer. According to the script, she was officer Trillya of the Starship Shepard, but this was not established in the final version of the film. The Yorktown was the original name of Star Trek spaceship, before the ship was called Enterprise, from Gene Roddenebrry's first draft of the series outline in 1964, Roddenberry reportedly suggested that the second Starship Enterprise, NCC-1701-A, launched at the end of "The Voyage Home" had previously been the Yorktown, since it seems unlikely that Starfleet could built a replacement Enterprise that quick.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,9 @@
+SHUTTLECRAFT: archer model
+TYPE: representation
+
+A toy model of an early Terran spacecraft. The kind of ship is was modeled after was one of the Earth-launched space shuttles.
+
+Reference: Broken Bow
+Information provided by: 
+This was submitted by a random webmaster.
+

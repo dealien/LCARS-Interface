@@ -1,0 +1,11 @@
+PLANET: Alpha Centauri
+SYSTEM:
+SECTOR: Centauri
+QUADRANT: Beta
+
+The antimatter that was being transported to Bajor on the Phoenix in 2370 came from Alpha Centauri.   
+
+Reference: Antimatter  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

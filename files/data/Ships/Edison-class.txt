@@ -1,0 +1,21 @@
+CLASS: Edison
+TYPE: science vessel
+
+These ships were launched to begin gathering new information on antimatter in the interstellar void.
+
+Commissioned: 2084	Decommissioned: 2139
+
+DIMENSIONS:
+Length:	246 meters
+Weight:	34,000 tons
+
+ACCOMODATIONS:
+Crewmen:	58
+
+PROPULSION:
+Warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

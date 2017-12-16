@@ -1,0 +1,17 @@
+SHUTTLECRAFT: Chaffee
+TYPE: 10
+REGISTRY: NX-74205-3
+MISSION: 
+
+This shuttle was attached to the U.S.S. Defiant. 
+It is a four-crew, multirole shuttle based on the Type-6 shuttcraft spaceframe and equipped with subscale versions of larger starship impulse and warp propulsion systems. The craft measures 9.64 meters in length by 5.82 meters abeam by 3.35 meters in height. The basic unloaded mass is 19.73 metric tonnes, slightly heavier than similar shuttles due to its larger warp coil assemblies. The warp nacelles are modeled after the armored Defiant engine pods. Off the shelf reaction control thrusters have been taken from inventory setup for type 6 craft.
+Defensive systems mirror those of most other auxiliary spacecraft and encompass phaser emitters, micro-torpedo launchers, shields, and signal intelligence jamming devices. Onboard computer systems include a shortened version of the Danube-class runabout computer core, partitioned into five polled processor segments for optimum decision-making. Provisions have been made for bioneural gel pack peripherals and upgrades.
+Planetary landing systems include both fixed and deployable surface pads. All other required hardware, such as formation lights, emergency beacons, transporters, pressure suits, and survival packs, anre present in this model.
+
+Reference: The Sound of Her Voice 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+
+
+

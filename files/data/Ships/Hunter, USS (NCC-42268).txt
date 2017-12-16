@@ -1,0 +1,9 @@
+SHIPS: Hunter, U.S.S.
+CLASS: 
+Registry: NCC-42268
+
+A Starfleet starship
+
+Reference: Destinies	
+Information provided by:
+Star Trek Destinies, McCoyLH@aol.com, @1994 Kip Knight

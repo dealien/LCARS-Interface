@@ -1,0 +1,12 @@
+SHUTTLECRAFT: 
+TYPE: 3
+MODEL:
+MISSION:
+
+This executive use craft is in normal use by Federation dignitaries and government officials and not by the Starfleet. These craft are larger than most shuttles and can carry a good number of passengers. These craft are often set up with cabins and offices so that the passengers can continue to work while en route to their destinations. 
+A shuttle of this kind helped with the evacuation of the U.S.S. Enterprise-D from Veridian III after the starship's saucer crash landed there.
+
+Reference: Generations, Trials and Tribble-ations
+Information provided by:
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

@@ -1,0 +1,9 @@
+SHIPS: Swift Striker
+CLASS: Galor
+TYPE: dreadnought
+
+Cardassian warship commanded by Gul Marak. The Swift Striker was destroyed by a bomb while it was docked at Deep Space Nine in 2370. 
+
+Reference: Betrayal   
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 

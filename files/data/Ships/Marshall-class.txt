@@ -1,0 +1,56 @@
+CLASS: Marshall
+TYPE: destroyer
+
+the ambush and loss of the U.N.S.S. Patton began the Romulan war. The Marshall-class was the Earth’s staunchest line of defense, and these ship’s superior performance and firepower provided a crucial tactical edge. In fact, the class supposed to succeed it could not better its specifications and so was never built, the reason the Marshall class had the longest commissioned lifespan before the formation of the United Federation of Planets. This was the first craft to feature warp-generated defensive shielding.
+
+Notable ships of this line:
+U.N.S.S. Marshall
+U.N.S.S. Hannibal
+U.N.S.S. Patton
+
+Commissioned: 2105
+Decommissioned: 2155
+
+DIMENSIONS:
+Length:	255 meters
+Beam:		117 meters
+Draught:	45.5 meters
+Weight:	22.7 million kilograms
+Engine Nacelles
+Length:	22.7 meters
+Diameter:	31.2 meters
+Forward Command
+Length:	104 meters
+Beam:		37.7 meters
+Draught:	20.8 meters
+
+ACCOMODATIONS:
+Officers:	8 (captain, lieutenant, science, engineer, navigator, communicator, medical, weaponry)
+Ensigns:	4
+Crewmen:	145
+
+PROPULSION:
+Advanced second generation warp drive
+Dual warp nacelles
+Range
+Standard:	300 light years
+Maximum:	1,000 light years
+Velocity
+Cruising:	Warp 3.5 (42.9c)
+Maximum:	Warp 3.8 (54.9c)
+
+COMPUTER SYSTEMS:
+Celestial warp reader with extensive evasive action programming
+
+ARMAMENT:
+14 forward lasers
+8 rear lasers
+8 forward particle beam cannons
+2 rear particle beam cannons
+400 fusion torpedoes
+warp generated defensive shielding
+
+Reference: Spaceflight Chronology
+Some references to the UFP have been changed to the U.E.S.P.A. since canon sources state the the Federation was founded after the creation of this starship class.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan Goldstein, Fred Goldstein, Rick Sternbach

@@ -1,0 +1,10 @@
+PLANET: Dantus III
+SYSTEM: Dantus
+SECTOR:
+QUADRNT:
+
+Planet. The fog is so dense there that the natives communicate by touch. Quark has a holosuite program set on Dantus III. 
+
+Reference: The Siege  Information provided by:
+Star Trek Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

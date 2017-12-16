@@ -1,0 +1,12 @@
+SHIPS: Arcos, U.S.S.
+TYPE: Freighter
+
+A small Federation freighter transporting supplies through space. It contained one escape pod that was large enough to house the ship's entire crew.
+
+On stardate 44215.2, the crew was taken captive by one of the factions on Turkana IV known as the Alliance due to a warp containment breach which forced them onto the surface. The crew was rescued by the U.S.S. Enterprise-D with assistance from the opposing faction.
+
+Reference: Legacy 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

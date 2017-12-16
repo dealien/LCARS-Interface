@@ -1,0 +1,11 @@
+SHIPS: Trial, USS
+CLASS: Galaxy
+TYPE: heavy cruiser
+REGISTRY:
+
+This starship was part of the six-ship fleet, lead by the Venture, sent to Deep Space Nine during the Klingon invasion of Cardassia. 
+
+Reference: The Way of the Warrior
+This scene looks like a footage reuse from Emissary when the Enterprise-D was docked there- and that they added the Excelsior-class ships in the background.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

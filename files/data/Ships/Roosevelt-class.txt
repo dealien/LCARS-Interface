@@ -1,0 +1,12 @@
+CLASS: Roosevelt
+TYPE:
+
+U.S.S. Roosevelt, NX-
+
+DIMENSIONS:
+LENGTH: 202 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

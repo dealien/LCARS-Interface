@@ -1,0 +1,9 @@
+VEHICLE: Kolaran ATV
+
+This all-terrain vehicle serves as the primary means of transportation for the Kolarans. 
+Vehicle's occupants usually consist of a driver and a gunner, who mans the various arms situated at the rear or sides of the vehicle.
+During a mission to Kolarus III, Picard, Data and Worf encountered the malicious Kolarans and evaded their ATVs with an ATV of their own, the Argo.
+
+Reference: Star Trek Nemesis
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

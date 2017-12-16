@@ -1,0 +1,8 @@
+TECHNOLOGY: communication console
+
+A bridge station coordinating in- and out-going messages for the entire Starship. Operators in this station are often computer experts too.
+
+Reference: The Cage
+Information provided by:
+Starfleet Technical Manual, @1979 Franz Joseph
+

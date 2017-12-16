@@ -1,0 +1,19 @@
+CLASS: Eagle
+TYPE: transport
+
+Commissioned: 2189
+
+DIMENSIONS:
+Length:	250 meters
+Weight:	101,800 tons
+
+ACCOMODATIONS:
+Crewmen:	1,000
+
+PROPULSION:
+Fourth generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

@@ -1,0 +1,9 @@
+CLASS: Curry
+TYPE:
+
+A variant of the Excelsior-class built during the Dominion War from space ship parts. These vessels were quickly thrown together in an effort to get vessels into the field to support the war effort.
+
+Reference: 
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson

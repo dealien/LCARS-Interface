@@ -1,0 +1,9 @@
+STATIONS: Umbriel-class
+
+A facility used by the Fetlik government in and around mining colonies. These stations contain ore processors, offices, starship support services, habitats, storage facilities, and other services needed to fully run a mining operation. These stations are often found in asteroid belts where heavy mining takes place. These stations are not designed to be permanently assigned to an area, and therefore are equipped with engines and warp drive so that they may move on to the next mining location. These ships also have landing supports and are expected to touchdown with the intended object to allow mining teams and their equipment access to the ores without having to be shuttled to the surface. This design allows the station itself to be used for off duty storage of equipment and allows for quicker access to ship's services to the ground crews.
+These ships are designed with large round saucers at the head. This section resembles the Solari-class starship in many ways, and includes warp drive engines for moving the station from system to system.
+The underside is a long cylinder stretching from the underside of the saucer to the ground. Within this column are dozens of turboshafts of varying sizes and types; to transport personnel, all terrain vehicles, ores, and other needs up and down the shaft. In the center of the column is a fanned out set of umbilicals for connecting to freighters. At the bottom of the shaft is a domed hub that contains the garage for the mining trucks and the ground access to the station. This area also contains the landing struts and securing latches for holding the station to the surface of the asteroid.
+
+Reference: Terrafirma
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

@@ -1,0 +1,12 @@
+CLASS: Tanganyika
+TYPE:
+
+U.S.S. Tanganyika, NX-
+
+DIMENSIONS:
+LENGTH: 371 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

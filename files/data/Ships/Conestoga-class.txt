@@ -1,0 +1,16 @@
+CLASS: Conestoga
+TYPE: transport
+
+An old design from before Starfleet began using saucer shaped vessels. These large cylindrical ships were sometimes built before warp drive was available to all ships and the nacelles had to be added after the original construction. These craft are large enough to transport enormous amounts of cargo and personnel and are often used for colonization proceedures.
+The prototype vessel for this fleet journeyed from Earth to the colony Terra Nova in 2069. The trip took nine years. One of the original colonists onboard the Conestoga was Vera Fuller, Nadet's mother. 
+Added to Picard's headaches with arrogant Sheliak and stubborn Tau Cygna V colonists in evacuating the planet is that fact that Starfleet can't provide major colony transport ships for another three weeks. 
+
+Reference: New Earth series, The Ensigns of Command, Armada, Terra Nova
+The name for the "Starfleet colony transport" is conjectural based on references from the book series.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Armada, www.activision.com, @2002 Activision
+New Earth series, www.simonsays.com/st, @1999 Pocket Books, Diane Carey, Dean Wesley Smith, L.A. Graf, Kathy Oltion, Jerry Oltion, Kristine Kathryn Rusch
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+

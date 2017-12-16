@@ -1,0 +1,8 @@
+TECHNOLOGY: transtator
+
+Electronic component that is the basis of most twenty-third century Starfleet equipment. Dr. McCoy left a communicator on planet Sigma Iotia II in 2268, raising fears that the natives would use it to determine how the transtator functions. Even after the advent of isolinear optical chips and bio-neural gel packs, transtator components continued to serve a critical role in Starfleet hardware. Ensign Harry Kim occasionally performed transtator assembly diagnostics on systems on the U.S.S. Voyager.
+
+Reference: A Piece of the Action, Trials and Tribble-ations, Time and Again 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Book, Michael & Denise Okuda, Debbie Mirek

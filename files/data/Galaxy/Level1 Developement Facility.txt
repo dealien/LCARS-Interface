@@ -1,0 +1,14 @@
+STATION: Level One Development Facility
+PLANET: Wayland Prime
+SYSTEM:
+SECTOR:
+QUADRANT:
+
+Starfleet weapons R&D installation on Wayland Prime. Led by Nol Ejanix, the development of the new type nine ship's-phaser emitter took place there.
+
+Reference: Three
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+
+

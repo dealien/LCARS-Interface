@@ -1,0 +1,28 @@
+TYPE: escape pods
+Also known as ASRV
+
+An emergency use ship attached to vessels in case of catastrophic danger to the main craft. Nearly every warp capable race uses these types of vehicles, with the notable exception of the Klingons.
+While each class of vessel may have a differently designed escape pod attached to it, all will include the same features. Each is equipped with a battery to provide for life support on the pod for up to three months, more for some pods. Food rations for an equal amount of time is packed into the storage hatches. SEWG suits are also made available for the specified number of passengers. Sub space transmitters are included in all pods to broadcast a homing signal for search and recovery teams, and to maintain communication between other pods from the same home craft. All pods are designed to be able to withstand atmospheric entry and landing in the chance that a suitable planet can be located nearby. Pods have explosive charges to allow them to disengage themselves from the mother ship if that craft is too damaged to eject them itself. Computer systems are included in these pods to maintain all of the pod's functions and for limited navigation using the thrusters.
+The typical Cardassian lifeboat is characterized by a set of clipped-corner trapezoids descriving a pressurized upper environmental cabin and a sealed lower equipment bay, connected by four thruster housings. The overall dimensions are 3.74 meters on a side by 4.69 meters high, sized to fit within launch tubes set into the vessel or station. Construction is primarily beznium tellenite and neffium-copper-borocarbide for obth internal framing and double-walled skins. Frame alloy gamma-welding has been copied directly from Starfleet five axis programming, with the application of microexplosive melt fasteners unique to Cardassian methods in the hull skinning. Minimal hull penetrations have been made for umbilicals, consistent with simplified fabrication techniques and long-term propellant and consumables storage. Reinforcing plates have been added to most exposed surfaces to provide maximum thermal and impact protection, and the entire shell has been plasma-sprayed with a thirteen millimeter thick coating of rodinium and toranium.
+The toal mass is 4.68 metric tonnes for structure and fuel, and 3.1 kilograms dedicated to mid- and post-transit survival consumables. Starfleet has confirmed that while Terok Nor was in orbit about Bajor, the lifeboats were capable of sustaining six Cardassians for barely eighteen minutes while the craft performed a powered descent to the planet's surface. However it must be said that this Cardassian desgn is highly reliable within its prescribed localized flight envirnonment and able to withstand large-scale operational stresses. More importantly, most Cardassian interstellar vessels, like the Galor-class warship, do employ ASRV-type lifeboats capable of performing over longer times and distances.
+Lifeboat propulsion consists of a three-part system operating on a single isolinear navigation processor and event timer. The first section activates an argine initiator that propels the lifeboat downward away from its launch cavity. The event timer then fires pyro valves to sever the initiator circuits and automatically activates the second section, a force-feedback reation control thruster tha commands small microfusion thrusters to align and maintain the lifeboat's deorbit mode, propelling the lifeboat in a prograde orbital direction toward a predetermined touchdown location on the nearby planet. Typical maximum accelrations imparted to the crew reach 9.5g, necessary to leave the destruct radius of the station in the case of total weapons and fusion-generator detonation. Upon arrival at the planet, the main engine fires in touchdown mode to set the lifeboat on the surface. Deceleration forces typically reach 12.5g in the final 25.8 seconds before ground impact.
+Since the transfer of custody of Deep Space 9 and it move to the Denorias Belt, Bajoran and Starfleet authorities have had several units to study. Some models were disassembled, and some destroyed in efforts to learn more about their construction and tolerances.
+
+Images include: 
+Sovereign-class
+Delta Flyer
+Galaxy-class
+Cardassian
+-
+And three images of pods escaping the U.S.S. Enterprise-E over Earth’s past.
+
+Reference: First Contact, Sleeping Dogs, In a Mirror Darkly
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+
+

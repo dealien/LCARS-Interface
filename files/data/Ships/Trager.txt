@@ -1,0 +1,10 @@
+SHIPS: Trager
+CLASS: Galor
+
+A Cardassian, Galor-class warship, the Trager had a crew of 600. 
+On Stardate 44429.6, the Trager launched an assault on the Enterprise-D, in retaliation for what they claimed to be the U.S.S. Phoenix's unprovoked attack on a Cardassian science station. In attacking the Cardassian ship, the Phoenix violated the Cardassian-Federation peace treaty of 2366.
+
+Reference: The Wounded
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

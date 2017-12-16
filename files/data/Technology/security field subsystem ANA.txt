@@ -1,0 +1,9 @@
+TECHNOLOGY: security field subsystem ANA
+
+Computer program written by Deep Space Nine resident Neela in 2369 to bypass computer security defenses. It allowed Neela to override forcefields around runabout pad A, which she intended to use to escape after assassinating Vedek Bariel. Neela classified the program under Chief O'Brien's name. 
+
+Reference: In the Hands of the Prophets 
+In an early draft of the episode the character of Neela was named Anara, and she used part of her name to create this routine. The subsystem code ANA was an accidental holdover from that draft.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

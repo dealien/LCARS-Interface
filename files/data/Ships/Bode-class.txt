@@ -1,0 +1,20 @@
+CLASS: Bode
+TYPE: scout
+
+Commissioned: 2180	
+Decommissioned: 2204
+
+DIMENSIONS:
+Length: 	191 meters
+Weight:	47,000 tons
+
+ACCOMODATIONS:
+Crewmen:	73
+
+PROPULSION:
+Advanced third generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

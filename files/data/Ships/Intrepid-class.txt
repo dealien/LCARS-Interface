@@ -1,0 +1,107 @@
+CLASS: Intrepid
+TYPE: Light crusier
+
+The class of starship that includes the U.S.S. Voyager. The Intrepid-class starships are 345 meters in length, have a sustainable cruise velocity of warp 9.975, and 15 decks. Some of the traditional circuitry has been replaced with bio-neural gel packs that contain synthetic neural cells, speeding up response time by organizing information more efficiently. The prototype, the U.S.S. Intrepid, was the third starship to bear the name.
+
+SHIPS OF THE LINE:
+U.S.S. Intrepid, NX-
+U.S.S. Bersalis, NCC-
+U.S.S. Upwood, NCC-
+U.S.S. Voyager, NCC-74656
+
+DISPLACEMENT
+Light: 1,205,000 MT
+Standard: 1,300,000 MT
+Full: 1,470,000 MT
+Cargo Capacity: 40,000 MT
+
+DIMENSIONS
+Length:  342.84 m 
+Beam: 134.11 m
+Draught: 63.16 m
+Number of Decks: 13
+
+PROPULSION
+Warp Drive: M/ARA Mark II feeding 2 ICN-1 Mod 1 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impule Drive: 3 LHX Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.975
+
+ACCELERATION
+Rest-Onset Critical Momentum: 1.74 sec
+Onset Critical Momentum-Warp Engage: .053 sec
+Warp 1-Warp 3: .047 sec
+Warp 3-Warp 6: .032 sec
+Warp 6-Warp 9: .061 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 30
+Enlisted Crew: 120
+Civilians/Families: none
+Evacuation Capacity: 900
+
+EMBARKED CRAFT
+Total: 4
+
+NAVIGATION
+System: "Astrolabe" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk II with Bio-Neural Gel Packs
+Crew Interface Software: LCARS 2.3
+Data Transfer Rate: 4600 Kiloquads/Second
+Number of Dedicated Modules: 2048
+Storage Capacity/Module: 630,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 5 ly
+Medium to Low Resolution Effective Range: 17 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 60,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 8 Type X Phasers: 5.1MW
+Personal: Type I, II & III Phasers: 0.01MW
+
+PHOTON/TRICOBALT TORPEDOES
+Tubes: 3 Mk 11 Mod 3 Direct
+Max Photon Torpedo Simultaneous Spread: 10
+Max Tricobalt Torpedo Simultaneous Spread: 7
+
+DEFENSE
+Shields: "Apollo XIII" Primary Force Field and Deflector Control System
+Fire Control: "Eagle" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 4
+Emergency Transporters: 2
+Cargo Transporters: 2
+
+Reference: Caretaker, et al episodes of Voyager, Joey, Q Voyage
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Private Holosuite, www.lcars-terminal.net/forum, @2006 Piet van Stralen
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+

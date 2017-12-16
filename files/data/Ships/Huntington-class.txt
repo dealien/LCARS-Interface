@@ -1,0 +1,9 @@
+CLASS: Huntington
+TYPE: deuterium tanker
+
+A large, heavily armored transport ferrying deuterium among the United Federation of Planets, its starbases and space stations, and occasionally to ships in distress. These ships rarely travel without escort because of the nature of their highly prized cargo.
+
+Reference:	
+Information provided by:
+Gilso Schematics, Gerard.g@ntlworld.com, Gerard Gillan, Eric Kristiarsen (Jackill)
+

@@ -1,0 +1,25 @@
+CLASS: Liberty
+TYPE:
+
+SHIPS OF THE LINE:
+U.N.S.S. Liberty
+U.N.S.S. Bonhomme Richard
+
+Commissioned: 2058	
+Decommissioned: 2093
+
+DIMENSIONS:
+Length:	145 meters
+Weight:	28,300 tons
+
+ACCOMODATIONS:
+Crewman:	39
+
+PROPULSION:
+Advanced fusion
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+

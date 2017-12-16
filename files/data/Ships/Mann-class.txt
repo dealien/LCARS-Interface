@@ -1,0 +1,54 @@
+CLASS: Mann
+TYPE: cruiser
+
+The Mann-class was employed primarily for strategic purposes, providing defense and security within the ever-growing colonized space. Using advanced third generation propulsion, these ships used pure matter/antimatter annihilation for powering their engines and ship’s systems. The Endurance supervised the largest spacelift in Federation history, where over ten million residents of Bayard’s Planet were successfully evacuated. This starship was the first to feature turbo-lift elevators.
+
+Notable ships of this line:
+U.N.S.S. Mann
+U.N.S.S. Endurance
+U.N.S.S. Poseidon
+
+Commissioned: 2154
+Decommissioned: 2192
+
+DIMENSIONS:
+Length:	185 meters
+Beam:		101.7 meters
+Draught:	40 meters
+Weight:	54 million kilograms
+Nacelles
+Length:	85 meters
+Diameter:	11.6 meters
+Living Ellipsoid
+Diameter:	101.7 meters
+Height:	40 meters
+Command Dome
+Diameter:	15.5 meters
+Height:	9 meters
+
+ACCOMODATIONS:
+Officers:	7 (captain, lieutenant, science, engineer, navigator, communicator, security chief)
+Ensigns:	4
+Medical:	3
+Crewmen:	280
+
+PROPULSION:
+Advanced third generation warp drive
+Range:	4,000 light years
+Velocity
+Cruising:	Warp 4
+Maximum:	Warp 4.5
+
+COMPUTER SYSTEMS:
+Warp celestial guidance navigation
+Subspace radio communication
+
+ARMAMENT:
+4 laser banks
+4 particle beam cannons
+22 photon torpedoes
+
+Reference: Spaceflight Chronology
+Some references to the UFP were changed to the U.E.S.P.A. since canon sources have indicated that the Federation was founded after these ships were built.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

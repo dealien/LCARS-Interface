@@ -1,0 +1,9 @@
+SHIPS: Borg scout
+
+A variety of different small ships in use by the Borg in advance of large fleets or used for stealth observation. These ships can be equipped with tachyon detection arrays to identify cloaked vessels. A much smaller vessel than its larger Borg cube ship, this cubical vessel is only 2.5 million metric tons in mass, and holds a small crew of five. On stardate 45854.2, such a vessel was discovered by the crew of the Galaxy-class U.S.S. Enterprise on a remote moon in the Argolis cluster.
+
+Reference: I, Borg, Descent, Armada
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios, Paramount Pictures
+Armada, www.activision.com, @2002 Activision
+

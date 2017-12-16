@@ -1,0 +1,8 @@
+CLASS: Romulan repair ship
+TYPE: frigate
+
+An unarmed frigate often found accompanying fleets of vessels to provide field repairs to damaged ships. These vessels are equipped with wings of workbees and multiple tractor emitters for holding onto a target ship. 
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

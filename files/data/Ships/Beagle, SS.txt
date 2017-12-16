@@ -1,0 +1,11 @@
+SHIPS: Beagle, S.S.
+TYPE: Scout
+
+A small, non-combat survey ship with a class-IV stardrive commanded by Captain R.M. Merrick. 
+In 2261, the crew of the vessel was taken prisoner by the inhabitants of Planet 892-IV. 
+
+Reference: Bread and Circuses 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

@@ -1,0 +1,8 @@
+TECHNOLOGY: ion propulsion
+
+Spacecraft drive system that used magnetic fields to drive electrically charged gases. Ion propulsion was used in early Eath spacecraft like the Deep Space One probe and Class F shuttlecraft in the 2260s, but its application by a ship from Sigma Draconis VI left Montgomery Scott speechless upon first contact in 2268. Its ion wake was easily detectable. Jem'Hadar warships use ion thrusters for secondary propulsion.
+
+Reference: Spock's Brain, The Ship
+Information provided by:
+The Continuum, www.startrek.com @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

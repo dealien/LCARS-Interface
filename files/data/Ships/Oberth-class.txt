@@ -1,0 +1,101 @@
+SHIP CLASS: Oberth
+TYPE: Frigate
+
+This kind of Federation starship is often used for scientific missions. The U.S.S. Grissom was of the Oberth-class. While in orbit of the Genesis Planet, Grissom was destroyed by Commander Kruge.
+At the Battle of Wolf 359, an Oberth-class starship, in the Saratoga's battle group, was destroyed by the Borg. While trying to rescue his son, Sisko could see the ship's destruction through the portals of his quarters.
+The class was named for 20th century German rocket pioneer Hermann Oberth. 
+
+SHIPS OF THIS LINE:
+U.S.S. Oberth, NX-
+U.S.S. Copernicus, NCC-
+U.S.S. Grissom, NCC-
+U.S.S. Tsiolkovsky, NCC-
+U.S.S. Vico, NCC-
+
+DISPLACEMENT
+Light: 38,000 MT
+Standard: 41,000 MT
+Full: 43,000 MT
+Cargo Capacity: 5,000 MT
+
+DIMENSIONS
+Length: 148 m
+Beam: 103 m
+Draught: 59 m
+Number of Decks: 16
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 LOS-49 Mod 1 Dilithium-Energized Antimatter Linear Warp Drive Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 RAL Subatomic Unified Energy Impulse Units
+Fuel Replenishment: None
+Maneuvering Thrusters: QASR Particle Beam Maneuvering Thrusters
+Reaction Control System: "Ukiah" Pulsed Laser Reaction Control System
+
+VELOCITY
+Normal Cruising Speed: 5*
+Max Cruising Speed: 8*
+* Following old Warp standards.
+
+ACCELERATION
+Rest-Onset Critical Momentum: 12.39 sec
+Onset Critical Momentum-Warp Engage: 3.11 sec
+Warp 1-Warp 3: 1.49 sec
+Warp 3-Warp 5: 1.37 sec
+Warp 5-Warp 8: 2.92 sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 150
+Time Between Resupply: 5 Years
+Time Between Refit: 25 Years
+
+COMPLEMENT
+Officer Crew: 16
+Enlisted Crew: 62
+
+EMBARKED CRAFT
+Total: 2
+
+NAVIGATION
+System: "Artos-C" Warp Celestial Guidance
+
+COMPUTERS
+Type: "Con/Am" Duotronic III
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 1.0 ly
+Medium to Low Resolution Range: 2.15 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 225 km
+Ship to Ground Range: 27,000 - 38,000 km
+Communications Speed: 17.5 Kiloquads/Second
+Subspace Speed: 9.975 Warp
+
+PHASERS
+Ship: 3 banks of 2 each - RIM-11B Independent Twin Mount
+
+PHOTON TORPEDOES
+Tubes: none
+
+DEFENSE
+Shields: "Phoenix" Primary Force Field and Deflector Control System
+Fire Control: "Eyas" Weapon System
+
+TRANSPORTERS
+Personnel Transporters: 1
+Emergency Transporters: 0
+Cargo Transporters: 1
+
+Reference: The Search for Spock, Hero Worship, The Naked Now, Invincible, The Voyage Home, Emissary
+The first Oberth-class ship seen was the U.S.S. Grissom in The Search for Spock. Other starships of this class were named after colleges and universities on Earth.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Star Trek Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communication Network, www.lcarscom.net, @2002 Sean Stevenson
+Gilso Schematics, Gerard.g@ntlworld.com, Gerard Gillan
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

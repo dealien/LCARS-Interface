@@ -1,0 +1,34 @@
+WEAPONS: phaser
+
+The acronym for PHASed Energy Rectifier. The successor to laser weapons, it is a directed energy weapon firing beams of phased energy. Different versions are used for different purposes and are capable of different strengths. All phaser weapons in use by Federation forces are adjustable in power, which differs based on the type of unit- larger units having more settings and control. Newer phasers are equipped with targeting assistance so the user does not have to be a marksman to use it.
+
+TYPE 1: A small handheld unit that often is used to supplement typical type 2 holster units. Older type 1 models fit inside a type 2 holster so that the type 2 accessories could amplify the power output. These units were often used by personnel who preferred not to appear conspicuously armed, as during diplomatic functions. Like all Starfleet models the machines could be adjusted to different settings including stun, heat, and disruption.
+Dimensions: 100 x 50 x 30 mm, Mass: 200, Effective Range: 10 KM, Output: 15 megajoules
+
+TYPE 2: The mainstay of Federation away teams, the Phaser II unit did not change it's design that much over the 110 years it was in service. Initially, Phaser II units were simply power booster packs for the Phaser type I. They would combine with each other to provide a more powerful unit. From 2280 onwards, the Phaser II units were standalone hand units.
+Dimensions: 220 x 70 x 160 mm, Mass: Unknown Effective Range: 7 KM
+Dimensions: 220 x 90 x 60 mm 
+The Type II handheld phaser introduced in 2360 was a radical redesign from the traditional phaser used over the past 100 years. Instead of using a pistol design, the new phaser took the brave step of moving to a completely new "wand" like design. The original dust buster style phaser design was quickly phased out in favour of the current design which is more compact and just as powerful. These phasers are also standalone units, and so do not require phaser I to function. The current units have 16 power settings, and at the maximum setting of 16 are capable of delivering 1.55 X 10J energy for 0.25 secs! Of course, at this setting, the phaser can only be fired a few times before being completely discharged.
+Mass: Unknown, Effective Range: 10 KM
+
+TYPE 3: Using essentially the same mechanisms as the Phaser II, the phaser Rifle is a more powerful version of the phaser II with a much greater power reserve, allowing it to fire at higher settings for longer periods. since it is only ever used where an away team will expect to go into battle, coupled with the Federation's naturally peaceful nature, the phaser rifle is hardly ever used. With the recent arrival of the Borg species and the Dominion infiltration of the Alpha Quadrant, this weapon has seen increasingly more action, and has also spawned various other rifle designs. The latest design is phase compression rifle which uses similar technology to the pulse phaser cannons found on the Starship Defiant.
+Dimensions: 830 x 130 x 220 mm, Mass: Unknown, Effective Range: 11 KM
+
+TYPE 4: Medium-sized variety of phaser that can be mounted on small vehicles. Shuttlecraft can be equipped with phasers of this type, but most shuttles did not carry type-4 phasers as standard equipment.
+
+TYPE 8: Starship mounted weapons. Type-8 phasers where stolen and subsequently used on Maquis ships in the Demilitarized Zone.
+
+TYPE 10: Phaser banks are numerous emitters grouped into rings that use the combined energy against a target. Found on Generation-D and recent starships. Originally starships would use individual phaser emitter turrets on the hull. 
+The saucer section of a Galaxy class starship has 200 individual emitters tightly grouped together in a ring to provide optimal firing control. The Galaxy class vessels have 11 phaser arrays distributed around the hull giving it a 360 firing arc. 
+Each emitter is capable of discharging up to 5.1 MW of power at it's target. These weapons are expected to have an effective Range up to 300,000 KM.
+
+Reference: The Cage, Where No Man Has Gone Before, Encounter at Farpoint, Premptive Strike
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Starfleet Technical Manual, @1977 Franz Joseph
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+

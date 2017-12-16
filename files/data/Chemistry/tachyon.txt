@@ -1,0 +1,9 @@
+CHEMISTRY: tachyon
+ 
+Class of particles which travel at greater than the speed of light. Active tachyon beams can be used to detect cloaked Romulan vessels. Naturally occurring tachyon eddies are believed to have assisted ancient Bajoran lightsail vessels in crossing interstellar distances. Inverse tachyon beams can have a harmful effect on the space time continuum. 
+
+Reference:
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+
+

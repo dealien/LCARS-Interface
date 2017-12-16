@@ -1,0 +1,9 @@
+CLASS: Gul Vystan
+TYPE: scout
+
+A Cardassian military ship used extensively for espionage and equipped with a cloaking device. They are also capable of being equiiped with a Flux Wave special weapon, which emits a powerful energy wave that can cause enemy vessels to be spun out of control for a short period of time- giving the Gul Vystan time to flee while the other ship(s) are disoriented.
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2002 Activision
+

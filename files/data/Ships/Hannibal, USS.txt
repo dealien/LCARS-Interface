@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Hannibal
+CLASS: Ambassador
+TYPE: heavy cruiser
+REGISTRY:
+
+The U.S.S. Hannibal was constructed on Bajor in 2370 and was the first starship constructed at the Okana Shipyard since the Cardassian Occupation of Bajor began. 
+
+Reference: Antimatter
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

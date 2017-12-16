@@ -1,0 +1,8 @@
+CLASS: Vasad
+TYPE:
+
+A military vessel in use by the Cardassian Union.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

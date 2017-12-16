@@ -1,0 +1,21 @@
+SHIPS: Hood, U.S.S.
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NCC-42296
+
+The second starship to bear the name Hood. Assigned to Captain Robert DeSoto.
+
+Timeline:
+2363: Commander Riker's previous assignment, the Hood dropped him off at Deneb IV for transfer to the U.S.S. Enterprise-D and was the destination of Admiral Leonard H. McCoy after a pre-departure medical inspection of the new ship. 
+The Starship Hood and the U.S.S. Monitor were diverted to the Nelvana area during the Romulan tensions of stardate 43463.7 in response to defecting Admiral Jarok's story of a secret invasion. 
+Circa stardate 43741, the U.S.S. Hood was due the U.S.S. Enterprise's assistance for a terraforming project on Browder IV, until Captain Picard's kidnapping delayed the rendezvous. 
+It rendezvoused with the Starship Enterprise-D to drop off Tam Elbrun for the "Tin Man" mission. 
+2368: It was among Picard's blockade fleet on the Klingon-Romulan border. 
+
+Reference: Encounter at Farpoint, Tin Man, The Defector, Allegiance
+The Hood was a re-use of te Excelsior model built for The Search for Spock. The footage of the Hood flying alongside the Enterprise-D created for Encounter at Farpoint was re-used numerous times to represent other Excelsior-class ships.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1998 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

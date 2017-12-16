@@ -1,0 +1,7 @@
+FOOD: phuun
+
+A sweet, firm fruit from the temperate regions of Andor and coming from a tree of the same name.
+
+Reference: Andorian Dictionary
+Information provided by:
+Andorian Dictionary, http://randyb.byu.edu/alioth/sketch.html, @1990 1996, Spence Hill

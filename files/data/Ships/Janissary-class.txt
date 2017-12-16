@@ -1,0 +1,8 @@
+CLASS: Janissary
+TYPE:
+
+A Cardassian military vessel.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

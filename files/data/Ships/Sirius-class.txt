@@ -1,0 +1,12 @@
+CLASS: Sirius
+TYPE:
+
+U.S.S. Sirius, NX-
+
+DIMENSIONS:
+LENGTH: 383 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

@@ -1,0 +1,11 @@
+PLANET: Ballimae
+SYSTEM:
+SECTOR:
+QUADRANT: Alpha
+
+Location of a Cardassian shipyard. Many Bajorans were forced to do forced labor at Ballimae during the Occupation. 
+
+Reference: Proud Helios  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S   
+

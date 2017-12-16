@@ -1,0 +1,11 @@
+WEAPONS: Self Replicating Mines
+
+Dimensions: 1.76 x 1.85 Metres 
+Mass:Unknown 
+Effective Range: 500 Metres
+
+An ingenious device, the concept of the self replicating mine was first suggested by Technician Rom aboard Deep Space 9 in response to the threat of Dominion reinforcements entering the Alpha Quadrant via the Bajoran Wormhole. They work by employing a network of replicator units that draw replicator mass from each other to replace lost mines as necessary. The mine warhead itself is developed from a modified Photon Torpedo warhead that is set to detonate the moment any moving object reaches within 500 metres of the mine, producing an explosive yield equal to that of a Photon Torpedo.
+
+Reference:
+Information provided by:
+Deep Space 9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books

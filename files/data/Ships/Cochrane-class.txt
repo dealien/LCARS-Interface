@@ -1,0 +1,59 @@
+CLASS: Cochrane
+TYPE: cruiser
+
+This vessel class was the first production style starship produced by Terrans with warp drive.  After more than a decade of design, construction and validation testing, the Bonaventure and its fellow classmates inaugurated a new era in spaceflight exploration. inaccessible interstellar spans became reasonable distances, as demonstrated by this ship’s journey in 2061 to Tau Ceti, nearly 12 light years away. On its third voyage, to Sirius, the Bonaventure was unaccountably lost.
+These ships were notable for several other "firsts" a s well. They were the first craft to employ Warp Celestial Navigation which was an extra-terrestrial component;. the first to use an alien piece of equipment.
+
+SHIPS OF THE LINE:
+U.N.S.S. Bonaventure
+U.N.S.S. Cochrane
+
+Commissioned: 2059	Decommissioned: 2077
+
+DIMENSIONS:
+Length:	206 meters
+Beam:		63.4 meters (to radiator wings)
+Draught:	66.7 meters
+Mass:		19.4 million kilograms
+Engine Section
+Length:	85.2 meters
+Diameter:	20 meters
+Life Support Section
+Length:	33 meters
+Beam:		57.3 meters
+Draught:	63.48 meters
+Heat Radiator Wings
+Length:	42.8 meters
+Diameter	66.7 meters
+
+ACCOMODATIONS:
+Officers:	5 (captain, lieutenant, science, engineer, navigator)
+Crewmen:	40
+
+PROPULSION:
+Range
+Standard:	25 light years
+Maximum:	40 light years
+Velocity:
+Cruising:	Warp 2 (8c)
+Maximum:	Warp 2.5 (15.6c)
+1 Stellarjet Warp Drive Engine
+3 Geodyne Fusion Power Packs
+Exhaust plating of dispersion-strengthened hafnium carbide. Radiator wings needed for heat dispersion.
+
+COMPUTER SYSTEMS:
+Warp Celestial Guidance navigation
+Laser radiotelemetry communication
+Intermediate Independent Thought Memory Scan
+
+ARMAMENT:
+2 forward lasers
+
+SUPPORT SYSTEMS:
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+
+
+

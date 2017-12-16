@@ -1,0 +1,104 @@
+CLASS: Ambassador
+Type: Heavy Cruiser/ Diplomatic courier
+
+U.S.S. Ambassador, NX-10521
+U.S.S. Adelphi, NCC-26849
+U.S.S. Enterprise, NCC-1701C
+U.S.S. Excalibur, NCC-26517
+U.S.S. Horatio, NCC-10532
+U.S.S. Yamaguchi, NCC-
+U.S.S. Zhukov, NCC-26136
+
+An explorer style heavy cruiser reassigned for diplomatic duties after the design of larger and or more dedicated ships for the previous functions. 
+
+DISPLACEMENT
+Light: 3,475,000 MT
+Standard: 3,650,000 MT
+Full: 3,825,000 MT
+Cargo Capacity: 600,000 MT
+
+DIMENSIONS
+Length: 526.37 m
+Beam: 237.7 m
+Draught: 90.81 m
+Number of Decks: 28
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 Koeller UTI K36 Dilithium-Energized Antimatter Linear Warp Drive Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 4 RST Subatomic Unified Energy Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Manuevering Thrusters: QASR Particle Beam Manuevering Thrusters
+Reaction Control System: "Astralis" Pulsed Laser Reaction Control System
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9
+
+ACCELERATION
+Rest-Onset Critical Momentum: 10.14 sec
+Onset Critical Momentum-Warp Engage: .28 sec
+Warp 1-Warp 3: .36 sec
+Warp 3-Warp 6: .27 sec
+Warp 6-Warp 9: .49 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 141
+Enlisted Crew: 424
+Civilian/Families: 0
+Evacuation Capacity: 1200
+
+EMBARKED CRAFT
+Total: 35
+
+NAVIGATION
+Type: "Artos" Warp Celestial Guidance
+
+COMPUTERS
+Type: "Fermat" Duotronic V
+Crew Interface Software: LCARS 1.9
+Data Transfer Rate: 2,245 Kiloquads/sec.
+Number of Dedicated Modules: 400
+Storage Capacity/Module: 39,000 Kiloquads
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 1.9 ly
+Medium to Low Resolution Range: 3.1 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 300 km
+Ship to Ground Range: 33,000 - 47,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 8 Type IX Phasers: 4.1 MW
+
+PHOTON TORPEDOES
+Tubes: 3 Mk 8 Mod 3 Direct
+Max Torpedo Simultaneous Spread: 5
+
+DEFENSE
+Shields: "Protectious" Primary Force Field and Deflector Control System
+Fire Control: "Aratac A" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 6
+Emergency Transporters: 4
+Cargo Transporters: 4
+
+Reference: Yesterday's Enterprise, New Frontier series
+The Ambassador-class ship was designed by Rick Sternbach and Andrew Probert. The model, built by Greg Jein, was intended to suggest an intermediate step between the Excelsior-class and the Galaxy-class starships.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

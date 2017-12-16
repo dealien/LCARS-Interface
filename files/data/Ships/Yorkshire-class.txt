@@ -1,0 +1,8 @@
+CLASS: Yorkshire
+TYPE: transport
+
+Class of Starfleet vessel used mostly as a transport ship. Crew size is about 23 people, though Yorkshire-class ships can carry many more. 
+
+Reference: Ethics 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

@@ -1,0 +1,10 @@
+CLASS: Harbinger
+TYPE: medium cruiser
+
+A long range tactical vessel capable of firing tri-cobalt explosive shells over a long distance at enemy targets.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+
+

@@ -1,0 +1,11 @@
+PLANET: Tellarus
+SYSTEM: Tellar
+SECTOR:
+QUADRANT: Alpha
+
+Homeworld of the Tellarites. A Tellarite ambassador was at Deep Space Nine in 2370 to meet with the Bajoran Trade Delegation for talks regarding trade with Bajor. 
+
+Reference: Fall of Terok Nor, Betrayal  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb
+

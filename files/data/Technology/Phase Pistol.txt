@@ -1,0 +1,9 @@
+WEAPON: Phase Pistol
+
+New hand weapon introduced by Starfleet in 2151, replacing the EM pistol.  An energy-beam weapon, they had two settings: stun and kill. Phase pistols were difficult for people used to particle weapons (such as the EM-33 pistol) to adapt to.  With a particle weapon, one tends to compensate for particle drift, but no such compensation is needed for a beam weapon.
+
+Reference: Broken Bow, What Price Honor?
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

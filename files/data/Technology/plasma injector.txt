@@ -1,0 +1,10 @@
+TECHNOLOGY: plasma injector
+
+Part of a spacecraft's warp drive. These fuel inlets take the high energy plasma gas from the EPS conduits and funnel it into the warp toroids, where the energy is then used for space warping. Each toroid pair in the nacelle is equipped with an injector- one for the ventral toroid, one for the dorsal toroid, repeated for each toroid in the nacelle.
+In 2370, the failure of a plasma injector aboard a runabout assigned to Deep Space Nine led to the accidental discovery of a passageway into a mirror universe.
+
+Reference: Captive Pursuit, Crossover
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternback

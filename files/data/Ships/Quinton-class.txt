@@ -1,0 +1,7 @@
+CLASS: Quinton
+TYPE: dreadnought
+
+A variant of the Intrepid/ Yeager class. This vessel was heavily armed and included three warp nacelles.
+
+Reference:
+Information provided by:

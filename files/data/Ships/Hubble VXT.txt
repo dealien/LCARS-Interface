@@ -1,0 +1,11 @@
+SHIPS: Hubble VXT
+TYPE: Interstellar Runabout
+REGISTRY: 116-B
+
+Commissioned ca. 2160.  Has second generation Warp Drive.  
+
+Reference: Final Frontier
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

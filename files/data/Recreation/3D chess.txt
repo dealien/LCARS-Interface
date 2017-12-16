@@ -1,0 +1,8 @@
+RECREATION: 3D chess
+
+A modification to the original Terran game of chess, including multiple playing boards stacked in a mulit-level fashion. The game still uses primarily the same characters; queen, king, bishop, rook, etc with modified rules for movement, to allow the up and down actions. 
+Lieutenant Commander Spock enjoyed the game and even played against the U.S.S. Enterprise computer that he programmed to play the game. During the court martial of Captain James Kirk, Mr Spock tested a theory that proved he was able to beat the computer when the best he should have expected would be a draw. This action proved that the computer had been tampered with.
+
+Reference: Court Martial
+Information provided by:
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard

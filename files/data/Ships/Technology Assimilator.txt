@@ -1,0 +1,7 @@
+STATIONS: Technology Assimilator
+
+The Borg Technology Assimilator is a specialized kind of shipyard that analyses alien technology during the disassembly process so that the unique aspects can be adapted and added to other Borg vessels and stations.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

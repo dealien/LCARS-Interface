@@ -1,0 +1,11 @@
+SHIPS: Xepolite Free Traders
+TYPE: transports
+
+Merchant ships used by the non-aligned Xepolites, geared more to stealth and escape rather than fighting. With a top speed of warp 9.8, the one stopped by Commander Benjamin Sisko and Gul Dukat in a runabout had a hull composed of sensor reflective material which masked to sensors its hull full of illegal Cardassian weapons bound for the Demilitarized Zone. 
+
+Reference: The Maquis
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

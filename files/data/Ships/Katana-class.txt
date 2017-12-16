@@ -1,0 +1,11 @@
+CLASS: Katana
+TYPE: light cruiser
+
+SHIPS OF THE LINE:
+U.S.S. Katana, NX-
+
+Reference: Star Trek Australia, Katana mini-series
+This starship was created and designed by Katana.
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+

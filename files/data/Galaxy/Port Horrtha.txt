@@ -1,0 +1,12 @@
+STATION: Port Horrtha
+PLANETOID:
+SYSTEM:
+SECTOR:
+QUADRANT:
+
+Location of an asteroid mine.  Miners from Port Horrtha were at Quark's in 2370 when Cardassian officials came on the station looking for Berat and a brawl developed. 
+
+Reference: Betrayal
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

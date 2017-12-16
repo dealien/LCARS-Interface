@@ -1,0 +1,34 @@
+SHIPS: ore hauling/ extracting vessel
+
+A Federation freighter used in mining operations throughout the United space. These vessels are equipped with extra powerful tractor beams and careful articulation matricies for precision targeting of precious ores. The tractor beams locate the dilithium, latinum, and other commodities and bring them on board the craft, then transport them to processing facilities.
+
+SHIPS OF THE LINE:
+U.S.S. Antononia
+U.S.S. Baker
+U.S.S. Batu
+U.S.S. Borj
+U.S.S. Boston
+U.S.S. Cameroon
+U.S.S. Corazon
+U.S.S. Cristo
+U.S.S. Elgon
+U.S.S. Everest
+U.S.S. Fuji
+U.S.S. Indrasan
+U.S.S. Kenya
+U.S.S. Kilimanjaro
+U.S.S. Meru
+U.S.S. Owen
+U.S.S. Oxford
+U.S.S. Pierce
+U.S.S. Regan
+U.S.S. Remmel
+U.S.S. Stanley
+U.S.S. Steele
+U.S.S. Tafelberg
+U.S.S. Voralpe
+U.S.S. Wolfberg
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision

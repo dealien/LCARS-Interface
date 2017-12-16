@@ -1,0 +1,409 @@
+CLASS: Excelsior
+TYPE: Heavy cruiser
+
+Type of Federation starship. The first of these, launched in 2285, had an experimental transwarp drive which presumably had to be removed. This ship became very popular with Starfleet ship yards and became one of the most popular ship designs built. It became the flagship of the fleet after the last of the Constitution-class vessels were retired, and it took its version of an Enterprise with the commissioning of the B-version.
+The prototype was a 
+A starship originally designated NX-2000 for testing purposes and first of its class. During the test period under the command of Captain Styles the ship was fitted with a new Transwarp drive propulsion system, which presumably had to be removed due to its failure. "NO MATTER WHERE YOU GO, THERE YOU ARE"
+The registry number was changed when the starship was given operational status, and when commissioned, the ship came under the command of Captain Hikaru Sulu for a three year mission studying gaseous anomalies. 
+The Excelsior was to be an integral part of the Khitomer Peace Conference of 2293. In 2370 the ship took part with the U.S.S. Nobel in a search and rescue mission to find the U.S.S. Hera.
+
+
+SHIPS OF THE LINE:
+U.S.S. Excelsior, NX-2000, NCC-2000
+U.S.S. Afghanistan, NCC-14254
+U.S.S. Al-Batani, NCC-42995
+U.S.S. Alabama, NCC-14408
+U.S.S. Alaska, NCC-14332
+U.S.S. Albania, NCC-14232
+U.S.S. Alberta, NCC-14381
+U.S.S. Algeria, NCC-14222
+U.S.S. Amsterdam, NCC-14244
+U.S.S. Angola, NCC-14304
+U.S.S. Argentina, NCC-14366
+U.S.S. Arizona, NCC-14335
+U.S.S. Arkansas, NCC-14351
+U.S.S. Australia, NCC-14228
+U.S.S. Austria, NCC-14247
+U.S.S. Babylon, NCC-	
+U.S.S. Bahamas, NCC-14246
+U.S.S. Belgium, NCC-14234
+U.S.S. Belize, NCC-14376
+U.S.S. Berlin, NCC-14232
+U.S.S. Bhutan, NCC-14305
+U.S.S. Bissau, NCC-14279
+U.S.S. Bolivia, NCC-14363
+U.S.S. Brazil, NCC-14367
+U.S.S. British Columbia, NCC-14380
+U.S.S. Budapest, NCC-64923
+U.S.S. Bulgaria, NCC-14237
+U.S.S. Burma, NCC-14321
+U.S.S. California, NCC-14338
+U.S.S. Cambodia, NCC-14319
+U.S.S. Cameroon, NCC-14294
+U.S.S. Chad, NCC-14280
+U.S.S. Charleston, NCC-42285
+U.S.S. Chile, NCC-14362
+U.S.S. China, NCC-14274
+U.S.S. Colorado, NCC-14355
+U.S.S. Columbia, NCC-14384
+U.S.S. Congo, NCC-14300
+U.S.S. Connecticut, NCC-14409
+U.S.S. Costa Rica, NCC-14370
+U.S.S. Crazy Horse, NCC-50446
+U.S.S. Crockett, NCC-38955
+U.S.S. Cuba, NCC-14240
+U.S.S. Czeck, NCC-14229
+U.S.S. Delaware, NCC-14400
+U.S.S. Denmark, NCC-14243
+U.S.S. Dominican, NCC-14248
+U.S.S. Ecuador, NCC-14365
+U.S.S. Egypt, NCC-14223
+U.S.S. El Salvador, NCC-14373
+U.S.S. Emerites, NCC-14253
+U.S.S. England, NCC-14357
+U.S.S. Enterprise, NCC-1701-B
+U.S.S. Ethiopia, NCC-14286
+U.S.S. Falkland, NCC-14310
+U.S.S. Fearless, NCC-4598
+U.S.S. Fiji, NCC-14311
+U.S.S. Finland, NCC-14226
+U.S.S. Florida, NCC-14393
+U.S.S. France, NCC-14224
+U.S.S. Fredrickson, NCC-42111
+U.S.S. Gabon, NCC-14299
+U.S.S. Galapagos, NCC-14306
+U.S.S. Gambia, NCC-14278
+U.S.S. Georgia, NCC-14394
+U.S.S. Germany, NCC-14242
+U.S.S. Gorkon, NCC-40512
+U.S.S. Greece, NCC-14233
+U.S.S. Greenland, NCC-14378
+U.S.S. Guatemala, NCC-14374
+U.S.S. Guinea, NCC-14282
+U.S.S. Guyana, NCC-14359
+U.S.S. Haiti, NCC-14238
+U.S.S. Hawaii, NCC-14333
+U.S.S. Hebrides, NCC-14308
+U.S.S. Honduras, NCC-14375
+U.S.S. Hood, NCC-42296
+U.S.S. Hungary, NCC-14239
+U.S.S. Iceland, NCC-14377
+U.S.S. Idaho, NCC-14328
+U.S.S. Illinois, NCC-14354
+U.S.S. India, NCC-14256
+U.S.S. Indiana, NCC-14371
+U.S.S. Indonesia, NCC-14313
+U.S.S. Intrepid, NCC-38907
+U.S.S. Iowa, NCC-14353
+U.S.S. Iran, NCC-14265
+U.S.S. Iraq, NCC-14264
+U.S.S. Ireland, NCC-14387
+U.S.S. Irkutsk, NCC-14273
+U.S.S. Isreal, NCC-14269
+U.S.S. Italy, NCC-14231
+U.S.S. Ivory Coast, NCC-14292
+U.S.S. Jamaica, NCC-14227
+U.S.S. Japan, NCC-14275
+U.S.S. Jordan, NCC-14268
+U.S.S. Kamchatka, NCC-14271
+U.S.S. Kansas, NCC-14347
+U.S.S. Kazikstan, NCC-14260
+U.S.S. Kentucky, NCC-14390
+U.S.S. Kenya, NCC-14285
+U.S.S. Korea, NCC-14323
+U.S.S. Kuwait, NCC-14263
+U.S.S. Lakota, NCC-42768
+U.S.S. Laos, NCC-14320
+U.S.S. Lebanon, NCC-14257
+U.S.S. Lexington, NCC-14427
+U.S.S. Liberia, NCC-14295
+U.S.S. Libya, NCC-14253
+U.S.S. Livingston, NCC-34099
+U.S.S. Louisiana, NCC-14406
+U.S.S. Maine, NCC-14402
+U.S.S. Malaysia, NCC-14297
+U.S.S. Mali, NCC-14288
+U.S.S. Malinche, NCC-38997
+U.S.S. Manchuria, NCC-14276
+U.S.S. Manitoba, NCC-14383
+U.S.S. Marshalls, NCC-14309
+U.S.S. Maryland, NCC-14403
+U.S.S. Massachussettes, NCC-14401
+U.S.S. Mauritania, NCC-14251
+U.S.S. Melbourne, NCC-62043
+U.S.S. Mesopotamia, NCC-	
+U.S.S. Michigan, NCC-14407
+U.S.S. Minnesota, NCC-14329
+U.S.S. Mississippi, NCC-14392
+U.S.S. Missouri, NCC-14352
+U.S.S. Mongolia, NCC-14272
+U.S.S. Montana, NCC-14344
+U.S.S. Morocc, NCC-14250
+U.S.S. Mozambique, NCC-14298
+U.S.S. Nebraska, NCC-14348
+U.S.S. Nepal, NCC-14316
+U.S.S. Nevada, NCC-14339
+U.S.S. New Brunswick, NCC-14331
+U.S.S. New Guinea, NCC-14312
+U.S.S. New Hamspire, NCC-14404
+U.S.S. New Jersey, NCC-14291
+U.S.S. New Mexico, NCC-14334
+U.S.S. New York, NCC-14405
+U.S.S. New Zeeland, NCC-14241
+U.S.S. Newfoundland, NCC-14343
+U.S.S. Nicaragua, NCC-14372
+U.S.S. Niger, NCC-14296
+U.S.S. Nigeria, NCC-14287
+U.S.S. North Carolina, NCC-14396
+U.S.S. North Dakota, NCC-14345
+U.S.S. Northwest Territory, NCC-14379
+U.S.S. Norway, NCC-14221
+U.S.S. Nova Scotia, NCC-14330
+U.S.S. Ohio, NCC-14389
+U.S.S. Okinawa, NCC-13958
+U.S.S. Oklahoma, NCC-14349
+U.S.S. Oman, NCC-14259
+U.S.S. Ontario, NCC-14369
+U.S.S. Oregon, NCC-14337
+U.S.S. Pakistan, NCC-14255
+U.S.S. Panama, NCC-14356
+U.S.S. Paraguay, NCC-14361
+U.S.S. Pennsylvania, NCC-14399
+U.S.S. Peru, NCC-14364
+U.S.S. Phillipines, NCC-14325
+U.S.S. Poland, NCC-14235
+U.S.S. Portugual, NCC-14289
+U.S.S. Potemkin, NCC-18253
+U.S.S. Puerto Rico, NCC-14245
+U.S.S. Quebec, NCC-14341
+U.S.S. Repulse, NCC-2544
+U.S.S. Rhode Island, NCC-14314
+U.S.S. Romania, NCC-14236
+U.S.S. Roosevelt, NCC-2573
+U.S.S. Russia, NCC-14270
+U.S.S. Samoa, NCC-14307
+U.S.S. Saskatchewan, NCC-14382
+U.S.S. Saudi Arabia, NCC-14262
+U.S.S. Senegal, NCC-14290
+U.S.S. Siberia, NCC-14267
+U.S.S. Sierra Leone, NCC-14283
+U.S.S. Slovinia, NCC-14230
+U.S.S. Somalia, NCC-14277
+U.S.S. South Africa, NCC-14302
+U.S.S. South Carolina, NCC-14395
+U.S.S. South Dakota, NCC-14346
+U.S.S. Spain, NCC-14225
+U.S.S. Sudan, NCC-14281
+U.S.S. Sumaria, NCC-14315
+U.S.S. Surinam, NCC-14360
+U.S.S. Sweden, NCC-14220
+U.S.S. Taiwan, NCC-14317
+U.S.S. Tanzania, NCC-14301
+U.S.S. Tazmania, NCC-14249
+U.S.S. Tecumseh, NCC-14934
+U.S.S. Tennessee, NCC-14391
+U.S.S. Texas, NCC-14350
+U.S.S. Thailand, NCC-14318
+U.S.S. Togo, NCC-14293
+U.S.S. Tunisia, NCC-14252
+U.S.S. Turkey, NCC-14266
+U.S.S. Turkistan, NCC-14261
+U.S.S. Uganda, NCC-14284
+U.S.S. Ural, NCC-14324
+U.S.S. Uruguay, NCC-14358
+U.S.S. Utah, NCC-14340
+U.S.S. Valley Forge, NCC-43305
+U.S.S. Venezuela, NCC-14368
+U.S.S. Vermont, NCC-14388
+U.S.S. Vietnam, NCC-14322
+U.S.S. Virginia, NCC-14397
+U.S.S. Washington, NCC-14336
+U.S.S. West Virginia, NCC-14398
+U.S.S. Wisconsin, NCC-14385
+U.S.S. Wyoming, NCC-14342
+U.S.S. Yakutsk, NCC-14386
+U.S.S. Yemen, NCC-14258
+U.S.S. Zimbabwe, NCC-14303
+
+DISPLACEMENT
+Light: 2,275,000 MT
+Standard: 2,350,000 MT
+Full: 2,525,000 MT
+Cargo Capacity: 350,000 MT
+
+DIMENSIONS
+Length: 507.62 m
+Beam: 195.64 m
+Draught: 82.83 m
+Number of Decks: 23
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 Koeller UTI K24 Dilithium-Energized Antimatter Linear Warp Drive Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 RSK Subatomic Unified Energy Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: QASR Particle Beam Maneuvering Thrusters
+Reaction Control System: "Trentis" Pulsed Laser Reaction Control System
+
+VELOCITY
+Normal Cruising Speed: Warp 12*
+Max Cruising Speed: Warp 17*
+* Following old Warp standards.
+
+ACCELERATION
+Rest-Onset Critical Momentum: 20.74 sec
+Onset Critical Momentum-Warp Engage: 1.02 sec
+Warp 1-Warp 4: .75 sec
+Warp 4-Warp 8: .58 sec
+Warp 8-Warp 12: .99 Sec
+Warp 12-Warp 17: 4.51 sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 6 Years
+Time Between Refit: 24 Years
+
+COMPLEMENT
+Officer Crew: 136
+Enlisted Crew: 682
+Civilian/Families: 0
+Evacuation Capacity: 1170
+
+EMBARKED CRAFT
+Total: 65
+
+NAVIGATION
+System: "Artos" Warp Celestial Guidance
+
+COMPUTERS
+Type: "Perim" Duotronic IV Primary Computer; "Fasfax" Duotronic III Secondary Computer with Datatac Support System
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 1.5 ly
+Medium to Low Resolution Range: 2.7 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 250 km
+Ship to Ground Range: 30,000 - 43,000 km
+Communications Speed: 18 Kiloquads/Second
+Subspace Speed: 9.997 Warp
+
+PHASERS
+Ship: 8 banks of 2 each - RAR-5 Independent Twin Mount; 6 banks - RIR-20 Single Mount
+
+PHOTON TORPEDOES
+Tubes: 3 Mk 7 Mod 1 Direct
+Max Torpedo Simultaneous Spread: 3
+
+DEFENSE
+Shields: "Promethius" Primary Force Field and Deflector Control System
+Fire Control: Cetis Weapon System; TACAR (Target Acquisition Center Accelerated Response) Fire Control Add-On
+
+TRANSPORTERS
+Personnel Transporters: 8
+Emergency Transporters: 8
+Cargo Transporters: 8
+
+CLASS: Excelsior II
+TYPE: heavy cruiser
+
+A variant of the Excelsior-class featuring a modification to the secondary hull and enhancements to some of the ship's primary systems.
+
+SHIPS OF THE LINE:
+U.S.S. Enterprise, NCC-1701-B
+
+DISPLACEMENT
+Light: 2,275,000 MT
+Standard: 2,350,000 MT
+Full: 2,525,000 MT
+Cargo Capacity: 350,000 MT
+
+DIMENSIONS
+Length: 511.25 m
+Beam: 195.64 m
+Draught: 86.76 m
+Number of Decks: 23
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 Koeller UTI K27 Dilithium-Energized Antimatter Linear Warp Drive Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 4 RSM Subatomic Unified Energy Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: QASR Particle Beam Maneuvering Thrusters
+Reaction Control System: "Trentis" Pulsed Laser Reaction Control System
+
+VELOCITY
+Normal Cruising Speed: Warp 12*
+Max Cruising Speed: Warp 17*
+* Following old Warp standards.
+
+ACCELERATION
+Rest-Onset Critical Momentum: 20.33 sec
+Onset Critical Momentum-Warp Engage: .52 sec
+Warp 1-Warp 4: .72 sec
+Warp 4-Warp 8: .55 sec
+Warp 8-Warp 12: .96 Sec
+Warp 12-Warp 17: 4.45 sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 6 Years
+Time Between Refit: 24 Years
+
+COMPLEMENT
+Officer Crew: 139
+Enlisted Crew: 679
+Civilian/Families: 0
+Evacuation Capacity: 1173
+
+EMBARKED CRAFT
+Total: 68
+
+NAVIGATION
+System: "Artos" Warp Celestial Guidance
+
+COMPUTERS
+Type: "Perim" Duotronic IV Primary Computer; "Fasfax" Duotronic III Secondary Computer with Datatac Support System
+
+SENSORS
+High Resolution Long-Range Scan Maximum Range: 1.5 ly
+Medium to Low Resolution Range: 2.7 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 250 km
+Ship to Ground Range: 30,000 - 43,000 km
+Communications Speed: 18 Kiloquads/Second
+Subspace Speed: 9.997 Warp
+
+PHASERS
+Ship: 8 banks of 2 each - RAR-5 Independent Twin Mount; 6 banks - RIR-20 Single Mount
+
+PHOTON TORPEDOES
+Tubes: 3 Mk 7 Mod 1 Direct
+Max Torpedo Simultaneous Spread: 3
+
+DEFENSE
+Shields: "Promethius" Primary Force Field and Deflector Control System
+Fire Control: Cetis Weapon System; TACAR (Target Acquisition Center Accelerated Response) Fire Control Add-On
+
+TRANSPORTERS
+Personnel Transporters: 8
+Emergency Transporters: 8
+Cargo Transporters: 8
+
+Reference: The Search for Spock, The Undiscovered Country, Family, Interface, Flashback, Generations
+The Excelsior was designed by Bill George and built at Industrial Light & Magic. Although this was never made clear on film, it is generally assumed that the transwarp drive being tested in The Search For Spock was a failure, and that the ship was later outfitted with a more conventional warp drive. The Excelsior's bridge control panels and computer readout displays seen in The Undiscovered Country tend to support this theory. We assume that the Excelsior mentioned in "Interface" was the same ship first seen in The Search For Spock" because there is no evidence to suggest otherwise. The comments about being popular are derived from battle scenes of Deep Space Nine where large parts of the fleet are comprised of Excelsior-class vessels.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

@@ -1,0 +1,10 @@
+SHIPS: Fredrickson, U.S.S.
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NCC-42111
+
+This ship was damaged during a battle against the Dominion. 
+
+Reference: A Time to Stand 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

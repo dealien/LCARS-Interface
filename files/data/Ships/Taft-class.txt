@@ -1,0 +1,8 @@
+CLASS: Taft
+TYPE: medium cruiser
+
+A multipurpose craft in use by the Starfleet in the early 2200s and a predecessor to the Miranda-class. These types of ships had small engineering sections but extra large cargo sections piggy-backed to the dorsal region.
+
+Reference: 
+Information provided by:
+

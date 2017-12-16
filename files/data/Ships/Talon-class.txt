@@ -1,0 +1,43 @@
+CLASS: Talon (Federation translation)
+Also known as: D'renet-class
+Type: Long-range scout ship
+
+Vessel which Admiral Jarok fled the military he distrusted when defecting in 2366. Another one returned Lieutenant Worf from Carraya IV to the Starship Enterprise on stardate 46759.2. 
+
+DISPLACEMENT
+Light: 92.09 MT
+Standard: 95.22 MT
+Full: 98.55 MT
+Cargo Capacity: 3 MT
+
+DIMENSIONS
+Length: 6.0 m
+Beam: 4.4 m
+Draught: 4.38 m
+Number of Decks: 1
+
+PROPULSION
+Warp Engine Fuel: Artificial Singularity feeding 2 Warp Drive Nacelles
+Impulse Drive: 1
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.6
+
+COMPLEMENT
+Officer Crew: 2
+Enlisted Crew: 5
+
+DISRUPTORS
+Ship: 6
+
+PHOTON TORPEDOES
+Tubes: 2
+
+Reference: The Best of Both Worlds
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Armada, www.activision.com, @2000 2002 Activision
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

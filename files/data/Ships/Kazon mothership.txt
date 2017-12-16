@@ -1,0 +1,24 @@
+CLASS: Predator
+TYPE: carrier
+
+Huge Trabe mothership vessel used by the Trabe and various Kazon sects, equipped with a tractor beam and apparently employing ion propulsion, judging by the detectable ion trail left in its wake. This huge Kazon vessel dwarfs Voyager in size. Culluh's Carrier-type vessel has a tow emitter and is armed with photonic charges. As with all Kazon tactics, their ships are used as raiders to plunder their prey.
+One was destroyed by Chakotay's kamikaze use of his Maquis fighter. Another was used by the Nistrim during the successful attack on Voyager. In a malfunction-created holodeck delusion experienced by the holographic doctor aboard the U.S.S. Voyager, that crew came under attack by two Predator-class Kazon warships in 2372. 
+
+PROPULSION
+Warp Engine Fuel: Matter/Antimatter
+
+VELOCITY
+Normal Cruising Speed: 6*
+Max Cruising Speed: 8*
+* observed
+
+TRANSPORTERS
+Personnel Transporters: none
+
+REPLICATORS: none
+
+Reference: Caretaker, Basic, Alliance, Projections
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

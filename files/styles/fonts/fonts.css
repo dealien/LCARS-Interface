@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'lcars1';
+    src: url('lcars_font_v1.woff2') format('woff2'), url('lcars_font_v1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lcars2';
+    src: url('lcars_font_v2.woff2') format('woff2'), url('lcars_font_v2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

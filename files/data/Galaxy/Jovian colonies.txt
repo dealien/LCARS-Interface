@@ -1,0 +1,11 @@
+LOCATION: Jovian colonies
+PLANET: Jupiter
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Colonies in the Sol System whose unification was studied by Academician Sradek. The Jovian colonies are a collection of colonies spread out amongst the moons and stations around Jupiter; including Io, Europa, Ganymede, and others.
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

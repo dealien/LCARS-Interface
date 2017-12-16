@@ -1,0 +1,8 @@
+TECHNOLOGY: phase buffer
+
+This component of the sensor array in Galaxy-class starships is located in the Jefferies tubes. Misalignment of phase buffers can decrease system efficiency, which is particularly important when traveling in areas containing heavy interference, such as the Hekaras Corridor. 
+
+Reference: Force of Nature 
+Information provided by:
+The Continuum, www.satrtrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

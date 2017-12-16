@@ -1,0 +1,10 @@
+SHUTTLECRAFT: 
+TYPE: 6
+REGISTRY: NCC-1701-D-4
+
+An Enterprise craft, its name unspecified, that must clear the Romulan science ship before Data and Worf's shuttle can go there during its post-explosion repairs. 
+
+Reference: The Next Phase 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+

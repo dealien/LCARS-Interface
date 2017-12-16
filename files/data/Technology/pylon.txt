@@ -1,0 +1,10 @@
+TECHNOLOGY: pylon
+
+One of the large extended docking ports on station Deep Space Nine. The station is equipped with 6 pylons, in pairs of three for upper and lower in perspective to the station's main axis. The three are equally spaced around the circular docking ring of the station and are designed to accommodate larger starships that dock with the station compared to those ships that can attach with the other docking ports around the ring. The pylons are also equipped with ore processing equipment including the transfer tools for loading and unloading the cargo to the large freighters transporting it.
+Lower pylon 1 was evacuated in 2369 when a subspace rupture was imminent. Jem'Hadar forces destroyed upper pylon 3 during a surprise raid.
+
+Reference: If Wishes Were Horses
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

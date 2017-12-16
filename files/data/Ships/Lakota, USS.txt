@@ -1,0 +1,12 @@
+SHIPS: Lakota, U.S.S.
+CLASS: Excelsior II
+REGISTRY: NCC-42768
+
+Commanded by Captain Erika Benteen during the Changeling invasion scare on Earth in 2372. It ferried Captain Benjamin Sisko, Jake Sisko, and Constable Odo there from Deep Space Nine and later became an accessory to Admiral Leyton's martial law plot. Before suffering 24 dead in the ill-fated attack on the Defiant, it was used to relay transporters when the worldwide power grid went out on Earth; despite the outage, every Starfleet officer on the planet could be called by relay communicator and transporter within 12 hours. It was in for a weapons and warp drive refit during the weeks it was at Earth, when it received quantum torpedoes. 
+
+Reference: Homefront 
+Named for the Native American nation, and an impressive peak in South Dakota near the city of Hermosa. The Lakota was a re-use of the modified Excelsior-class Enterprise-B model used in Generations.
+Information provided by:
+The Continuum, www.starstrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek.
+

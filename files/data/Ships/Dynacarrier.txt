@@ -1,0 +1,10 @@
+SHIP CLASS: Dynacarrier
+TYPE: naval vessel
+
+Class of cargo vessel used on Earth oceans.  
+
+Reference: Best Destiny
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

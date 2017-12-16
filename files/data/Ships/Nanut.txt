@@ -1,0 +1,9 @@
+SHIPS: Nanut
+TYPE: freighter
+
+A Tygarian freighter, size and class unspecified, but large enough to be docked at DS9's Upper Pylon 2. It was ready to depart the station for a two-year stay in the Gamma Quadrant on stardate 47000. Its first officer, Romah Doek, reported reluctant hero Li Nalas stowing away on his ship before its departure. 
+
+Reference: The Homecoming 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

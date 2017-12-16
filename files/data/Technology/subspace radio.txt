@@ -1,0 +1,9 @@
+TECHNOLOGY: subspace radio
+
+Method of communication that sends electromagnetic signals through subspace, boosting the signal's range and speed to translight velocities. Subspace signals can carry audiovisual data as well as text messages. Within Federation boundaries, a network of relay stations augments subspace communication and amplifying and rerouting messages as needed.
+The Echo-class satellites were the first distant-deployed amplifiers set out by Starfleet. With the assistance of the relay stations to boost the signal, radio transmissions are able to travel through subspace at a speed of warp 9.9999, also known as warp 14.
+
+Reference: Aquiel, Silent Enemy
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

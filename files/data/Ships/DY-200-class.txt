@@ -1,0 +1,8 @@
+CLASS: DY-200
+TYPE: transport
+
+An upgraded version of the DY-100-class ship, containing larger cargo holds and a more aerodynamic design.
+
+Reference: 
+Information provided by:
+

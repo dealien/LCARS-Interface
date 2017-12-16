@@ -1,0 +1,10 @@
+CLASS: Dial
+TYPE: light cruiser
+
+Vulcan starships that perform diplomatic missions throughout the Federation and into neighboring space. 
+Like all Vulcan cruisers, these vessels are built with a radial warp engine; a circular nacelle that surrounds the ship. The nacelle is connected to the main fuselage at its ventral side by a cone shaped column. Within the column is the main engineering section of the craft which includes the matter/ anti-matter injection chamber. On the aft side of the cone are the impulse engines and their fusion reactors. In this section are all the fuel tanks and pods. At the top of the cone, just below the connection to the main hull, at the foremost point, is the main deflector dish.
+The main hull is long and cylindrical. It is suspended directly in the middle of the radial warp nacelle by the coned engineering decks. The bow contains many of the science decks and sensor pallets. Aft of that, position above the engineering hull, is the main bridge. Aft are the crew sections that includes: galley, quarters, rec facilities (meditation chambers), library, sickbay, and other such facilities. Farthest aft is the ship's large cargo bays and mooring points.
+
+Reference: pon-farr
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

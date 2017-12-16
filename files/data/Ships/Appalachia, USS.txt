@@ -1,0 +1,13 @@
+SHIPS: Appalachia, U.S.S.
+CLASS: Steamrunner
+REGISTRY: NCC-52136
+
+This was one of the ships defending Sector 001 against the Borg invasion of 2373.
+ 
+Reference: Star Trek: First Contact 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+
+

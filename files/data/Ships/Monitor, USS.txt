@@ -1,0 +1,10 @@
+SHIPS: Monitor, U.S.S.
+CLASS: Nebula
+REGISTRY: NCC-61826
+
+One of the two starships diverted to the Nelvana area during the tensions of stardate 43463.7, in response to defecting Romulan Admiral Jarok's story of a planned secret invasion. 
+
+Reference: The Defector 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

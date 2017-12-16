@@ -1,0 +1,21 @@
+SHIPS: Vostok-1
+TYPE: orbiter
+
+Production base: United Soviet Socialist Republic
+Commissioned: 1961	Decommissioned:	Expected life:
+
+DIMENSIONS:
+
+ACCOMODATIONS:
+
+PROPULSION:
+
+COMPUTER SYSTEMS:
+
+ARMAMENT:
+
+This orbiting spacecraft was the vessel that carried the first Terran into space. The craft orbited for 108 minutes, for one Earth revolution, at an apogee of 302.3 kilometers and a perigee of 176.3 kilometers. This historic first kept Russia in the lead in the “space race” between the planetary super-powers.
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

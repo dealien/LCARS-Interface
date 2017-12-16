@@ -1,0 +1,8 @@
+CLASS: Romulan
+TYPE: transport
+
+A colonizing transport carrying personnel, cargo, technology, and supplies for starting or expanding terraforming and traditional colonization efforts of the Romulan Star Empire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

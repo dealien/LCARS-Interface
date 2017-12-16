@@ -1,0 +1,13 @@
+CLASS: Ajax
+TYPE:
+
+U.S.S. Ajax, NX-
+
+DIMENSIONS:
+LENGTH: 112 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia, @1999 Bernd Schneider
+
+

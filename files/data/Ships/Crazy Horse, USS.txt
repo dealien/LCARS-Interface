@@ -1,0 +1,14 @@
+SHIPS: U.S.S. Crazy Horse
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NCC-50446
+
+A Federation starship under the command of Captain Enzo Rudolfini. Commander Elizabeth Wu served on the Crazy Horse for many years, three of them as head of security, before being transferred onto the U.S.S. Stargazer. Other crewmembers were T'lar, Omalayak and Mecir.
+The ship was assigned as a member of task force 3 under Captain Jean-Luc Picard's indirect command to respond to an anticipated Borg invasion circa 2369. The next year, the Galaxy-class U.S.S. Enterprise received orders to proceed to a rendezvous with the Crazy Horse on a mission to retrieve Admiral Erik Pressman to search for the U.S.S. Pegasus. The starship was named for one of the most important Indian leaders at the Battle of Little Bighorn in 1876, the Oglala Sioux chief. 
+
+Reference: Descent, Gauntlet, Progenitor
+In the books it was referred to as a Cheyenne-class starship.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

@@ -1,0 +1,26 @@
+CLASS: Byrne
+TYPE: medical frigate
+
+This second generation hospital ship was a big boost to humanitarian aid for aliens as well as a necessary support tool for Terran exploration and expansion.
+
+Commissioned: 2127
+Decommissioned: 2165
+
+DIMENSIONS:
+Length:	290 meters
+Weight:	100,519 tons
+
+ACCOMODATIONS:
+Crewmen:	850
+
+PROPULSION:
+Second generation warp drive
+
+COMPUTER SYSTEMS:
+
+ARMAMENT:
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

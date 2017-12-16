@@ -1,0 +1,53 @@
+SHIPS: battle cruiser prototype
+
+During the Romulan War, the United Earth Space Probe Agency ordered this battlecruiser prototype built and feasibly tested in 2114. However, the ship proved tremendously unwieldy and never entered active service. It was deemed unsuccessful in 2115. Its failure to perform to specifications was a major reason why both the Horizon-class and the Marshall-class enjoyed such an extended commissioned period.
+Another version was created but never successfully implemented. 
+
+DIMENSIONS:
+Length:	312 meters
+Beam:		196 meters
+Draught:	95.6 meters
+Weight:	245 million kilograms
+
+ACCOMODATIONS:
+Officers:	7 (captain, lieutenant, science, engineer, navigator, communicator, medical)
+Ensigns:	6
+Crewmen:	362
+
+PROPULSION:
+Second generation warp drive
+Range:	1,700 light years
+Velocity
+Cruising:	Warp 3.5 (49.2c)
+Maximum:	Warp 3.9 (59.3c)
+
+ARMAMENT:
+2 main forward lasers
+2 secondary forward lasers
+4 flank lasers
+4 forward particle beam cannons
+4 rear particle beam cannons
+8 forward fusion torpedo tubes
+8 rear torpedo tubes
+
+
+
+PROTOTYPE 2:
+Commissioned: 2158
+Decommissioned: 2160
+
+DIMENSIONS:
+Length:	312 meters
+Weight:	271,000 tons
+
+ACCOMODATIONS:
+Crewmen:	375
+
+PROPULSION:
+Advanced third generation warp drive
+
+
+Reference: Spaceflight Chronology
+Some references to the UFP have been changed to the U.E.S.P.A. since canon sources have indicated that the Federation wasn’t founded until after this ship went through its trials.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan &, Fred Goldstein, Rick Sternbach

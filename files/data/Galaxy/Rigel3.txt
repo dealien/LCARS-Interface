@@ -1,0 +1,10 @@
+PLANET: Rigel III
+SYSTEM: Rigel
+SECTOR:
+QUADRANT: Alpha
+
+Visited by Ven Kaldarren. 
+
+Reference:	 Well of Souls
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S

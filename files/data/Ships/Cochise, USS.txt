@@ -1,0 +1,11 @@
+SHIPS: U.S.S. Cochise
+CLASS: Constellation
+TYPE: Medium cruiser
+REGISTRY:
+
+Federation Starship. In 2333, it was commanded by Captain Denton Greenbriar. As it turned out, the ship was defending the White Wolf. In the fight with the U.S.S. Stargazer, the Cochise’s navigational deflector was damaged. As a result, the ship’s radar system was destroyed, rendering it blind.  Probably named after a chief of the Chiricahua Apaches who fought bitterly against the destruction and death caused by the U.S. Army and settlers.    
+
+Reference: Gauntlet 
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,11 @@
+SHUTTLECRAFT: Fermi
+TYPE: 6
+REGISTRY: NCC-1701-D-09
+
+Shuttle carrying Picard, Guinan, Ro and Keiko O'Brien when they were reverted to children in 2369 amid a molecular reversion field. 
+
+Reference: Rascals 
+It was named for Enrico Fermi of 20th Century Earth, who developed the first nuclear fission reactor. 
+Information provided by:
+The Continuum, www.startrek.com, @2002, 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

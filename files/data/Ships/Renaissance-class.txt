@@ -1,0 +1,15 @@
+CLASS: Renaissance
+TYPE: medium cruiser
+
+Type of Federation starship and variant of the Constellation-class. The U.S.S. Aries and U.S.S. Hornet were of this class. In 2365, William Riker was offered command of the Aries. 
+
+SHIPS OF THE LINE:
+U.S.S. Renaissance, NX-
+U.S.S. Aries, NCC-
+U.S.S. Hornet, NCC-
+
+Reference: The Icarus Factor, Redemption
+Named for te period in European history when civilization as we know it had a dramatic rebirth, or renaissance. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

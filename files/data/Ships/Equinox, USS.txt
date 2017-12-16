@@ -1,0 +1,15 @@
+SHIPS: Equinox, U.S.S.
+CLASS: Nova
+TYPE: science vessel
+REGISTRY: NCC-72381
+
+A science vessel designed for short-term planetary research missions; outfitted with minimal weapons; maximum speed Warp 8. Commanded by Captain Rudolph Ransom; first officer, Lt. Maxwell Burke. Original crew complement, 78. 
+The Equinox was teleported to the Delta Quadrant by the Caretaker, a fate which would later be shared by the U.S.S. Voyager. During its first week of being stranded 70,000 light-years from home, Equinox lost half its crew - 39 people - in territorial clashes with the Krowtonan Guard, because Captain Ransom would not circumvent their borders and add six years to his ship's journey toward the Alpha Quadrant. 
+That, plus other encounters with unfriendly aliens, left the ship in shambles and the crew without food. Equinox limped to an M-class planet inhabited by the Ankari, who welcomed the crew and provided supplies. The Ankari also introduced the Equinox crew to their "spirits of good fortune," which were really nucleogenic lifeforms from an interspatial realm. Ransom's people realized these lifeforms were emitting high levels of antimatter, and during an experiment to study them, accidentally allowed one to die. The ship's Emergency Medical Hologram (EMH) found a way to convert the lifeform's cell structures into a crystalline compound that would harness its nucleogenic energy into a significant source of power. 
+The ship's engineers redesigned the warp core to take advantage of this power source. However, they needed much more of the crystalline compound to make a significant difference in their speed (10 isograms would increase warp factor by only .03 percent for one month). Captain Ransom, therefore, cited Starfleet Regulation 3, paragraph 12 - "In the event of imminent destruction, a Captain is authorized to preserve the lives of his crew by any justifiable means" - as a rationalization to capture and kill more of the nucleogenic lifeforms in order to boost propulsion. Dozens were required. Ransom even deleted the EMH's ethical subroutines to ensure his cooperation. The result was, the Equinox travelled over 10,000 light-years in less than two weeks. 
+Unfortunately for Ransom and his crew, the lifeforms fought back viciously, and more crewmen were lost. The ship was near destruction when Voyager responded to Ransom's distress signal. After determining that Captain Janeway and her crew would not share their sense of desperation and justification, Ransom and his remaining crewmembers conspired to rob Voyager of a field generator and continue on with their genocidal journey home. Voyager tracked them down, however, and in a tense battle, disabled the Equinox. Ransom, in a last-minute change of heart, effected Voyager's victory and navigated the Equinox to a safe distance where it exploded. 
+The five surviving Equinox crew members - beamed aboard Voyager by Ransom during battle - took crew positions on Voyager but were stripped of rank by Captain Janeway, and assigned limited privileges and close supervision. 
+
+Reference: Equinox
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

@@ -1,0 +1,13 @@
+STATE: Kihai
+PLANET: Remus
+SYSTEM: Romii
+SECTOR:
+QUADRANT: Beta
+
+Nation on Remus settled by the Adepts of T'Pel.
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

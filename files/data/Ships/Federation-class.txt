@@ -1,0 +1,13 @@
+CLASS: Federation
+TYPE: fighter
+
+A warp capable fighter used by the United Federation of Planets and the Starfleet in the late 2200s.
+
+SHIPS OF THE LINE:
+U.S.S. Federation, NX-
+
+Reference: Star Trek Australia, Starfleet Command
+Information provided by:
+Starfleet Command, www.activision.com, Activision
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+

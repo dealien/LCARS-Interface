@@ -1,0 +1,15 @@
+STATIONS: Romulan trading post
+
+An economic facility constructed into military compounds to allow the armed forces to interact with trade vessels to acquire needed supplies from non-Romulan sources.
+
+STATIONS OF THIS TYPE:
+Andia
+Baur
+Cernus
+D'draluis
+Rutantius
+Trasalian
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

@@ -1,0 +1,15 @@
+STATION: Iceland Public Databank
+CITY: Reyjavik
+STATE: Iceland
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Computer facility on Earth during the 2000s. Legendary for its role in the development of synthetic consciousnesses.  In the 2150s a conscious probeshipmind backed itself up into the databank and then thrust itself into the Sun. An examination of the backup showed that it, while possessing all the information of original, was not conscious. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

@@ -1,0 +1,14 @@
+SHIPS: Constantinople, U.S.S.
+CLASS: Istanbul
+REGISTRY: NCC-34852
+
+A Starfleet transport ship of 2,012 crew and settlers.
+In 2365 the ship suffered a hull breach near Gravesworld. Its distress signal forced the Enterprise-D to leave only an away team to assist Dr. Ira Graves with his health emergency. 
+
+Named for the Turkish city also known as Istanbul.
+
+Reference: The Schizoid Man 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

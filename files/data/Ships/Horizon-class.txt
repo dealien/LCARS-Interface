@@ -1,0 +1,51 @@
+CLASS: Horizon
+TYPE: cruiser
+
+The Horizon was one of the most important ships and classes in spaceflight history. The flagship for early United Earth Space Probe Agency space exploration, the U.N.S.S. Horizon journeyed to the edge of the galaxy, encountering many new worlds in its numerous voyages. At the end of its commissioned life, it was retired to Starfleet’s Spaceflight Museum on Memory Alpha.
+This starship class served as the testbed for Impulse drive systems and those engines were used as auxiliary systems. Numerous modifications would be made but the prototypes proved workable. The ship was made to last longer with the new metal/ceramic alloy developed and used in its superstructure which gave it greater strength at less weight than previous materials.
+
+Notable ships of this line:
+U.N.S.S. Horizon
+U.N.S.S. Garibaldi
+
+Commissioned: 2093
+Decommissioned: 2140
+
+DIMENSIONS:
+Length: 	280 meters
+Beam:		136.5 meters
+Draught:	57.8 meters
+Weight:	38.5 million kilograms
+
+ACCOMODATIONS:
+Officers:	7 (captain, lieutenant, science, engineer, medical, navigator, communicator)
+Ensigns:	5
+Crewmen:	212
+
+PROPULSION:
+Second generation warp drive
+Range
+Standard:	150 light years
+Maximum:	500 light years
+Velocity
+Cruising:	Warp 3 (27c)
+Maximum:	Warp 3.25 (34.3c)
+Impulse Drive
+
+COMPUTER SYSTEMS:
+Celestial warp reading navigation
+
+ARMAMENT:
+4 forward lasers
+4 forward lasers added during Romulan War
+2 particle beam cannons
+4 particle beam cannons added during Romulan War
+50 fusion torpedoes
+200 fusion torpedoes added during Romulan War
+
+Reference: Spaceflight Chronology
+The craft was originally declared to be the first vessel commissioned by the United Federation of Planets, but canon sources defined the association to be conceived in 2161; 70 years later. So all references to U.S.S. were changed to U.N.S.S. and Starfleet and U.F.P. were changed to United Earth Space Probe Agency.
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan &, Fred Goldstein, Rick Sternbach
+
+

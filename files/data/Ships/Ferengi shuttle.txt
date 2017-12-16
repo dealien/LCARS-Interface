@@ -1,0 +1,8 @@
+SHIPS: Ferengi trader
+TYPE: transport
+
+Ferengi craft involved in commercial pursuits. In 2369, one such vessel was mistakenly identified as a Borg ship. 
+
+Reference: Descent
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

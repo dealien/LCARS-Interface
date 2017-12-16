@@ -1,0 +1,11 @@
+PLANET: Danter
+SYSTEM:
+SECTOR: 221H
+QUADRANT: Alpha
+
+Homeworld of the Danteri near the former Thallonian Empire.
+
+Reference: House of Cards 
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+

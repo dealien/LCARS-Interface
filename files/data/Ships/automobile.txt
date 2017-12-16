@@ -1,0 +1,14 @@
+TYPE: Automobile
+
+A type of ground vehicle using an internal combustion engine.
+
+Vessels of this type include:
+1950 Ford Pickup truck
+1957 Chevy
+
+Reference: The 37s, 
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rich Sternbach, Doug Drexler
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+

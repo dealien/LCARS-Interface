@@ -1,0 +1,13 @@
+SHIPS: U.S.S. Excelsior,
+CLASS: Excelsior
+TYPE: heavy cruiser
+REGISTRY: NX-2000, NCC-2000
+
+Federation starship. Commander Michael Paris served on the ship for some time before transferring onto the U.S.S. Agamemnon. In 2333, Rachel Garrett was the ship's second officer.  
+The ship was created as a testbed for the Federation’s attempt to find a workable transwarp engine. It was originally commanded by Captain Styles. He was replaced by Captain Hikaru Sulu and assigned to Beta Quadrant mapping.
+
+Reference: Serpents Among the Ruins, Progenitor	
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

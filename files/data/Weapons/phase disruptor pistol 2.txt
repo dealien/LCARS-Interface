@@ -1,0 +1,12 @@
+WEAPONS: Phase disruptor 
+
+A directed-energy weapon used by Klingon and Romulan warriors. 
+The physics behind the disruptor involves the creation of a particle stream in which the total energy field per particle is so high that it cannot be contained for more than a few milliseconds. The field rapidly unwinds, and the instability releases the contained energy, disrupting any matter the beam contact. The main components include a long-term capacitance power cell, forced-energy particle generator, triply redundant waveguide and accelerator stage, and beam emitter. Various models are available from hand held pistols, to rifles, and ship and station mounted versions. Like all directed-energy weaponry, they are neutralized by tetryon particles. Lieutenant Jadzia Dax demonstrated this to even the odds of the Blood Oath quartet against the Albino's enclave, while their Bird-Of-Prey was in a low orbit.
+The total measurable charge in the pistol is 1.2 x 10^7 megajoules.
+The second generation of pistol that Starfleet came across in use by Klingons was able to be disassembled into small pieces and incorporated into the warriors uniform. On several occasions captured Klingon warriors were able to assemble their weapon in an effort to free themselves from holding. The current issue pistol also doubles as a rifle unit when a shoulder stock is included, making it more powerful.
+
+Reference: 
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

@@ -1,0 +1,8 @@
+SHIPS: Kradin
+TYPE: fighter
+
+An offensive vessel in use by the aggressive Kradin race. These craft were notorious for attacking Vori citizens.
+
+Reference: Nemesis
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

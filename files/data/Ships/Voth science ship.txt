@@ -1,0 +1,10 @@
+SHIPS: Professor Gegen’s vessel
+TYPE: science vessel 
+
+A relatively small craft used by the Voth to travel away from their city ship to conduct research and observation. One such vessel, used by Professor Forra Gegen, followed the U.S.S. Voyager after the scientists onboard made a connection between the Voth people and Terrans based on DNA similarities. The ship was able to cloak to avoid detection by Voyager’s sensors and was able to use its transporters to send a team to the Federation starship undetected. The ship was equipped with transwarp drive.
+ 
+Reference: Distant Origin
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Gilso’s Star Trek Schematics, Gerard.g@ntlworld.com, Gerard Gillan
+

@@ -1,0 +1,9 @@
+SHIPS: Klingon repair tug
+TYPE: frigate
+
+An escort vessel used by fleets and convoys of Klingon ships to repair allied ships and stations.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision
+

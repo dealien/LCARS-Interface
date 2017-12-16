@@ -1,0 +1,101 @@
+CLASS: K`Vort
+TYPE: light cruiser
+
+A larger variety of the Klingon bird-of-prey ships, also seen in the alternate timeline of the 20-year war with the Federation. These are the latest, largest and most powerful of their birds-of-prey.
+In some cases these ships have been able to defeat a Galaxy-class starship. Two K'Vort-class ships finished off the alternate U.S.S. Enterprise-D after a third was destroyed while the U.S.S. Enterprise-C sliped back through a temporal rift. 
+
+SHIPS OF THE LINE:
+I.K.S. Retarran
+
+DISPLACEMENT
+Light: 1,575,000 MT
+Standard: 1,890,000 MT
+Full: 2,124,000 MT
+Cargo Capacity: 143,000 MT
+
+DIMENSIONS
+Length: 678.36 m
+Beam: 780.62 m
+Draught: 423.72 m
+Number of Decks: 22
+
+PROPULSION
+Warp Drive: Linear Intermix M/ARA feeding 2 SUO7 Dilitium-Conversion Linear Graph Units
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 2 Hydrogen Energy Impulse Units
+Impulse Engine Fuel: Hydrogen
+Fuel Replenishment: Bussard Scoop
+Maneuvering Thrusters: "Hach Te" Pulsed Laser
+
+VELOCITY
+Normal Cruising Speed: Warp 6
+Max Cruising Speed: Warp 9.6
+
+ACCELERATION
+Rest-Onset Critical Momentum: 1.54 sec
+Onset Critical Momentum-Warp Engage: .10 sec
+Warp 1-Warp 3: .12 sec
+Warp 3-Warp 6: .11 sec
+Warp 6-Warp 9: .17 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 175
+Time Between Resupply: 10 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 226
+Enlisted Crew: 1274
+Troops: 750
+Evacuation Capacity: 7,000
+
+EMBARKED CRAFT
+Total: 4
+
+NAVIGATION
+System: "Cha-Blinge" Vector And Tensor Analysis Unit
+
+COMPUTERS
+Type: "Ka-Me" FTL Central Information Unit
+
+SENSORS
+High Resolution Long Range Max Effective Range: 3 ly
+Medium to Low Resolution Effective Range: 14 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 50,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+GRAVITIC DISRUPTORS:
+Ship: 4 (Force 131) "Krazin Me" Type
+
+PHOTON TORPEDOES
+Tubes: 1 ((Fore (Force 598) Aft (Force 473)) "S Maltak" Type
+Max Torpedo Simultaneous Spread: 6
+
+DEFENSE
+Shields: "Bemtak" Deflector Plating And Field Generation System
+Fire Control: "Kormek Dok-Cha" Tactical System
+Cloaking: "Remat Do" Cloaking Generator
+
+TRANSPORTERS
+Personnel Transporters: 6
+Emergency Transporters: 3
+Troop Transporters: 6
+Cargo Transporters: 4
+
+Reference: Yesterday's Enterprise
+All versions of the Klingon Bird-of-prey were represented by the same photographic miniature, originally built for The Search for Spock.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+
+
+
+

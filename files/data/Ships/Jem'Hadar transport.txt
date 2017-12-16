@@ -1,0 +1,8 @@
+SHIPS: Jem'Hadar
+TYPE: transport
+
+Used by the rebel Jem'Hadar to attack Deep Space Nine in 2372. In this attack they blew up one of the station's docking pylons.
+
+Reference: To the Death
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios

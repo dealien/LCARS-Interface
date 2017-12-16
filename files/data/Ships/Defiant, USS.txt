@@ -1,0 +1,12 @@
+SHIPS: U.S.S. Defiant
+CLASS: Defiant
+TYPE: destroyer
+REGISTRY: Nx-74205
+
+Its overpowered impulse engines, designed to give it a maximum maneuverability in close-range battles, had an unfortunate tendency to outrun its inertia dampers.
+In an alternate timeline, the Defiant was thrown back in time after it passed through the Wormhole. There it met the enemies of the Furies, the Unclean. The ship was damaged badly, the crew wounded or killed. Only Dr. Bashir and the Dax symbiont survived the battle. 
+
+Reference: Time’s Enemy  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2007 Deb J S
+

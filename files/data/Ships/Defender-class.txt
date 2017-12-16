@@ -1,0 +1,8 @@
+SHIP CLASS: Defender
+
+Type of Sarkassian Starship designed for combat.
+
+Reference: 
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

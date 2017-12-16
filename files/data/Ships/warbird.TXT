@@ -1,0 +1,22 @@
+SHIPS: warbird
+
+A generic designation for the large warships used by the Romulan Star Empire.
+The D'deridex-class is the largest and most powerful of Romulan spacecraft, first detected in late 2364 by the Federation in the first Romulan meeting in 53 years. Nearly twice the length overall of a Galaxy-class Federation starship, this vessel used an artificial quantum singularity to power its warp-drive system. Decks are lettered and sections numbered; some quarters are on C deck; Launch Bay 3 is on Deck E, Section 25. It carries at least three shuttlecraft areas, known as "Launching Bays." Even through a cloak, warp signature may be detected at speeds above warp 6. 
+The C7 & C9 starships were the prominent force in the Romulan fleet in the early 2300s. A large vessel, nearly the same size as an Ambassador-class starship. It featured the double- hulled design that has become indicative of the Romulan design. It was the last of the fleet to feature the saucer controlled bridge.
+Early Romulan craft were developed around a large saucer that contained the majority of starship controls. At its head was the bridge, and its aft, the engineering sections. The saucer had a squared off aft section where the impulse engines were installed as well as shuttle bay hangar doors. Adjacent to each side of the saucer were the "wings" that supported the warp nacelles. Each nacelle was supported by a dorsal and ventral support arm, typical of the double-hulled design of Romulan technology. This double hull is necessary for the force created by the artificial singularity which powers its energy systems. A new feature of the C series warbirds were the forward armament sections. This series craft added two long hulls that tapered out from the saucer and jutted forward of the craft, leaving a wide gap in between them. The two sections looked much like a fork in the front of the craft. Numerous disruptors, torpedo launchers, tractor emitters, and other defensive tools were fitted to these arms and made the ships very effective since the energy emitters were able to be kept away from the disruption of the warp field.
+
+Reference: pon-farr
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+SHIPS OF THIS TYPE:
+D’deridex-class
+
+Reference: The Neutral Zone, Nemesis 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

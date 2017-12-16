@@ -1,0 +1,11 @@
+STATIONS: 
+TYPE: starbase
+
+Several Klingon designs for starbases. One such class is the Ejyowaw.
+
+Reference: Star Trek Australia, Armada
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges
+Armada, www.activision.com, @2000 2002 Activision
+
+

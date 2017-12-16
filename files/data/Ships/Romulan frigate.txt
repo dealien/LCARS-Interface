@@ -1,0 +1,8 @@
+CLASS: Romulan
+TYPE: frigate
+
+A teamwork vessel assisting fleets of warships in the Romulan Star Empire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

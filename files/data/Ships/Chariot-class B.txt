@@ -1,0 +1,19 @@
+CLASS: Chariot
+TYPE: transport, cargo tug
+
+Commissioned: 2197
+
+DIMENSIONS:
+Length:	165 meters
+Weight:	45,500 tons
+
+ACCOMODATIONS:
+Crewmen:	24
+
+PROPULSION:
+Fourth generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

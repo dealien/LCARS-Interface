@@ -1,0 +1,8 @@
+STATIONS: Tholian
+TYPE: command center
+
+One of the principle fortresses within the Tholian Assembly.
+
+Reference: Star Trek Australia
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges

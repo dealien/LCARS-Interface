@@ -1,0 +1,12 @@
+SHIPS: U.S.S. Excalibur
+CLASS: Constitution
+TYPE: heavy cruiser
+REGISTRY: NCC-1664
+
+Federation Starship.  Daniel Paris served on the Excalibur before becoming Admiral James T. Kirk's assistant.      
+
+Reference: Progenitor
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

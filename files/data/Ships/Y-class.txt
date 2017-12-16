@@ -1,0 +1,11 @@
+CLASS: Y
+TYPE: freighter
+
+An early Terran design for interplanetary shipping. Many of these vessels were bought and used by civilian trade companies to traverse the distances between worlds to bring trade goods back and forth. Travel times between worlds could last many months, even years to complete an entire run.
+Y-class ships were built with an upsidedown Y shape; a main fuselage with lower, outward extending warp nacelles. These ships had a long narrow fuselage extend behind the main craft to which were connected cargo modules. These modules could be disconnected if necessary.
+One such vessel was the S.S. Fortunate, under the command of Captain Keene and first officer Matthew Ryan.
+
+Reference: Fortunate Son
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+

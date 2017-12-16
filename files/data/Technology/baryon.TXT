@@ -1,0 +1,10 @@
+CHEMISTRY: baryon
+ 
+Class of the heaviest particles. Include neutrons, protons and the heavier, unstable hyperons: the lambda, sigma, xi, and omega particles. The antiparticles of this class are termed antibaryons. Baryons consist of three quarks and interact through the strong force, which holds atomic nuclei together. The law of conservation of baryons states that for any interaction of elementary particles, the sum of baryon numbers remains unchanged. Federation starships must periodically undergo "Baryon Sweeps" at facilities such as the Remmler Array to clear them of contamination. 
+
+Reference:
+Information provided by:
+Daystrom Institute of Technology Library, www.ditl.org, 1998 Graham Kennedy
+
+
+

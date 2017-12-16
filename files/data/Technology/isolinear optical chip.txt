@@ -1,0 +1,14 @@
+TECHNOLOGY: isolinear optical storage device
+
+Information storage and processing media used aboard starships circa 2329, and in general usage since around 2349. Different media types include chips and rods and can be composed of different materials by different races. The chips are composed of a linear memory crystal material. Cardassians used rods made from an orange colored material that does not allow for access speeds as fast as the clear material used by Federation equipment. These devices are often labeled with color-coded bands to indicate the types of systems they apply to, and labeling to indicate the specific programming included on the device. Cardassian rods are colored white if they contain data related to engineering systems. Red labels apply to library and information storage systems.
+The chips are often mounted in wall racks containing dozens or hundreds of the devices. Isolinear chips replaced the duotronic system previously in use on Federation starships. Chips and rods are also used for removeable memory in tricorders and PADDs, altering the primary function of a device simply and efficiently. 
+Isolinear co-processors are also available allowing for the division of duties between processors increasing computing speed. On Deep Space Nine in 2369, Neela sabotaged a coprocessor in Security by adding a subspace device to it that disabled the Promenade's weapon detectors. Neela was therefore able to bring a phaser to the Promenade in her assassination attempt on Vedek Bareil. 
+In 2367, while under Romulan mind control, Chief Engineer La Forge altered several chips to covertly beam weapons via cargo transporter to the planet Krios, and to erase all record of the beaming afterward. Quark owns a number of unauthorized rods containing programs than enable him to defeat computer security measures and access restricted data on station Deep Space Nine.
+
+Reference: The Naked Now, Relics, The Mind's Eye, The Forsaken, Past Prologue, In the Hands of the Prophets, Shadowplay
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+
+

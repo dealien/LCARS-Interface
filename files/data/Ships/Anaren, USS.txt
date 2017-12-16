@@ -1,0 +1,8 @@
+SHIPS: Anaren, U.S.S.
+CLASS: Nebula
+TYPE: medium cruiser
+
+Reference:
+This was submitted from a random website and is based on fan fiction.
+Information provided by:
+

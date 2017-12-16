@@ -1,0 +1,15 @@
+SHIPS: Enterprise-B, U.S.S.
+CLASS: Excelsior II
+TYPE: heavy cruiser
+REGISTRY: NCC-1701-B
+
+The third Federation starship to bear the name U.S.S. Enterprise. 
+During her maiden voyage under Captain Harriman, the starship received a distress call from two El-Aurian transport vessels caught in a strange, mysterious energy ribbon. Kirk, on board as an honored guest, assisted in the rescue and in freeing the Enterprise, now caught in the temporal field. He is successful, but as the Enterprise pulls away, the ribbon suddenly strikes the starship, tearing a large gash through the hull and leaving only debris where Kirk was working, and making appear as though he were dead. 
+One of the ships rescued in the attempt was the S.S. Lakul. From that ship the Enterprise was able to rescue 47 passengers; including Guinan and Dr. Tolian Soren.
+
+Reference: Generations 
+The Enterprise-B miniature was a modification of the Excelsior model, originally designed by Bill George for The Search For Spock. The Enterprise-B modifications were designed by John Eaves under the supervision of production designer Herman Zimmerman. The dedication plaque on the Enterprise-B bridge suggested that the ship had been launched on stardate 9715. We don't know when (or how) the Enterprise- was retired or destroyed, but it had to have happened well before the destruction of the Enterprise-C in 2344.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

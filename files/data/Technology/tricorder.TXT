@@ -1,0 +1,10 @@
+TECHNOLOGY: tricorders
+
+The standard Starfleet Tricorder is a portable sensing, computing, and data communications device which is issued to away teams. It uses essentially the same components available on a Starship's science station, though in a vastly compressed format. It's primary function is to collect and process as much initial data from an unknown planet as quickly and as efficiently as possible. The tricorder will sense the 3 primary components that make up a planet - Geological, Meteorological, and Biological. The tricorder is then capable of researching each item individually in greater depth at the request of the user. 
+The tricorder consists of many of the components that make up a communicator, and allows the tricorder to upload all it's data to it's parent Starship after the proper upload routine has been input.
+
+Reference: The Cage
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

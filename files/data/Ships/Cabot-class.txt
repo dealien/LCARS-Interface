@@ -1,0 +1,43 @@
+CLASS: Cabot
+TYPE: transport
+
+The ships of this class functioned as a portable refinery, traveling among remote star systems and bases to process a wide range of raw materials, from ore to oil, diamonds to dilithium. With low-warp capability and itineraries extending to the furthest reaches of the known galaxy, the crews of these trawlers would not see home for up to a decade at a time.
+
+Commissioned: 2178
+Decommissioned: 2205
+
+DIMENSIONS:
+Length:	161 meters
+Beam:		67.3 meters
+Draught:	43.5 meters
+Weight:	38 million kilograms
+Command/ Living Section
+Length:	46 meters
+Beam:		49 meters
+Draught:	20.4 meters
+Refining Section
+Length:	70.4 meters
+Beam:		49 meters
+Draught:	40 meters
+Side Shuttle Bays
+Length:	27.5 meters
+Diameter:	10 meters
+Nacelles
+Length:	46 meters
+Diameter:	12.4 meters
+
+ACCOMODATIONS:
+Officers:	3 (captain, lieutenant, engineer)
+Crewmen:	22
+
+PROPULSION:
+Second generation warp drive
+Range:	1,500 light years
+Velocity
+Empty:	Warp 3.5
+Loaded:	Warp 2.5
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

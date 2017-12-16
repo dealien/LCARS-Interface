@@ -1,0 +1,14 @@
+SHIPS: Ulysses, U.S.S.
+CLASS: Nebula
+REGISTRY: NCC-66808
+
+Commanded by Captain Entebe. Starship studying protoplanetary masses in the Helaspont Nebula ca. SD 48962.5 - the closest ship to the Defiant and an apparent Tzenkethi attack on Barisa Prime. The attack was later found to be a Founder-engineered ruse. 
+
+CREW MANIFEST:
+Captain: Entebe
+
+Reference: The Adversary 
+Its name honors the hero of Greek mythology, the king of Ithaca, and a leader of the Greeks in the Trojan War.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

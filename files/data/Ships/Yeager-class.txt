@@ -1,0 +1,8 @@
+SHIPS: Yeager-class
+TYPE: light cruiser
+
+A variant of the Intrepid-class. Built from scraps and incompleted hull fragments, this class of vessel was quickly assembled during the Dominion War to try to efficiently get flyable craft into service to support the war effort. These ships began as Intrepid-class cruisers but were finished off with hulls from other vessels to complete the missing sections. This was a VERY limited run, obviously, since it was subjected to available parts and necessity, not a planned design.
+
+Reference:
+The name of this ship is conjectural, but one was seen flying around Deep Space Nine, and it was featured in the DS9 Tech Manual.
+Information provided by:

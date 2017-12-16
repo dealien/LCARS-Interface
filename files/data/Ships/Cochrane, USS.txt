@@ -1,0 +1,9 @@
+SHIPS: Cochrane, U.S.S.
+CLASS: Oberth
+
+The ship that escorted Admiral Satie to the U.S.S. Enterprise for a security breach investigation on stardate 44769.2. The ship also transported Dr. Julian Bashir to Deep Space Nine. Named for the discoverer of warp drive, Zefram Cochrane. 
+
+Reference: Conundrum, Emissary
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios, Paramount Pictures
+

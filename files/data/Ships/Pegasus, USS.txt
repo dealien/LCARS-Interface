@@ -1,0 +1,11 @@
+SHIPS: Pegasus, U.S.S.
+CLASS: Oberth
+REGISTRY: NCC-53847
+
+A starship used as a testbed for many of the features that went into the design of the Galaxy-class starships. It was Commander Riker's first assignment as an idealistic ensign under then-Captain Pressman. Those two and only seven others fled into escape pods in 2358 when the ship was lost - although a faked story of a core breach covered the fact that it had been a failed test of a covertly developed phasing cloak outlawed by the Treaty of Algeron from 2310, with the knowledge of some in Starfleet Intelligence. Those responsible were court-martialed once the secret was revealed when the ship was rediscovered years later in the Devolin system on stardate 47457.1. 
+
+Reference: The Pegasus 
+The vessel was named for Greek mythology's famous winged Horse who is supposed to have sprung from the severed neck of Medusa. 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

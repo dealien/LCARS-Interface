@@ -1,0 +1,8 @@
+PROBE: Wells-series
+
+This second generation probe series launched 15 units from Luna in the early 2030s. The series had a four-fold increase in effective range and a ten-fold improvement in data gathering and analyzing capability over earlier Stellar-series. They also employed a significant increase in the use of artificial intelligence in their computer circuitry, enabling them to make much more complex decisions on their own, sending back whatever pictures and data they deemed important.
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

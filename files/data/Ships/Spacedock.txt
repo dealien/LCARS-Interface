@@ -1,0 +1,10 @@
+STATIONS: Spacedock
+
+Spacedock is a massive, orbital facility, providing starships with many service facilities. Starships can dock for crew transfers and/or put in for repairs. 
+In 2285, the U.S.S. Enterprise returned to Spacedock following the battle with Khan Noonien Singh in the Mutara Nebula. At the time, the ship was scheduled to be scrapped, but Kirk stole Enterprise from Spacedock in an effort to rescue Spock.
+Also stationed at Spacedock at that time was the NX-2000 Excelsior, undergoing tests of its experimental transwarp drive.
+Reference: The Search for Spock, The Voyage Home, The Undiscovered Country
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+
+

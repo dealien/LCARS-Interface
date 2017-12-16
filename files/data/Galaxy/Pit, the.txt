@@ -1,0 +1,11 @@
+STATE: The Pit
+PLANET: Xenex
+SYSTEM:
+SECTOR: 221H
+QUADRANT: Alpha
+
+An area of Xenex roughly 30 miles across, known for its inhospitable clime- unpredictable weather, dust storms, and torrential rain followed by scorching drought, among other horrors- and its vicious local fauna. The Pit also is regarded by some local dwellers too have supernatural overtones, and it sometimes is referred to as a rift in reality or as a nexus for multiple realities. Until recently, it was the destination for a Xenexian coming-of-age ritual known as the “Search for Allways.”
+
+Reference: House of Cards
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack

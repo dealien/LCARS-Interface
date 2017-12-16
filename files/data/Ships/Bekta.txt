@@ -1,0 +1,10 @@
+SHIPS: Bekta, I.K.S.
+CLASS: Qeh'Ral
+TYPE: heavy cruiser
+
+This vessel was the flagship for Captain Bekta who commanded many missions against the Cardassians. This ship was named for him. 
+
+Reference: Armada
+Information provided by:
+Star Trek Armada, www.activision.com, @2002 Activision
+

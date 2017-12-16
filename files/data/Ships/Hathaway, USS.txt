@@ -1,0 +1,15 @@
+SHIPS: Hathaway, U.S.S.
+CLASS: Constellation-II
+REGISTRY: NCC-2593
+
+Timeline:
+2285: Commissioned by Yoyodyne Propulsion Systems at the Copernicus Ships yards, Luna
+2365: Assigned to wargames tactical simulations in the Braslota system. One of the teams to use the ship for this new purpose included Commander William Riker and a set of officers from the U.S.S. Enterprise-D. In that episode a Ferengi Marauder witnessed the events and tried to rescue the clearly outmatched cruiser in hopes of being able to exploit Federation secrets. Riker was able to return the warp engines to use, enough to perform the Picard maneuver, in an attempt to halt the Ferengi interference. Warp power was achieved despite attempts to disable the warp systems, by an experiment of Wesley Crusher's.
+
+Reference: Peak Performance 
+The designation of this ship being a Constellation II-class is conjectural but done in an attempt to explain why this starship had a different interior than the Stargazer previously seen.
+The interior of the Hathaway bridge was a re-dress of the Enterprise-D battle bridge, although the control panels and display graphics employed movie-style designs from the Enterprise-A. The Hathaway miniature was a re-dress of the Stargazer built for The Battle. The Starship Hathaway may have been named for Anne Hathaway, the woman who married William Shakespeare. The dedication plaque on the Hathaway bridge carried a notation indicating the creation data.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

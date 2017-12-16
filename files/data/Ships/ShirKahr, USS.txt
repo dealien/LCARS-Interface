@@ -1,0 +1,9 @@
+SHIPS: ShirKahr, U.S.S.
+CLASS: Miranda
+REGISTRY: NCC-31905
+
+The ShirKahr was destroyed in 2374 during the Federation/Dominion battle for the Chin'toka System. 
+
+Reference: Tears of the Prophets 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

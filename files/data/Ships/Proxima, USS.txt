@@ -1,0 +1,11 @@
+SHIPS: Proxima, U.S.S.
+CLASS: Nebula
+REGISTRY: NCC-61952
+
+The Proxima disappeared in the Gamma Quadrant at some point before 2371. It is presumed The Dominion had something to do with its disappearance. 
+
+Reference: In Purgatory's Shadow 
+Named for Proxima Centauri, a star 4.3 light years from Earth.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

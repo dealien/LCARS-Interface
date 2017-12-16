@@ -1,0 +1,11 @@
+SHIPS: Tolstoy, U.S.S.
+CLASS: Rigel
+REGISTRY: NCC-62095
+
+A starship visually recognized by Shelby among the 39 destroyed by the Borg at Wolf 359. 
+
+Reference: The Best of Both Worlds
+The Tolstoy was named for the Russian author Leo Tolstoy, who wrote “War and Peace.”
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda

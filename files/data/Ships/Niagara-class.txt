@@ -1,0 +1,16 @@
+CLASS: Niagara
+TYPE:
+
+SHIPS OF THIS LINE:
+U.S.S. Niagara, NX-
+U.S.S. Princeton, NCC-
+U.S.S. Wellington, NCC-
+
+Type of Federation starship. 
+
+Reference: Ensign Ro 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

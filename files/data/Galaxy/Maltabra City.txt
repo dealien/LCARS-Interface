@@ -1,0 +1,13 @@
+CITY: Maltabra
+PLANET: Fartius Prime
+SYSTEM:
+SECTOR:
+QUADRANT: 
+
+Location of the central bazaar.
+
+Reference: Well of Souls
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

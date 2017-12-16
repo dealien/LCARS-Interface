@@ -1,0 +1,11 @@
+PLANET: Argellius II
+SYSTEM: Ciatella
+SECTOR: Tau Ceti
+QUADRANT: Beta
+
+Home to a small mill that does exquisite cross-stitching.  Garak obtains his fabric from this mill. 
+
+Reference: Fall of Terok Nor  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

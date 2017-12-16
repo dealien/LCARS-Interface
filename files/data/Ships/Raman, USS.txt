@@ -1,0 +1,12 @@
+SHIPS: Raman, U.S.S.
+CLASS: Oberth
+REGISTRY: NCC-59983
+
+Federation science vessel.
+In 2370, the Raman's seven person crew was killed by subspace life-forms inhabiting the atmosphere of Marijne VII. The U.S.S. Enterprise-D responded to a distress call, but was too late to save them. 
+
+Reference: Interface 
+Named for the Nobel-prize winning physicist, Sir Chandrasekhara Venkata Raman.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

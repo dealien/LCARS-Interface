@@ -1,0 +1,7 @@
+STATIONS: Klingon sensor array
+
+An unmanned long range sensor platform in use by the Klingon Defense Force. These stations track anamolies and ships over distances farther than other vessels and stations. These stations are capable of using tachyon detection to scan for cloaked vessels.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision

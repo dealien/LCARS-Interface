@@ -1,0 +1,10 @@
+SHIPS: Sanction
+TYPE: transport
+
+An Oranaran vessel under the command of T'Jon. It traveled a trade route between Brekka and Ornara carrying the narcotic felicium. On one mission it lost orbit and disintegrated above the planet Brekka due to a drive coil malfunction. While the problem was minimal, however, the Ornarans were ignorant of the technology necessary to fix the problem. 
+
+Reference: Symbiosis 
+The Sanction was a modification of the Batris from "Heart of Glory" which in turn was built from a Visitors' freighter from the miniseries V. It would appear that it was a popular design for ships in the galaxy.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

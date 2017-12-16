@@ -1,0 +1,7 @@
+STATIONS: Atom-class
+
+The Federation designation for a Borg sensor platform. These automated stations have spinning radials around a processing nucleus. The Borg are believed to have adapted tachyon detection technology to be included into their stations.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision

@@ -1,0 +1,20 @@
+CLASS: Doppler
+TYPE: scout
+
+Commissioned: 2105
+Decommissioned: 2125
+
+DIMENSIONS:
+Length:	150 meters
+Weight:	4,100 tons
+
+ACCOMODATIONS:
+Crewmen:	50
+
+PROPULSION:
+Second generation warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

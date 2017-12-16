@@ -1,0 +1,17 @@
+SHIPS: holoship
+TYPE: transport
+
+A type of transport completely filled with holographic emitters for the purpose of being a giant freestanding holodeck in space. One particular ship was equipped with a cloaking device.
+The uses of the craft were many. These ships could be taken to locations where several starships were congregated in an attempt to allow their crews shore leave. Other uses have included large convention halls for negotiations, transporting zoological animals, and for unique cases of observational study.
+Admiral Matthew Doughtery used one of these mobile holographic simulators in 2375. Doughtery was attempting to control the Ba'ku homeworld by creating a simulation of their village and kidnapping them. 
+
+Dimensions:
+
+Systems:
+Transporters: 14
+
+Reference: Star Trek: Insurrection 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

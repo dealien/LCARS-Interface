@@ -1,0 +1,12 @@
+CLASS: Vladivostok
+TYPE:
+
+U.S.S. Vladivostok, NX-
+
+DIMENSIONS:
+LENGTH: 154 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

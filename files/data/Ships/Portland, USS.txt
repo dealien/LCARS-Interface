@@ -1,0 +1,10 @@
+SHIPS: Portland, U.S.S.
+CLASS: Chimera
+REGISTRY: NCC-57418
+
+A starship sent in addition to a Cardassian cruiser to look for Odo and Garak's missing Runabout along the United Federation of Planets-Cardassian border in the Algira Sector. 
+
+Reference: The Die Is Cast 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

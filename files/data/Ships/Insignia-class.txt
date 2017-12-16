@@ -1,0 +1,254 @@
+CLASS: Insignia
+TYPE: Medium-cruiser
+
+SHIPS OF THE LINE: 
+U.S.S. Insignia, NX-
+U.S.S. Gallant, NCC-
+U.S.S. Hunter, NCC-
+U.S.S. Pioneer, NCC-75453
+
+Commissioned: Stardate 51012.5
+Construction Site: Southampton Fleet Yards, Orbiting Earth
+Design Life: 100 years 
+
+1.1 PROPULSION 
+-Matter/Antimatter Reaction propulsion, 7th interphase sequencing
+-Variable Warp Field Geometry [static hull]
+-Sustainable Warp Cruise Speed: Warp 9.983
+-Emergency Speed: Warp 9.995 for up to 6 hours
+-Maximum Impulse Standard Speed: .30c
+-Emergency Speed: .80c 
+
+1.2 ENVIRONMENT 
+-Crew Complement: 230 officers
+-Able to sustain up to 600 crew
+-H-N Class environment sustainable:
+-H class environment: Sustainable for 80 persons maximum
+-K class environment: Sustainable for 75 persons maximum
+-L class environment: Sustainable for 70 persons maximum
+-M class environment: Sustainable indefinitely at any locale of the ship
+-N class environment: Sustainable for 20 persons maximum (only in Shuttlebay) 
+
+1.3 COMPUTER SYSTEMS
+-LCARS interface program matrix (version beta-A3)
+-Integrates bioneural circuitry of the computer core via biolinear gel disks.
+-One main core (decks 4-10)
+-One secondary redundant core (Fore section of decks 12-18)
+-Software/Hardware design:
+-Biolinear circutry
+-Bio-neural gel packs (phase beta-2)
+-Biolinear gel disks
+-Maximum storage capacity: 3,110,412 kiloquads 
+
+2.0 TACTICAL
+2.1 SHIELDS 
+-Primary energy dissipation rate: 90,500 kW/m
+-Maximum continuous output 4100 MW/s
+-Peak momentary load: 170 ms
+-MW per generator: 56,000 MW
+-Full redundancy
+-Auxiliary shield systems: 76% of primary
+-10 field generators (three on deck 7, three on deck 11, three on deck 18) 
+
+2.2 PHASERS 
+-Type XI (comparison: 115% power of standard type X)
+-Dorsal and Ventral Saucer Arrays: 22,500 MW maximum output
+-Other arrays (6,100 MW maximum output):
+-Engineering aft
+-Engineering port
+-Engineering starboard
+-16 phaser banks about the hull of the ship 
+
+2.3 TORPEDOES 
+-Torpedo types: Standard Quantum torpedoes, auxilliary Photon Torpedoes
+-Additional: 10 experimental tertrenon torpedoes
+-Five launchers: 3 fore, 2 aft (quantum & photon torpedoes)
+-Tertrenon torpedoes are launched from the forward torpedo launcher
+-Complements:
+-250 torpedo warheads overall
+-200 quantum torpedoes, 150 launch ready, 50 stored
+-40 photon torpedoes, 30 launch ready, 10 stored
+-10 experimental tertrenon torpedoes, stored 
+
+2.4 OTHER 
+-Shield Demodulation Pulse 1 emitter, main deflector array dish
+-1 emitter, main deflector array dish
+7-35,000 AW (Anti-watts) maximum output
+78-can disrupt 2900 MW shield energy per blast (approx 3.2 hits per ship for full shield failure) 
+
+3.0 NAVIGATIONAL DEFLECTOR 
+-Four redundant high-power graviton polarity source generators, Deck 13 
+
+3.1 SENSORS
+3.1A LONG RANGE 
+-Location: behind main deflector dish, Decks 12-18
+-High-resolution mode 
+-Maximum range: 7 light years
+-Low-resolution mode
+-Maximum range: 20 light years
+-Relay sensor pod
+-Warp 9.5 capable for 20 minutes
+78-Maximum range: 75 light years
+78-Sustainable of 4 probes on board 
+-Primary instruments:
+-Wide-angle active EM scanner
+-Narrow-angle active EM scanner
+-Pinpoint active EM scanner
+-2.0 meter diameter gamma ray telescope
+-Variable frequency EM flux sensor
+-Lifeform analysis instrument cluster
+-Parametric subspace field stress sensor
+-Gravimetric distortion scanner
+-Passive neutrino imaging scanner
+-Thermal imaging array
+-Proximity sensor array type 10-D 
+
+3.1.B NAVIGATIONAL 
+-Location:
+-Primary array: primary hull
+-Secondary arrays: primary hull, aft, starboard, port, ventral
+-Primary instruments:
+-Quasar telescope
+-Wide-angle IR Source Tracker
+-Narrow-angle IR-UV-Gamma Ray Imager
+-Passive Subspace Multibeacon Receiver
+-Stellar Graviton Detectors
+-High-Energy Charged Particle Detectors
+-Galactic Plasma Wave Cartographic Processor
+-Federation Timebase Beacon Receiver
+-Impulse time-distortion corrector (Verion 14 equation matrix)
+-Stellar Pair Coordinate Imager 
+
+3.1.C LATERAL ARRAYS
+ -location:
+-4 Primary/Coordinating dorsal arrays: decks 4-6
+-Secondary Lateral Arrays (23): throughout Saucer and Engineering sections
+-Composition:  each array consists of six sensor pallets:
+-Pallet #1:
+-Wide-angle EM radiation imaging scanner
+-Quark population analysis counter
+-Z-range particulate spectrometry sensor
+-Pallet #2:
+-High-energy proton spectrometry cluster
+-Gravimetric distortion mapping scanner
+-Pallet #3:
+-Steerable lifeform analysis instrument cluster
+-Pinpoint EM flux sensor
+-Weapons and sensor targeting scanner
+-ACB relay booster array
+-Pallet #4:
+-Active magnetic interferometry scanner
+-Low-frequency EM flux sensor
+-Localized subspace field stress sensor
+-Parametric subspace field stress sensor
+-Hydrogen-filter subspace flux scanner
+-Linear calibration subspace flux sensor
+-Pallet #5:
+-Variable band optical imaging cluster
+-Virtual aperture gravitron flux spectrometer
+-High-resolution graviton flux spectrometer
+-Very low energy graviton spin polarimeter
+-Pallet #6:
+-Passive imaging gamma interferometry sensor
+-Low-level thermal imaging sensor
+-Fixed angle gamma frequency counter
+-Virtual particle mapping camera 
+
+3.1.D OTHER 
+-Ship is equipped with the standard complement of Class I through Class X Probes
+-Probes are launched from the forward lower photon torpedo launcher 
+
+
+4.0 TRANSPORTERS 
+-Four personnel transporters: #1, #2, located on deck 5, #3 located on deck 10, #4 located on deck 14
+-Three cargo transporters: One on deck 4, one on deck 9, one on deck 19
+-Six emergency (one-way transporters): three on Deck 7, three on Deck 15
+-Two mass transporters: #1, deck 7, #2 on deck 18, able to transport 1-30 per beamout/ beamin
+
+5.0 MEDICAL FACILITIES
+-Main Sickbay: Deck 8
+-2 intensive care wards
+-1 surgery suite
+-1 physical therapy ward
+-1 nursery
+-1 null-grav therapy ward
+-1 laboratory
+-CMO's office
+-5 bio beds
+-1 morgue facility (located on deck 9, a small transporter pad is used to transport the occupants)
+-1 alternative physical therapy ward 
+
+6.0 MAIN ENGINEERING 
+-Warp propulsion systems status display
+-Impulse propulsion systems status display
+-Master situation monitor
+-Weapons systems energy allocation console
+-Cloaking device systems status display
+-Power distribution console
+-2 multipurpose command consoles (occupied with bridge functions in emergency situations) 
+-Chief Engineer's Office
+-Duty Engineer's Console
+-Warp core
+-Cloaking Device
+-Access to main Jefferies Tubes junctions
+
+7.0 HOLODECKS 
+-2 large holodecks, Deck 9
+-5 small holographic simulator rooms/suites: Deck 10 
+-Holographic EMH Facilities located in Main Sickbay
+
+8.0 MAIN SHUTTLEBAY
+-Main Shuttlebay: Aft deck 12
+-5 various shuttlepods
+-2 type 8 shuttles
+-2 type 9 shuttles
+-1 type 10 shuttle
+-2 cargo shuttles 
+
+9.0 MAJOR BRIDGE STATIONS
+-Helm
+-Navigation/course plotting
+-Manual navigation
+-Position verification
+-Reaction Control Systems
+-Bridge liaison to Engineering Dept.
+-Flight information imput can take the following forms:-destination planet or star systems, -sector, -spacecraft intercept, -relative bearing, -absolute heading, -galactic coordinates
+-Ops
+-Priority/resource/power allocation
+-General status information
+-Away team coordination
+-Communications Control
+-All ship's sensors control
+-Tactical
+-Shipboard security
+-Starship defense
+-Weapons control
+-Shuttlecraft operations control
+-Science Stations I and II
+-provide realtime scientific data
+-laboratory and sensor coordination
+-sensor recalibration and reconfiguration
+-life support functions
+-Damage Control (usually unmanned in non Red-Alert status)
+-critical life support functions, realtime data feed from damage detection sensors (most operations automatic)
+-damage team resources allocation
+-Evacutaion Control (unmanned except in Red and Blue alert situations
+-Relays evacuation plans to transporter rooms and the shuttlebay
+-Automatically brings all shuttles to full launch status within 5 minutes
+-Performs scan-lock procedures (keeps a lock on each lifeform aboard)
+-Access terminal for initiating self destruct sequence and emergency communiqués
+-Main initiator of evacuation sequence (using escape pods)
+-Engineering (manned at times by Chief Engineer)
+-medium-simplified primary status displays
+-can provide full control of all Engineering systems 
+-Module Alpha: crew facilities, lounges, and quarters
+-Module Beta: science labs and other scientific areas
+-Module Gamma: cargo facilities and storage bays
+-Module Delta: engineering facilities and replicators
+
+Subsequent modules mirror those of Alpha-Delta. The Saucer Center structure contains ship vitalities such as sickbay, the computer core, energy production, and waste management.
+
+Reference: Star Trek Australia
+This starship was created and designed by Mark Kingsnorth.
+Information provided by:
+Star Trek Australia, www.startrekaustralia.com, @2002 Andrew J. Hodges

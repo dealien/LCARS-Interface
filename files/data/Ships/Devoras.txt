@@ -1,0 +1,10 @@
+SHIPS: Devoras, R.S.E.
+CLASS: D'deridex
+TYPE: heavy cruiser
+
+A Romulan Warbird which met the Galaxy-class U.S.S. Enterprise inside the Neutral Zone on stardate 44390.1, ostensibly for the purpose of taking on Federation Ambassador T'Pel for Romulan/Federation treaty negotiations. However, the real purpose was to deliver the covert Romulan agent Subcommander Selok - posing as Ambassador T'Pel - back to the Romulan empire. 
+
+Reference: Data's Day 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

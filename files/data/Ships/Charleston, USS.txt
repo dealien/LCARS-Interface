@@ -1,0 +1,11 @@
+SHIPS: Charleston, U.S.S.
+CLASS: Excelsior
+REGISTRY: NCC-42285
+
+An Earth-bound ship that the Enterprise, out near the Neutral Zone, offers as transport home for its three 20th-century passengers. The trip to Earth will be of several months, though, on top of the Charleston's unexpected delay at Arloff IX. 
+
+Reference: The Neutral Zone 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

@@ -1,0 +1,39 @@
+CLASS: Magellan
+TYPE: transport
+
+Often called a spaceliner, this transport was one of Earth’s early non warp ships used for transporting passengers and colonists within the solar system. Many of the ships served for over 30 years and featured luxury accommodations to satisfy the multiple weeks worth of travel that it took to get to the outer planets from Earth. One of the more notable vessels of this class was the Prince of Wales.
+
+Production base: Earth
+Commissioned: 2040	Decommissioned: 2079 Expected life: 30 years
+
+DIMENSIONS:
+Overall length: 100m
+Overall width: 18.2m
+Overall height: 30.9m
+Overall mass: 2M kg
+Engine section length: 38.2m
+Engine section diameter: 18m
+Passenger section length: 58.2m
+Passenger section diameter: 16m
+
+ACCOMODATIONS:
+3 dining rooms
+2 nightclubs
+1 theater/ auditorium
+1 low-grav gymnasium
+1 rear stellar observatory
+
+PROPULSION:
+Fuel capacity: 1.1M kg
+Cruising velocity: 50km/sec
+Engines: Multi-configured advanced fission
+
+COMPUTER SYSTEMS:
+
+ARMAMENT:
+none
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

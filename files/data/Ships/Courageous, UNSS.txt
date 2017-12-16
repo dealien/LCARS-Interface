@@ -1,0 +1,21 @@
+SHIPS: U.N.S.S. Courageous
+CLASS: Wheeler
+
+This early Earth vessel suffered systems failures that caused them to lose helm and navigation control, thereby sending them on an unstoppable course outside of their solar system. All 62 persons on board were lost when fuel and supplies ran out, leaving the ship to drift in the interstellar void.
+Captain Fitsimmons Wallabee made the following final entry into his log:
+I have before me the Engineering Damage report, and it is, for all intents and purposes, the Courageous’ death certificate. Yesterday, we discovered a shielding flaw in the engine room during a weekly maintenance check, and before we could return to L-5 docking for repair a massive solar flare penetrated into the reaction chamber, with deadly consequences. Because acceleration continues at fatal full throttle, I am at this time dispatching my final log before we lose radio contact with home. Any further communication will be by Record Markers we will leave in our wake.
+We informed the crew of the grimness of our plight, and they’ve all taken the news well- at least as well as could be expected. Helmsman Boyle joked that we’ve broken the solar speed record. And Science Officer Portillo has very thoughtfully explained to us the beautiful effect near light speed has had on the distant star field.
+But there you go. Even under sentence of death, this marvelous crew maintains a sense of humor and scientific rigor. I would like to take this opportunity to recommend them all for the Solar Medal of Honor.
+Navigation has calculated that upon leaving the Solar System the ship won’t pass near any star whatsoever on our helpless path through the Milky Way. The Courageous has become a modern-day Flying Dutchman, doomed to sail powerless to its end at the edge of the galaxy.
+In a final personal note, I want to say farewell to my wife, Margaret, and our children, Robert and George. I love you and will take your memory to my final destination.
+This is the U.N.S.S. Courageous over and out.
+The final engineer’s report was also salvaged and made available from Haddad Koire, engineering officer:
+Today’s massive solar flare penetrated the shielding flaw on the engine room, inflicting the following damage:
+The fiber-optic computer tubes linking the Engineering with Inertial Guidance and Navigation fused, resulting in complete loss of ship control.
+The feed valve to the fission magnetochamber melted, as did the Emergency Shut-down circuit, causing runaway fission reaction.
+Reparative Strategy- Electromagnetic clamps fitted around the field valve have slowed input enough to prevent fission engines from turning critical and initiating a nuclear explosion. Acceleration continues at a steady rate.
+Prognosis- Hopeless. Fuel supply will be exhausted within the hour, well before emergency procedures can have any effect. Acceleration will cease at a final velocity of .86c (2.5 x 10^7 m/sec).
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

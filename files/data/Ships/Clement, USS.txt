@@ -1,0 +1,10 @@
+SHIPS: Clement, U.S.S.
+CLASS: Apollo
+REGISTRY: NCC-12537
+
+The Clement and the U.S.S. Enterprise-D were to rendezvous, but the meeting was canceled because the Enterprise-D was ordered to the Argaya system. 
+
+Reference: Lower Decks 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

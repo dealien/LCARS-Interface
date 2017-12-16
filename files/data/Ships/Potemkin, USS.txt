@@ -1,0 +1,15 @@
+SHIPS: U.S.S. Potemkin
+CLASS: Constitution
+TYPE: Heavy cruiser
+REGISTRY: NCC-1657
+
+One of five ships in 2268 involved in wargames with Richard Daystrom's M-5 multitronic unit. Unlike the U.S.S. Excalibur, the Potemkin survived the diastrous test. This ship served under the command of Captain Tutakai.
+In 2269, shortly after Stardate 5928, the Potemkin was to rendezvous with the U.S.S. Enterprise at Beta Aurigae to study gravitational influences in that binary system, but the Enterprise changed course due to an internal matter involving Captain Kirk and one Janice Lester. 
+Daniel Paris served on the Potemkin until he transferred onto the U.S.S. Excalibur. 
+
+Reference: The Ultimate Computer, Turnabout Intruder, Progenitor, Dreadnought!
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,11 @@
+PLANET: Fireworld
+SYSTEM:
+SECTOR: 221G
+QUADRANT: Alpha
+
+One of the major tourist attractions of Thallonian space, the Fireworld remains a major mystery. It has a surface of constant, unending fire that burns and burns without apparently having any source. No one is certain whether the fire is limited to the surface, or whether the entire planet, right down to its core, is one gigantic ball of flame.
+
+Reference:
+Information provided by:
+New Frontier Minipedia, www.simonsays.com/st, @1998 Pocket Books, Peter David, David Mack
+

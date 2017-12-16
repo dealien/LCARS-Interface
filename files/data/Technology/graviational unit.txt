@@ -1,0 +1,11 @@
+TECHNOLOGY: gravitational unit
+
+Mechanism used to generate artificial gravity aboard starships. Individual units are constructed into networks. By adjusting the amount of force created by the network the units could simulate Earth's gravity, 1G; Luna's gravity, 0.6G; Vulcan's gravity 1.2G, or other worlds. Sometimes adjusting the gravity to .9G "put a spring in one's step." Gravity could be increased and decreased in selected areas, to allow some rooms to remain as zero-G workout facilities for example.
+The unit aboard the Klingon ship Kronos One was disabled as part of the scheme to assassinate Chancellor Gorkon in 2293. Sisko modified the original designs for the Bajoran solar sailer that he built to include a gravitational net so that he and Jake Sisko would not have to experience the ill-effects of weightlessness. Ensign Travis Mayweather preferred the "sweet spot" of a ship, that point where the grav-plating didn't have an effect on him. The personnel quarters assigned to Ensign Melora Pazlar were set with individual controls so that she could adjust the gravity from within the quarters, herself, without having to contact Operations to have them adjust it.
+
+Reference: The Undiscovered Country, Melora, Explorers, Broken Bow
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1993 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

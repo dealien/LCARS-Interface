@@ -1,0 +1,9 @@
+CLASS: Incursion
+TYPE: scout
+
+A rare testbed project of Starfleet's with a ship that is able to mimick the look and sensor readings of other vessels with the use of a new holoprojector technology. This allows the ship to cross enemy lines and scout around without being attacked. When Starfleet and the Borg entered Fluidic space in an attempt to stop the Rift Maker, the U.S.S. Incursion was sent into Species 8472 territory to operate undetected.
+
+Reference: Away Team, Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+Away Team, www.activision.com, Activision

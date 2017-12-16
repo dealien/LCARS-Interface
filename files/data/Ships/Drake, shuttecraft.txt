@@ -1,0 +1,11 @@
+SHUTTLECRAFT: Drake
+TYPE: 8
+REGISTRY: NCC-74656-
+
+A shuttlecraft attached to the U.S.S Voyager. It was destroyed when Ensign Harry Kim encountered a temporal anomaly in 2372, sending him to an alternate reality where he never served on the U.S.S. Voyager. 
+
+Reference: Non Sequitur 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

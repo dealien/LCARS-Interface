@@ -1,0 +1,10 @@
+SHIPS: Varro generational ship
+
+A collection of small, individual ships containing Varro citizens and traveling through the Delta Quadrant. The ship suffered warp drive problems and the U.S.S. Voyager responded to help. During their investigation and repairs they found series of microfractures on the hull of the ship, and their own, resulting from a synthetic silicone-based parasite created by the Varro dissident movement in an attempt to break up the large ship into its original parts. The parasites were predicted to cause decompressive explosions so the dissidents slowed down the parasite's progress long enough to allow the linkages between the individual pods to be evacuated. Voyager extanded its structural integirty field around the ship to give the evacuatees more time to get to their individual vessels before the breakup.
+
+Reference: Disease
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+
+

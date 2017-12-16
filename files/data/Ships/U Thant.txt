@@ -1,0 +1,30 @@
+PROBE: U.N.P. U Thant
+Stellar-series probe
+
+This probe was one of a series of successful spacegoing probes that relayed information back to Earth from the area outside of the Sol System. In 2017 this particular probe detected the presence of antimatter, confirming the theory of its existence. This discovery revolutionized the space travel sciences as it began to make the theory of warp travel possible, and revolutionized the energy sciences by offering a new source of materials from which to generate large amounts of energy.
+Below is the telemetry recorded by U Thant upon its discovery:
+Distance from Pluto: 120.4 A.U.
+Speed: 0.104c
+Elapsed time since Pluto flyby: 14 days
+Distance from Barnard’s Star: 5.162 x 10^13 km
+Time till Barnard’s Star: 2,449 days
+Power system: 25.7% efficiency
+Navigational system: 99.36% accuracy
+Instrumentation: All monitors functioning
+Communication system: Comp-sync laser at 98.1% opt
+Propulsion system: Accepted performance levels
+Interstellar dust readout:
+H 90.7%
+He 8.42%
+H2O .46%
+OH .29%
+Fe .07%
+Ni .05%
+Ca .007%
+Others .003%
+Damage report: Interstellar gas collector ruptured by explosion- cause analysis: matter/antimatter annihilation.
+Priority input- discovery: matter/ antimatter annihilation indicates detectable quantities of antimatter in interstellar void.
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

@@ -1,0 +1,10 @@
+SHIP CLASS: Arco
+TYPE: fighter
+
+A two-person fighter craft carried by Constitution-class starships.  
+
+Reference: Dreadnought!
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

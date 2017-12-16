@@ -1,0 +1,19 @@
+STATIONS: Starbase 1
+
+COMMISSIONED: 2091
+
+DIMENSIONS:
+
+ACCOMODATIONS:
+
+PROPULSION:
+Ion maneuvering thrusters
+
+COMPUTER SYSTEMS:
+
+ARMAMENT:
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach
+

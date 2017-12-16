@@ -1,0 +1,9 @@
+CLASS: Asimov
+TYPE: destroyer
+
+A generation-C destroyer in designed by Starfleet. Presumably named in honor of science fiction author Isaac Asimov.
+
+Reference:
+Information provided by: 
+This was submitted by a random webmaster.
+

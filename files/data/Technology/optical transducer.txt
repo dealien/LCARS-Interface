@@ -1,0 +1,8 @@
+TECHNOLOGY: optical transducer
+
+Part of the VISOR worn by Chief Engineer Geordi La Forge. The transducers receives electromagnetic radiation from the surrounding environment and converts it into a bioelectric signal that the brain can comprehend. When La Forge was injured by a phaser shot in 2369, Dr. Beverly Crusher altered the transducer to reduce his pain by blocking the brain's own pain receptors. 
+
+Reference: Starship Mine 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

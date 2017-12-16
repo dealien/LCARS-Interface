@@ -1,0 +1,11 @@
+SHUTTLECRAFT: Ballard
+CLASS:
+TYPE: 
+REGISTRY: NCC-1701-E-
+
+Federation Shuttle aboard the U.S.S. Enterprise-E. 
+
+Reference: A Time to Sow
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S   
+

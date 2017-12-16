@@ -1,0 +1,98 @@
+CLASS: Defiant
+TYPE: destroyer
+
+An “escort” vessel developed by Starfleet at the Utopia Planitia Yards while Commander Sisko served there. It was one of the numerous efforts designed to repel a Borg invasion.
+The prototype, the U.S.S. Defiant, was assigned to Deep Space Nine in an effort to provide additional strength in case the Jem’Hadar were to ever come through the wormhole and attempt to claim space in the Alpha Quadrant. 
+
+DISPLACEMENT
+Light: 330,000 MT
+Standard: 355,000 MT
+Full: 370,000 MT
+Cargo Capacity: 20,000 MT
+
+DIMENSIONS
+Length: 170.68 m 
+Beam: 134.11 m
+Draught: 30.1 m
+Number of Decks: 4
+
+PROPULSION
+Warp Drive: M/ARA Mark II Quadcore feeding 2 DCN-2 Mod 3 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 1 XLT Fusion Reaction Impulse Unit with Overdrivers Installed
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: Warp 7
+Max Cruising Speed: Warp 9.8
+
+ACCELERATION
+Rest-Onset Critical Momentum: 1.74 sec
+Onset Critical Momentum-Warp Engage: .053 sec
+Warp 1-Warp 3: .047 sec
+Warp 3-Warp 6: .032 sec
+Warp 6-Warp 9: .061 Sec
+
+DURATION
+Expected Lifetime: 30 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 2 months
+Time Between Refit: 1 year
+
+COMPLEMENT
+Officer Crew: 15
+Enlisted Crew: 25
+Civilians/Families: 0
+Evacuation Capacity: 150
+
+EMBARKED CRAFT
+Shuttlepods: 4
+Type 10 Shuttlecraft: 1
+
+NAVIGATION
+"Saber" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk IIB
+Crew Interface Software: LCARS 2.0
+Data Transfer Rate: 4600 Kiloquads/Second
+Number of Dedicated Modules: 1024
+Storage Capacity/Module: 630,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 5 ly
+Medium to Low Resolution Effective Range: 17 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 60,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+PHASERS
+Ship: 4 Type Q Pulse Phaser Cannons
+
+PHOTON/QUANTUM TORPEDOES
+Tubes: 2 Mk 11 Mod 4 Direct
+Max Torpedo Simultaneous Spread: 12
+
+DEFENSE
+Armor: Ablative Hull Plating
+Shields: "Protectori" Primary Force Field and Deflector Control System
+Fire Control: "Talon" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 2
+Emergency Transporters: 1
+Cargo Transporters: 1
+
+Reference: The Search, First Contact
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

@@ -1,0 +1,8 @@
+SHIPS: frigate
+
+An escort vessel used for convoy or fleet missions. These vessels often have dedicated duties and are not typically designed for combat themselves. Common uses for frigates include troop transports, medical ships, science and scout vessels, repair tugs, and vessels with similar benign purposes.
+
+Reference: all episodes of Star Trek
+Information provided by:
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael & Denise Okuda, Rick Sternbach, Doug Drexler
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson

@@ -1,0 +1,15 @@
+REGION: Lunar Freehomes
+MOON: Luna
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Area of the Moon with an accent similar to that of the North American South. 
+
+Reference: Memory Prime
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+
+

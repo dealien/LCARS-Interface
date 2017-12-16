@@ -1,0 +1,17 @@
+SHIPS: Pasteur, U.S.S.
+CLASS: Olympic
+TYPE: medical frigate
+REGISTRY: NCC-58928
+
+"I WILL GIVE NO DEADLY MEDICINE TO ANYONE IF ASKED, NOR SUGGEST ANY SUCH COUNSEL" ~ Hippocratic Oath
+A hospital ship with a distinctive spheroid primary hull
+In a future representation the ship was commanded by Captain Beverly Crusher. Circa stardate 47988.1 - which was destoyed by a core breach after being attacked by two Klingon attack cruisers inside their territory. 
+
+Reference: All Good Things... 
+Its name honors Louis Pasteur (1822-1895), the French chemist who founded the science of modern microbiology, invented the process knows as pasteurization, and developed several vaccines. The Pasteur miniature was deisgned and built by Industrial Light & Magic art director Bill George. An early version of the dedication plaque indicated the Pasteur as being a Hope-class vessel.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1197 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Ex Astris Scientia, www.ex-astris-ascientia.org, @2002 Bernd Schneider
+Gilso Schematics, gerard.g@ntlworld.com, Gerard Gillan
+

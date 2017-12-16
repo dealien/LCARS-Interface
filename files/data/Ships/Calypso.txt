@@ -1,0 +1,11 @@
+SHUTTLECRAFT: Calypso
+TYPE: Captain's Yacht (custom)
+REGISTRY: NCC-1701-D-1
+
+The dedicated ship assigned to the flagship of the Federation.
+
+Reference:
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

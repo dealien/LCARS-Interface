@@ -1,0 +1,11 @@
+REGION: The Gauntlet
+SYSTEM: Lemax
+SECTOR: 221-G
+QUADRANT: Alpha
+
+A region in the Lemax system, between two warring planets in the former Thallonian Empire. The area was infamous as a battlefield, but was silent for centuries after the Thallonians ended the conflict. After the fall of the Thallonian Empire, fighting resumed almost immediately, and the Cambon, a noncombatant vessel transporting Thallonian refugees, became caught in the cross fire.
+
+Reference: Into the Void, The Two Front War
+Information provided by:
+New Frontier Minipedia, www.simonsays.com/st, @1998 Pocket Books, Peter David, David Mack
+

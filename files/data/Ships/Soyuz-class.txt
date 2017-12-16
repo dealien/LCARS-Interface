@@ -1,0 +1,17 @@
+CLASS: Soyuz
+TYPE: Destroyer
+
+An older Starfleet class, a variation of the Miranda-class, that has not been in service since 2288. These ships features a large aft cargo and shuttlebay section, as well as several large outboard sensor pods. 
+The U.S.S. Bozeman's disapearance was only a decade before the line was decommissioned. 
+
+SHIPS OF THE LINE:
+U.S.S. Soyuz, NX-
+U.S.S. Bozeman, NCC-
+
+Reference: Cause and Effect 
+It was originally hoped that a new design could be developed for the Soyuz-class U.S.S. Bozeman, but practical considerations dictated the reworking of the existing Miranda-class U.S.S. Reliant model originally built for "The Wrath of Khan." The modifications were designed by Greg Jein and Mike Okuda. The class was named for the Russian spacecraft that shuttled cosmonauts up to the Salyut and Mir space stations.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+

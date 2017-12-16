@@ -1,0 +1,12 @@
+SHIPS: U.S.S. Enterprise-F
+CLASS:
+TYPE:
+REGISTRY: NCC-1701-F
+
+A Federation starship under the command of Wesley Crusher.
+
+Reference:
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+
+

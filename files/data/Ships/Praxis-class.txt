@@ -1,0 +1,9 @@
+STATIONS: Cha'puj Q'ho-class
+
+A type of Klingon dilithium ore processing station used throughout the empire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000, 2002 Activision
+
+

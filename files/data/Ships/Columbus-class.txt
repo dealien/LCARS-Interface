@@ -1,0 +1,35 @@
+CLASS: Columbus
+TYPE: cruiser
+
+This early Terran vessel design was vastly popular for its ability to travel between systems. Some of the more famous vessels of the period were of this classification, like the Icarus that made First Contact with Alpha Centauri. Though its advanced fusion engines could produce speeds up to .75c, new ships incorporating Zefram Cochrane’s warp principles soon superceded the Columbus-class for interstellar flight. The original Icarus is preserved in the Spaceflight Museum on Luna.
+
+Production base: Earth
+Commissioned: 2040	Decommissioned: 2075 Expected life:
+
+DIMENSIONS:
+120m, 37.2m, 37.2m, 8.6M kg
+
+ACCOMODATIONS:
+Officers: 4 (Captain, Lieutenant, engineer, navigator)
+Crew: 36
+
+PROPULSION:
+Cruising velocity: .75c (800M km/hr)
+Maximum velocity: .85c (907M km/hr)
+Thrust: 1B kg
+Engines: Geodyne Fusion Engine Pack
+Fuel: antimatter-spiked deuterium (50:1 d:a)
+
+COMPUTER SYSTEMS:
+Navigation: Elementary Interstellar Celestial Guidance
+Communications: Laser/ Particle Beam Subcarrier Radiotelemetry
+Processors: Intermediate Independent Thought Memory Scan
+
+ARMAMENT:
+4 forward lasers
+25 fusion torpedoes
+
+Reference:
+Information provided by:
+
+

@@ -1,0 +1,9 @@
+SHIPS: Mintonian sailing ship
+TYPE: water vessel
+
+Guinan imagined the clouds of the FGC-47 nebula to be in the shape of one of these wind-powered ocean crafts. 
+
+Reference: Imaginary Friend 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+

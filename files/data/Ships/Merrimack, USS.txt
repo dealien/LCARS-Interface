@@ -1,0 +1,12 @@
+SHIPS: Merrimack, U.S.S.
+CLASS: Nebula
+TYPE: medium cruiser
+REGISTRY: NCC-61827
+
+A starship that returned Sarek and his party to Vulcan from Legara IV in 2366, became one of the ships in Picard's blockade fleet on the Klingon-Romulan border in 2368, and rendezvoused with the Enterprise soon after stardate 45212.1 to pick up Cadet Crusher for a return trip to Earth. 
+
+Reference: Sarek, The Game, Redemption
+This ship was named in honor of the vessel that became the noted iron-clad warship C.S.S. Virginia, that fought for the Confederacy in the American Civil War. It was featured in an episode next to the U.S.S. Monitor, the nemesis to the Merrimack during the civil war.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

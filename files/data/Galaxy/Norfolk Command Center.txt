@@ -1,0 +1,13 @@
+STATION: Norfolk Command Center
+STATE: Virginia
+PLANET: Earth
+SYSTEM: Sol
+SECTOR: 001 Sol
+QUADRANT: Alpha
+
+Command Center for AeroNav forces located on Norfolk Island. 
+
+Reference: Strangers from the Sky
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

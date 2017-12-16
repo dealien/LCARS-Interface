@@ -1,0 +1,11 @@
+SHIPS: Sherval Das
+TYPE: transport
+
+Valerian transport ship. Its main hull resembled a flat arrowhead, backed by thin, narrow panels set perpendicular to the hull and crossed at its rear. 
+This ship ran a trade route  that took it to planets Fahleena III, Mariah IV, and Ultima Thule. It was initially refused docking permission at Deep Space Nine by Major Major Kira under her suspicion it was still running weapons-grade dolomide to the Cardassians on stardate 46922.3.
+
+Reference: Dramatis Personae 
+Apparently this was a reuse of the Talarian warship model which was used for many other species too.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+Star Trek Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

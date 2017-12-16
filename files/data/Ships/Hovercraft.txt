@@ -1,0 +1,9 @@
+VEHICLE: Hovercraft
+
+A name for a type of vehicle that moves shortly above the ground. Such a vehicle may be supported by forced-air, antigravity (aka repulsors) or other methods. These kinds of vehicles can not actually fly and are limited to two-dimensional movement mirroring the terrain of the ground. These kinds of vehicles are “all terrain” and can traverse land, water, and variations of those without difficulty. 
+These types of vessels were used by the terrestrial Port Authority on Earth.  
+
+Reference: Best Destiny
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

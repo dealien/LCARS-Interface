@@ -1,0 +1,12 @@
+CLASS: Lancelot
+TYPE:
+
+U.S.S. Lancelot, NX-
+
+DIMENSIONS:
+LENGTH: 329 meters
+
+Reference:
+Information provided by:
+Ex Astris Scientia, www.ex-astris-scientia.org, @1999 Bernd Schneider
+

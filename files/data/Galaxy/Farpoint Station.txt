@@ -1,0 +1,12 @@
+STATION: Farpoint Station
+PLANET: Deneb IV
+SYSTEM: Deneb
+SECTOR:
+QUADRANT: Alpha
+
+After a decade of negotiation and construction, the base was finally ready to go online under a joint Bandi/Starfleet administration in late 2374.  Commander Arla Rees was slated for the position of executive officer. 
+
+Reference: Fall of Terok Nor  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2006 Deb J S
+

@@ -1,0 +1,7 @@
+STATIONS: Romulan turrets
+
+Two types on unmanned defense platforms surrounding and protecting Romulan interests. One kind of station is capable of firing disruptor blasts, while the other fires photon torpedoes. Both are shielded to resist return fire.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision

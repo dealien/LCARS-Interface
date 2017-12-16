@@ -1,0 +1,15 @@
+TECHNOLOGY: saucer module
+
+The large, circular command section characteristic of many Federation starships.  It is also known as the Primary Hull. 
+Some starships, such as the Galaxy-class, can seperate the saucer section from the rest of the ship in emergency situations. In these cases the saucer, often the more vulnerable section/ less weaponized section, is assigned the bulk of non-essential crew and dispatched to a safe location while the secondary hull, the battle section, moves into danger to protect the rest of the ship.
+The saucer contains the main bridge, a computer core, impulse engines, the majority of crew quarters, and other services. While the saucer may not house the primarily used locations for sickbay, security, or other typical services, it will always contain room for auxiliary if needed.
+While not equipped with the majority of weapons, the saucers are weaponized. Most saucers are equipped with phasers, and during separated flight they are powered by the impulse drive's fusion reactors. They are also able to vary that weapon to make an impressive light show which is extremely distracting to sensors. One such maneuver was used against the Borg Cube in 2368 to cover the actions of the shuttlecraft that rescued Captain Jean-Luc Picard/ Locutus from the Cube.
+Computer simulations have devised a very specific set of operations for a saucer in the event that it needs to make an emergency landing on a planetary surface.
+
+Reference: Encounter at Farpoint, The Best of Both Worlds, Generations 
+I can't even begin to imagine the pride and joy felt by TNG Tech authors Mike and Rick when they got the chance to put their landing sequence diagram to use in the "Generations" movie. The procedure was considered theorhetical and not canon until put to film.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Star Trek in Sound & Vision, www.stinsv.com, @2003 Dave & Richard
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

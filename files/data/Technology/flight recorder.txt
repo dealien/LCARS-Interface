@@ -1,0 +1,8 @@
+TECHNOLOGY: flight recorder
+
+An automated security log of ship’s activity. The recorder stores data and visual records from critical areas on a ship. It is intended for use by investigators to gather evidence in the event of an accident involving or aboard the ship. Information acquired by the various recorders would be backed up onto a recorder marker, also known as a beacon.
+In 2285, Admiral Kirk and Ambassador Sarek used recorder visual data to determine that Captain Spock had placed his katra into Dr. McCoy. 
+
+Reference: The Search for Spock 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

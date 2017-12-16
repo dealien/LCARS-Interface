@@ -1,0 +1,78 @@
+SHIPS: Titan, U.S.S.
+CLASS: Luna
+REGISTRY: 80102
+
+A new starship under the command of Captain William T Riker. This ship is also staffed by Commander Deanna Troi-Riker, serving as ship's counselor and captain's wife.
+
+
+DIMENSIONS:
+Length:	450m
+
+Crew:	351	(39 Known so far)
+COMMAND CREW					
+Captain	William T. Riker	Commanding Officer	Human	M
+Commander	Christine Vale	Executive Officer	Human	F
+Commander	Deanna Troi	Counselor/Diplomatic Officer	Betazoid/Human	F
+Dr (Cmdr.)	Shenti Yisec Eres Ree	Chief Medical Officer	Pahkwa-thanh	M
+Lt. Cmdr.	Jaza Najem	Science Officer	Bajoran	M
+Lt. Cmdr.	Xin Ra-Hevreii	Chief Engineer	Efrosian	M
+Lt. Cmdr.	Ranul Keru	Tactical/Security Chief	Trill	M
+Lt. Cmdr.	Tuvok	Tactical/Security Chief (Temporary)	Vulcan	M
+Lieutenant	Sariel Rager	Operations Officer	Human	F
+Ensign	Aili Lavena	Helm Officer	Selkie	F
+Lt. Cmdr.	Fo Hachesa	Command Duty Officer (G Shift)	Kobliad	M
+SCIENCE DIVISION					
+Lt. Cmdr.	Jaza Najem	Science Officer	Bajoran	M
+Lieutenant	Melora Pazlar	Stellar Cartography	Elaysian	F
+	Ichi	Science Officer (G Shift)		
+Dr.	Se’al Cethente Qas	Astrophysicist	Syrath	F
+Lieutenant	Eviku	Xenobiologist	Arkenite	M
+Ensign	Kenneth Norellis	Astrobiologist	Human	M
+Chief	Bralik	Civilian Geologist	Ferengi	F
+	Orilly Malar	Exobiology	Irriol	F
+	Kekil	Biologist	Chelon	M
+ENGINEERING DIVISION				
+Lt. Cmdr.	Xin Ra-Hevreii	Chief Engineer	Efrosian	M
+Ensign	Paolo Rossini		Human	M
+Ensign	Koasa Rossini		Human	M
+Ensign	Crandall		Human	M
+	Torvig Bu-Kar-Nguv	Trainee	Choblik (cybern.)	M
+MEDICAL DIVISION					
+Dr (Cmdr.)	Shenti Yisec Eres Ree	Chief Medical Officer	Pahkwa-thanh	M
+Dr.	Onnta		Balosnegan	M
+Lieutenant	Alyssa Ogawa	Head Nurse	Human	F
+	Kershul	Nurse	Edosian	
+Commander	Deanna Troi	Chief Counselor	Betazoid/Human	F
+	Huilan	Counselor	S’ti’ach	M
+		Counselor		
+SECURITY DIVISION					
+Lt. Cmdr.	Ranul Keru	Tactical/Security Chief	Trill	M
+Lt. Cmdr.	Tuvok	Tactical/Security Chief (Temporary)	Vulcan	M
+Lieutenant	Gian Sortollo		Human (Mars)	M
+Lieutenant	Feren Denken		Matalinian	M
+Lt. (j.g.)	T’Lirin		Vulcan	F
+Lt. (j.g.)	Rriarr		Caitian	M
+	Hutchinson		Human	M
+OPERATIONS DIVISION					
+Lieutenant	Sariel Rager	Operations..(A Shift)	Human	F
+Lieutenant	Bowan Radowski	Transporter Chief	Human	M
+Ensign	Aili Lavena	Helm……....(A Shift)	Selkie	F
+Ensign	Olivia Bolaji	Pilot	Human	F
+Ensign	Waen		Bolian	F
+Chief	Axel Bolaji	Helm……....(G Shift)	Human (Australia)	M
+	Savalek		Vulcan	M
+	K’chak’!’op (“Chaka”)	Computer Specialist	Pak’shree (Arach.)	F
+Cadet	Zurin Dakal	Trainee	Cardassian	M
+CIVILIANS						
+	Ebriscentil	Chef	Ktarian	M
+	Scot Bishop-Walker	Bartender	Human (Mars)	M
+	Noah Powell		Human	M
+	Totyarguil Bolaji		Human	M
+Lt. Cmdr.	Nidani Ostiquin Ledrah	Chief Engineer….(Deceased)	Tiburon	F
+
+Reference: Star Trek Nemesis, Titan book series
+This ship was designed by Sean Tourangeau of Colorado Springs, Colorado, US. He won a competition sponsored by Pocket Books that would be featured on the cover and promotions for this series of stories. The judges were Paula M Block, Doug Drexler, Jennifer Heddle, Elisa Kassin, Michael Okuda, Margaret Clark, David Rossi, Edward Schlesinger, Scott Shannon, Rick Sternbach, and John Vac Citters. Other entrants that got honorable mention were Cary L Brown of Schaumburg, Illinois, US; James Corey Dukes of West Columbia, South Caroline, US, and Phillip Ridings of Southaven, Mississippi, US.
+Information provided by:
+The Continuum, www.startrek.com, @2006 CBS Studios
+Titan Book series, www.simonsays.com/st, @2005 Pocket Books
+Treklopedia, @2006 Matt Rudawski

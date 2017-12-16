@@ -1,0 +1,9 @@
+SHIPS: Columbia, U.S.S.
+REGISTRY: NCC-621
+
+Starfleet scout ship.
+
+Reference: The Motion Picture 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

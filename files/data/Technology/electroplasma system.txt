@@ -1,0 +1,14 @@
+TECHNOLOGY: electroplasma 
+
+Also known as EPS or internal power grid. A high energy plasma gas created from fusion and matter/antimatter reactors. The energy is funneled through conduits to its destinations where it will be used to power various systems. The EPS is used by many Alpha and Beta Quadrant species and is considere very common. 
+Primary plasma conduits are used to transfer the largest amount of energy throughout the facility or ship, like those feeding warp nacelles, shielding and weapons, and other energy intense systems.
+Secondary plasma conduits are connected via taps to the primaries to transfer a smaller amount of energy throughout the structure.
+Tertiary, quadrary, and other similat conduits continue to step down the amount of power conveyed for energizing various systems.
+Small quantities of drive plasma can be diverted through EPS taps to generate electricity for use by ship systems. Renegade Jem'Hadar soldiers stole EPS power stabilizers from Deep Space Nine in 2372 to help reactivate the Iconian Gateway found on planet Vandros IV. In 2372 U.S.S. Voyager engineer Lon Suder placed the body of murdered crew member Frank Darwin in an EPS conduit, hoping to vaporize the corpse. Within Cardassian engineering it is referred to as energy distribution net. An explosion of the secondary plasma conduit killed Commander La Forge in an alternate quantum reality.
+
+Reference: A Matter of Time, Parallels, Emissary, The Forsaken, To the Death, Meld
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1993 Pocket Books, Michael Okuda, Rick Sternbach
+DS9 Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler

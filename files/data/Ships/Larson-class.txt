@@ -1,0 +1,7 @@
+CLASS: Larson
+TYPE: scout
+
+An older Starfleet ship design.
+
+Reference:
+Information provided by:

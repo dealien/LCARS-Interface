@@ -1,0 +1,14 @@
+SHIPS: Orinoco, U.S.S.
+CLASS: Danube
+TYPE: runabout
+REGISTRY: NCC-72905
+
+Danube-class runabout first assigned to Deep Space Nine in 2370 to replace the lost U.S.S Yangtze Kiang. Its warp core was sabotaged by the True Way and it exploded some two years later, barely within transporter range of DS9 upon returning from a conference with Sisko, Dax, Kira, Worf and O'Brien aboard. It was replaced by the U.S.S Yukon. The Orinoco had sustained major damage to the navigational array, including the attitude control and manual thrusters, during the Bryma encounter with the Maquis, but was retrieved and repaired in a few days. Kira and Doctor Bashir flew it, with extra photon torpedo banks, with the runabout U.S.S. Mekong and U.S.S. Odyssey against the Jem'Hadar and emerged relatively unscathed, the Odyssey was lost however. 
+
+Reference: The Siege, Invasive Procedures, Shadowplay, Paradise, The Maquis, The Jem'Hadar
+The Orinoco was named after the 2700-kilometer long river in Venezuela.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

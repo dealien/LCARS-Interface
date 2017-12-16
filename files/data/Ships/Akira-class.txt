@@ -1,0 +1,104 @@
+CLASS: Akira
+TYPE: Heavy Cruiser
+
+The Akira was put into production in 2370 to provide offensive strength and support to Starfleet's armada. The Akira has since become an invaluable asset to Starfleet, first by helping repel the Borg offensive of 2373, and later in the Dominion War. Its extensive shielding, maneuverability, and powerful phaser banks make it useful in both offensive and defensive situations.
+The U.S.S. Akira has also been the testbed for a prototype weapon system, the Chain Reaction Pulsar. This devastating weapon draws power from its initial target, then moves to the closest enemy target, drawing even more energy from it. The weapon continues to grow in power until it unleashes its accumulated force on its final target.
+
+U.S.S. Akira
+U.S.S. Thunderchild NCC-63549
+
+Production Base: ASDB Integration Facility, Antares Fleet Yards, Antares IV
+DISPLACEMENT
+Light: 2,925,000 MT
+Standard: 3,055,000 MT
+Full: 3,205,000 MT
+Cargo Capacity: 650,000 MT
+
+DIMENSIONS
+Length: 464.43 m
+Beam: 316.67 m
+Draught: 87.43 m
+Number of Decks: 23
+
+PROPULSION
+Warp Drive: M/ARA Mark II feeding 2 AN-4 Mod 1 Warp Drive Nacelles
+Warp Engine Fuel: Cold Deuterium (matter) / Anti-Hydrogen (antimatter)
+Impulse Drive: 3 LHX Fusion Reaction Impulse Units
+Impulse Engine Fuel: Slush Deuterium
+Fuel Replenishment: Bussard Scoop
+Reaction Control System: Fusion Thrust Units
+
+VELOCITY
+Normal Cruising Speed: warp 7
+Max Cruising Speed: warp 9.2
+Max Emergency speed: warp 9.8
+
+ACCELERATION
+Rest-Onset Critical Momentum: 3.39 sec
+Onset Critical Momentum-Warp Engage: .08 sec
+Warp 1-Warp 3: .11 sec
+Warp 3-Warp 6: .08 sec
+Warp 6-Warp 9: .13 Sec
+
+DURATION
+Expected Lifetime: Estimated 100 Years
+Number of Maintaince/Upgrade Layovers: 200
+Time Between Resupply: 5 Years
+Time Between Refit: 20 Years
+
+COMPLEMENT
+Officer Crew: 75
+Enlisted Crew: 425
+Civilians/Families: 0
+Evacuation Capacity: 4,500
+
+EMBARKED CRAFT
+Total: 4
+
+NAVIGATION
+"Saber" Warp Celestial Guidance
+
+COMPUTERS
+Type: FTL Mk IIB
+Crew Interface Software: LCARS 2.0
+Data Transfer Rate: 4600 Kiloquads/Second
+Number of Dedicated Modules: 1024
+Storage Capacity/Module: 630,000 Kiloquads
+
+SENSORS
+High Resolution Long Range Max Effective Range: 4 ly
+Medium to Low Resolution Effective Range: 15 ly
+
+COMMUNICATIONS
+Intraship Transmissions: Voice & Data
+Personnel Communicator Range: 500 km
+Ship to Ground Range: 38,000 - 60,000 km
+Communications Speed: 18.5 Kiloquads/Second
+Subspace Speed: 9.9997 Warp
+
+ARMAMENT
+6 Type X (5.1 MW)
+2 Mk 11 Mod 4 Direct photon torpedo tubes
+Max Torpedo Simultaneous Spread: 12
+Typical torpedo storage: CLASSIFIED
+
+DEFENSE
+Shields: "Protectori" Primary Force Field and Deflector Control System
+Fire Control: "Talon" Fire Control System
+
+TRANSPORTERS
+Personnel Transporters: 3
+Emergency Transporters: 2
+Cargo Transporters: 1
+
+Reference: Star Trek: First Contact 
+The Akira-class starship was designed by Alex Jaeger at ILM (Industrial Light & Magic). It was rendered as a computer generated visual effect. Named for the animated fantasy film.
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books, Michael Okuda, Rick Sternbach, Doug Drexler
+Armada, www.activision.com, @2000 Activision
+LCARS Communications Network, www.lcarscom.net, @2001, Sean Stephenson
+
+
+

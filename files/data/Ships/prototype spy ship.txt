@@ -1,0 +1,18 @@
+SHIPS: prototype spy ship
+TYPE: scout
+
+This small craft was built secretly in an effort to test stealth technology that proved to be unworkable to most sensor systems in use by many alien races. It was launched in 2117 and decommissioned in 2119 after the two years of testing.
+
+DIMENSIONS:
+Length:	35 meters
+Weight:	80 tons
+
+ACCOMODATIONS:
+Crewmen:	3
+
+PROPULSION:
+Advanced second generation warp dive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

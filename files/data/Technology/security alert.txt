@@ -1,0 +1,14 @@
+TECHNOLOGY: Security alert
+
+Starfleet security procedure put into use when intruders are expected inside a starship. 
+Level 1 calls for all off-duty personnel to return to their quarters, all on duty personnel to stay at their post. Armed security officers are assigned to each deck and assigned into patrol teams. Also known as GQ1, or general quarters one.
+Level 2 calls for armed security personnel to take up positions on each deck usually at stationary posts until trouble is discovered. 
+Level 3 activates motion sensors on each deck and computer alerting to identify unexpected use of certain areas in addition to procedures activated for level four and five security alerts.
+Level 4 uses all level 5 procedures and requires access codes to open doors, preventing unauthorized access.
+Level 5 closes all stay-open doors, disables the automatic-open feature, and requires all users to manually press the door panel to access an area, slowing down the escape or advance of any potential intruders.
+
+Reference: Descent
+Level 2 is canon, the other levels are conjectural.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek

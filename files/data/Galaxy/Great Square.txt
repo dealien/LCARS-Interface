@@ -1,0 +1,12 @@
+LOCATION: Great Square
+CITY: Thal
+PLANET: Thallon
+SYSTEM:
+SECTOR: 221G
+QUADRANT: Alpha
+
+A public square that disintegrated when the Great Bird of the Galaxy hatched.
+
+Reference:
+Information provided by:
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack

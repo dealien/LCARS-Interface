@@ -1,0 +1,11 @@
+CLASS: Garofee
+TYPE: transport
+
+Satarran engineers now developed a wide bodied design for their newer craft. The oval shaped vessel allowed them to transport more cargo and essentials since enemy attacks threatened to starve out colony worlds. 
+These ships were about thirty meters long, five meters tall, and ten meters wide. The lower level of the craft contained landing gear and mooring points for connecting other craft in space.  The majority of the craft was open cargo holds, some with access from the top, some from the bottom. The rear of the craft was equipped with the engineering section and the crew sections. The thrusters were contained within protruding ridges along the aft dorsal hull, while the warp nacelles were along the aft ventral hull. The bridge was contained within a tower along the dorsal rib of the craft, toward the aft section. Mounted to the top of it was a laser cannon turret. Along the sides of the dorsal rib were two torpedo launchers, one on each side of the craft.
+
+Reference: Q Neighbor
+These ships were modeled after the Rebel transports seen in Star Wars: The Empire Strikes Back that helped the good guys escape Hoth.
+Information provided by:
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+

@@ -1,0 +1,8 @@
+STATIONS: Starbase 375
+CLASS: Noah
+GALAXY: Alpha Quadrant, Kalandra Sector
+
+Admiral Ross served at Starbase 375, where he uncovered a major reason for the Dominion's bourgeoning stranglehold on the quadrant: a sensor array, which monitored activity across five sectors. 
+Sisko, following a promotion to the starbase, and thus his subsequent removal from commanding the Defiant, watched Dax lead the ship on a successful mission.
+Later, toward the end of the Dominion War, the Seventh Tactical Wing assembled at Starbase 375.
+

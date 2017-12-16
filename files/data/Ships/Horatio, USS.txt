@@ -1,0 +1,11 @@
+SHIPS: Horatio, U.S.S.
+CLASS: Ambassador
+REGISTRY: NCC-10532
+
+Commanded by Captain Walker Keel. Picard's old friend who arranged the secret meeting of four captains on Dytallix B. The ship imploded as it pulled away from that meeting, cementing Picard's fears that Keel's story of conspiracy within Starfleet was true. 
+
+Reference: Conspiracy 
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

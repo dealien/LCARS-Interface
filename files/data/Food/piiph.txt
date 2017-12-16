@@ -1,0 +1,7 @@
+FOOD: piiph
+
+A classification of fruits with a hard outer shell, a fleshy inner membrane, and several compartments of soft, moist kernels; native to Andor.
+
+Reference: Andorian Dictionary
+Information provided by:
+Andorian Dictionary, http://randyb.byu.edu/alioth/sketch.html, @1990 1996, Spence Hill

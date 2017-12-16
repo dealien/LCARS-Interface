@@ -1,0 +1,36 @@
+CLASS: Yellow Jacket
+TYPE: workbee
+MODEL: MKX-I
+MISSION: Light Short-Range Sublight Shuttle
+
+DISPLACEMENT
+Light: 1.61 MT
+Standard: 1.68 MT
+Full: 1.75 MT
+
+DIMENSIONS
+Length: 4.11 m
+Beam: 1.92 m
+Draught: 1.90 m
+
+POWER PLANT
+Engines: 4 SQA Particle Beam Primary Thrusters
+Reaction Control System: 18 DeFL 657 Hot Gas RCS Thrusters
+Power Supply: 1 Microfusion Power Plant
+
+PERFORMANCE
+Maximum Delta-v 3,250 m/sec
+
+COMPLEMENT
+Crew: 1 (Pilot)
+
+Reference: Emissary, et al Deep Space 9
+The classification of Yellow Jacket is conjectural to help identify the different types of workbees seen in Star Trek.
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+Deep Space Nine Technical Manual, www.simonsays.com/st, @1998 Pocket Books
+LCARS Communications Network, www.lcarscom.net, @2002 Sean Stevenson
+Starfleet Academy, www.geocities.com/starfleet_academy_2373, @2000 Kenn Ferguson
+
+
+

@@ -1,0 +1,17 @@
+SHIPS: U.S.S. Excalibur
+CLASS: Ambassador
+TYPE: Heavy cruiser
+REGISTRY: NCC-26157 (or 26517)
+
+The second starship to bear the name.
+In early 2368 (Stardate 45020.4), the Excalibur was undergoing repairs and crew reassignment when it was hauled out of spacedock to join the blockading fleet along the Klingon-Romulan border. Captain Picard named Commander Riker and Chief Engineer La Forge to serve as its captain and first officer for that mission.
+The starship was later assigned to Captain McKenzie Calhoun to offer humanitarian and diplomatic aide within Sector 221-G after the collapse of the Thallonian government. 
+The Excalibur was destroyed under mysterious conditions while still in Thallonian space. It was replaced in service and duty by a Galaxy-class vessel of the same name and nearly the same registry (NCC-26157-A)
+
+Reference: Redemption, House of Cards, Into the Void, et al New Frontier series book
+The Excalibur was a re-use of the Enterprise-C model. The Continuum states the registry is 26517.
+Information provided by:
+The Continuum, www.startrek.com, @2002 2006 CBS Studios, Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+New Frontier Minipedia, www.simonsays.com, @1998 Pocket Books, Peter David, David Mack
+

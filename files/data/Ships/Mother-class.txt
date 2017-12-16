@@ -1,0 +1,8 @@
+STATIONS: Mother
+
+A biological station in use by Species 8472. These stations are capable of creating active and passive embryos which are mutated by the Species into stations and ships for use in their offensive maneuvers.
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2002 Activision
+

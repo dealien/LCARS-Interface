@@ -1,0 +1,11 @@
+PLANET: Delta Canaris IV
+SYSTEM: Delta Canaris
+SECTOR:
+QUADRANT:
+
+Class Q (high-gravity) planet. Mr. Spock completed preliminary contact with the planet's millimeter-thick intelligent life forms on stardate 4769.1.   
+
+Reference: Mutiny on the Enterprise  
+Information provided by:
+Star Trek Novel Encyclopedia Group, www.stneg.org, @2007 Deb J S
+

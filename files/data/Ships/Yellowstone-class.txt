@@ -1,0 +1,11 @@
+CLASS: Yellowstone
+TYPE: runabout
+REGISTRY: NX-74754
+
+Prototype class for a new tetryon plasma warp nacelles. The starship was based on a Danube-class frame, with modifications made to the ships energy systems to handle the unique properties of the experimental drive. One of the senior members of the design team was Lieutenant Laska. The U.S.S. Yellowstone was registered as NX-74751. This testbed vehicle was stored at Spacedock while the new drive systems were being tested and developed.
+In an alternate reality Ensign Harry Kim and Lieutenant Laska were key members of the design team for this project in 2372. The craft lost antimatter containment and was destroyed when Kim was returning to his own reality.
+
+Reference: Non Sequitur
+Information provided by:
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+

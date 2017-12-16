@@ -1,0 +1,7 @@
+CLASS: Intimidator
+TYPE: heavy cruiser
+
+A variant of the Soveriegn-class, this vessel was upgraded with a third nacelle and a notch in the front of the main saucer to accomodate a highly focused energy weapon.
+
+Reference:
+Information provided by:

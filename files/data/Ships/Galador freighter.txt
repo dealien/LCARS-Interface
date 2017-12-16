@@ -1,0 +1,8 @@
+SHIPS: Galador freighter
+TYPE: freighter
+
+The Maquis kidnappers of Dukat faked their ship's identification as that of a cargo ship of this registry, otherwise undescribed, which supposedly left Deep Space Nine midway through its trade route between Galador II and Farius Prime on the night of the abduction. It was easily found out: the Galadorns had no vessels in the Bajoran sector. 
+
+Reference: The Maquis
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures

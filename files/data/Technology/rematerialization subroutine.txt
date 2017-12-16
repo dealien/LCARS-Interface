@@ -1,0 +1,9 @@
+TECHNOLOGY: rematerialization subroutine
+
+Part of the operating program of a transporter. This subroutine controls the reintegration of transported subjects. In 2295 Captain Scott used a transporter aboard the U.S.S. Jenolen to suspend himself and crewman Matt Franklin alive in suspension within the transporter until rescue arrived. As part of that process Captain Scott disabled the rematerialization subroutine. 
+
+Reference: Relics 
+Information provided by;
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+TNG Technical Manual, www.simonsays.com/st, @1995 Pocket Books, Michael Okuda, Rick Sternbach

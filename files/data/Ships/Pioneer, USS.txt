@@ -1,0 +1,10 @@
+SHIPS: Pioneer, U.S.S.
+CLASS: Insignia
+REGISTRY: NCC-75453
+
+Commissioned: Stardate 51012.5
+Construction Site: Southampton Fleet Yards, Earth
+Design Life: 100 years 
+
+Information provided by:
+Australian Star Trek Zone, www.startrekaustralia.com, @2002 Mark Kingsnorth

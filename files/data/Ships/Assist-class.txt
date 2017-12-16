@@ -1,0 +1,19 @@
+CLASS: Assist
+TYPE: frigate
+
+Commissioned: 2085
+Decommissioned: 2112
+
+DIMENSIONS:
+Length:	98 meters
+Weight:	13,500 tons
+
+ACCOMODATIONS:
+Crewmen:	20
+
+PROPULSION:
+Warp drive
+
+Reference: Spaceflight Chronology
+Information provided by:
+Spaceflight Chronology, www.simonsays.com/st, @1980 Wallaby Books, Stan & Fred Goldstein, Rick Sternbach

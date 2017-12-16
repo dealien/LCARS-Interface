@@ -1,0 +1,11 @@
+SHIPS: Mondor
+TYPE: transport
+
+A Pakled vessel which appeared to be a conglomeration of stolen or borrowed technologies from a wide variety of species, including Romulan, Klingon and Jaradan. The Galaxy-class Starship Enterprise encountered the Mondor near the Scylla Sector on stardate 42779.1, when responding to its call for assistance. Engineer Geordi La Forge had transported to the ship to assist with repairs when the Pakleds promptly yet briefly kidnapped him. 
+
+Reference: Samaritan Snare 
+Information provided by:
+The Continuum, www.startrek.com, @2002 Paramount Pictures
+The Encyclopedia, www.simonsays.com/st, @1997 Pocket Books, Michael & Denise Okuda, Debbie Mirek
+
+

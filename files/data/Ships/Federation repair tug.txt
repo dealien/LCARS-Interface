@@ -1,0 +1,21 @@
+SHIPS: Federation repair tugs
+
+A variety of ships used by the members of the United Federation of Planets for performing repairs of space-borne vessels and stations. These ships include engineering teams, workbees, repair supplies, and tractor beams to lock on and hold a target vessel at a relative distance to prevent impact when the two come close together. These ships often are equipped with tractor beams capable of towing a vessel to a shipyard but not always.
+
+SHIPS OF THE LINE:
+U.S.S. Algol, NCC-
+U.S.S. Arcturus, NCC-
+U.S.S. Bellatrix, NCC-
+U.S.S. Canopus, NCC-
+U.S.S. Chara, NCC-
+U.S.S. Murgim, NCC-
+U.S.S. Nashira, NCC-
+U.S.S. Seginus, NCC-
+U.S.S. Shaula, NCC-
+U.S.S. Subra, NCC-
+U.S.S. Terebellum, NCC-
+
+Reference: Armada
+Information provided by:
+Armada, www.activision.com, @2000 2002 Activision
+

@@ -1,0 +1,9 @@
+CHEMISTRY: proton
+ 
+Along with neutrons, protons make up the nuclei of atoms. Antiprotons have many applications in scanning systems - the Enterprise-D tracked the Crystalline entity by detecting gamma radiation from antiproton decay, and detected antiprotons as a residual trace of Romulan disruptor fire in 2369. The Dominion uses antiproton beams to penetrate cloaking devices. In 2267 the Enterprise fought an alien war machine which fired a beam of absolutely pure antiprotons capable of cutting through an entire planet. Antiprotons can also be used in medical applications; Voyagers EMH used antiprotons to cure Paris of genetic mutations which occurred after his Warp 10 flight. 
+ 
+Reference: 
+Information provided by:
+Daystrom Institute of Technology, www.ditl.org, @1998 Graham Kennedy
+
+
