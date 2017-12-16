@@ -1,6 +1,8 @@
 # LCARS-Database
 A text file reader built in HTML inspired by the [LCARS Terminal project](http://www.lcars-terminal.net/). 
 
+[View it live](http://108.7.47.218:8080/)
+
 [![Build Status](https://travis-ci.org/dealien/LCARS-Database.svg?branch=master)](https://travis-ci.org/dealien/LCARS-Database)
 
 Additional information and resources provided by: 
