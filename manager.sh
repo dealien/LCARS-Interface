@@ -8,7 +8,6 @@ htext="Usage: `basename $0` <command> -- manage the LCARS Database server
         
     `basename $0` (-h|--help)   displays this help text"
 
-echo Beginning of manager script
 if [[ "$1" = "start" ]]; then
     if [[ ! -d logs/ ]]; then
         mkdir logs/
