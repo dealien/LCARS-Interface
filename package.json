@@ -1,14 +1,14 @@
 {
-  "name": "LCARS-Database",
+  "name": "LCARS-Interface",
   "version": "0.0.1",
   "description": "A simple online Star Trek database using an LCARS interface",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dealien/LCARS-Database.git"
+    "url": "https://github.com/dealien/LCARS-Interface.git"
   },
   "author": "dealien",
   "license": "MIT",
-  "homepage": "https://github.com/dealien/LCARS-Database",
+  "homepage": "https://github.com/dealien/LCARS-Interface",
   "devDependencies": {
     "gulp": "^3.6.2",
     "gulp-concat": "^2.2.0",
